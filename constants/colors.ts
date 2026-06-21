@@ -1,0 +1,27 @@
+export const Colors = {
+  primary: '#2563EB',
+  primaryLight: '#DBEAFE',
+  secondary: '#7C3AED',
+  secondaryLight: '#EDE9FE',
+  success: '#16A34A',
+  successLight: '#DCFCE7',
+  warning: '#D97706',
+  warningLight: '#FEF3C7',
+  error: '#DC2626',
+  errorLight: '#FEE2E2',
+  text: '#111827',
+  textSecondary: '#6B7280',
+  textLight: '#9CA3AF',
+  background: '#F9FAFB',
+  card: '#FFFFFF',
+  border: '#E5E7EB',
+  shadow: '#00000015',
+
+  // Dashboard tile colors (matching your screenshot)
+  teachers: { bg: '#DCFCE7', icon: '#16A34A' },
+  parents: { bg: '#DBEAFE', icon: '#2563EB' },
+  students: { bg: '#EDE9FE', icon: '#7C3AED' },
+  classes: { bg: '#FEF3C7', icon: '#D97706' },
+  requests: { bg: '#E0E7FF', icon: '#4F46E5' },
+  revenue: { bg: '#FEF9C3', icon: '#CA8A04' },
+};
