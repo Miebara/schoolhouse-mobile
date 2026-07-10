@@ -139,6 +139,58 @@ the pathogens multiplied. Nigeria ran the same experiment with the immune
 system switched off. The 1990s would supply the laboratory results, and
 they are the subject of the next seven chapters.
 
+## The two fleets
+
+No feature of military-era aviation policy expresses its priorities
+as cleanly as the era's one consistently well-funded fleet. While the
+national carrier cannibalized itself and the navigation aids died,
+the Presidential Air Fleet — the executive aircraft of the head of
+state and his court — was renewed, expanded, and maintained to
+standards the civil system could only describe from memory. By the
+1990s Nigeria operated one of the larger head-of-state fleets on
+earth, a distinction it retains; the fleet's budget lived outside
+meaningful scrutiny, its hangars were the best in the country, and
+its existence answered, better than any document, the question of
+whether the Nigerian state knew how to keep aircraft airworthy. It
+knew. Airworthiness followed power, not capability. The reader
+should treat the Presidential Air Fleet throughout this book as the
+control group: proof, parked in Abuja, that every deficiency in the
+national system was a choice of allocation, not a limit of
+competence.
+
+Below the presidential stratum, the private-airline era produced its
+own aristocracy, and its emblematic figure was Gabriel Igbinedion,
+the Esama of Benin, whose Okada Air — named for his hometown — grew
+by the early 1990s into the largest private fleet in Africa: at its
+peak more than twenty BAC 1-11s, plus assorted 707s and props, a
+private air force assembled at scrap prices from the world's
+retiring inventories. Okada was, in its way, a genuine achievement —
+it moved millions of passengers the flag carrier stranded, employed
+the airline diaspora's returnees, and proved the market — and it was
+simultaneously the era's pathologies incorporated: a fleet chosen by
+acquisition price rather than operating logic, maintenance
+chronically litigated between ambition and cash flow, and a
+proprietor whose political weight was itself a regulatory fact. The
+airline faded through the mid-1990s under the arithmetic Chapter 12
+will formalize — old aircraft age expensively — and its hulks
+joined the fringe of Nigerian airports like beached whales, parted
+out and sun-bleached, the 1990s' contribution to the archaeology
+that the grounded 747 had begun. A country's ramps are its financial
+statements printed in aluminum. By 1995, Nigeria's read: assets
+acquired, 1965–1985; depreciation, catastrophic; provisions for
+renewal, none.
+
+Between the two fleets — the presidential one that flew perfectly
+and the popular one that flew on courage — the middle stratum, a
+functioning national system, was precisely what the era did not
+build. The omission was not perceived as a crisis because each
+stratum's constituency was served: power flew safely, the public
+flew somehow, and the professionals in between wrote reports that
+Chapter 6 will find unread in the radar files. Societies do not
+maintain what their decision-makers do not depend on. It is the
+oldest sentence in political economy, and the 1980s Nigerian sky
+was its illustration at scale.
+
 ## What flying felt like
 
 Statistics anesthetize; it is worth descending, briefly, to the departure

@@ -123,6 +123,56 @@ state airline fails, the failure eventually arrives at several hundred
 miles per hour. Aviation's unforgivingness, which Chapter 1 called its
 analytic virtue, was about to demonstrate itself.
 
+## War in the air, and the first jet grave
+
+Two events of the airline's first decade complicate the boom
+narrative and deserve rescue from the footnotes.
+
+The first is the civil war. From 1967 to 1970, while Nigeria Airways'
+timetable shrank to the federal side's needs, the country hosted one
+of the strangest air operations of the century: the Biafran airlift.
+With the secessionist enclave blockaded, its supply line became a
+nightly shuttle of chartered and improvised transports — church-
+organized relief on one channel, arms on another — flying blacked-out
+into a stretch of reinforced road at Uli, landing lights flicked on
+for seconds, mercenary and missionary pilots sharing a traffic
+pattern under federal guns. The airlift's moral history belongs to
+other books. Its institutional deposit belongs here: the war
+normalized, at scale and under the highest sanction, precisely the
+aviation the rules forbid — unregistered aircraft, falsified
+manifests, night operations into unlicensed strips, the whole
+repertoire of flight as improvisation. Some of that repertoire's
+veterans, machines and men both, flowed after 1970 into the region's
+gray charter markets, and the gray markets never fully closed. When
+Chapter 10 finds a funeral charter falling out of the Lagos sky in
+2013 with paperwork that should have grounded it, the lineage traces,
+by more steps than one but without a break, to the normalizations of
+the war years. Wars end; their exemptions retire more slowly.
+
+The second event is the crash of November 1969 — Nigeria's first
+great jet-age loss, and the most completely forgotten disaster in
+this book. Nigeria Airways' VC10, inbound to Lagos at the end of the
+London service in the early morning of 20 November, descended into
+forest short of the runway and was destroyed with all 87 aboard. The
+VC10 was the airline's flagship, the London run its showcase; the
+dead included prominent Nigerians and foreigners; and the event has
+left almost no trace in national memory — no memorial, no annual
+journalism, no public report that the ordinary Nigerian reader could
+ever have consulted. The investigation's threads (approach procedure,
+navigational aids, crew factors) ran into the era's institutional
+sand. It was 1969: the war was ending, the state's attention was
+entirely elsewhere, and the machinery for public technical
+accounting — a machinery Britain would have supplied automatically a
+decade earlier — had been repatriated without replacement, exactly as
+this chapter's handover section described. The VC10's significance is
+thus not its causation, which remains thin in the public record, but
+its reception: it established, at the first full-scale test, the
+national grammar for aviation catastrophe that Part II will conjugate
+seven times — mourn intensely, investigate opaquely, publish nothing,
+memorialize privately, proceed. Every element of the grammar was
+already in place before the boom began. The boom merely bought bigger
+aircraft to apply it to.
+
 ## Zaria: the institution that worked
 
 Fairness — and analytic honesty — requires this section, because the

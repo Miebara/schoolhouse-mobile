@@ -227,6 +227,54 @@ bankrupt and blacklisted from American skies. Nigeria Airways would die in
 2003, in circumstances Chapter 3 will describe. The Doves of WAAC, in
 retrospect, were carrying more than passengers.
 
+## The aerodrome at the water's edge
+
+Lagos entered the aviation age from the sea, which is fitting for a
+city the Portuguese named for a lagoon. The first regular air services
+to reach it in the 1930s included flying boats working the coastal
+legs, alighting on the same waters that had carried the palm-oil
+trade; the land aerodrome grew up at Ikeja, then a sandy expanse of
+scrub north of the city, chosen — like airports everywhere in that
+era — for emptiness rather than access. Travelers' accounts of the
+early Lagos air station describe a corrugated-iron and whitewash world:
+a windsock, a radio hut, fuel in drums rolled by hand, arrival times
+estimated in half-days, and the mail — always the mail, the true
+paying passenger of 1930s African aviation — sorted under an awning
+for the launch into town. It seems quaint until one registers what it
+represented: for the first time in the history of a city built on
+tide and season, a schedule existed that connected Lagos to London in
+days rather than weeks. Commerce reorganized around it quietly. The
+colonial bank could move signatures; the trading houses could move
+samples and contracts; the government could move itself. Aviation's
+first Nigerian constituency was, in short, the colonial paperwork
+economy — and its geography (Lagos, Kano, the mining town of Jos, the
+administrative stations) was the paperwork's geography, a map of
+extraction and administration onto which no Nigerian community's own
+priorities were ever consulted.
+
+The labor that built and ran these stations deserves its paragraph,
+because the standard histories leave it in the passive voice.
+Runways were cleared and graded by Nigerian hands, at wages and under
+conditions set by the Public Works Department; the fuel drums, the
+baggage, the radio batteries, the endless grass-cutting that a
+tropical airfield demands — all of it Nigerian labor, supervised by a
+thin expatriate technical layer that monopolized every certified
+trade. The apprenticeship structures that might have transferred
+those certifications — the licensing ladders, the examinations —
+existed in Britain and were, in practice, closed: a Nigerian could
+fuel the aircraft but not sign for it, fix the engine under
+supervision but not certify the fix. The distinction between labor
+and license — between doing aviation work and owning aviation
+authority — was the colonial system's deepest transfer to its
+successor, more durable than any runway. Decades later, Nigerian
+aviation would still be organized around it: the expatriate
+consultant's signature, the foreign audit, the license that
+validates elsewhere. Chapter 9 will describe the moment in 2010 when
+the FAA, in effect, finally countersigned Nigeria's own signature —
+and the reader will appreciate by then why that bureaucratic event
+carried, for the profession, the emotional charge of a second
+independence.
+
 ## What the first accidents taught — and whom
 
 Colonial aviation in Africa was dangerous, and nobody pretended otherwise.
@@ -306,6 +354,55 @@ under political pressure to Nigerianize faster than it could train, in a
 state whose own institutions were three years old. The wonder, in
 retrospect, is not that Nigerian aviation struggled; it is that it worked
 as well as it did, for as long as it did.
+
+## The decade of handover
+
+The 1950s, Nigerian aviation's decade of transition, rewards a closer
+look than the sweep of this chapter has yet allowed, because the
+texture of the handover explains the hollowness Chapter 2 inherits.
+
+Constitutional decolonization ran on a timetable that accelerated
+past everyone's plans — self-government for the regions in 1957,
+independence visible by 1958, achieved in 1960. Institutions that had
+assumed a generation to "Nigerianize" were given five years. In
+aviation the arithmetic was brutal and specific. A pilot's progression
+from cadetship to airline command took, in the systems of the day,
+roughly a decade; an aircraft maintenance engineer's licensing ladder,
+comparably long; an airworthiness surveyor — the regulator's core
+professional, the person who inspects the inspectors — longer still,
+because the role presumes years of industry experience before the
+oversight training begins. There was no Nigerian cohort in the
+pipeline in 1950 because the pipeline had been closed to Nigerians;
+there could therefore be no Nigerian cohort emerging from it by 1960
+regardless of goodwill, money, or talent. The new state faced the
+standard postcolonial menu: retain expatriates (politically corrosive,
+financially costly, and self-liquidating as careers pulled them home);
+hire international agencies and contractors (the ICAO technical-
+assistance route that built Zaria); or promote the available Nigerians
+faster than the ladders were designed to bear and hope experience
+would catch up with authority. Nigeria, like most of its peers, did
+all three at once, in proportions set by budget crises rather than
+strategy.
+
+The oversight function fared worst in this scramble, for the reason
+this book has already made structural: it was invisible. Political
+attention concentrated ferociously on the visible transfers — the
+first Nigerian captain (celebrated in the press like a boxing title),
+the first Nigerian station manager, the airline's ownership itself,
+bought out from BOAC and Elder Dempster by 1961 so that the flag
+would be sole and clean. The Department of Civil Aviation's
+expatriate surveyors, meanwhile, ran down their contracts and were
+replaced slowly, partially, or nominally; the UK's Air Registration
+Board stopped being the de facto airworthiness authority for
+Nigerian-registered aircraft without any equivalent capability being
+built in Lagos at matching depth. Nobody decided this in a memo. It
+happened the way invisible things happen — by the sum of attention
+paid elsewhere — and it set the pattern this book will trace to 2006:
+in Nigerian aviation, operational capability (pilots, engineers,
+airlines) always Nigerianized faster and better than oversight
+capability (surveyors, inspectors, investigators), because operations
+had glamour, constituency, and a wage market, and oversight had none
+of the three. States, like people, staff what they love.
 
 ## What was planted
 
