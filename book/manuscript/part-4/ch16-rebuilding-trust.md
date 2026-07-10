@@ -237,6 +237,58 @@ is what "rebuilding trust" means in operational terms: not a
 communications strategy, but the construction of permanent,
 self-interested watchers.
 
+## Who actually holds the pen
+
+Agendas fail when addressed "to Nigeria"; this one closes by
+naming its executors, because each item above has a specific
+desk, and the desks have interests that can be engaged rather
+than exhorted.
+
+The **presidency** owns items nothing else can move: the
+appointments that make or unmake regulator tenure, the
+military perimeter, and the political air cover that Chapter
+9 proved is reform's true fuel. What the presidency gets in
+exchange is what Obasanjo got: a legacy asset (Category 1, the
+quiet skies) that outlived every rival accomplishment of his
+final term. The pitch to any Nigerian president is not safety;
+it is that aviation reform is the republic's most reliably
+completable monument.
+
+The **National Assembly** owns the statutes (the publication
+clocks, the just-culture shield, the family-assistance act) and
+the annual safety hearing of item nine. Its interest is the one
+2002 discovered: aviation oversight is high-salience,
+telegenic, and — unusually among Nigerian committee subjects —
+scored by external referees whose findings a legislator can
+brandish. A committee chairmanship that produces a passed
+just-culture act is a national profile.
+
+The **industry** — the surviving carriers, the lessors' local
+counsel, the insurers, the MRO aspirants — owns the commercial
+items (Cape Town performance, consolidation discipline) and is
+the natural financier of the advocacy the sector lacks: an
+airline trade association that lobbied for *system* quality
+(rather than against its own regulation) would be pursuing its
+members' lease rates, insurance premia, and route rights by
+the most direct available route. Self-interest, properly
+organized, is Chapter 15's third algebra term; it has simply
+never been organized.
+
+The **professions** — the pilots', engineers', and
+controllers' associations, NCAT's alumni, the diaspora — own
+the content: the reporting-culture programs, the training
+pipeline's design, the technical memory this book has shown
+outlasting every ministry. Their instrument is credibility,
+and their historic error has been spending it only on wages.
+And the **families** — the Loyola parents' institutional
+descendants — own the conscience: the annual remembrance that
+item nine would formalize, the standing reminder of what the
+agenda is denominated in. Every reform in this book moved when
+these five hands briefly held the same pen. The agenda's real
+sequencing, beneath the phases: get them to the same table,
+and keep a chair for the funerals' representatives, so that
+the table never again needs new ones.
+
 ## Reflection
 
 Skeptics will note, correctly, that Nigeria has seen agendas before.

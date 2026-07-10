@@ -134,6 +134,55 @@ but continuously, in appointment letters and appropriation lines
 and the disposition of report drafts — by people most of whom will
 never think of themselves as having chosen anything.
 
+## The horizon's new weather
+
+Two forces absent from this book's history will shape its
+sequel, and each interacts with the institutional argument in a
+specific way.
+
+The first is technology's changed direction. For the century
+this book covered, aviation technology flowed one way — designed
+in the strong-institution world, absorbed later and older
+everywhere else, the sorting machine of Chapter 12. The coming
+decades scramble the pattern at the edges: unmanned systems,
+whose Nigerian uptake (delivery trials, surveillance, the
+military's armed drones) is already ahead of the regulatory
+apparatus for them, and whose accident physics — cheap,
+numerous, low-altitude, over cities — will stress exactly the
+capacities (surveillance, investigation tempo, third-party
+liability) this book found thinnest; electric and hybrid
+regional aircraft, which, if their economics mature, suit the
+African thin-route problem almost perfectly and will arrive as
+*new* technology available to first movers rather than
+hand-me-downs — an inversion Rwanda and Kenya are already
+positioning for; and the data revolution in safety
+(satellite-based surveillance ending the radar-coverage
+problem outright, flight-data streaming ending the
+lost-recorder problem), which cheapens precisely the
+infrastructure whose procurement sagas filled Chapter 6. None
+of this technology self-installs. Each item lands, or fails
+to, on the same institutional soil as everything else in this
+book — but the soil requirements have dropped, and for the
+first time the frontier is affordable at Nigerian budget
+levels. The excuse inventory shrinks annually.
+
+The second force is climate. Aviation's carbon politics will
+price and constrain the industry's growth everywhere, and
+Africa's position in that bargaining — one percent of
+historical aviation emissions, the steepest legitimate growth
+need — will be a defining diplomatic file; Nigeria, as the
+demographic principal, holds the continent's proxy whether it
+prepares or not. Meanwhile the operational climate itself
+turns hostile in exactly the West African dimensions this
+book's crashes made familiar: convective weather —
+Sosoliso's, 053's — intensifying on every credible
+projection; the Harmattan's dust regimes shifting; coastal
+infrastructure (Lagos's runways sit meters above a rising
+lagoon) entering the exposure tables. The windshear decision
+that killed the Sultan will be presented to Nigerian crews
+more often in 2050 than in 2006. Whether it kills again is,
+as ever, not a weather question.
+
 ## The wager restated
 
 It is customary for books like this one to end with optimism, and

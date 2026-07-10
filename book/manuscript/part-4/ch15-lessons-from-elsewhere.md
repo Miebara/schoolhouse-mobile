@@ -162,6 +162,58 @@ only once, in 2006. One deposit does not compound. The American
 lesson to Nigeria is not "build an NTSB"; it is "never again waste
 a crash."
 
+## The near mirrors
+
+Five great mirrors structure this chapter, but three smaller,
+nearer ones — West and Central African, Nigeria-adjacent in
+every sense — sharpen details the large comparisons blur.
+
+**Ghana** ran Nigeria's history in miniature and then wrote a
+different final chapter. Same colonial parent, same
+flag-carrier romance (Nkrumah's Ghana Airways as the first
+flag of free Africa), same patronage death (banned from US
+skies in 2004, liquidated after), even a second flag carrier
+(Ghana International) that repeated the cycle in a decade.
+Then, quietly, the different chapter: Accra stopped buying
+fuselages and started buying oversight — a rebuilt GCAA that
+became a regional reference, FAA Category 1 in the 2010s,
+and a policy of growing traffic through others' capital: its
+airport a West African secondary hub, its market served
+profitably by foreign and private carriers. Ghana today flies
+more safely and more connectedly than at any point in its
+flag-carrier era, on a state budget for aviation that is a
+rounding error of Nigeria Air's projections. The mirror's
+message is Chapter 16's, delivered by a neighbor: the
+certificate, not the fuselage.
+
+**Angola** is the negative control. Oil state, weak
+institutions, gray-market magnet — Nigeria's profile with a
+civil war on top — Angola sat on the EU's total ban list for
+years, its registry the archetype of the uninspectable. Its
+partial rehabilitation in the 2020s (the ban's narrowing, TAAG's
+fleet renewal) tracked, precisely, the oil state's fiscal need
+to rejoin polite aviation society — Chapter 15's recomputation
+mechanism again, needing only the sovereign's arithmetic to
+change. Angola matters because it prices the alternative:
+staying gray is possible indefinitely; the cost is paid in
+lease rates, insurance, connectivity, and the slow export of
+one's own aviation economy to Addis and Johannesburg.
+
+**Rwanda** is the aspirational miniature: a state with no oil,
+no scale, and a two-decade-old decision to make institutional
+credibility its national export. RwandAir is small and
+unprofitable and impeccably run; Kigali's aviation authority
+audits clean; and the country has parlayed the package —
+convention traffic, an aviation-finance court under the Kigali
+International Financial Centre, Cape Town Convention
+performance marketed like a tourism campaign — into an
+aviation presence wildly disproportionate to its market. Rwanda
+demonstrates the pure-strategy version of what this book
+recommends: institutional quality as deliberate comparative
+advantage. Whether the model survives its political economy's
+own concentrations is Rwanda's question; that the model exists
+one border-crossing from Nigerian airspace is Nigeria's.
+
 ## The mirrors Nigeria holds up to others
 
 Honesty about the comparative method requires rotating it once:
