@@ -264,6 +264,57 @@ balance sheet's audit function. Every failure of record integrity
 reverts the market to pricing Nigerian metal, and Nigerian promises,
 at the old discount.
 
+## The other biography: how a young fleet happens
+
+The chapter opened with an airframe's descent down the world's
+maintenance gradient; balance requires the opposite biography,
+because Nigeria now contains it.
+
+A new-generation 737 arrives in Lagos in the 2020s by a route
+that touches nothing in the first biography. It is ordered — or,
+more commonly, leased new from an Irish or Asian lessor's order
+book — against a business plan the lessor's credit committee has
+stress-tested; its lease covenants specify the maintenance
+program, the records standard, the return conditions, and the
+reserves (monthly payments into escrowed maintenance accounts —
+the promise-keeping, prepaid); its insurers price the operator's
+audit trail; and its arrival requires of the state exactly the
+inputs Chapter 16 lists — Cape Town performance so the lessor's
+committee will approve the jurisdiction at all, a registry whose
+records the market trusts, an NCAA whose surveillance the
+covenants can reference. The aircraft is safer than its 1968
+ancestor not mainly because engineering advanced (though it
+did), but because every party in its economic chain is
+structurally invested in the promise being kept, continuously,
+with escrowed money. Air Peace's emergence as the market's
+anchor — including its 2019 distinction as global launch
+customer for Embraer's E195-E2, the first time a Nigerian
+airline launched a Western type — demonstrated that the route
+exists from Lagos; the persistent thinness of the country's
+wide-body, long-haul presence demonstrates its narrowness. The
+gradient, in other words, can be climbed. Each rung is an
+institution.
+
+The MRO gap marks the summit still unclimbed. Heavy maintenance
+for Nigerian fleets is performed, overwhelmingly, abroad —
+Addis, Amman, Europe, increasingly Morocco and Egypt — exporting
+in fees, annually, sums that industry advocates note would
+finance the domestic facility whose absence necessitates them.
+The obstacle is not hangars (several exist, underused) but the
+certification ecosystem: an MRO sells trust, audited by EASA
+and FAA part-145 regimes, staffed by licensed engineers in
+career-deep supply, embedded in a parts logistics chain that
+clears customs in hours, not months. Every element is an
+institution; the ports and customs element alone has defeated
+every business plan to date. Ethiopian built the ecosystem over
+decades and now performs Nigeria's heavy checks. The lesson is
+the chapter's in miniature: countries do not lack aviation
+industries because they lack demand or skill — Nigeria
+possesses both in continental surplus — but because the
+industry is an institutional stack, and the stack is built
+storey by storey, in decades, by states that keep deciding, in
+sequence, to want it.
+
 ## Reflection
 
 Safety, this chapter has argued, is purchased upstream — in

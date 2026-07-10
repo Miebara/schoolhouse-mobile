@@ -141,6 +141,54 @@ absence diagnostic. A state that will not drill is publishing its
 discount rate on its citizens' marginal lives, and no development
 statistic contradicts it so efficiently.
 
+## The archipelago
+
+Nigeria does not lack emergency institutions; it lacks an
+emergency *system*, and the distinction organizes everything in
+this chapter.
+
+Inventory the archipelago as a Dana-scale event finds it: FAAN's
+airport fire service, jurisdictionally confident to the fence
+line and legally uncertain beyond it; the state fire services,
+chronically the most starved agencies in Nigerian federalism;
+NEMA, the national coordinator, created in 1999 with a mandate
+whose breadth (floods, epidemics, displacement, crashes) has
+always exceeded a budget sized for press statements; its state
+counterparts, the SEMAs, existing on paper in most states and in
+fact in few; the military, possessor of the actual heavy
+capabilities (engineering, airlift, divers) but constitutionally
+and culturally a guest at civilian disasters, arriving through
+liaison channels that must be improvised each time; the police,
+who control scenes; the Red Cross and its volunteer kin, who
+often outperform everyone; and the hospitals, federal, state,
+and private, each admitting by its own rules. Every island is
+staffed by people who mostly try; no bridge between islands is
+load-tested before the day it must carry a disaster. The
+after-action honesty the drill section urges would find, at
+every Nigerian mass-casualty event in this book, the same
+finding at the top: not equipment, not courage — *interface
+failure*, the catastrophe falling into the water between
+agencies.
+
+One island has grown notably since 2005 and earns its
+paragraph: Lagos State's LASEMA, built by a state government
+wealthy and embarrassed enough to invest, which by the Dana
+response was fielding equipment and doctrine visibly ahead of
+the federal layer, and which has since handled the state's
+grim portfolio of building collapses and tanker fires with
+accumulating competence. LASEMA matters analytically because
+it demonstrates the sub-national route: response capacity, unlike
+regulatory sovereignty, is buildable at state level, where a
+governor's incentives (visibility, credit, a defined
+constituency) can align with it. A serious national doctrine
+would formalize what Lagos improvised — the metropolitan
+emergency authority as the response system's load-bearing
+unit, federally certified, locally owned. The 2013 national
+emergency management reform debates gestured there; the
+gesture, at this writing, remains a gesture. The islands still
+await their bridges, and the water between them is where
+Nigeria's next survivable crash will land.
+
 ## The anatomy of a drill
 
 Because this chapter's remedy is "rehearse," the rehearsal itself

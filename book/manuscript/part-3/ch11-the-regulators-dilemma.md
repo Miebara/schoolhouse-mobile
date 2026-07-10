@@ -175,6 +175,60 @@ own political class. It is the single most sophisticated
 institutional maneuver in this book, and its author-era officials
 understood it exactly.
 
+## How the world grades a regulator
+
+Since this chapter leans throughout on audit results as its
+evidence, the machinery of the grading deserves a section — both
+to justify the reliance and to expose its limits.
+
+ICAO's Universal Safety Oversight Audit Programme, born in 1999
+after a decade in which the gap between paper compliance and
+real oversight had become undeniable (and after airlines from
+under-audited states kept falling out of the sky onto other
+people's headlines), does something international law almost
+never does: it examines sovereign performance and publishes the
+result. Audit teams work through the eight critical elements of
+oversight — law, regulations, organization, personnel, guidance,
+licensing, surveillance, enforcement — protocol question by
+protocol question, and the output, the "effective
+implementation" score, expresses what percentage of the
+oversight system actually exists. The scores are comparable
+across states and time, which converts them into the nearest
+thing aviation governance has to a thermometer. Nigeria's
+readings tell this book's story in two digits: the pre-reform
+audits found effective implementation in the low ranges that
+flag a system in name only; the post-2006 cycles rose through
+respectability; the 2010s plateaued in the healthy-but-static
+band where, Chapter 10 argued, the whole system sits. The FAA's
+IASA overlays a binary — Category 1 or 2 — on essentially the
+same elements, with route rights as the enforcement mechanism;
+the EU's list adds the ban. Together they form the external
+skeleton this chapter has credited with holding the Nigerian
+reform upright between domestic constituencies.
+
+The limits matter as much as the power. Audits sample; they
+announce themselves; they read files more easily than they read
+Fridays. A state can, with effort, curate its way to a score —
+the phenomenon auditors call the "documentation regulator,"
+compliant in binder, absent on ramp — and the incentive to
+curate grows precisely as the score's consequences grow: the
+thermometer, once targeted, stops measuring. (Goodhart's law
+operates on safety oversight as reliably as on money supply.)
+The deeper limit is temporal: audits certify capability, not
+conduct — what the system *can* do, not what it will do next
+Friday under a minister's call. The Nigerian record
+illustrates both readings honestly: the scores' rise was real —
+the crashes stopped, the strongest possible external validity —
+and the scores' plateau coincides with the oscillations, the
+report delays, and the tenure erosions that the audits'
+resolution is too coarse to price. External grading, in sum, is
+scaffolding: indispensable while the building cannot stand
+alone, incapable of substituting for the building forever. The
+question for the NCAA's third decade is whether anything
+domestic is growing inside the scaffold — which is Chapter
+16's item nine, and the book's standing question for every
+institution it has examined.
+
 ## The ministry problem
 
 One actor in the Nigerian arrangement has so far escaped this

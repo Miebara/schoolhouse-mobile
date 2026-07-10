@@ -190,6 +190,51 @@ Chapter 10 noted, the cheapest reassurance technology ever
 invented: the state that explains publicly does not need to ask to
 be believed.
 
+## The other publishers
+
+Where the state declined to publish, others published, and the
+culture of silence is incompletely described without its
+adversaries.
+
+The Nigerian press has been, across this book's whole span, the
+de facto national accident archive — a role documented chapter
+by chapter, from the Concord and Guardian reporters working
+Ejigbo's canal bank against a military censor, to the aviation
+desks of the 2000s whose cumulative crash coverage built the
+public record the AIB was not building, to the digital-era
+outlets whose freedom-of-information suits and leaked-report
+stories forced documents into daylight the system had intended
+for the cabinet. The Freedom of Information Act of 2011 — the
+democracy's formal renunciation of the colonial secrecy
+default — gave that journalism a legal instrument, and its
+aviation deployments (requests for report statuses, agency
+audits, contract papers) have won often enough to matter,
+against the statute's general record of bureaucratic
+attrition. The professional associations published too, in
+their fashion: the pilots' and engineers' unions and the
+controllers' association, whose communiqués and strike
+threats regularly said in public what filed reports said in
+vain. And the diaspora published — the Nigerian professionals
+abroad whose conference papers and open letters, beyond the
+reach of domestic consequences, kept a technically fluent
+critique alive through the worst years.
+
+This counter-archive achieved real things; 2005's political
+rupture, Chapter 8 showed, ran on it. But its existence also
+defines the pathology's precise shape: a society can know its
+disasters thoroughly — Nigerians never lacked information
+about their crashes, in the newspaper sense — while the
+*institutional* knowledge circuit (finding → recommendation →
+verified change) stays broken. Journalism generates salience,
+not closure; it can force the question and cannot sign off the
+corrective action. The distinction explains the era's
+characteristic frustration, in which everything was exposed
+and little was fixed: exposure was being asked to do a job —
+institutional metabolism — that only the honesty machine's
+formal organs can perform. The press is the smoke alarm of the
+system, and Nigeria's has been loud, brave, and effective as
+smoke alarms go. The building needed sprinklers.
+
 ## The recorder and the courtroom
 
 One frontier of the silence problem is sharp enough for its own
