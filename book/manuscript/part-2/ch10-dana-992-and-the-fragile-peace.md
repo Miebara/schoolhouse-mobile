@@ -1,0 +1,208 @@
+# Chapter 10 — Dana 992 and the Fragile Peace
+
+Success in aviation safety is invisible: it is the crash that does not
+happen, year after year. The question after 2012 was whether Nigeria's
+quiet skies were an achievement or an interval.
+
+Sunday, 3 June 2012, mid-afternoon. Dana Air Flight 992, a McDonnell
+Douglas MD-83 (registration 5N-RAM), was inbound to Lagos at the end of
+the short hop from Abuja — the same city pair as Bellview 210, flown in
+reverse, in a country whose aviation had by then gone nearly six years
+without a scheduled-airline catastrophe. Dana was one of the
+post-reform market's successes: an Indian-owned Nigerian carrier,
+IOSA-audited, flying a young-for-Nigeria fleet of MD-83s on the trunk
+routes with a reputation for punctuality that had made it a business-
+class favorite. The reformed system's paperwork on Flight 992 was in
+order. What the paperwork did not show was that, as the aircraft
+descended toward the city, it was dying.
+
+The final report — of which more below, including the five years it
+took — reconstructed the sequence with the recorders the Bellview
+inquiry never had. Well before arrival, the number one engine had
+begun losing thrust, a fuel-delivery fault starving it by degrees. The
+crew registered the anomaly and continued toward Lagos — no emergency
+declared, no diversion to the nearer field behind them — a decision
+the report would anatomize at length. On final approach, the second
+engine's power collapsed. An MD-83 without engines is a glider of
+brutal arithmetic, and the arithmetic came up two miles short. The
+aircraft struck a two-story building in Iju-Ishaga, a dense residential
+quarter northwest of the airport, and burned with nearly full
+disbelief around it — a Sunday neighborhood, a printing shop, a
+church crowd nearby. All 153 aboard died, and at least six people on
+the ground — with, as at Kano, the true ground toll never established
+to anyone's confidence.
+
+The crowd was on the wreck within minutes, in the largest and most
+televised scene of citizen response in this book — thousands filling
+the streets, passing water, pulling at hot aluminum with hands and
+generators' extension bars, while the professional response fought its
+way through its own crowd and Lagos traffic. Cranes capable of lifting
+the collapsed structure arrived on a timescale of hours; the fire was
+fought with what came; and the nation watched all of it live, on the
+smartphones and satellite channels that had not existed in 2005. The
+second disaster — Chapter 13's subject — had acquired an audience of
+millions.
+
+## The investigation and its tempo
+
+The AIB, product of the reform, performed the forensic core of its
+task competently: recorders recovered and read (abroad, but promptly),
+wreckage documented, engines torn down to their fuel systems, a
+technical narrative established that has not been overturned — dual
+engine power loss traceable to fuel-system faults, compounded fatally
+by the crew's failure to treat the first engine's sickness as the
+emergency it was and land while options remained.
+
+Then the report entered the Nigerian institutional atmosphere and
+slowed. Interim statements came; the final report did not appear until
+2017 — five years, for an accident whose essential mechanics the
+investigators understood within months, with 153 families, a suspended-
+and-restored airline, and a fleet of identical aircraft in national
+service awaiting its formal lessons. The delay had no single villain;
+it had the usual ecology — capacity limits, legal caution, comment
+cycles with foreign parties, and the simple absence of any actor
+empowered to demand speed. Annex 13's twelve-month expectation is
+routinely missed even by strong states; but the strong states publish
+their interims loudly and their dockets continuously, so that the
+learning flows while the lawyers argue. Nigeria's practice — silence,
+then a completed monument — preserved the form of investigation while
+dissipating its function, and Chapter 14 will show Dana 992 was the
+rule, not the exception.
+
+The regulatory aftermath displayed the same half-reformed signature.
+Dana's operating certificate was suspended within days — the reformed
+reflex, unthinkable in 1996 — and then restored within months, amid
+public statements that did not fully align, legislative grumbling, and
+a persistent popular conviction, fair or not, that the airline's
+connections had flown it back onto the schedule. The airline would be
+suspended and restored again more than once in the following decade
+before its 2020s grounding. Each cycle was individually defensible on
+the record available; the pattern read, cumulatively, as oversight by
+oscillation — a regulator strong enough to act, no longer strong
+enough (or no longer backed enough) to make its actions stick against
+appeal, litigation, and political fatigue. The Demuren era ended in
+2013. The institution he rebuilt remained — statutorily funded,
+internationally audited, incomparably better than its ancestor — but
+the reform's political scaffolding, the presidential cover and the
+post-2006 fear, had been quietly disassembled by time.
+
+## The echoes: 2013 and 2021
+
+Two further losses frame the fragile peace and complete Part II's
+chronology.
+
+On 3 October 2013, an Associated Airlines Embraer 120 charter crashed
+on takeoff from Lagos, killing most aboard. The flight was carrying
+the body of Olusegun Agagu, a former state governor, to his funeral —
+a detail of almost unbearable symbolic economy: the funeral charter
+as casualty, the elite exit vehicle failing exactly as the public
+system had, and for the same reasons. The investigation found an
+aircraft that should not have been dispatched and an operator whose
+condition the audits had not caught. The scheduled system's
+improvement, in other words, had not fully reached the charter
+periphery — where, as Chapter 4 established at Jeddah, Nigerian
+aviation's oldest risks have always lived.
+
+And in 2021, the military bill from Chapter 5 came due again, twice
+in three months. In February, a Nigerian Air Force Beechcraft King
+Air 350 crashed on approach to Abuja, killing seven. In May, another
+NAF King Air 350 crashed at Kaduna in weather, killing all aboard —
+including Lieutenant General Ibrahim Attahiru, the Chief of Army
+Staff, the serving commander of the Nigerian Army, along with much of
+his personal staff. Twenty-nine years after Ejigbo, the pattern
+reproduced itself with terrible fidelity: an air force investigating
+itself, findings unpublished, a decapitated command, and a civil
+reform whose writ still stopped, as it had always stopped, at the
+barracks gate. No stronger proof exists that Nigeria's aviation
+recovery was a civil-institutional achievement rather than a national
+transformation: the domain the 2006 reforms reached got safe; the
+domain they were never allowed to reach kept its 1992 accident
+physics intact.
+
+The institutional response to the decade's accumulated lessons came
+in 2022, when the AIB was reconstituted as the Nigerian Safety
+Investigation Bureau — the NSIB, with a multimodal mandate (aviation,
+rail, marine) on the model of the American NTSB. On paper it is the
+most advanced investigative architecture in Africa. Whether it
+becomes the NTSB or merely wears its organogram is, at this writing,
+the live question — and by the standard this book has applied
+throughout, the answer will be read not in its enabling act but in
+its publication rate.
+
+## Institutional analysis: what a plateau looks like
+
+The honest ledger of Nigerian aviation safety after 2012 has two
+columns, and the argument of this chapter is that both are real.
+
+The credit column is substantial and too rarely stated: as of the
+mid-2020s, Nigerian scheduled airlines have gone well over a decade
+without a passenger-jet catastrophe — the longest such run in the
+country's history, sustained across a doubling of traffic, a currency
+collapse worse than the 1980s original, insurgency, pandemic, and
+the failure of several carriers. The reformed core — statutory
+funding, AOC discipline, IOSA-audited operators, functioning radar
+and navigation infrastructure — holds. Nigerians under twenty-five
+have no memory of the annual mass funeral that structured their
+parents' relationship to the departure gate. By the only measure
+that finally matters, the reform *worked and kept working*.
+
+The debit column is the pattern of this chapter: five-year reports;
+suspension-restoration oscillations; a charter and general-aviation
+periphery under visibly thinner oversight; a military sector
+untouched and repeating; the training college and the inspectorate
+again straining to hold technical staff against Gulf salaries; and —
+the structural item beneath all of them — the evaporation of the
+political constituency that 2005–06 briefly created. The system is no
+longer decaying toward 1996; it is plateaued, maintained by
+professional inertia, international audit exposure, and the memory of
+its institutions rather than by any active political demand. Plateaus
+are respectable; Indonesia plateaued similarly around 2015 before its
+second push. But aviation is a domain of moving baselines — traffic
+grows, fleets age, personnel churn — and a safety system standing
+still is, relative to its risk base, slowly walking backward. The
+fragile peace is peace. It is also fragile, and it knows it.
+
+## Comparative note: Asiana 214 and the metabolism of a mature system
+
+Thirteen months after Dana 992, Asiana Flight 214 — a Boeing 777 —
+crashed on landing at San Francisco: three dead, a modern rarity. The
+comparison worth drawing is not of casualty counts but of metabolic
+rate. Within *days*, the NTSB was briefing the world on recorder data,
+publicly, camera-facing, hypothesis by labeled hypothesis. Within a
+year: public hearings, a docket of thousands of pages, a final report,
+industry-wide training changes — the entire digestive cycle from
+wreckage to reform completed inside the interval in which Dana 992's
+file was still legally marinating. That velocity is not American
+wealth; it is institutional design doing what design does — the NTSB's
+independence, statutory deadlines-in-practice, and, above all, a
+public-facing culture in which the investigation *is* the reassurance,
+its openness the product being delivered. A state whose citizens can
+watch it learn does not need to ask for their trust. The 2012 Lagos
+crowds — pulling at the wreckage themselves, trusting nothing they
+could not touch — were the exact photographic negative of that
+proposition, and the distance between the two images is the remaining
+distance of the Nigerian reform.
+
+## Reflection
+
+Part II closes where it opened, with fire in a place fire should not
+be, and with the question of what a country does next. Between Jeddah
+1991 and Iju-Ishaga 2012 stretch seven disasters, some three thousand
+dead across scheduled, charter, and military flying, and a single
+demonstrated theorem: nothing about the dying was necessary. The same
+state, the same market, the same professionals — rearranged after 2006
+into institutions with money, autonomy, and witnesses — stopped
+producing catastrophe within eighteen months and have not resumed. The
+crashes were never fate. They were policy, in the strict sense: the
+predictable output of arrangements chosen, renewed, and defensible at
+every point by someone whose interests they served.
+
+What remains, before this book can argue about the future, is to
+understand the arrangements themselves — not crash by crash but
+pattern by pattern: the regulator's political economy, the economics
+that made corner-cutting rational, the emergency-response deficit
+that made accidents into massacres, and the culture of silence that
+made every lesson single-use. That anatomy is Part III. The reader
+who has crossed Part II has earned its shortest possible summary in
+advance: institutions are how a society remembers. Nigeria's
+aviation history is what forgetting costs.
