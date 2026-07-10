@@ -371,6 +371,54 @@ was buying safety oversight the way it bought aircraft — second-hand,
 sight unseen, from whoever would extend credit. Flight 2120 was the
 price discovery.
 
+## The long settlement
+
+Money is the aftermath's coldest chapter and its most revealing,
+and 2120's settlement geometry followed its accountability
+geometry exactly.
+
+The claims of the fourteen Canadian crew members' families
+proceeded through Canadian and international channels against a
+defendant airline whose spiraling condition — Nationair entered
+its terminal descent within a year — converted their cases into
+creditors' queue positions as much as wrongful-death claims; the
+Canadian litigation and labor-relations record around the
+airline's collapse preserved, at least, a documented trail. The
+claims of the 247 pilgrims' families entered a different
+universe: a lattice of the operator's insurers, the charterer's
+(Nigeria Airways') own troubled underwriting, the Nigerian
+state's Hajj apparatus with its political promises of "adequate
+compensation," and the Warsaw Convention's then-prevailing
+liability limits — a 1929 treaty regime whose per-passenger caps,
+denominated in gold francs and translated into early-1990s
+currency, valued a human life at figures that read today as
+obscene. Families navigated this lattice from villages without
+lawyers, against counterparties with every incentive to wait.
+The recorded outcomes — partial disbursements through official
+channels, years late, in amounts diminished by intermediaries
+and inflation; other claims simply exhausted into silence — were
+never consolidated into any public accounting. No Nigerian
+official document states, anywhere, what the families of Flight
+2120 were finally paid.
+
+The wider point outlives the case. Compensation is not an
+epilogue to safety; it is part of safety's price system.
+Where the deaths of passengers cost their carriers and states
+dearly — the American tort benchmark — the cost flows upstream
+into exactly the maintenance and dispatch decisions this
+chapter reconstructed; where the deaths are cheap, cheapness
+flows upstream too. The Montreal Convention of 1999 rebuilt
+the international liability regime partly in recognition of
+this — raising and unlimiting carrier liability, and Nigeria is
+party — but treaty ceilings only bind where domestic courts can
+enforce them at tolerable speed, which returns the matter, as
+every chapter of this Part does, to institutions. The families
+of 2120 were failed three times: by a maintenance economy, by
+an oversight vacuum, and by a settlement system that priced
+those failures, for their perpetrators, at approximately
+nothing. Part III's economics chapter will find that third
+failure still substantially unrepaired.
+
 ## The counterfactual protocol
 
 It is fair to ask what, concretely, a competent Nigerian state would

@@ -116,6 +116,38 @@ technical grades, and cannot say no — and an airline that cannot say no
 is accumulating risk somewhere on its balance sheet, usually in the
 hangar.
 
+What did the boom look like from inside the uniform? The
+first generation of Nigeria Airways flight crew — the cadets of
+the 1960s Britain-and-Canada schemes, captains by the mid-1970s —
+worked a career that their successors would remember as a golden
+age and their contemporaries experienced as a daily argument
+with entropy. The flying itself was world-standard: London and
+New York in the 707, the Hajj rotations, type courses at Boeing's
+schoolhouse, salaries that made an airline captain one of the
+most prosperous professionals in Lagos. But the veterans'
+memoirs and interviews return, with striking consistency, to the
+argument: the trip that operated with a deferred-defect list
+that would have grounded the aircraft in the airline of a
+neighbor's registry; the roster built and rebuilt overnight as
+management's VIP charters commandeered aircraft; the simulator
+recurrency postponed for budget seasons; the quiet professional
+arithmetic — every senior pilot of the era describes some
+version of it — of deciding personally, at the head of the
+jetway, which of the airline's accumulating compromises one
+would carry into the air and which one would refuse at the cost
+of a summons to headquarters. The company's safety, by the
+late boom, was increasingly a private subscription service run
+by its professionals against their employer's drift — Chapter
+3's heroism-as-symptom, already pricing itself into the
+system's margins while the annual reports still photographed
+new aircraft. When the diaspora chapter of this story opens in
+the 1980s, its first recruits were exactly these people: not
+failures fleeing a collapse, but professionals accepting, at
+last, a standing offer to work where the argument was not
+daily. Institutions do not only lose their people to better
+pay. They lose them to the exhaustion of winning the same
+argument ten thousand times.
+
 None of this was secret, and none of it was uniquely Nigerian. It was the
 standard pathology of the era's state enterprises, from Lagos to Lima. The
 difference is that when a state grain board fails, the grain rots. When a

@@ -289,6 +289,36 @@ whose disposal generated its own genre of scandal. The employees, as
 usual, were the last creditors standing: men who had certified 747s
 queued for pensions that arrived, when they arrived, in fractions.
 
+The diaspora's mechanics deserve a paragraph before its
+consequences, because "brain drain" flattens what was actually a
+market clearing. The 1980s created, simultaneously, a Nigerian
+supply shock (a collapsing airline full of world-certified
+professionals being paid in a dissolving currency, often late) and
+a global demand shock: the Gulf carriers' great expansion —
+Emirates founded in 1985, the Saudi and Gulf fleets swelling on
+the same oil revenues Nigeria was mismanaging — plus the perennial
+hunger of the British, American, and Asian systems for experienced
+crews and licensed engineers. The clearing price was never close.
+A Nigeria Airways captain's naira salary, converted at the
+post-SAP rate, amounted to a fraction of a Gulf carrier's tax-free
+package; for engineers the multiple was larger still. What is
+remarkable in retrospect is not that thousands left but how many
+stayed — held by family, by national feeling, by the stubborn
+professional hope that each new management would be the one — and
+how the leaving pattern selected precisely for the system's
+connective tissue: the training captains, the check airmen, the
+senior licensed engineers, the people who reproduce competence in
+others. An institution can survive losing talent; it cannot
+survive losing its *teachers*, because the loss compounds — each
+departed instructor subtracting not one professional but a
+career-long stream of them. By the 1990s Nigerian aviation was
+running on the last cohorts the old pipeline had finished, while
+the pipeline itself — Zaria underfunded, the airline's cadet
+schemes dead — produced a trickle. Part II's cockpits and towers
+are staffed by that demography, and more than one of its accidents
+has, among its quiet contributing factors, the thinness of the
+mentoring bench behind the crews.
+
 Two consequences of this long-drawn death matter to everything that
 follows. The first is human capital flight, in the exact sense: the
 airline's best pilots and engineers went abroad — to the Gulf carriers

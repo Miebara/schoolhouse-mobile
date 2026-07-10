@@ -191,6 +191,32 @@ Nigerian operations were reorganized in 1958, on the eve of independence,
 into a company that would carry the new nation's name, its hopes, and
 eventually its pathologies: WAAC Nigeria, soon rebranded Nigeria Airways.
 
+The corporation's daily work deserves a page of texture, because
+"technocratic" is an abstraction until one watches it operate. A
+WAAC Dove's morning rotation out of Lagos in 1952 — Ikeja to
+Benin to Enugu, or the coastal run toward Accra — began the
+previous evening, in the fabric of small disciplines the
+corporation had imported whole: the engineer's daily inspection
+signed in a bound log; the load sheet computed and countersigned;
+the met briefing from the colonial meteorological service; the
+radio schedule with stations that answered; the fuel drawn
+through filters that were themselves inspected on a calendar. If
+a magneto check failed at run-up, the flight canceled — and here
+is the institutional point — *nobody called anybody*. There was
+no one to call. The corporation's remoteness from each
+territorial government, its officers' career insulation, and the
+Air Registration Board's distant, impersonal authority over its
+airworthiness meant that the decision to cancel belonged to the
+system, not to a negotiation. Passengers grumbled at the notice
+board and waited for the afternoon Heron. The airplane did not
+crash. Multiply that uncancelled phone call by every marginal
+weather day and doubtful magneto of a decade, and WAAC's safety
+record — unglamorous, unremembered, real — assembles itself out
+of pure governance, on 1950s technology, in the same skies and
+storms that fill Part II with wreckage. The reader will not
+encounter a cleaner demonstration that the variable in this
+book was never the continent, the weather, or the century.
+
 Who flew, in those years? The passenger cabins of the Doves and Herons
 held colonial officers on transfer, expatriate businessmen, and — in
 steadily growing numbers through the 1950s — the Nigerian elite of the
