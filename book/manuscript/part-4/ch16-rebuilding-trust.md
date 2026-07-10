@@ -45,6 +45,38 @@ simple test to every future Nigerian aviation announcement — does
 this spend attention on the system, or on its portrait? — and the
 rest of this chapter is confined, item by item, to the system.
 
+The saga's details sharpen the diagnosis. The 2018 unveiling
+priced the venture's launch requirement in the hundreds of
+millions of dollars the treasury did not have, on a public-private
+structure no private party ever signed; the domestic industry —
+the surviving carriers whose Chapter 12 economics a subsidized
+flag competitor would destroy — litigated, with the standing of
+the injured; and the Ethiopian partnership, when it came, offered
+the strange spectacle of Chapter 15's model institution being
+rented as a costume rather than studied as a method: Addis was
+invited to supply the aircraft and the competence, Abuja to supply
+the flag and the politics — WAAC's 1958 dissolution run backward,
+with the same misunderstanding about which component mattered.
+When the House committee called the 2023 launch "a fraud" on the
+national record, the word did double duty: whatever the
+procurement forensics eventually establish, the deeper fraud was
+conceptual — the proposition, sixty years disproven, that a
+painted fin is an aviation policy.
+
+The counter-model exists and is unglamorous: states that exited
+flag-carrier romance and prospered by it. Chile's aviation
+ascendancy came from disciplined open skies and a privatized
+carrier; the Gulf's from treating airlines as infrastructure
+businesses under commercial boards; post-liquidation Ghana, having
+buried two flag carriers, has grown traffic on foreign and private
+capacity while investing its scarce public attention in its
+regulator. The pattern's name in the trade is unsentimental:
+*fly the flag on the certificate, not the fuselage* — let the
+state's insignia mean rigorous oversight, and let the market own
+the metal. Nigeria's political class has never yet found the
+applause line in that policy. The applause line is Chapter 10's:
+a decade without funerals.
+
 ## The agenda
 
 **1. Finish the investigator.** The NSIB has the statute; give it the
@@ -126,6 +158,62 @@ audit outcomes, ARFF inspection results, recommendation registers,
 delay statistics — machine-readable, on the web, by default.
 Transparency is the only regulator that works weekends. Cost class:
 negligible. Enemy: reflex.
+
+## Sequencing, or how reforms actually land
+
+An agenda is a list; a program is an order of operations, and the
+Nigerian record — plus Indonesia's, plus the 2006 precedent —
+implies one with some confidence.
+
+**Phase one (months, not years): the credibility purchases.**
+Items 1, 3, and 8 — the investigator's clocks, the trucks and
+drills, publication by default — share a profile: cheap, visible,
+threatening to no major rent, and each generating public evidence
+of seriousness that the harder phases will spend. The 2006 reform
+teaches that momentum is a currency: Demuren's early, loud,
+winnable fights (the re-certification's first groundings)
+financed the later, harder ones politically. A government
+signaling reform should buy the cheap credibility first and
+bank it.
+
+**Phase two (the budget cycle): the entrenchments.** Items 2, 4,
+and 7 — the regulator's fiscal re-ring-fencing, Cape Town
+performance, the pipeline — require legislative drafting,
+judicial coordination, and appropriations: one to two years of
+machinery, best driven while phase one's evidence is fresh and
+before mid-term politics arrive. History's window for Nigerian
+aviation legislation has been roughly eighteen months
+post-crisis or post-inauguration; the drafts should exist in
+advance, waiting for the window rather than being commissioned
+inside it.
+
+**Phase three (the parliament after next): the sovereignty
+items.** Items 5, 6, and 9 — market structure, the military
+perimeter, the manufactured constituency — contend with the
+state's deepest reflexes and cannot be won by surprise. Their
+realistic path is institutional patience: the transparency
+floor before the military authority; the safety-report ritual
+before the advocate's docket standing; each partial win
+normalizing the next ask. Britain needed a Haddon-Cave and
+fourteen coffins to build its MAA; the sequencing lesson is not
+that Nigeria must wait for its own, but that the file should be
+ready — reform-by-preparedness, the standing draft that
+catastrophe or opportunity can enact overnight. Chapter 9's Act,
+it is worth remembering, passed in weeks because it had been
+substantially written for years.
+
+Throughout, the financing note that disarms the standing
+objection: this agenda funds itself several times over. The
+sector's own levies (already collected), the treaty discounts of
+item 4 (basis points on every financed airframe), the insurance
+re-pricing that follows investigative transparency, and the
+route revenues of a Category-1-in-good-standing bilateral
+position sum, on any serious estimate, to multiples of the
+agenda's cost. Nigerian aviation reform has never been a
+question of affordability. It is, and has always been, a
+question of whether the state prefers the system's yield to the
+system's rents — Chapter 15's recomputation, awaiting a
+sovereign who runs it honestly.
 
 ## The precondition
 

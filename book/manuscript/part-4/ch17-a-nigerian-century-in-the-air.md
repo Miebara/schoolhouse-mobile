@@ -26,6 +26,70 @@ open question — the question this whole book has been assembling — is
 what will be waiting for all those passengers: which century they will
 board into.
 
+## The arithmetic, spelled out
+
+Because "growth market" is a phrase that anesthetizes, spell the
+arithmetic in passenger lives. Nigerians today board aircraft at a
+rate on the order of a small fraction of one trip per person per
+year — against world averages several times that, and rich-country
+averages an order of magnitude higher. Hold Nigerian propensity
+merely to the trajectory that middle-income countries have actually
+walked — Indonesia's own path is the natural template — and apply
+it to a population heading past three hundred million, and Nigerian
+air traffic multiplies several-fold within a generation: tens of
+millions of additional annual passengers, thousands of additional
+daily movements, second airports for Lagos and Abuja, a cargo
+economy (the perishables, the e-commerce, the pharmaceuticals of a
+continental market) that barely exists today. The manufacturers'
+twenty-year forecasts for Africa — hundreds of new airliners for
+the continent's fleets, with West Africa's share concentrated in
+one country — are conservative translations of UN demography into
+seats. None of this requires Nigerian policy to succeed; the
+traffic comes anyway, on someone's metal, through someone's hub.
+That is precisely the point. Demand is destiny; *supply* — whose
+airlines, whose airports, whose safety system carries the wave —
+is the choice.
+
+And the wave breaks, either way, on the institutions this book has
+audited. Run the plateau scenario's numbers concretely: an
+oversight system whose inspector corps, training pipeline, and
+report tempo are sized for today's movements, subjected to three
+times the movements, is not three times as stressed — surveillance
+is a coverage function, and coverage failures compound the way
+Chapter 13's response stages multiplied. The margin the reform era
+banked is, on the plateau path, an asset being drawn down at a
+rate set by traffic growth itself. The quiet decade, extended
+mechanically into the loud decades ahead, is not a forecast of
+safety. It is a forecast of the gap between load and capacity,
+widening annually, silently, in exactly the pattern every chapter
+of Part II began with.
+
+## The hub question
+
+Geography has dealt Nigeria a hand it has never played. Lagos
+sits at the hinge of the Gulf of Guinea, positioned for the
+Atlantic crossings to Brazil and North America and the great
+north-south trunk of the continent; the natural catchment of a
+West African hub — some four hundred million people within two
+hours' flying — exceeds Addis Ababa's own. The hub prize is not
+vanity: it is the difference between a country whose citizens fly
+*through* their own economy and one whose traffic enriches
+transfer salons abroad; hubs concentrate maintenance bases,
+training academies, cargo logistics, and the high-wage technical
+employment that Chapter 12 called the promise-keeping economy.
+Today the West African hub is, functionally, distributed among
+Addis, Istanbul, Dubai, Paris, and Lomé — each carrying Nigerian
+traffic that Nigerian institutions forfeited: forfeited in the
+Nigeria Airways collapse, in the bilateral giveaways of the lean
+decades, in every audit cycle that priced Nigerian operations
+above their neighbors', and in the terminal experience that
+Chapter 2's mirror described. The hub question is thus the whole
+book restated as economics: the prize goes to the jurisdiction
+whose *system* — customs, transfers, security, reliability,
+safety — can be trusted at scale, and systems are precisely what
+this history has been about. Ethiopia built one on a fraction of
+Nigeria's endowment. The endowment waits.
+
 ## Two boarding calls
 
 Run the two scenarios honestly, because both have full precedents in

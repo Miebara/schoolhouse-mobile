@@ -55,6 +55,28 @@ exactly the function the FAA's Category 1 performed for Nigeria's
 NCAA after 2010. Nigeria could not import Ethiopia's history. It
 did, briefly, import its mechanism.
 
+The Ethiopian mirror carries one more panel that Nigerian
+discussion habitually crops out: the airline's excellence has
+coexisted, for its whole history, with a state that has been —
+by turns — imperial autocracy, Marxist dictatorship,
+developmental one-party rule, and a federation at civil war with
+itself. Ethiopian Airlines is not the product of good governance
+in general; it is the product of *one protected institution*
+inside governance that has often been dreadful. The lesson cuts
+both ways. Encouragingly: Nigeria need not fix Nigeria to fix
+its aviation — the island strategy works, and Chapter 9 showed a
+Nigerian island briefly rising. Cautionarily: the island must be
+defended forever, and Ethiopia's defense has been the
+continuity of a *state interest* (hard currency, prestige,
+strategic connectivity) that every regime in Addis has
+independently recomputed and reaffirmed. Nigeria's oil, the
+comparison suggests, was aviation's quiet curse: a state with
+petroleum never needed its airline to earn dollars, so the
+recomputation in Abuja always returned the other answer — the
+institution was worth more raided than run. Resource economics,
+not culture, set the two trajectories; the variable was what the
+sovereign needed the machine for.
+
 ## Kenya: the half-reform
 
 Kenya is the cautionary mirror — the country that did half of what
@@ -139,6 +161,37 @@ which is exactly the function Part II showed Nigeria performing
 only once, in 2006. One deposit does not compound. The American
 lesson to Nigeria is not "build an NTSB"; it is "never again waste
 a crash."
+
+## The mirrors Nigeria holds up to others
+
+Honesty about the comparative method requires rotating it once:
+Nigeria is not only a consumer of lessons but, on the evidence of
+this book, an exporter of them, and the exports deserve listing
+because they correct the frame in which the country appears only
+as pupil.
+
+The 2006–2010 turnaround is taught — in ICAO technical circles, in
+African regulatory workshops, in the FAA's own account of its IASA
+program's value — as the demonstration that a large, complex,
+low-income, federally chaotic state can rebuild oversight in a
+single political cycle. The external-witness strategy (Chapter 9's
+deliberate importation of audit exposure as a substitute for
+missing domestic constituency) has been studied and imitated;
+several African authorities' Category 1 campaigns of the 2010s ran
+the Nigerian playbook with Nigerian-trained advisors. The age-limit
+rule of Chapter 7 — wrong by textbook, right by capacity — has
+entered the practical literature on regulation under weak
+enforcement as a legitimate design pattern. And Nigeria's aviation
+professionals themselves are the continent's largest such export:
+Nigerian captains, engineers, and inspectors staff carriers and
+authorities from Accra to the Gulf, the diaspora that Chapter 3
+mourned operating, in effect, as West Africa's aviation training
+system. The pupil-teacher frame, in other words, was always too
+simple. The accurate frame is the one this chapter's algebra
+implies: every country is a natural experiment, and Nigeria has
+run more of them, at higher amplitude, than nearly anyone — which
+is a terrible way to generate knowledge, and generates it
+nonetheless.
 
 ## What travels
 
