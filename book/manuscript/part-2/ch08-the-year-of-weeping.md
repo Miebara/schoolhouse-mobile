@@ -54,6 +54,56 @@ more than any other single force, converted 2005 from another entry in
 the national ledger of sorrow into the political crisis that Chapter 9
 will show finally breaking the system open.
 
+## The night of the search
+
+The hours after Bellview 210's disappearance deserve reconstruction
+at the pace they were lived, because no dataset in this book
+displays the state's disaster machinery — every component, under
+load, simultaneously — as completely as that one night.
+
+At the moment contact was lost, the system knew, or held the means
+to know: a departure time, a cleared route, a last radar return and
+radio call, a fuel endurance. The circle of possibility was, by the
+physics, small. What the system did with it was nothing coherent.
+The airline reported the aircraft missing; the agencies' night-duty
+layers — aviation, military, police, the young NEMA — activated as
+separate organisms, each calling its own chain, none commanding the
+others. No joint rescue coordination center of the kind ICAO's
+search-and-rescue annex prescribes took charge of the picture. Into
+the vacuum came the era's new information ecology: cell phones and
+morning-drive radio. A report — its origin never satisfactorily
+traced — placed the crash near Kishi, in Oyo State, over three
+hundred kilometers north; officials repeated it, the machinery
+lurched toward it; families were told, and some began driving. For
+much of the night the Federal Republic searched the wrong forest at
+the wrong end of the country while the actual wreckage smoldered
+under canopy thirty kilometers from the departure runway. Lisa
+village's farmers found it at first light — walking, as witnesses,
+toward the smoke their government's assets had flown past — and for
+several further hours the site's custody belonged to whoever
+arrived: villagers, then journalists, then a gathering crowd, then,
+progressively, the state, arriving at its own catastrophe behind
+the general public.
+
+The counterfactual that gives the night its full weight is not
+about rescue — Lisa's impact, the evidence showed, was
+unsurvivable. It is about the *class* of event. Had 210 gone down
+at shallow angle in forest — the survivable configuration that
+accident statistics generously supply — everyone alive at impact
+would have owed their outcome to a search that took twelve hours to
+find a Boeing inside the Lagos commuter belt. Search and rescue is
+insurance written before the event; Nigeria's policy, the night
+revealed, had lapsed decades earlier, and no one had told the
+passengers paying premiums in trust. The night's lesser lessons
+compounded: manifest confusion (the passenger count itself moved
+between bulletins); family notification by rumor; the Kishi error
+never audited to source. Chapter 13 will assemble the doctrine
+these hours were missing. Here it is enough to fix the image the
+country woke to: the wreck found by farmers, the ministers arriving
+at mid-morning, and the question — asked on every front page in
+identical words — *if it had taken off and vanished, who, exactly,
+was watching?*
+
 ## Two timelines
 
 **Bellview 210.** The 737 departed Lagos at night into known
@@ -122,6 +172,71 @@ private television channels and the front pages — to be failing all
 three at once. That comprehensive visibility, unprecedented in the
 military decades, is what made 2005 politically different from
 everything before it.
+
+## The school
+
+Loyola Jesuit College sits on the Abuja plain like the argument for
+Nigerian possibility made in brick: a Jesuit boarding school, founded
+in 1996, that had become within a decade one of the country's
+academically fiercest institutions — the school whose students swept
+national competitions, whose admissions were a lottery of merit
+against wealth, whose alumni pipeline ran to the world's
+universities. Its families were the reconstruction of the Nigerian
+professional class in miniature: civil servants and doctors,
+military officers and entrepreneurs, north and south, Muslim and
+Christian in a school run by Catholic fathers — the integrated elite
+the constitution imagines. December's flight was a ritual of that
+world: the "school flight" south for Christmas, seats booked in
+blocks, younger children chaperoned by older, parents at the Port
+Harcourt terminal in the festival crowd.
+
+Sixty of the students boarded 1145. The school's magnitude of loss
+has few peacetime parallels anywhere: entire class cohorts halved,
+sibling pairs taken together, the choir and the debate team and the
+football side each with its specific, nameable holes. The Jesuits
+buried the unidentifiable together on the school grounds — the
+decision, wrenching at the time, that created the memorial garden
+where the community's grief found its permanent address. The
+school's chapel service that December, parents of the dead beside
+parents of the spared, has entered Nigerian institutional memory
+through the accounts of those present as the stillest hour of a
+loud country.
+
+What the Loyola families did next distinguishes 2005 from every
+prior chapter, and it began from a characteristic decision: they
+organized *as the school community*, not as scattered claimants.
+The parents — among them senior lawyers who understood process,
+officials who understood ministries, and mothers who understood,
+as one said to the press, that they had "nothing left to
+threaten" — formed the associations, retained the counsel,
+attended every adjournment of every proceeding, built the memorial
+scholarship funds, and made themselves, deliberately, the
+disaster's permanent institutional witness. They demanded the
+Sosoliso report and got it; they pressed the ARFF findings into
+the public record; they turned each anniversary into an audit.
+Where the widow of Chapter 14 keeps a private file, Loyola built a
+public one — and the difference, this book has argued, is the raw
+material of reform. Concentrated, organized, articulate grief is
+the only force in this history that has ever outlasted a news
+cycle, and in 2006 it was waiting, fully assembled, when the
+Sultan's aircraft fell and the political system finally reached
+for someone to answer to.
+
+The survivors complete the school's story. Two people lived
+through 1145, both terribly burned; the younger, Kechi Okwuchi, a
+Loyola student, endured the years of reconstructive surgery
+abroad that Nigerian burn medicine could not provide — itself a
+finding, Chapter 13 will note, about where the second disaster's
+costs land — and emerged, a decade later, singing before American
+television audiences with a composure that made her, for
+Nigerians, the tragedy's one unbroken thread. Her testimony about
+the fire — the impact survivable, the flames arriving before help
+— is the Sosoliso investigation's survival-factors section given a
+voice, and it has done more than any official document to keep
+the dry fire tenders of Port Harcourt in the national memory. A
+country that will not read reports will sometimes, still, listen
+to a survivor. It is not a system. It is what persists in the
+absence of one.
 
 ## Reaction: the mothers of Loyola
 

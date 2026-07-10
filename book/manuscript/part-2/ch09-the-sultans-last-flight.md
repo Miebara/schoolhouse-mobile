@@ -152,6 +152,60 @@ reading of the sequence — reform, then quiet, in a system whose every
 prior decade had supplied a major disaster — escapes the inference.
 The machine had been fixable all along.
 
+## The engineer
+
+Institutional history usually resists biography, but the Demuren
+tenure is the hinge of this book and its subject earned the
+paragraphs.
+
+Harold Demuren came to the NCAA with a résumé constructed, almost
+provocatively, outside the system he would reform: doctorate in
+aeronautical engineering from MIT by way of the Soviet Union's
+rigorous aviation academies, decades in airworthiness and
+operations, standing in the ICAO technical community where
+Nigeria's reputation was then a liability to be managed. He was, by
+the testimony of colleagues and adversaries alike, difficult in
+precisely the dimension the job required: a man for whom a
+regulation was a technical fact rather than an opening position —
+Chapter 3's waiver culture confronting, for the first time at
+altitude, an official who genuinely did not understand the waiver
+as a category. The stories from the re-certification years share a
+structure: the owner arrives with the customary escort of
+influence — the senator's call, the governor's letter, the
+"directive from above" — and leaves with a checklist, the same
+checklist, everyone's checklist. The system tested him with its
+full repertoire, documented in the era's journalism: political
+pressure, legislative summons, press campaigns funded by grounded
+operators, and at least one formal attempt at removal that
+presidential cover turned back. The cover held because the
+politics had changed — Chapter 8's organized grief, October's
+royal coffin — but the reader should register the precise
+mechanism: Demuren was not protected because he was right; he was
+protected because being seen to remove him had become, for
+eighteen critical months, more expensive than enduring him. Reform
+survived on that arbitrage, and its later plateau (Chapter 10)
+began the year the arbitrage quietly reversed.
+
+His methods repay study because they were institutional, not
+heroic, in design. He recruited back, at real salaries under the
+new levy funding, Nigerian inspectors from the diaspora — men and
+women holding FAA and EASA credentials, unimpeachable in the
+technical conversations where the old NCAA had been condescended
+to. He put the inspectorate through foreign attachments and
+brought ICAO and FAA technical teams inside the building — not as
+consultants delivering reports but as witnesses whose presence
+changed behavior. He published: the AOC register, the suspensions,
+the directives, on the theory (Chapter 11 formalized it) that a
+documented decision is a defensible one. And he aimed the whole
+apparatus at an external, dated, adjudicated target — the FAA's
+Category 1 — converting a thousand internal battles into one
+legible national campaign that ministers could take credit for
+and therefore had to protect. It was, in the strict sense,
+institutional engineering: the deliberate arrangement of
+incentives so that the system's own forces held the structure up.
+That it required an engineer to see it is perhaps the era's
+neatest irony.
+
 ## Institutional analysis: what actually changed
 
 Strip the reform to its mechanism and three moves did the work, each
@@ -182,6 +236,54 @@ Weak-state reformers everywhere should study the trick: where internal
 accountability is unbuilt, external accountability can hold the
 structure while it grows — but only if some domestic actor has the
 authority and the motive to invite it in.
+
+## The examination
+
+The FAA's International Aviation Safety Assessment deserves
+demystification, because "Category 1" performed such heavy symbolic
+work in Nigeria — and because the process's design illustrates the
+external-witness mechanism at full resolution.
+
+IASA does not audit airlines, and it does not audit outcomes. It
+audits the *state*: can this country's civil aviation authority,
+measured against ICAO's eight critical elements — the legislative
+framework, the regulations, the organization, the technical
+personnel and their training, the guidance material, the licensing
+and certification machinery, the surveillance obligations, and the
+resolution of findings — actually perform the oversight it claims?
+The examiners read files: inspector qualification records,
+surveillance schedules against completions, enforcement actions
+against their dispositions. The genius of the instrument is that it
+cannot be performed for. A minister can stage a terminal opening; no
+one can stage five years of inspector training records over a
+weekend. When the FAA team certified Nigeria in August 2010 — after
+years of assessment cycles, findings, and closures — the
+certification's real content was archival: the paper trail of a
+functioning regulator existed, was internally consistent, and had
+been maintained under scrutiny through a change of government
+(Obasanjo to Yar'Adua to Jonathan) that would, in any previous era,
+have reset the system to zero.
+
+The reward structure explains why the campaign held political
+attention. Category 1 unlocked direct flights to the United States
+by Nigerian carriers — Arik's Lagos–New York service followed —
+with everything that implied for the diaspora corridor, cargo, and
+national vanity; it repriced Nigerian risk for lessors and insurers
+at the margin; and it conferred the intangible that Chapter 1
+flagged as the profession's deepest wound: the world's most
+demanding aviation authority stating, in a public register, that
+Nigerian oversight was oversight. The professionals of the era
+describe the announcement in the language of vindication, not
+achievement — *we were always capable; now it is countersigned.*
+The distinction matters for everything after: capability had never
+been the variable. The variable was arrangement, and the
+countersignature certified the arrangement — which meant, though
+no one said it at the podium, that the certificate was mortgage,
+not deed. Category 1 is re-assessed continuously; Nigeria has
+retained it, but the margin, auditors' subsequent cycles suggest,
+has narrowed with the plateau. Countersignatures can be withdrawn.
+The FAA has downgraded richer countries than Nigeria for letting
+the files thin.
 
 ## Comparative note: 1958 and the uses of catastrophe
 

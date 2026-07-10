@@ -43,6 +43,53 @@ smartphones and satellite channels that had not existed in 2005. The
 second disaster — Chapter 13's subject — had acquired an audience of
 millions.
 
+## The afternoon, hour by hour
+
+The Iju-Ishaga scene rewards a closer frame than the summary above,
+because 2012's response was the reformed system's response — and
+the differences from 2005, and the samenesses, are both findings.
+
+The aircraft struck at a few minutes to four on a Sunday afternoon,
+into a street of two- and three-story buildings — residential over
+commercial, a furniture workshop, a printing house, the church
+crowd dispersing nearby. The neighborhood's own response was
+instantaneous and enormous: within minutes the site was ringed by
+thousands, the young men of the district climbing the collapsed
+structure with buckets, jack handles, and phone flashlights,
+passing debris hand to hand. The professional response was faster
+than 2005 — Lagos State's emergency agency, LASEMA, born of the
+state's own post-2005 investments, had crews moving inside the
+hour; the federal agencies followed — and it was still defeated by
+the two variables no siren solves: access and equipment. The
+throngs that had beaten the responders to the site now stood
+between them and it; Lagos Sunday traffic did the rest. The
+decisive deficit was lift — the collapsed building needed heavy
+cranes, and the first crane equal to the slab arrived after dark,
+hours into a fire fought meanwhile with water tenders shuttling
+from distant hydrants. No one aboard could have been saved by
+speed; the recorders and the medicine established that. On the
+ground, where survival was being negotiated under the slab, the
+crane's timeline was the negotiation, and nobody has ever published
+an accounting of what it cost.
+
+Two social facts from the afternoon carry the analysis. First, the
+crowd was not incidental; it was constitutive. Nigerians came to
+the site because coming is what the previous twenty years had
+taught: the state arrives late, help is a neighbor, and presence
+is the only oversight. The crowd impeding the rescue was the
+accumulated residue of every earlier chapter's failed response —
+distrust, embodied, at scale, complicating the very operation it
+had assembled to compensate for. Second, the smartphones. 2012 was
+Nigeria's first fully documented disaster: the fire, the crowd,
+the late crane, all of it streamed and timestamped by hundreds of
+hands, unmediated by any ministry. The information monopoly that
+had let 1992 be sealed and 1996 be managed was structurally gone.
+Whatever the institutions failed to learn from Dana 992, the
+public now possessed its own archive — and the political science
+of the following decade, from FlySafe passenger campaigns to the
+legislative theater around every subsequent incident, runs on that
+possession.
+
 ## The investigation and its tempo
 
 The AIB, product of the reform, performed the forensic core of its
@@ -128,6 +175,55 @@ becomes the NTSB or merely wears its organogram is, at this writing,
 the live question — and by the standard this book has applied
 throughout, the answer will be read not in its enabling act but in
 its publication rate.
+
+## The decade the reform aged
+
+Between Dana 992 and this book's writing runs the longest
+catastrophe-free stretch in Nigerian scheduled aviation, and its
+texture — how a reform behaves as it ages, unrenewed — is the
+chapter's real subject. Four episodes give the texture its dates.
+
+The Demuren removal, 2013. Weeks after an Associated Airlines
+charter crashed at Lagos, the government suspended and then
+replaced the NCAA's Director-General — the reform's architect,
+months from tenure's end, removed in the reflexive
+accountability-theater of a crash his agency's decade had made
+exceptional. The signal traveled the system at once: tenure
+protection held only until it was tested by embarrassment, and the
+DG's office resumed, gradually, its pre-2006 political weather.
+The office has turned over with governments since. Architecture
+without its politics, Chapter 11 warned, is stationery; 2013 was
+the warning's date of issue.
+
+The Arik and Aero interventions, 2016–17. The consolidation era's
+two largest carriers, drowning in the naira crisis's dollar
+arithmetic (Chapter 12's constant, returned), were taken into the
+care of AMCON, the state's bad-asset manager — receivership by
+another name. The interventions arguably prevented uncontrolled
+collapses with safety implications; they also placed the state,
+once again, inside the ownership of the industry it regulates,
+recreating in miniature the conflict the 2006 settlement had
+dissolved. The regulator now oversaw airlines whose losses were
+the treasury's; every grounding decision carried a fiscal echo.
+No crash resulted. The arrangement's grade is pending.
+
+The 2022 statutes. The Civil Aviation Act was renewed and the NSIB
+created — Chapter 14's half-full glass — codifying investigative
+independence with multimodal scope. The legislative machinery, at
+least, still converts lessons into law; the statutes are the
+plateau's genuine credit entries.
+
+And the near-misses that didn't make the evening news: the runway
+excursions, the pressurization turn-backs, the bird strikes and
+gear collapses that the NSIB's bulletins now document — each
+handled, none catastrophic, the system's margins visibly thinner
+in the reports' recurring findings (lighting unserviceable,
+friction testing overdue, wildlife control absent) than the
+absence of funerals suggests. Safety professionals read
+precursor data the way seismologists read tremors. The tremor log
+of the 2010s and 2020s says the fault is loaded and the
+building's retrofit is holding — and that maintenance of the
+retrofit, not celebration of it, is the decade's assignment.
 
 ## Institutional analysis: what a plateau looks like
 
