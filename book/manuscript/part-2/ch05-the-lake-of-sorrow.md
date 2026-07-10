@@ -69,6 +69,47 @@ and vast — and they were also, in the manner of military states, tightly
 produced: the imagery of dignified sacrifice, the vocabulary of God's
 will, and no questions from the floor.
 
+## The week at the canal
+
+The recovery deserves more than the sentence histories give it,
+because the week at the canal was, for the tens of thousands of
+Lagosians who witnessed it, the event itself — and because its
+details are the emergency-response chapter of this book (Chapter 13)
+written twenty years early, in mud.
+
+The site defeated every asset the state sent. The canal ran through
+swamp; the approaches took no wheeled crane; the water was opaque
+with fuel, silt, and decomposition within a day. Military divers —
+the navy's and hired civilians — worked by feel in zero visibility,
+roped to the bank, bringing out remains that the tropical week made
+progressively harder to identify or even to count; the tallies
+released day by day did not reconcile, and the final figure never
+settled beyond "about 158," a phrase that should be impossible for a
+manifested military flight and was not. Refrigeration failed or never
+arrived; the mortuary chain improvised across Lagos hospitals; and
+identification proceeded by effects — a wallet, a course notebook, a
+wristwatch — in an era before DNA matching, with results that several
+families dispute to this day. The armed forces buried some of their
+dead collectively. For an institution whose entire ceremonial
+vocabulary presumes the named individual grave, the collective grave
+was a confession no communiqué could unsay.
+
+Around the recovery, Lagos behaved as Nigerian crowds behave at every
+disaster in this book — which is to say, better than the systems
+above them. Ejigbo residents guided divers to where they had seen
+the aircraft strike; market women ran a feeding line for the
+recovery crews; local boys dove, unpaid and unasked, in the first
+hours when it might have mattered. The military cordon, when it
+consolidated, pushed the neighborhood back from the water it had
+been working since the first afternoon — the state reasserting
+custody of a catastrophe it had been late to, another figure this
+book will meet again at Iju-Ishaga. And the crowd absorbed one more
+lesson in the era's civics: that the uniformed state's first
+operational instinct at a disaster site was the management of
+witnesses, not the rescue of victims. Trust is a ledger. The week at
+the canal posted a debit that the Nigerian military's domestic
+reputation carries still.
+
 ## The investigation that never surfaced
 
 A board of inquiry was convened, as military procedure required. It
@@ -140,6 +181,46 @@ When the state abandons memorialization, memory privatizes — a theme
 this Part will keep meeting, and one with civic consequences: a public
 that learns that remembrance is private learns that accountability is,
 too.
+
+## The lost generation, audited
+
+The claim that Ejigbo killed "a generation of military intellect" is
+repeated so often in Nigerian commentary that it deserves the audit
+this book applies to every inherited sentence. What, verifiably, was
+aboard NAF 911?
+
+The passenger complement was built around officers connected to
+the Command and Staff College's senior course — the mid-career
+gate through which the services select and shape their future
+directing staff. Passage through Jaji was (and is) the credential
+that separates officers who will administer the military from
+officers who will command it; a senior course's roll is therefore, by
+construction, a forecast of the establishment fifteen years out. The
+dead of 26 September included officers of all three services in the
+captain-to-colonel band, several instructors, and allied students
+from other African armies — the whole cross-section, in other words,
+of the institution's investment in its own future. Contemporaries
+describing the loss reached for the same figure this chapter's
+epigraph uses: it was not a unit that died but a *cohort* — the
+military equivalent of a country losing an entire graduating class
+of its best medical school in one afternoon.
+
+What is not auditable is the counterfactual that Nigerian
+conversation builds on the cohort's grave: the reforming chiefs,
+the coups declined, the professionalism preserved. Honesty requires
+the harder observation. The officers of NAF 911 were products of the
+same institution whose decay killed them, and no roster of
+individual quality has ever, in this book's evidence, outperformed
+institutional design. Had they lived, they would have risen through
+the same politicized promotion boards, the same budget triage, the
+same culture of the sealed report — and the 2021 crashes of Chapter
+10 would likely have found some of them in the eulogist's seat
+rather than the caskets. The generation was real and the loss was
+real; the fantasy is that personnel, however excellent, could have
+carried what only institutions carry. The truest thing mourned at
+Jaji was not the future the cohort would have built. It was the
+system that could waste them twice — once in the canal, and once in
+the filing cabinet where the explanation went.
 
 ## Institutional analysis: the uniform exception
 

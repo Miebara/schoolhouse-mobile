@@ -202,6 +202,49 @@ neither influenced nor understood; and remembrance privatized into
 family and mosque, because the state built no memorial and appointed no
 anniversary. Grief, like regulation, was outsourced.
 
+## What the industry learned: the technical afterlife
+
+Because the rest of this chapter concerns what institutions failed to
+learn, the record should first show what the profession did learn,
+globally, from Flight 2120 — a demonstration of the honesty machine
+of Chapter 14 working as designed, for everyone except the country
+of the victims.
+
+The accident became a foundation stone of maintenance human-factors
+education. It supplied the canonical answer to a question every
+maintenance organization must decide in advance: what happens in our
+company when the correct action is unavailable and the schedule is
+waiting? The Jeddah answer — fly it anyway, it's only tires — entered
+the textbooks precisely because tires had seemed so far down the
+criticality ladder. The lesson generalized: there are no minor
+systems on a transport aircraft at gross weight, only systems whose
+failure modes have not been imagined vividly enough. Regulators and
+manufacturers moved along the specific vectors the report drew:
+tire-pressure monitoring systems migrated from luxury to standard on
+subsequent designs; wheel-well fire detection, already present on
+newer types, became an airworthiness talking point for the older
+generation; and dispatch-with-defect governance — the Minimum
+Equipment List culture that specifies exactly what may be broken and
+for how long — tightened its language around landing gear. The crews
+of today's aircraft, including every aircraft in Nigerian service,
+inherit those changes without knowing their origin. This is how the
+system is supposed to work: the dead of one operation purchasing
+protection for all operations, through institutions that convert
+findings into requirements.
+
+Note, then, the asymmetry that defines this chapter. The
+*international* learning loop closed: Montreal, Washington, and the
+manufacturers metabolized Jeddah into worldwide practice within a
+few years. The *national* loop — the one that should have
+reformed Nigerian charter oversight, Hajj contracting, and manifest
+integrity — never engaged. Nigeria received the global safety
+dividend passively, as a customer of the world's aircraft, while
+declining the specific institutional lessons addressed to it by
+name. A state can free-ride on world aviation's honesty machine for
+the physics; it cannot free-ride for the governance. The physics
+travels in the airframe. The governance has to be built at home,
+and Part II is what its absence cost.
+
 ## The dead
 
 Before the analysis, the arithmetic of the loss, because numbers of this

@@ -34,6 +34,55 @@ and economic system that kept such aircraft in mass passenger service
 two decades past their design era — and about the third parties who
 carried the risk without ever entering the transaction.
 
+## The quarter and the carrier
+
+Gwammaja first. The quarter the aircraft fell into belongs to the
+oldest continuously inhabited urban fabric in West Africa — the
+walled city's dense weave of family compounds, Koranic schools,
+workshops, and markets, built at pedestrian scale over centuries,
+its lanes too narrow for a fire engine and never planned to need
+one. When Kano's airport was sited in the colonial era, it stood
+well clear of the walls; by 2002 the city of some three million had
+long since flowed around and past it, as every African airport city
+has flowed around its runways — Lagos around Ikeja, Nairobi around
+Embakasi, Cairo around Heliopolis. Aviation planning has a
+vocabulary for managing this convergence: public safety zones,
+obstacle limitation surfaces, land-use controls under the runway
+funnels where accident probability concentrates. The vocabulary
+existed in Nigerian regulations as it exists in most; its
+enforcement would have required the federal airport authority, the
+state government, the municipal planning offices, and the emirate's
+land customary structures to act as one — and no institution in
+this book has yet managed to be one thing, let alone four. So the
+funnels filled with people. The probability field that engineers
+draw as contours off a runway's ends lay, in Kano, across roofs
+that held sleeping families, and on 4 May 2002 the contours
+collected.
+
+The carrier, second. Executive Airline Services — EAS — was a
+mid-tier operator of the post-deregulation second wave, flying a
+small fleet of elderly BAC 1-11s on the trunk routes at fares the
+market could bear. It was neither the era's worst operator nor
+close to its best: its aircraft were legal, its crews licensed, its
+existence certified annually by the oversight system Chapter 11
+has anatomized. That ordinariness is the finding. Investigations
+after 4226, formal and journalistic, found no monstrous
+deviation — they found the *standard* condition of the era's
+marginal carrier: thin capital, geriatric equipment, weight-and-
+balance culture loose in the way the whole domestic system was
+loose, engineering dependent on a spares bazaar of salvaged and
+brokered parts. EAS was the median, and the median crashed. When a
+system's typical firm, operating typically, produces catastrophe,
+the actuarial language for that system is not "risky"; it is
+"priced to kill on schedule." The 1-11's own biography completed
+the indictment: designed in the England of 1963, banned from its
+homeland's skies by the noise directives of the 1980s, and living
+out its retirement — like the 707s and 727s beside it — on the one
+continent whose regulators could not afford to refuse it. Chapter
+12 will formalize what Gwammaja paid for informally: the world's
+aircraft, like its risks, obey a gradient, and the gradient runs
+downhill toward the weakest institutions.
+
 ## Timeline
 
 Reconstruction of 4226's last ninety seconds, from the investigation's
@@ -150,6 +199,51 @@ measured in the coffins of 2005 — but the demand's existence is why
 2005's story, unlike 1992's, ends in reform rather than silence.
 The reader should mark 4226 as the hinge where Nigerian aviation
 politics changed phase, even though its immediate harvest was thin.
+
+## The ledger of the uncounted
+
+What Nigeria owed Gwammaja after 4 May 2002, and what it paid,
+deserves its own accounting, because the surface victim's claim is
+the cleanest test of a compensation system: no contributory
+questions, no ticket contract, no assumption of risk — pure,
+uncomplicated liability.
+
+International aviation law had recognized the surface victim for
+half a century (the Rome Convention framework); Nigerian law
+provided routes through the carrier's insurance and the ordinary
+courts. The practice, reconstructed from press investigation and
+the victims' associations' long paper trail, ran otherwise. The
+airline's insurance position — adequate on paper for certification,
+layered through local underwriters and international reinsurance —
+became, upon the event, a fortress of process: claims requiring
+documentation (title deeds, death certificates, letters of
+administration) that the informal city does not generate;
+adjusters valuing compound housing by formulas built for insured
+suburbs; settlements offered at fractions, accepted from
+exhaustion, or litigated into the second decade. Government
+gestures — a relief fund, rebuilding pledges, a presidential
+visit — followed the disaster-politics cycle and receded with it.
+Years later, journalists marking anniversaries found Gwammaja
+households still holding files, Chapter 14's widow multiplied by a
+neighborhood: the claim intact, the process eternal, the
+counterparty airline long dissolved. EAS itself did not survive
+the year's regulatory aftermath; its liquidation converted the
+remaining claims from slow to moot.
+
+The pattern generalizes beyond one quarter of one city, and it
+completes this chapter's argument. A liability system is the
+economy's mechanism for pricing harm back onto its producers —
+the institutional lattice-strand that, in the American comparison
+of Chapter 12, makes negligence expensive enough to deter. Where
+the courts are slow, the records informal, and the defendant
+mortal (corporately speaking), the price of harming third parties
+rounds to zero, and a cost that rounds to zero is a cost no
+spreadsheet will ever avoid. The uncompensated of Gwammaja are
+thus not only a moral failure; they are a market signal, received
+clearly by every marginal operator of the era: the downside of
+falling on a neighborhood is survivable, for everyone except the
+neighborhood. Systems get, in the long run, exactly the accidents
+they price for.
 
 ## Comparative note: Indonesia, the twin
 

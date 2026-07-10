@@ -35,6 +35,48 @@ with a closure speed close to a thousand miles an hour, and the
 controllers' paper picture had them safely apart until, suddenly, the
 picture and the sky disagreed.
 
+## The men in the tower
+
+Before the timeline, meet the profession this chapter turns on,
+because Nigerian public anger after the crash fell first and hardest
+on the controllers — and the record, examined, redirects it.
+
+An air traffic controller's work is often described as the world's
+most stressful job, which misses its actual character: it is the
+world's most *dependent* job. A controller produces exactly one
+thing — separation — and produces it entirely from inputs others
+provide: surveillance (radar), communication (radios that work),
+navigation (aids the aircraft can trust), procedures (airspace
+design), and staffing (a relief when the shift exceeds human
+vigilance). Strip those inputs and the controller does not become
+lazy; he becomes a virtuoso of the workaround, Chapter 3's figure in
+its purest form — running a jet terminal area on flight-progress
+strips of paper, mental arithmetic, pilots' honesty, and a transceiver
+that fades in rain. Nigerian controllers of the 1990s did precisely
+this, daily, for years, and their professional associations' archives
+are a chronicle of warnings filed upward with bureaucratic
+correctness and answered with silence: radar unserviceable, radios
+degraded, staffing below establishment, overtime chronic. The
+Nigerian Air Traffic Controllers' Association had been raising the
+system's condition for years before November 1996 — in memoranda, in
+the press, in the strike threats that a military government treats
+as mutiny. The inputs never came. The traffic did.
+
+The controllers of 086's last minutes were therefore performing a
+task the state had already decided, by budgetary conduct, was
+optional: maintaining a truthful picture of the Lagos sky. When the
+picture failed, the failure was attributed — in the first news
+cycles, in the ministry's body language, in the criminal
+investigation that briefly circled the tower — to the men who had
+been reporting the picture's decay through every channel the system
+offered. It is the blame reflex of Chapter 14 in its exact habitat:
+the frontline professional as lightning rod for the institutional
+weather. The eventual report distributed causation more honestly.
+But the first-week reflex taught the workforce its own lesson about
+candor's price, and recruitment into Nigerian air traffic control —
+already strangled by pay scales — carried the memory for a
+generation.
+
 ## Timeline
 
 The final minutes of Flight 086, reconstructed in the Accident
@@ -138,6 +180,50 @@ the assurance that hazards flagged from below will be assessed and
 answered. Every unanswered radar complaint from before November 1996
 was a small tuition payment in the opposite curriculum, and Part III
 will trace how long that schooling took to undo.
+
+## Fourteen years to a picture: the TRACON saga
+
+The radar's afterlife is worth narrating in its own right, because
+the procurement story between the promise of 1996 and the
+commissioning of 2010 is a core sample of the Nigerian state drilled
+through three regimes.
+
+The Abacha government announced modernization; a contract
+materialized in the late 1990s amid the era's procurement opacity
+and then dissolved with the regime itself in 1998. The restored
+democracy re-scoped the project; years passed in the committee
+purgatory that Nigerian capital projects inhabit — budget cycles
+missed, counterpart funding unreleased, contractors changed,
+specifications relitigated. The eventual instrument, the Total Radar
+Coverage of Nigeria project — TRACON, contracted in the mid-2000s
+with Thales and driven to completion in the post-2006 reform
+atmosphere — delivered, by 2010, the picture the controllers of 1996
+had worked without: overlapping radar heads covering the upper
+airspace and the terminal areas, displayed on modern consoles, in
+centers with air conditioning that worked. Veterans of the tower
+describe the commissioning with the flat affect professionals
+reserve for overdue justice: the screens simply showed, at last,
+what had always been there.
+
+Three observations convert the anecdote into evidence. First, the
+technology was never the constraint: radar of the required class
+was a catalogue purchase in 1996, as it had been in 1986. The
+fourteen-year gap was purely institutional — the time required for
+the Nigerian state's procurement metabolism, unassisted by crisis,
+to convert an acknowledged lethal deficiency into installed
+equipment. Second, the project completed only when it found
+shelter inside the post-2006 reform's political weather — protected
+budget lines, a minister and DG with reasons to finish it, external
+auditors watching. Infrastructure, like regulation, advances in
+Nigeria when and only when someone powerful is measured on it.
+Third, and the note this book keeps striking: the dead of 086 are
+inside that radar the way the dead of Jeddah are inside the world's
+tire-pressure monitors. The system's improvements are cemeteries,
+reorganized as capability. The question Part IV will press is
+whether a state can learn to pour the concrete before the funerals
+— because the 2010s' answer, TRACON's own maintenance and upgrade
+cycles slipping in the 2020s as attention faded, suggests the
+metabolism has not changed; it was only, for one decade, fed.
 
 ## Institutional analysis: the commons and the queue
 
