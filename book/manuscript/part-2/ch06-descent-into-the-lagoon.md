@@ -117,6 +117,42 @@ manifest was reconciled to reality after the fact. Once again, families
 learned the news from radio bulletins that could not tell them whether
 their particular grief was confirmed.
 
+## The panorama: aviation's darkest month
+
+Five days after 086 went into the lagoon, on 12 November 1996, a
+Saudi 747 departing Delhi and a Kazakh Il-76 inbound collided at
+altitude over Charkhi Dadri, killing 349 — the deadliest mid-air
+collision in history. The same autumn had already seen a Peruvian
+757 fly into the Pacific off Lima with its static ports taped
+over, and a hijacked Ethiopian 767 ditch off the Comoros before
+the cameras of tourists on the beach. November 1996 remains, in
+the trade's memory, the nadir of the decade — and the cluster was
+not coincidence but pattern: every one of those accidents came
+from the same seam this chapter has been mining. Charkhi Dadri
+was procedural airspace under explosive traffic growth — Delhi's
+single corridor, no secondary radar coverage adequate to the
+load, Soviet-built aircraft without TCAS, controllers stacking
+opposing streams on one airway: Lagos's arithmetic, at Indian
+volume. The response is the instructive half: India, stung before
+the world, mandated TCAS and accelerated its airspace
+modernization on a timetable measured in years, not decades —
+the crash converted into infrastructure at nearly American 1958
+speed, by a democracy with a functioning transmission between
+catastrophe and budget.
+
+The global cluster carries one more lesson for reading 086
+honestly. The mid-1990s were the moment world aviation's growth
+outran its mid-century infrastructure *everywhere* — the
+procedural-control seam ran through Delhi, Lagos, and a dozen
+other exploding terminal areas simultaneously. What
+distinguished outcomes was never exposure to the seam; it was
+each system's speed in closing it. The United States had closed
+it by 1965, India substantially by 2000, Nigeria not until 2010.
+Ranked by that single metric — years from demonstrated lethal
+deficiency to installed remedy — the world's aviation systems
+sort into precisely the order their accident records show, which
+is the book's argument reduced to one sortable column.
+
 ## The investigation
 
 The AIB's report on ADC 086 — completed years after the accident, in

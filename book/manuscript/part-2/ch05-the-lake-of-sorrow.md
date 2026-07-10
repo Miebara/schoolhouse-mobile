@@ -142,6 +142,53 @@ trainer losses that punctuate the following decades, culminating in the
 published learning, exactly as one would predict: an institution
 condemned to resit an exam whose answers it had sealed.
 
+## The panorama: armies in the air, 1992
+
+The C-130 Hercules is the great common denominator of the world's
+militaries — the four-engined truck that every serious and
+semi-serious air force has operated since the 1960s — and its
+global safety record is therefore a controlled comparison always
+running in the background. The aircraft itself is famously rugged
+and famously forgiving; the variance in its loss rates across
+operators is, to a first approximation, pure institution. American,
+British, and Australian Hercules fleets, flown hard for decades
+including into actual wars, sustained loss rates that made each
+hull loss an event of formal reckoning; the fleets of the
+under-audited world lost the same aircraft in peacetime, on
+administrative flights, at rates that told the real story about
+maintenance depth, fuel custody, loadmaster discipline, and crew
+currency. Sub-Saharan Africa's military transport losses of the
+1980s and 1990s — a grim series across a dozen countries,
+Ejigbo the largest — cluster in the same causal families:
+deferred engine overhauls under budget siege, fuel quality,
+overload culture, and the training atrophy of forces whose flying
+hours were the first casualty of austerity. Nigeria's 1992 was,
+in this sense, a continental pattern expressing itself at
+Nigerian scale.
+
+The pattern had a driver worth naming: the strategic mismatch of
+the post-colonial military. Armies sized and equipped for
+symbolic sovereignty — the jets for the flypast, the transports
+for the peacekeeping deployment — carried first-world equipment
+on third-world sustainment budgets, with no external institution
+(no alliance airworthiness regime, no NATO-style standardization
+audit, no parliamentary estimates committee with teeth) to
+enforce the arithmetic between the two. The exceptions prove it:
+African air arms embedded in serious external partnerships, or
+required to certify against civilian co-use standards, kept
+measurably better fleets. NAF 911 was carrying, that afternoon,
+the very officers whose curriculum at Jaji included the phrase
+"logistics is strategy." The institution teaching the phrase
+could not apply it to its own airlift, because — the chapter's
+recurring answer — no organ outside the hierarchy existed to
+score the exam. When the reader reaches the 2021 crashes in
+Chapter 10, flown by a much richer NAF in a much noisier
+democracy, the question to carry is whether any such organ had
+been built in the intervening twenty-nine years. The answer,
+documented there, is no — and the continental pattern, too,
+persists into the present, which is why Chapter 16's military
+airworthiness item is written for more capitals than Abuja.
+
 ## Reaction: the regime, the army, the city
 
 The Babangida government's handling of Ejigbo was of a piece with its

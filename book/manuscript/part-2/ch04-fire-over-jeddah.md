@@ -141,6 +141,55 @@ single disaster ever suffered by a Nigerian civil operation. It is
 commemorated in almost no public place in any of the three countries
 whose flags the aircraft wore.
 
+## The panorama: 1991 and the gray middle of world aviation
+
+Widen the lens for a moment, because Flight 2120 belongs to a
+global story as well as a Nigerian one.
+
+The world aviation of 1991 was two industries wearing one name. The
+visible industry — the scheduled majors of North America, Europe,
+and East Asia — was completing its great safety transformation:
+glass cockpits, crew resource management, ground-proximity warning
+systems, the accident curves bending toward the modern miracle. The
+other industry lived in the gaps: the charter brokers and wet-lease
+merchants, the aging freighters and surplus airliners circulating
+through second and third registries, serving the demand the majors
+would not touch — pilgrim surges, labor migrations, war-zone
+freight, sanctions traffic, the World Cup, whatever paid. This
+gray middle was not criminal (mostly), and not unregulated
+(nominally); it was *jurisdictionally diluted*, its operations
+structured — often deliberately — so that no single authority saw
+the whole picture. The early 1990s were its golden age: the Soviet
+collapse was dumping fleets and crews onto the market at scrap
+prices, deregulation had normalized the broker culture, and the
+Gulf War's airlift had just demonstrated how much lift could be
+conjured, from how many flags, at what speed, when price was no
+object and paperwork negotiable.
+
+Nigeria was among the gray middle's great customers — the Hajj
+made it so annually — but the point of the panorama is that the
+customers came from everywhere: the same wet-leased hulls rotated
+through Indonesian tour charters, Central Asian resettlements,
+and European inclusive-tour seasons. The victims of the gray
+middle's accident record through the 1990s spoke a dozen
+languages. What determined which customers bled was the depth of
+the receiving state's own scrutiny — the ramp checks, the charter
+vetting, the willingness to reject cheap lift. The strong states
+skimmed the gray market's genuinely serviceable capacity;
+the weak states took delivery of its risk. 2120 was thus not an
+African accident that happened to involve a Canadian airline; it
+was a gray-market accident that happened to be delivered, as the
+market's worst outcomes systematically were, to the customer
+least equipped to inspect the merchandise. The market has since
+been substantially cleaned — by ICAO's lease rules, the EU
+blacklist, SAFA ramp inspections, and the insurers — which is to
+say, by exactly the apparatus of layered scrutiny whose absence
+this chapter has been describing. The gray middle still exists;
+it always will. It now finds fewer places to land. Making one's
+country a hard place for it to land is among the most
+undervalued services an aviation authority performs, and in 1991
+Nigeria performed the opposite.
+
 ## The investigation
 
 Jurisdiction followed the Chicago Convention: Saudi Arabia, as the state

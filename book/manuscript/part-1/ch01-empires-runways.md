@@ -316,6 +316,58 @@ correspondence, the bereaved as an audience the state may address or not,
 as it finds convenient. Institutions transmit their reflexes to their
 successors, and secrecy is a reflex.
 
+## The world that was watching
+
+Zoom out, as this book will do once in every chapter, to the
+panorama: what was aviation, in the world of 1925, when the
+biplanes circled Kano?
+
+It was barely a technology and mostly a promise. The Atlantic had
+been flown nonstop only six years earlier; scheduled passenger
+aviation was a novelty of the European capitals, flown in
+converted bombers by veterans of the war that had built them;
+navigation was by railway line, river bend, and prayer. And yet
+every serious government on earth had already concluded that the
+promise was strategic. The 1919 Paris Convention — aviation's
+first international law — had established the principle that
+would govern everything after: every state possesses complete
+and exclusive sovereignty over the airspace above its territory.
+Sovereignty over the air, decided in Paris while the colonial
+map was being redrawn at the same conferences, meant that
+Africa's skies belonged, in law, to the empires that held its
+soil. The Chicago Convention of 1944, which replaced Paris and
+still governs, kept the sovereignty principle intact; what
+changed in 1960 was merely the flag to which Nigerian air
+sovereignty attached. The deep grammar of aviation governance —
+territorial sovereignty, national registries, state
+responsibility for oversight — was written in and for a world of
+strong states. It has never been revised for the world of weak
+ones, and a large fraction of this book can be read as the
+account of what happens when a state-shaped legal architecture
+is inherited by a state still assembling itself: the
+responsibilities are sovereign, immediate, and non-delegable;
+the capacities are colonial residue. International aviation law
+assigns Nigeria the duties of France without asking whether the
+assignment is funded. Nobody designed that mismatch. Everybody
+in this book lives inside it.
+
+The panorama also fixes the era's honest baseline: aviation in
+1925 was mortally dangerous everywhere. Imperial Airways' own
+loss rates would horrify a modern budget carrier; the American
+airmail service consumed pilots at a rate that made its name a
+byword; the profession's culture of workaround-heroism —
+celebrated then, lethal always — was global. What distinguished
+the next century was not that some countries started safe and
+others dangerous; everyone started dangerous. It is that some
+polities built, decade by decade, the institutional machinery
+that converted a stunt into a utility — and the building was
+cumulative, unglamorous, and constant. The divergence between a
+2 a.m. maintenance hangar in Atlanta and one in Lagos in 1995
+was manufactured, year by year, by choices this book will
+watch being made. In 1925, over Kano, the ledger still stood
+at zero everywhere. That is worth holding, against every
+temptation to read what follows as destiny.
+
 ## The comparison worth making
 
 It is tempting to treat all of this as simply the standard colonial

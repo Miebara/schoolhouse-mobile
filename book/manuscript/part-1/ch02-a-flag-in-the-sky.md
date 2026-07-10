@@ -307,6 +307,49 @@ inhabited it, and the whole boom-bought apparatus of Nigerian flight — the
 same slow subtraction, deferral by deferral. It required only that the
 money stop. In 1981, it stopped.
 
+## After Kano: the anatomy of a non-response
+
+Because Chapter 4 will lean on the claim that 1973's lessons went
+unlearned, the non-response deserves its own forensic paragraph
+rather than an aside.
+
+What a functioning system does after a disaster of Kano's scale
+has a checklist, and the checklist existed in 1973 — ICAO's Annex
+13 was already two decades old. State of occurrence opens an
+investigation with international participation; findings are
+published; recommendations are tracked to closure; and the
+policy layer asks the second-order question: what class of
+operation produced this, and does the class need redesign? Jordan
+and the manufacturer's state had standing; Nigeria, as state of
+occurrence, held the pen. The public record of what followed is
+thin to the point of transparency — no published Nigerian report,
+no gazetted findings, no traceable reform of the charter
+apparatus. The Gowon government, months from the oil embargo
+windfall that would transform its budget and attention, treated
+the event through the era's two available frames: religious
+(martyrdom in pilgrimage, a consolation with deep legitimacy)
+and diplomatic (a Jordanian aircraft, handled state-to-state).
+The third frame — systemic, regulatory, checklist-driven — had
+no domestic constituency to insist on it. The Hajj apparatus
+itself, answering to religious-affairs authorities rather than
+aviation ones, continued under successive arrangements that
+each subsequent decade found wanting: the pattern of surge
+charters at minimum price under maximum schedule pressure
+persisted into the 1990s, when Chapter 4 collects its
+consequence, and into controversies well beyond.
+
+The non-response of 1973 thus establishes the baseline against
+which 2006's response must be measured — and the measurement is
+the book's spine. Same country, same class of shock; thirty-three
+years apart; opposite institutional outcomes. Whatever changed
+between Gowon's Nigeria and Obasanjo's was not the people, the
+religion, or the "culture" — it was the presence, by 2006, of a
+democratic information market, an organized victims'
+constituency, and an installable institutional design waiting on
+the shelf. History rarely runs so clean a controlled trial on a
+single nation. This book is, among other things, that trial's
+report.
+
 ## What the flag concealed
 
 Here the comparative lens earns its keep, because the 1970s offered a

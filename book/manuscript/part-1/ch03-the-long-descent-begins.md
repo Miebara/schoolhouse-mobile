@@ -127,6 +127,32 @@ disciplining an industry ten times the size — in dollars it did not have,
 with staff it could not train, under governments for which aviation
 policy meant the presidential fleet.
 
+The licensing wave itself deserves a closer frame, because its
+mechanics predetermined the fleet Part II buries. An air operator's
+certificate, in the mature systems, is among the hardest documents
+in commerce to obtain: proving out an airline's manuals,
+maintenance arrangements, crew training, and finances consumes
+years and consultants. The Nigerian AOC of the late 1980s and
+1990s was, by the accounts of those who acquired them,
+substantially a political-commercial document: capital requirements
+nominal, financial fitness review cursory, and the technical
+examination conducted by the starved directorate this chapter has
+described — a handful of inspectors certifying dozens of
+applicants with the same stopwatch honesty the Lagos controllers
+were applying to the sky. The applicants themselves ranged from
+serious aviation people (the ADC nucleus) through traders
+diversifying out of shipping and finance, to fronts whose airlines
+existed chiefly as dollar-allocation vehicles in the era's
+arbitrage economy — an AOC being, among its other properties, a
+claim on foreign exchange at official rates. The register thus
+filled with entities for which the airline was not the business
+but the instrument, and an instrument's maintenance budget is
+exactly as deep as its usefulness. When Chapter 12 tallies the
+corporate graveyard, the reader should remember where the
+headstones were quarried: in a licensing regime that priced the
+right to carry the public at approximately the cost of the file
+folder.
+
 The United States had run this experiment first, and the comparison is
 exact enough to be useful. American deregulation in 1978 also unleashed
 entry, price competition, and marginal operators; the safety professionals
