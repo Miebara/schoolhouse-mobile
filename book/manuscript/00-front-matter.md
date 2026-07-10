@@ -180,6 +180,46 @@ history with uncanny fidelity — clustering in the eras of decay
 receding in the eras of repair (the post-2006 reform wave). The sky, in
 other words, is an instrument panel. This book proposes to read it.
 
+## A history in three altitudes
+
+Because the chapters ahead move constantly between story and
+structure, it may help to give the reader the book's method
+explicitly, as a set of altitudes.
+
+At low altitude, this is a narrative history: seven crashes
+reconstructed scene by scene, on a fixed template, from the
+pilgrims boarding at Jeddah to the crowds of Iju-Ishaga. The
+template — scene, timeline, investigation, reaction, institutional
+analysis, comparison — is borrowed from the discipline the book
+admires most, the accident investigation itself, which refuses to
+let any single cause, however dramatic, stand for the whole.
+
+At middle altitude, it is an institutional biography: the life
+stories of the organizations — airline, regulator, investigator,
+airports, agencies — whose health and sickness the crashes
+measured. Institutions are hard to see; they have no faces and
+issue no cries. The book's wager is that they become visible at
+the moment of failure, the way a skeleton becomes visible in an
+X-ray, and that seven X-rays, taken over twenty years, amount to
+a diagnosis.
+
+At high altitude, it is an argument about states — about why
+some societies accumulate capability and others accumulate
+deferrals, and about the specific, unromantic machinery
+(funding formulas, tenure protections, publication duties,
+rehearsals) by which the first condition is built out of the
+second. Nigeria is the case, but the argument is general, and
+readers from Karachi or Manila or, for that matter, Washington
+will recognize more than they expect.
+
+The altitudes alternate by design. A reader who wants only the
+stories may read Part II and be done; a reader who wants only
+the argument may read Parts III and IV. The book's claim is that
+neither is intelligible without the other — that the story
+without the structure is mere tragedy, and the structure without
+the story is mere theory, and that a country's dead deserve
+better than either alone.
+
 ## Why aviation?
 
 A fair question presents itself immediately: why should aviation, which
@@ -287,6 +327,41 @@ mid-century, and Africa the last great growth market in world aviation,
 Nigeria will fly more in the next thirty years than in its whole previous
 history. Whether those decades look like Ethiopia's or like 2005 is not
 fate. It is design.
+
+## What this book is not
+
+Three disclaimers, briefly, to spare the reader disappointed
+expectations.
+
+It is not an air-crash anthology. Readers seeking the genre's
+customary satisfactions — the minute-by-minute cockpit
+transcript, the engineering whodunit — will find the crashes
+here reconstructed carefully but always instrumentally: the
+question is never only what happened aboard, but what the event
+reveals about the arrangements beneath it. Several famous
+Nigerian incidents receive a sentence; several obscure
+institutional episodes receive pages. The allocation is the
+argument.
+
+It is not an indictment of persons. A handful of individuals are
+praised in these pages and fewer are criticized, always on the
+documented record; but the book's constant claim is that the
+Nigerian sky was made dangerous, and then safer, by
+*arrangements* — and arrangements have no surname. Where the
+reader feels the pull of the simpler story, the villain and the
+hero, the book will keep redirecting attention to the org chart,
+the budget line, and the unpublished report. This is a stylistic
+discipline, but it is first an analytic one: villains die,
+retire, and reform; arrangements persist until changed.
+
+And it is not a despair document. The publishing economics of
+Africa reward catastrophe told vividly and hope told vaguely;
+this book tries to invert both. Its catastrophes are told with
+restraint, and its hope is specific to the point of pedantry —
+statutes, levies, drills, clocks — because specific hope is the
+only kind that survives contact with a budget cycle. The reader
+who finishes Part IV with a list rather than a mood will have
+read the book its author intended.
 
 ## A word about tone
 
