@@ -139,6 +139,58 @@ the pathogens multiplied. Nigeria ran the same experiment with the immune
 system switched off. The 1990s would supply the laboratory results, and
 they are the subject of the next seven chapters.
 
+## What flying felt like
+
+Statistics anesthetize; it is worth descending, briefly, to the departure
+lounge, because the texture of late-1980s Nigerian domestic aviation is
+itself evidence — and because millions of Nigerians carry versions of
+this memory.
+
+You bought your ticket, but the ticket was the beginning of a
+negotiation, not the end. Flights were "confirmed" in a system where
+confirmation was social, not computational: the airline's schedule was
+aspirational, the aircraft's departure depended on its arrival from
+somewhere else, and boarding, when it came, could be a physical
+competition in which the manifest was reconciled to reality afterward, if
+at all. The reader should note that word — *manifest* — and keep it. In
+November 1996, and again in October 2005, the country would discover at
+the worst possible moments that knowing exactly who is aboard a Nigerian
+airliner was not a routine certainty but an investigative task. A society
+learns its record-keeping habits in ordinary time and pays for them in
+extraordinary time.
+
+Around the terminal, the state's aviation presence had meanwhile
+reorganized itself into an alphabet that Nigerians would come to know
+well. The Federal Airports Authority of Nigeria — FAAN — ran the airports
+from 1976 onward (its earlier incarnation, the Nigeria Airports
+Authority, having been another child of the boom). The navigation aids
+and airspace would eventually pass to a dedicated agency, NAMA, in the
+1990s; the weather service to NiMet; the regulatory directorate,
+ultimately, to the NCAA. The alphabet matters less than the pattern: each
+crisis of the system was answered institutionally by *subdivision* —
+another agency, another acronym, another board and headquarters and
+budget line — rather than by empowerment. By the century's end Nigerian
+aviation would have more institutions than at independence and less
+institutional capacity, a proliferation of bodies sharing an anemia of
+function. Organograms are cheap; inspectors are expensive; governments
+under fiscal siege consistently buy the first and defer the second.
+
+And yet — the other half of the truth — the system worked, daily, in the
+sense that mattered to its passengers: aircraft mostly arrived. The
+pilots were often superb, precisely because the environment demanded it;
+veterans of that era describe hand-flown VOR approaches into airports
+whose instrument landing systems had died years before, fuel decisions
+made against forecasts that were folklore, radio calls relayed
+pilot-to-pilot across gaps in coverage. A generation of aviators became
+virtuosos of the workaround. Virtuosity of that kind is magnificent and
+corrosive at once: it keeps the schedule alive, and by keeping the
+schedule alive it hides the decay from the public and the treasury,
+converting infrastructure failure into private professional burden. The
+workaround is the enemy of the work order. Systems that run on heroism
+are systems whose margins are being spent invisibly, every day, until the
+day the heroism is one contingency short — and no one can say in advance
+which day that will be.
+
 ## The airline dies slowly
 
 Nigeria Airways' final act ran through the 1990s toward a conclusion in
