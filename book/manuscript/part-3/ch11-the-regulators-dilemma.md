@@ -87,6 +87,45 @@ started ending differently, because the Monday overrule now had to
 survive a paper trail auditable from Montreal, a DG who could not be
 quietly reassigned, and a levy stream the minister could not pinch.
 
+## The MAX, or capture with strong institutions
+
+Before anatomizing the Nigerian architecture, dwell on the American
+scandal already invoked, because using it honestly — not as
+whataboutism but as a controlled variable — is what separates
+analysis from apologetics.
+
+The 737 MAX's certification failure had every element a Lagos
+veteran would recognize: an under-resourced regulator delegating
+judgment to the regulated (the FAA's designee system placing Boeing
+engineers as the government's own certifiers of Boeing's design); a
+commercial deadline (the Airbus neo threat) applying schedule
+pressure down through an organization until it reached, and
+overrode, engineering conscience; internal warnings filed and
+buried; and, after the first crash (Lion Air 610, October 2018), an
+institutional instinct to defend the product through the interval
+in which the second aircraft (Ethiopian 302, March 2019) was still
+flying toward its fate. Change the nouns and Chapter 4's tires
+inflate themselves. Capture, the comparison establishes, is not a
+symptom of poverty; the world's richest aviation system produced,
+under pressure, the same decision physics as a Hajj ramp in 1991.
+
+Now observe the difference, because it is the entire lesson. After
+the MAX: congressional hearings with subpoena power, within months;
+a public paper trail — the internal messages, the certification
+records — extracted and printed; independent technical review
+boards; criminal settlement in the billions; legislation (the 2020
+certification reform act) rewriting the delegation system;
+compensation processes for two nations' victims; and every step
+televised, docketed, and archived. The system that had been
+captured *audited its own capture in public* and re-priced it. The
+American disgrace, in other words, ran the honesty machine of
+Chapter 14 at full load — while its Nigerian analogues ran the
+filing cabinet. Capture happens everywhere; what varies is whether
+the aftermath compounds into correction or into silence. This is
+why the comparative method matters and why "every country has
+these problems" is both true and evasive. Every country does. Not
+every country's problems get subpoenaed.
+
 ## The anatomy of the architecture
 
 What exactly did the 2006 design change? Four load-bearing members,
@@ -135,6 +174,58 @@ effect, took the country's aviation reputation hostage against its
 own political class. It is the single most sophisticated
 institutional maneuver in this book, and its author-era officials
 understood it exactly.
+
+## The ministry problem
+
+One actor in the Nigerian arrangement has so far escaped this
+chapter's focus, and the regulator's history is illegible without
+it: the Federal Ministry of Aviation — the political principal
+above the whole agency alphabet, and the institution through which
+every pathology in this book has, at one time or another, flowed.
+
+The ministry's structural situation invites its behavior. It
+controls (formally or informally, depending on the statutory era)
+appointments to the NCAA, FAAN, NAMA, NiMet, and NCAT boards; it
+sponsors the sector's legislation and its budget defense; it
+negotiates the bilateral air services agreements that allocate
+international routes — the sector's single richest discretionary
+prize; and it owns the sector's ceremonial surface, the terminal
+commissionings and national-carrier announcements from which
+political credit is harvested. It is, in short, a machine for
+converting aviation into politics, sitting directly atop the
+machine this chapter wants for converting aviation into safety.
+The ministerial roster tells the story in tenure: aviation
+ministers since 1999 have averaged barely two years — each
+arriving with a "roadmap," a slate of board nominees, and a
+flagship project; each departing before the roadmap's second
+budget cycle. The agencies below have learned to metabolize the
+turnover the way the airline once metabolized its CEOs: by
+treating each minister as weather. The cost is not any single
+minister's program; it is that the sector's political principal
+is structurally incapable of wanting anything for longer than the
+system takes to outwait it.
+
+Serious reform proposals have therefore converged, for decades, on
+a quiet structural heresy: shrink the ministry. The models vary —
+folding aviation into a general transport ministry with the
+agencies as autonomous authorities (the pattern in much of the
+OECD); a statutory "policy only" mandate stripping appointment
+and commercial powers; single-term, professionally qualified
+agency boards nominated through public process. The direction is
+common: relocate the state's aviation presence from the political
+layer to the institutional layer, on the evidence — this book,
+passim — that everything durable in Nigerian aviation was built
+in the institutional layer during intervals when the political
+layer was distracted, compelled, or briefly aligned. No Nigerian
+government has yet found a reason to legislate away its own
+patronage surface, which is the proposal's realistic prognosis
+in one sentence. But naming the ministry as the arrangement's
+apex predator matters analytically: the NCAA's dilemma is not
+that it faces industry, which every regulator faces, but that
+its own hierarchy is the industry's most reliable advocate. The
+capture literature calls this "political capture" to distinguish
+it from the commercial kind. Nigerian professionals call it,
+with the precision of long observation, "the ministry."
 
 ## The dilemma that remains
 

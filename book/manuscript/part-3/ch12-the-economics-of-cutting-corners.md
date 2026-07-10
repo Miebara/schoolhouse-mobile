@@ -83,6 +83,51 @@ safety economics: firms discount catastrophe at their own survival
 horizon — a company expecting to die in three years is structurally
 incapable of fearing a metal problem due in seven.
 
+## The graveyard, read as data
+
+Nigerian aviation's corporate cemetery is large enough to support
+statistics, and the statistics reorganize several of this book's
+narratives, so walk the rows briefly.
+
+Count, from deregulation's licensing wave onward: Okada, Kabo,
+Triax, Gas Air, Concord, Oriental, Hold-Trade, ADC, Bellview,
+Sosoliso, EAS, Chanchangi, Sosoliso's Port Harcourt peers, IRS,
+Fresh Air, Albarka, Space World, Afrijet, Dasab, Slok, Virgin
+Nigeria/Air Nigeria, Air Midwest, First Nation, Discovery, Medview,
+and onward through the 2010s — several dozen scheduled or
+substantial charter operators, of which the survivors into the
+mid-2020s can be counted on one hand's fingers with room left. The
+median AOC's working life ran well under a decade. The causes of
+death cluster: undercapitalization at birth (licenses issued
+against paid-up capital that would not buy a spare engine); the
+dollar-naira scissors; fleet economics (the geriatric-aircraft
+trap: cheap to enter, ruinous to sustain); founder-dependence (the
+airline as personal estate, dying with its patron's fortunes,
+attention, or life); and, repeatedly, the post-crash spiral, in
+which one hull loss destroyed a brand, its bookings, and its
+insurability inside a quarter. Bellview and Sosoliso never
+meaningfully outlived their 2005 crashes; ADC survived 1996 only
+to be finished by 2006; EAS was gone within the year of Kano.
+
+Three deductions follow. First, the 1990s–2000s safety crisis and
+the airline mortality crisis were the same crisis in two ledgers:
+firms that cannot survive commercially cannot invest in five-year
+airworthiness horizons, and firms that skimp those horizons
+eventually convert financial fragility into wreckage, which
+completes the circle. Second, the crash-then-collapse pattern
+means the market did punish killing passengers — but only *after
+the fact*, an enforcement mechanism structurally identical to the
+funerals-then-reform politics this book keeps indicting: both
+systems learned exclusively in arrears. Third — the deduction with
+policy content — the graveyard vindicates the reform era's most
+criticized instrument, the capital and re-certification floors of
+2006–07. Raising the price of entry was decried as protectionism
+for incumbents; the cemetery's actuarial tables say entry was
+underpriced by exactly the margin the passengers paid. There are
+industries where cheap entry is welfare; commercial aviation,
+whose product is a maintained promise, is an industry where the
+barrier to entry *is* the product.
+
 ## What the strong systems did differently
 
 The comparison set shows three distinct escapes from this trap, and
@@ -126,6 +171,58 @@ lattice, not any single strand: that is what "strong institutions"
 means in operational terms, and why transplanting one strand
 (a regulation, an age limit) into a field with none of the others
 so often disappoints.
+
+## Fuel, insurance, and the invisible inputs
+
+Two inputs deserve their own accounting before the remedies,
+because both sit outside the airline's fence and both have killed.
+
+Fuel first. Jet A-1 in Nigeria is a story of imported scarcity in
+an oil superpower — the refining deficit that makes the world's
+great crude exporter an importer of its own aviation kerosene,
+priced in scarce dollars, trucked over broken roads from congested
+ports to inland airports through a broker chain in which every
+handling step is a margin and an adulteration risk. The operational
+residue: fuel scarcity episodes that have repeatedly stranded
+national schedules; price spikes that quietly reorder airline
+maintenance budgets mid-year; and the quality-control question
+that hovers, unresolved in the public record, over more than one
+accident in this book's appendix — contamination is among the
+standing hypotheses at Ejigbo, and fuel-system anomalies sit at
+the center of Dana 992's causation. A mature system treats fuel
+as regulated infrastructure — audited farms, certified testing at
+every transfer, custody documentation to the wingtip. The
+Nigerian fuel chain of the crisis decades was, instead, a market
+with paperwork, and each of its links transferred risk downstream
+to the only party who could not inspect it: the crew doing the
+walk-around above a sealed underground hydrant.
+
+Insurance, second — the institution that is supposed to make all
+the others unnecessary, pricing every operator's true risk into a
+premium no pretense can negotiate down. In the strong systems,
+underwriters function as private regulators: their surveyors walk
+hangars uninvited, their exclusions ground aircraft no inspector
+has seen, their premiums convert maintenance records into cash
+flow consequences. The Nigerian market of the crisis era inverted
+the design. Local-content rules routed policies through domestic
+underwriters who retained slivers of the risk and reinsured the
+bulk abroad; the retained sliver was too thin to fund real
+surveillance, so the surveillance never came; and the reinsurers,
+remote from the ramp, priced the country rather than the carrier
+— a flat "Nigeria premium" that punished the diligent and
+subsidized the reckless in a single number. An operator whose
+maintenance was exemplary paid nearly the reckless competitor's
+rate; the market thereby taxed virtue, exactly backward. Claims
+performance completed the inversion: the Gwammaja ledger of
+Chapter 7 showed what the fortress of process delivered to
+victims, and every slow claim taught operators that the policy
+was a certification document, not a contingent asset. Insurance
+that neither surveils nor promptly pays is not risk transfer; it
+is a stamp tax on the AOC, and for two decades that is
+substantially what Nigerian aviation bought. The reform era
+improved the paper; the surveillance layer — the underwriter as
+independent inspector — remains, at this writing, the lattice's
+most underbuilt strand.
 
 ## Jamming the sorting machine
 

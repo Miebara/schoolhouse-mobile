@@ -104,6 +104,55 @@ meet everywhere, including when they tell the truth. The woman with
 the file does not believe the government's account of anything. Why
 would she? On the subject she knows best, it never gave her one.
 
+## What silence costs, itemized
+
+Because "transparency" tends to float free as a virtue-word, pin
+the costs of its absence to cases already in evidence, item by
+item.
+
+**Operational cost.** The windshear pattern: Sosoliso (December
+2005) and ADC 053 (October 2006) were, at the level of decision
+architecture, the *same accident* — a crew continuing into
+convective weather that forecasts and eyes had flagged, under
+schedule and prestige pressure. Ten months separated them. In a
+system with a live reporting culture and rapid interim
+publication, December's lesson — its dispatch-pressure findings,
+its go-around arithmetic — would have been circulating in every
+crew room, regulator bulletin, and simulator syllabus by the
+following rainy season. The interval was instead filled with
+mourning and process, and the lesson arrived in Sokoto's
+funeral procession. Silence's operational cost is measured in
+repetitions, and Nigerian history bills them by the hundred
+seats.
+
+**Commercial cost.** Unexplained accidents price into everything:
+insurance loading (Chapter 12's flat country premium is, in
+part, an opacity premium — underwriters charge for what they
+cannot read); lease terms; bilateral negotiations (the EU list
+and FAA categories weigh investigative performance directly);
+and passenger demand itself, which after every unexplained
+Nigerian event has swung toward road transport — whose fatality
+rate per kilometer exceeds aviation's by orders of magnitude.
+Opacity, by displacing travelers onto the highways, kills
+statistically even when the fleet flies clean.
+
+**Civic cost.** The conspiracy ecology. Every unpublished report
+franchises an alternative explanation: sabotage theories after
+1992 (a military transport, a hated regime); spiritual and
+political readings of 2005's clustered grief; durable rumors
+around every VIP death in the appendix. These are not Nigerian
+credulity; they are rational inference under informational
+famine — where the state explains nothing, the explanation
+market clears at whatever price rumor sets. The cost compounds
+politically: a public trained by aviation (and elections, and
+budgets) to assume concealment extends the assumption to the
+occasions when the state tells the truth, and the state,
+finding truth-telling unrewarded, economizes on it further. The
+spiral is general, but aviation — high-salience, technically
+adjudicable, internationally witnessed — is where a state could
+most cheaply reverse it, which is what makes the NSIB's
+publication rate a civic indicator far beyond its sector.
+
 ## The blame reflex
 
 Why is silence so stable? The economical answer — secrecy protects
@@ -140,6 +189,52 @@ understood. The wager has paid for eight decades. It is also,
 Chapter 10 noted, the cheapest reassurance technology ever
 invented: the state that explains publicly does not need to ask to
 be believed.
+
+## The recorder and the courtroom
+
+One frontier of the silence problem is sharp enough for its own
+section: the legal status of the safety data itself.
+
+The cockpit voice recorder is the honesty machine's most invasive
+instrument — a microphone on working professionals' last (or
+worst) minutes — and its bargain is correspondingly explicit in
+international standards: the recording exists for prevention, its
+use for discipline or prosecution restricted, precisely because
+crews who expect their words to convict them will fly silent
+cockpits and lobby against every extension of monitoring. The
+bargain's modern descendants go further: flight-data monitoring
+programs, in which airlines continuously download and analyze
+their own operations for exceedances, run on negotiated
+protections — de-identified data, no punishment for what the
+program reveals — that turn every routine flight into safety
+telemetry. Where the protections are credible (the American,
+European, and best Asian systems), the data flows in oceans and
+the accident curves show it. Where they are not, the programs
+exist on paper and the telemetry is curated.
+
+Nigeria's practice sits, characteristically, between statute and
+habit. The modern Civil Aviation Acts import Annex 13's
+protective language; the NSIB's regulations gesture at
+non-punitive reporting. But the surrounding legal ecology — police
+investigations opened reflexively after crashes, recorders and
+documents seized as exhibits, the periodic ministerial demand
+that "those responsible be brought to book" before the
+investigation has established what the book is — has never been
+reconciled to the bargain, and no Nigerian court has yet built
+the case law that would make a crew's protected statement
+actually protected. The result is a system whose frontline
+knows the protections are unlitigated, and prices its candor
+accordingly. The fix is legislative and small: an explicit
+statutory shield for safety information, with narrow, defined
+carve-outs for willful misconduct — the "just culture" statute
+that New Zealand, Denmark, and others have modeled for decades.
+It would cost nothing, offend no budget, and require only that
+the state formally renounce a power it has historically used
+mainly to perform severity after failing to prevent harm. That
+renunciation — power traded for information — is the entire
+philosophy of aviation safety in one clause, which is perhaps
+why it has waited so long in Abuja: it is the clause by which a
+state admits what kind of state it intends to be.
 
 ## Reflection
 

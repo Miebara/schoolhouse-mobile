@@ -66,6 +66,42 @@ repeated rehearsals that convert equipment into capability. The
 pattern is Chapter 8's "certification as costume," and response is
 where the costume meets its only honest audience.
 
+## The golden hour and the hospital at the end of it
+
+Trauma medicine's organizing insight — formalized from battlefield
+data and etched into every developed emergency system — is that
+survival after severe injury decays on a curve whose steepest
+segment is the first hour. The "golden hour" is shorthand, not
+scripture; the literature debates its edges. But the operational
+consequence is not debated: an emergency system is a race
+machine, and its performance is the *product* of its stages —
+detection, dispatch, access, extrication, stabilization,
+transport, and definitive care. A failure at any stage multiplies
+through the rest. This is why the Nigerian record reads as it
+does: each disaster in Part II failed at *every* stage
+simultaneously, and multiplication of failures is not addition.
+Twelve hours to find (Bellview) times no water at the fire
+(Sosoliso) times no crane under the slab (Dana) times — the stage
+this section adds — nowhere adequate to take the saved.
+
+The hospital is the response chain's terminal link and its least
+examined. Severe burns — aviation's signature injury — are among
+the most resource-intensive conditions in all of medicine:
+dedicated units, sterile environments, skin banking,
+round-the-clock specialist teams. Nigeria's burn capacity through
+the crisis decades was a handful of units, concentrated in two or
+three cities, chronically short of everything; mass-burn events
+like Kano or Sosoliso would have overwhelmed the national
+capability even had every ambulance flown. The Sosoliso survivors'
+medical odysseys — treatment abroad, funded by family means and
+public appeal — were not exceptions but the system stating its
+capacity honestly: the definitive-care stage for the injuries its
+airports were certified to produce did not exist in-country. A
+state that certifies an international airport is, by that
+signature, promising a trauma system scaled to the airport's worst
+day. The promise is written nowhere on the certificate, which is
+precisely why this chapter exists.
+
 ## Why response is different — and why that is hopeful
 
 Prevention, this book has argued, is institutionally expensive: it
@@ -104,6 +140,50 @@ available at every income level — which is precisely what makes its
 absence diagnostic. A state that will not drill is publishing its
 discount rate on its citizens' marginal lives, and no development
 statistic contradicts it so efficiently.
+
+## The anatomy of a drill
+
+Because this chapter's remedy is "rehearse," the rehearsal itself
+should be described, so that no reader files it under ceremony.
+
+A full-scale airport emergency exercise — ICAO requires one at
+least every two years at certified international airports, with
+partial exercises between — is a production: a scripted "crash"
+with a declared aircraft type and passenger load; volunteer
+casualties by the hundred, moulaged and tagged with injury cards;
+the alarm cascading in real time through the actual chains — tower
+to ARFF, ARFF to municipal fire, medical dispatch, police
+perimeter, NEMA, the airline's own emergency center, the
+hospitals' mass-casualty plans; and, crucially, umpires with
+stopwatches and clipboards logging every interval against the
+plan: minutes to first foam, to triage established, to first
+ambulance departure, to family-information center open. The
+exercise's product is the *after-action report* — the honest,
+written ledger of what failed (the gate that wouldn't open, the
+frequency nobody monitored, the hospital that never picked up) —
+and the corrective log that the next exercise re-tests. Run
+seriously, the cycle converts an emergency plan from a binder into
+a reflex, and its cost is a weekend, some paint, and institutional
+humility.
+
+The humility is the actual price, and the reason drills decay.
+An exercise that logs failures embarrasses agencies in front of
+each other; a state whose operating currency is face will
+therefore drift, without ever deciding to, toward the exercise as
+pageant — the pre-briefed scenario, the fire out in record time,
+the group photograph, the report unwritten. Veterans of Nigerian
+airport exercises across the decades describe exactly that drift,
+punctuated by earnest post-disaster seasons (after 2005, after
+2012) when the drills briefly acquired teeth. The diagnostic for
+any reader who ever inspects one is simple: ask to see the last
+after-action report and the corrective log. A drill without a
+published failure list is a play. And a country's willingness to
+let its agencies fail visibly, on schedule, in rehearsal — small
+failures, cheaply, before witnesses — is the exact institutional
+muscle whose absence this book has been anatomizing at
+catastrophe scale since Jeddah. The drill is the honesty machine
+in miniature. That is why it works, and that is why it is
+resisted.
 
 ## The morgue and the manifest
 
