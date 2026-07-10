@@ -200,6 +200,47 @@ measured in the coffins of 2005 — but the demand's existence is why
 The reader should mark 4226 as the hinge where Nigerian aviation
 politics changed phase, even though its immediate harvest was thin.
 
+## The panorama: 2002, or the bottom of the cycle
+
+The world aviation of May 2002 was an industry in shock, and the
+shock's downstream effects reached Kano's ramp directly. The
+September 11 attacks had cratered global traffic; the majors were
+parking fleets in the desert by the hundred and dumping their
+oldest metal at any price; insurance markets, re-rating terrorism
+and everything else, had repriced coverage for marginal operators
+worldwide; and the industry's attention — regulatory, journalistic,
+financial — had swung massively toward security, the new
+catastrophe category, and away from the old one, airworthiness.
+Every element bore on Nigeria. The parked fleets made elderly
+aircraft cheaper than they had ever been, refreshing the geriatric
+pipeline at its source exactly as Nigerian carriers' dollar
+positions were weakest. The insurance repricing squeezed the same
+carriers' compliance budgets from the other side. And the
+security pivot meant that the international system's scarce
+attention for African aviation, such as it was, now arrived
+asking about manifests and cockpit doors rather than engine
+overhauls and weight culture. EAS 4226 fell, in other words, at
+the precise moment when the global forces this Part has tracked —
+the sorting machine of Chapter 12, the gray market of Chapter 4 —
+were all running at maximum, and the countervailing scrutiny at
+minimum.
+
+The moment passed; the pattern did not. The post-2008 financial
+crisis and the post-2020 pandemic each re-ran the cycle —
+gluts of retired aircraft, distressed operators, weakened
+oversight budgets — and each time the world's thinnest
+jurisdictions absorbed the surplus risk on schedule. Aviation
+safety's business cycle is real and countercyclical: the
+industry's hard times are the weak regulator's most dangerous
+season, because the sorting machine accelerates exactly when the
+inspection capacity contracts. A regulator designed for the
+average year fails in the trough year, and the trough years are
+scheduled — which argues, in the design language of Chapter 11,
+for countercyclical oversight: surge inspection capacity,
+import scrutiny that tightens automatically when global
+retirement waves crest. No country has built this properly;
+Nigeria, three cycles burned, has standing to build it first.
+
 ## The ledger of the uncounted
 
 What Nigeria owed Gwammaja after 4 May 2002, and what it paid,

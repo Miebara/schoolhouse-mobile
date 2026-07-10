@@ -237,6 +237,51 @@ accountability is unbuilt, external accountability can hold the
 structure while it grows — but only if some domestic actor has the
 authority and the motive to invite it in.
 
+## The purge, from the ramp
+
+Reform histories written from the regulator's side acquire a
+sterile inevitability; the re-certification of 2006–07 is better
+understood from the industry floor, where it was experienced as
+an earthquake with paperwork.
+
+For a serious operator, the process was brutal and clarifying in
+equal measure. Every manual — operations, maintenance, training,
+security — reopened against the regulations as written; every
+aircraft's records audited back through its import history (an
+archaeology that, Chapter 12 explained, some airframes could not
+survive); every pilot's licenses, ratings, and recurrent checks
+re-verified; the airline's financial fitness — the item the old
+regime had never seriously examined — modeled against its
+schedule commitments. Operators describe the period's signature
+experience: the NCAA inspector who could not be made to go away —
+not by delay, not by hospitality, not by the customary calls —
+because his checklist was now also Montreal's and Washington's,
+and his DG answered the calls with a checklist of his own. For
+the industry's professionals, long humiliated by their system's
+reputation, the experience carried an unfamiliar emotion under
+the irritation: being regulated seriously is a form of being
+taken seriously, and veterans of those audits speak of them now
+the way alumni speak of a feared examiner — resented at the
+time, cited forever after.
+
+For the marginal operator, the process was terminal, and the
+terminations were the reform's true signal. The AOC count fell
+roughly by half; famous names among the fallen made the point
+that fame was no longer collateral. The lobbying counterattack —
+legislators enlisted, court injunctions sought, the press
+seeded with stories of jobs destroyed and monopolies looming —
+ran through 2007 and broke against the same wall the inspectors
+had become: a regulator whose decisions were documented,
+published, and internationally witnessed could not be quietly
+reversed, and reversing it loudly meant owning the next crash.
+The economic argument the survivors made afterward completes
+the account: consolidation raised load factors, stabilized
+fares, and made the surviving carriers — for the first time in
+the industry's history — occasionally financeable. The purge
+was not a trade of safety against commerce. It was the
+discovery, standard everywhere but novel in Lagos, that below a
+certain floor the two are the same variable.
+
 ## The examination
 
 The FAA's International Aviation Safety Assessment deserves

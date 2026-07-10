@@ -258,6 +258,59 @@ grows, fleets age, personnel churn — and a safety system standing
 still is, relative to its risk base, slowly walking backward. The
 fragile peace is peace. It is also fragile, and it knows it.
 
+## The stress tests nobody scheduled
+
+The plateau decade administered two system-wide stress tests of
+its own, and their results belong in the ledger.
+
+The naira crises — 2016's oil-price collapse and the greater
+devaluations of 2023–24 — re-ran Chapter 3's dollar famine at
+modern scale: airlines' ticket revenues trapped in a currency
+falling by half, while lease, spares, insurance, and training
+obligations held firm in dollars; foreign carriers' repatriable
+funds famously marooned in Nigerian accounts by the
+billion-dollar queue, souring the country's standing in every
+airline boardroom that mattered. The safety-relevant finding is
+what did *not* happen: no return of the geriatric fleet, no
+visible collapse of maintenance discipline, no accident cluster.
+The 2006 architecture's floors — fleet-age limits, AOC financial
+surveillance, IOSA — held under exactly the economic pressure
+that had liquefied the 1980s system. Airlines died (Chapter 12's
+graveyard gained headstones); their passengers did not. A
+regulatory system's quality is measured precisely here, in what
+its constraints refuse to yield when everything else is
+yielding.
+
+The pandemic, 2020–21, tested the other flank. Nigerian aviation
+stopped almost entirely for months, then restarted into a
+world of parked aircraft, furloughed crews, and expired
+currencies — the industry's global human-factors community
+warning loudly that the restart, everywhere, was itself a
+hazard: rusty crews, preservation-error aircraft, pressure to
+fly everything at once. Nigeria's restart produced incidents —
+the excursion and turn-back log thickened — but no catastrophe,
+and the NCAA's restart protocols tracked the international
+playbook with reasonable fidelity. Again the qualified pass;
+again the asterisk, because the same period's military losses
+(the 2021 crashes) and charter-sector scrapes marked, once
+more, exactly where the reformed perimeter ends.
+
+The passenger's own experience of the plateau completes the
+picture honestly. Nigerian domestic aviation in the 2020s is
+safe and shabby at once: schedules elastic, cancellations
+chronic, terminals overloaded, fares volatile with the naira —
+the consumer-protection file that now generates more NCAA
+enforcement activity than airworthiness does. The shabbiness
+matters to this book for one reason: public patience with a
+system is finite and undifferentiated. A public exhausted by
+delay does not distinguish operational rot from safety rot —
+and a political class looking for applause lines in that
+exhaustion reaches, history shows, for exactly the symbolic
+interventions (fare caps, flag carriers, ministerial
+"crackdowns") that Chapter 16's parable warns against. Safety's
+quiet decade has bought the system credibility it is spending,
+visibly, at the check-in desk.
+
 ## Comparative note: Asiana 214 and the metabolism of a mature system
 
 Thirteen months after Dana 992, Asiana Flight 214 — a Boeing 777 —

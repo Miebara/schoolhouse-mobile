@@ -273,6 +273,57 @@ churches full, flags lowered, and — for the first time in this book's
 chronology — a public conversation about aviation conducted in the
 language of accountability rather than fate.
 
+## The winter of accounting
+
+The weeks between the two crashes, and the weeks after the second,
+deserve their own chronology, because the political system's
+processing of 2005 — visible in real time, datable by headline —
+is the book's best-documented specimen of a state deciding, under
+maximum pressure, how much to change.
+
+After Bellview, the machinery produced its standard outputs at
+standard speed: mourning declared, a probe announced, the
+minister summoned to the Senate, officials' explanations of the
+search fiasco contradicting one another on consecutive days. But
+two non-standard things happened. First, the press did not move
+on — the new private broadcasters and the matured newspaper
+market kept the search failure, the manifest confusion, and the
+radar questions on the front pages for weeks, and began the
+cumulative, cross-referencing coverage ("the fourth major crash
+since 1992...") that converts events into a record. Second, the
+international layer engaged: the ICAO audit cycle was already
+scheduled, foreign carriers' security and safety concerns about
+Lagos were leaking into the trade press, and the World Bank's
+transport people were circulating the sector review that would
+supply much of the eventual reform's technical text. The state
+was, for the first time, being watched by audiences it could
+not manage.
+
+Sosoliso detonated inside that already-charged field, and the
+charge shaped the response's speed. Within days, President
+Obasanjo was at Port Harcourt and at Loyola Jesuit — the
+photographs of the president amid the sixty caskets are the
+era's defining images — and within weeks the government had
+convened the aviation summit that the industry had requested
+for a decade, with the terms of reference that became the 2006
+Act's skeleton: regulator autonomy, investigation independence,
+infrastructure funding, fleet standards. The professional
+diaspora was recruited into the drafting; ICAO and the FAA were
+invited into the room, the external-witness strategy assembling
+itself; and the political class, facing 2007 elections with
+2005's images fresh, discovered that aviation reform had become
+that rarest Nigerian commodity — a policy with no organized
+opposition. Even the industry's casualties-to-be, the operators
+the coming re-certification would kill, could not argue
+publicly against reform across sixty children's graves. The
+window that Chapter 9's royal funeral would fling fully open
+was, by January 2006, already unlatched — by organized grief,
+by an unmanageable press, and by the accumulated, compounding
+weight of every unanswered crash this Part has recorded. States
+change when the cost of not changing is made legible to the
+people who govern them. 2005's terrible achievement was
+legibility.
+
 ## Institutional analysis: the second disaster
 
 Chapter 13 will treat emergency response systematically; here, the
