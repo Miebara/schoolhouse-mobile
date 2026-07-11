@@ -313,6 +313,45 @@ aviation a growth strategy rather than a patronage arena, which gave
 Jakarta's reformers what Abuja's never durably had: a constituency
 richer than the constituency for decay.
 
+## The fence line, everywhere
+
+Gwammaja's specific injustice belongs to a global class, and
+placing it there sharpens what was and was not Nigerian about
+it.
+
+Every fast-growing city in the world has besieged its
+airport. Heathrow's approach passes over two million
+Londoners; the old Kai Tak threaded Hong Kong's apartment
+canyons; São Paulo's Congonhas sits in the city like a
+stadium — and its 2007 overrun into a warehouse, 199 dead,
+was Latin America's Gwammaja. The difference between the
+managed sieges and the lethal ones lies in an unglamorous
+apparatus: public safety zones at runway ends where
+development is barred or bought out; obstacle-limitation
+surfaces enforced against every crane and mast; third-party
+risk modeling that quantifies, contour by contour, the
+population under the funnels; and — the hard part
+everywhere — a land-use authority with the standing to say
+no to development money in a growing city. The apparatus
+fails partially even in strong states (Congonhas; the
+persistent squeeze on urban US general-aviation fields);
+what distinguished the Nigerian case was its complete
+absence as a *practiced* system — the rules existed in the
+aerodrome standards, and no institutional actor had ever
+owned their enforcement against Kano's growth, Lagos's, or
+any city's. The reform era's airport certification drives
+brought the surveys current; the buyouts and enforcement
+against settled neighborhoods remain, at this writing,
+politically untouched — no Nigerian government will soon
+bulldoze the poor from under the funnels its own planning
+vacuum invited them into. The realistic policy, urban
+planners note, is the forward-looking one: the *next*
+airports — Lekki and its generation — acquiring their
+safety zones now, at greenfield prices, before the city
+arrives. Whether that acquisition happens is a precise,
+checkable test of whether Gwammaja taught anything. The
+funnels of 2060 are being zoned this decade.
+
 ## The month of May, 2002
 
 The crash's national context sharpened its reception in ways

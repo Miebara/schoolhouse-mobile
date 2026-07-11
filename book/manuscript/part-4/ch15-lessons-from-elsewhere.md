@@ -356,6 +356,42 @@ survive every border crossing:
    reputation — must be structurally attached to safety, because
    attention is mortal and grief has a half-life.
 
+## The league table's secret
+
+The single most liberating dataset in world aviation
+governance is hiding in plain sight on ICAO's public
+dashboards, and this chapter should leave the reader holding
+it: the USOAP effective-implementation scores, plotted
+against national income, decouple.
+
+The correlation exists — richer states average better — but
+it is loose to the point of scandal for every fatalist
+theory of development. Singapore and the UAE sit at the
+table's summit, above most of old Europe. Several
+middle-income and lower-middle-income states — Indonesia
+after its climb, a clutch of African authorities including,
+in its best cycles, Nigeria's own — outscore wealthy
+countries whose oversight has coasted on reputation. Small,
+poor states with focused authorities beat large rich ones
+with distracted politics. And movement within the table
+happens at reform speed, not growth speed: states have
+gained tens of points in a single audit cycle — a few years
+— while their GDP per capita barely moved. The pattern
+repeats in the FAA's IASA categories and the EU list's
+history: entry and exit track governance events
+(a new act, a new leadership, a crisis metabolized), not
+macroeconomic ones. Whatever aviation oversight is made
+of, the data says, it is not made of money beyond a modest
+threshold Nigeria crossed decades ago. It is made of the
+things this book has spent four hundred pages itemizing —
+statutes, tenure, publication, witnesses, constituencies —
+each of which is a decision, none of which is a dividend of
+development that must be awaited. The league table is
+posted publicly, updated continuously, and open to any
+country that decides to climb it. That is the mirror
+chapter's finding, held at last in a single image: the
+table has no waiting room.
+
 ## What doesn't travel
 
 Honesty about the method requires the negative list too, because

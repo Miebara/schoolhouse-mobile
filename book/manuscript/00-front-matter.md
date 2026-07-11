@@ -417,6 +417,42 @@ only kind that survives contact with a budget cycle. The reader
 who finishes Part IV with a list rather than a mood will have
 read the book its author intended.
 
+## The story in one page
+
+For the reader who wants the whole arc before committing to
+four hundred pages of it, here it is, compressed.
+
+Aviation came to Nigeria as somebody else's system — imperial
+machines on imperial errands — and independence nationalized
+its glory without building its guts: the flag carrier and the
+first Nigerian captains arrived at once; the inspectorate,
+the investigator, and the archive never fully did. Oil money
+hid the hollowness through the 1970s; the bust of the 1980s
+stripped it bare, and a military state distributed the
+shortage away from power and onto the public. Deregulation
+then multiplied the aircraft tenfold above a referee who had
+been starved to a signature, and the world's retiring jets
+sorted themselves, as risk always sorts, toward the weakest
+oversight on offer. The bill arrived across two decades —
+Jeddah, Ejigbo, the lagoon, Kano, Lisa, Port Harcourt, Abuja
+— each disaster investigated late or never, mourned
+intensely, and converted into nothing, until 2005–06 stacked
+three mass funerals and a Sultan's coffin inside fourteen
+months and the political system finally broke open. What
+followed was the most instructive passage in the book: a
+real reform — funded, tenured, published, internationally
+witnessed — that measurably worked; a decade of quiet skies;
+and then the slow, unforced erosion of the reform's politics
+even as its machinery held, leaving the country, at this
+writing, safe, plateaued, and unguaranteed — with the
+busiest aviation decades in African history inbound and the
+military sector never reformed at all. The argument
+threaded through the story is a single sentence: none of it,
+in either direction, was fate — the crashes were built, the
+quiet was built, and the difference was always, only, the
+arrangement of institutions. The rest of the book is the
+evidence.
+
 ## A word about tone
 
 Books about disaster in Africa tend toward two failure modes of their own.
