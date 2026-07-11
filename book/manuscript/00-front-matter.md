@@ -56,6 +56,38 @@ maps that terrain. Any errors that survive that journey are mine.
 
 ---
 
+# On Names and Dignity
+
+A word on how this book handles the people in it, set here so
+that the choices are visible before the first chapter needs
+them.
+
+The dead are named when naming honors — the Sultan whose
+office made his death a hinge of history; the sixty students
+whose school reads their names each December — and numbered,
+with care, when the record permits nothing better; the
+difference between those two conditions is itself one of the
+book's subjects. Survivors are named when they have chosen
+public life (Kechi Okwuchi's testimony is quoted from her own
+public accounts) and otherwise left in the dignity of the
+general description. Officials and professionals are named
+for documented public acts — a report signed, a reform led, a
+decision defended in the record — and not for acts the record
+only whispers; where this book describes wrongdoing whose
+authors the documents do not establish, it describes the
+system that made the wrongdoing ordinary, which is, in every
+case that matters here, the truer indictment. Composite
+figures — the inspector of Chapter 11's Fridays, the keeper
+of the file in Chapter 14 — are labeled as composites at
+every appearance and invent no facts. And the institutions,
+which have no feelings, are named without softening
+throughout, because institutions are the only actors in this
+history that can be criticized at full strength without
+injustice — and the only ones whose reform the criticism can
+purchase.
+
+---
+
 # Preface — The View from Seat 14A
 
 There is a moment, on any evening flight from Abuja to Lagos, when the

@@ -219,6 +219,15 @@ dates) against authoritative profiles; the re-certification's
 before/after AOC counts against NCAA registers; survivor count and
 seating analysis against the final report.
 
+**Chapter 9 addendum:** the September 2006 NAF Dornier 228 crash in
+Benue State killing a delegation of senior army officers (widely
+reported with roughly a dozen dead, several generals among them) is
+documented in the contemporaneous press; the board of inquiry was not
+published. **Verify:** exact date, casualty count, and passenger
+composition against press archives and any parliamentary record
+before print; the chapter deliberately uses non-specific phrasing
+pending that check.
+
 ## Chapter 10 — Dana 992 and the Fragile Peace
 
 Dana 992 — 3 June 2012, MD-83 (5N-RAM), Abuja–Lagos, progressive

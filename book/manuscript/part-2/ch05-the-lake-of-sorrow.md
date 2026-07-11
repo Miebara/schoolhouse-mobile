@@ -501,6 +501,43 @@ never appears in any account of what the crashes cost. It
 should. It compounds, in health and schooling and trust,
 across generations, in every community this book names.
 
+## Nineteen ninety-two, the hinge year
+
+Zoom out once more before the chapter closes, because Ejigbo's
+year was itself a hinge in the larger history this book is
+tracking, and the crash reads differently inside it.
+
+Nigeria in 1992 stood at the Babangida transition's fevered
+climax: the endlessly postponed handover to civilian rule, the
+newly created two-party system running its primaries, the
+economy in SAP's deepest trough, and the military — the
+institution that owned both the state and the crashed
+aircraft — internally split between those who intended to
+leave power and those who intended to keep it. The Ejigbo
+dead fell into that argument. The lost cohort's mid-career
+officers were, demographically, the generation on which any
+professional, post-political military would have been
+rebuilt; their deaths thinned exactly the stratum that the
+following year's crisis — the annulled June 12 election, the
+regime's collapse into the Abacha seizure — would have needed
+most. Historians of the military era treat the sequence as
+compounding: an institution already hollowed by two decades
+of governance duty lost, within eighteen months, a staff
+college's worth of its future and then its remaining
+political legitimacy, and the darkness of 1993–98 was
+administered by what was left. This book's method resists
+great-crash determinism — Chapter 5 has already declined the
+counterfactual of the saved generation — but the reverse
+claim stands on firm ground: the same institutional decay
+produced, in the same season, the fallen transport and the
+failing transition, and both were investigated the same way,
+which is to say sealed. A state that could not explain its
+dead officers to their own army was not going to explain an
+annulled election to its own people. The filing cabinet at
+Ejigbo and the one at the electoral commission were the same
+piece of furniture, and 1993 was what a nation looks like
+when everything is in it.
+
 ## Reflection
 
 Ejigbo subtracted a generation of command from the Nigerian military,

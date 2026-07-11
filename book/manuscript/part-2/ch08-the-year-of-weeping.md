@@ -560,6 +560,50 @@ distrust it seeded is measurable to this day in the reflexive
 conspiracy theories that attend every Nigerian aviation event. Trust,
 once taught to fail, compounds like debt.
 
+## The children of the boarding school nation
+
+One structural fact beneath the Sosoliso tragedy deserves its
+own examination, because it converts the crash from terrible
+chance into a systemic finding about who bears Nigerian
+aviation's risks: the children were on that aircraft because
+of how the Nigerian elite educates, and the pattern made
+schoolchildren a scheduled, seasonal, predictable category of
+passenger.
+
+Nigeria is a boarding school nation — a legacy of colonial
+education's geography, reinforced by the federal character
+principle (the unity schools deliberately mixing regions),
+by the concentration of elite schools in a few cities, and
+by the professional class's dispersal across a federation
+whose distances defeat weekend parenting. The result, by the
+2000s: at every term's turning, thousands of minors moved
+across the country unaccompanied or group-chaperoned, by
+road and increasingly by air, in concentrated waves on
+predictable dates — the "school run" that every Nigerian
+carrier scheduled for and every Nigerian parent of means
+funded as a safety purchase, the flight being, statistically
+and reasonably, judged safer than the highway. The system,
+in other words, had aggregated the nation's most precious
+and least consenting passengers into peak-density cohorts —
+and had attached to that aggregation none of the special
+diligence such concentration invites: no enhanced dispatch
+conservatism for school-wave flights, no chaperone-ratio or
+manifest protocols beyond the airlines' ordinary practice,
+no seasonal weather-risk review for the December wave flying
+into the harmattan-and-storm transition. December 10, 2005,
+was the arithmetic of that inattention: one aircraft, one
+storm, one continued approach — and sixty of one school's
+children, because the concentration that made the school run
+efficient made its worst case unbearable. The policy echo
+came quietly: schools and parents' associations diversified
+bookings across flights in later years — grief performing,
+once again, the risk management the system had not. The
+deeper echo is the chapter's: a society's transport system
+is trusted with whatever the society's structure loads onto
+it, and its diligence owes proportion to the cargo. The
+boarding school nation loaded its children. The system
+priced them as seats.
+
 ## Reflection
 
 Nations, like people, have years that divide their lives into before
