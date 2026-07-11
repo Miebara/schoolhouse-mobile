@@ -264,6 +264,83 @@ balance sheet's audit function. Every failure of record integrity
 reverts the market to pricing Nigerian metal, and Nigerian promises,
 at the old discount.
 
+## The bazaar
+
+Between the airline and the airframe stands the spares economy,
+and the Nigerian version of it deserves ethnographic attention,
+because it is where the chapter's abstractions became physical
+objects moving through Lagos customs.
+
+A transport aircraft is some hundreds of thousands of parts,
+each with a paper twin: the release certificate — the FAA's
+8130-3, EASA's Form 1 — attesting the component's provenance,
+overhaul status, and life remaining. The certificate is the
+part, economically: an engine bearing with clean paper is worth
+hundreds of times the identical bearing without it, and the
+global system's integrity rests on the paper chain surviving
+every sale, shop visit, and border. Now run that system through
+the Nigeria of the crisis decades: dollar-starved carriers
+needing parts yesterday; a customs regime that could hold an
+AOG ("aircraft on ground" — the industry's costliest acronym)
+shipment for weeks, converting legality itself into schedule
+risk; and a brokered gray market — Miami, Dubai, Lagos —
+happy to supply "tagged" components whose paper had been
+laundered somewhere along the chain from salvage yards and
+part-outs of uncertain history. The rational airline of Chapter
+12's arithmetic faced the spares decision in exactly the form
+the tire decision reached Nationair's managers: the compliant
+route was slow and ruinously priced; the gray route was fast,
+cheap, and papered well enough to pass the inspection depth the
+era's NCAA could bring. Bogus and suspect parts became a global
+scandal in the 1990s — the FAA built an entire enforcement
+apparatus around them — and no serious student of the period
+believes the Nigerian fleet's exposure was below the world
+average. Where the suspect bearing actually failed, no one can
+say: that is the point of laundered paper — it forecloses the
+question forever, including in the accident dockets.
+
+The reform's quiet victories here were customs-and-process as
+much as inspection: the AOG fast-track arrangements, the
+digitized records that let a surveyor trace a component's
+biography in hours, the IOSA supply-chain standards the
+surviving carriers absorbed. The unfinished business is the
+region's: West Africa still lacks the bonded, certified parts
+distribution hub that would make the compliant route
+competitive with the gray one — another storey of Chapter 12's
+institutional stack, another business plan awaiting the
+customs reform that would let it close. The bazaar, meanwhile,
+waits with the patience of all markets. It does not need to
+win the argument. It needs only for the queue at the compliant
+counter to lengthen again.
+
+## The queue, mechanized
+
+Because the "dollar queue" has carried so much causal weight in
+this book, its mechanics deserve one concrete paragraph. A
+Nigerian airline earning naira ticket revenue and owing a
+dollar lease payment cannot simply buy dollars; across most of
+the period, access to foreign exchange at the official rate ran
+through central bank allocation windows — application,
+documentation, waiting, rationing — while the parallel market
+priced dollars at a premium that at crisis peaks exceeded the
+official rate by half or more. The airline's choice each month:
+wait in the official queue (schedule risk on every dollar
+obligation — the lease, the insurance renewal, the simulator
+slot booked in Dallas), or pay the parallel premium
+(instantly converting a viable route's economics into a loss).
+Every carrier ran a portfolio of both, and the portfolio's
+management consumed exactly the executive attention that, in a
+Dallas or Dublin headquarters, goes to network planning and
+safety investment. When foreign carriers' trapped funds made
+international headlines in the 2020s — hundreds of millions in
+ticket revenue awaiting repatriation — the story was reported
+as an aviation dispute. It was the same queue, seen from the
+other end. No aviation policy fixes it; it is monetary policy
+wearing a pilot's cap, and its resolution would do more for
+Nigerian fleet safety than any directive the NCAA has ever
+issued. The reader who remembers one sentence from this
+chapter should make it that one.
+
 ## The other biography: how a young fleet happens
 
 The chapter opened with an airframe's descent down the world's

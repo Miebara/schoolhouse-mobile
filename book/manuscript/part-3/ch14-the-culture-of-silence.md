@@ -281,6 +281,71 @@ philosophy of aviation safety in one clause, which is perhaps
 why it has waited so long in Abuja: it is the clause by which a
 state admits what kind of state it intends to be.
 
+## The archive problem
+
+Beneath the unpublished report lies a deeper stratum of the
+silence: the state of the records themselves, and a book built
+substantially on documents owes the reader an honest account of
+what the Nigerian aviation archive actually is.
+
+It is, first, dispersed to the point of fiction. The
+directorate era's files passed through ministerial
+reorganizations, office moves, and agency splits that treated
+records as furniture; veterans of the system describe
+registries lost to floods, to termites, to the simple entropy
+of unfunded storage — and, at sensitive junctures, to
+convenience. The Nigeria Airways liquidation scattered the
+airline's technical and corporate memory among receivers,
+warehouses, and skips. The colonial strata survive better in
+London than in Lagos — a researcher reconstructing 1950s
+Nigerian aviation works in Kew; one reconstructing the 1980s
+works in newspaper morgues and living memory, both perishable.
+There is no national aviation archive, no systematic oral
+history program capturing the generation — now in its
+seventies and eighties — that holds the only remaining record
+of entire decades, and no legal deposit practice that has
+reliably preserved even the agencies' own publications. This
+book's Note on Sources is, in part, a map of holes.
+
+The consequence runs beyond historians' inconvenience. An
+institution's capacity to learn is bounded by its capacity to
+remember, and the memory infrastructure — registries,
+archives, databases, librarians — is the learning system's
+substrate. The NCAA that re-certified the industry in 2006
+had first to reconstruct, aircraft by aircraft, records that
+should have been a query away; the investigators of Bellview
+worked without the operational archives a mature system
+accumulates as a matter of course; and every reform cycle in
+this history has spent its first year rebuilding the factual
+picture its predecessor had already built and lost. Amnesia,
+it turns out, is expensive on a schedule: the state has paid
+for its aviation memory several times and owned it never.
+The remedy is unglamorous even by this book's standards —
+a records statute with teeth, digitization funding, a
+national transport archive, the oral-history project some
+university should have started twenty years ago — and it is
+listed here rather than in Chapter 16's agenda for one
+reason: it is the item most likely to be dismissed as
+peripheral, and the evidence of every chapter is that it is
+close to the center. Institutions are how a society
+remembers, this book has said repeatedly. Archives are how
+institutions do.
+
+The comparative coda is brief. The NTSB's docket system —
+every accident's evidence, preserved, indexed, public, back
+through decades — is not merely transparency; it is the
+research substrate on which the entire American safety
+literature, and much of the world's, is built. Scholars
+mine it; litigators test it; the agency's own analysts run
+pattern studies across it (the recurring-cause analyses
+that drive rulemaking). No Nigerian equivalent exists for
+scholars of Nigeria; the pattern analysis in this book was
+assembled from fragments precisely because the state never
+assembled it from records. A country that cannot study its
+own accidents in aggregate will meet each new one as a
+surprise — and will find, each time, that the surprise was
+in the literature, filed under a neighbor's name.
+
 ## Reflection
 
 Of all the patterns in Part III, this one costs least to break and

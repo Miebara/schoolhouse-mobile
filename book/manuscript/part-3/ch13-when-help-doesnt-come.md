@@ -258,6 +258,83 @@ Chapter 14 will measure. How a country treats the manifest is how
 it treats the citizen: as a record worth keeping, or a crowd worth
 estimating.
 
+## The offshore exception
+
+One sector of Nigerian aviation has run, for decades, a response
+and safety regime close to world standard, and its existence
+inside the same country, under the same state, is this chapter's
+most clarifying exhibit: the offshore oil and gas helicopter
+operation.
+
+The Niger Delta's offshore fields are serviced by one of the
+world's denser helicopter economies — crew changes, logistics,
+medevac, flown for decades by operators like Bristow and
+Caverton under contract to the international oil majors. The
+flying is objectively hazardous: single-pilot-unfriendly
+weather, offshore platforms, salt corrosion, night medevacs.
+Yet the sector's practices would be recognizable in Aberdeen or
+the Gulf of Mexico: aircraft equipped with flotation and
+automatically deployable emergency beacons; passengers — the
+roughnecks and engineers of the delta — put through helicopter
+underwater escape training as a condition of the manifest;
+flight-data monitoring on every airframe years before the
+scheduled airlines adopted it; and a standing search-and-rescue
+capability, contractually guaranteed, with dedicated SAR
+aircraft, trained wet-winch crews, and response times measured
+against the survival window of a man in tropical water. None
+of this was provided by NEMA, FAAN, or the military. It was
+specified, audited, and paid for by the customers — the oil
+majors, whose own institutional machinery (the OGP aviation
+guidelines, corporate audit regimes tightened after each
+industry disaster worldwide) made safety performance a
+condition of the contract, priced accordingly.
+
+The exception proves several of this book's theorems at once.
+It proves the geography and the weather were never the
+constraint: the same delta skies that hosted Sosoliso's
+undefended passengers hosted, simultaneously, world-standard
+SAR — for those whose deaths would have cost someone money.
+It proves Chapter 11's constituency theorem in commercial
+form: the roughneck flew safe because an institution existed
+— the oil major's liability and reputation machinery — that
+was structurally punished by his death. And it proves the
+response chapter's central claim, that capability is
+purchasable at Nigerian price levels on Nigerian soil by
+organizations that decide to want it. The offshore exception
+is, in effect, a privatized preview of the public system
+Chapter 16 specifies. The scandal is not that it exists; it
+is what its existence certifies about everything alongside
+it: that the Nigerian state has watched, for forty years,
+a demonstration of exactly what its citizens' survival
+would cost, and has declined, so far, to place the order.
+
+## Water, and the missing coordination
+
+A note completes the response anatomy: most of this book's
+crashes involved water or wetland — the lagoon, the canal,
+the creeks — and over-water response is a discipline of its
+own that the national system has never built. Maritime SAR
+worldwide runs on a specified architecture: a rescue
+coordination center with continuous watch, designated
+maritime and aeronautical zones, beacon-alert reception
+(the COSPAS-SARSAT satellite system), and pre-positioned,
+exercised assets — lifeboats, divers, helicopters with
+winches. Nigeria's formal pieces exist on paper across
+NAMA, the maritime administration, and the navy; the 086
+and Ejigbo records show what the ensemble delivers unrehearsed.
+The gap is again coordination rather than capital: the
+fishermen who reached both wrecks first were, functionally,
+the national maritime SAR asset, unregistered and unequipped.
+A serious doctrine would register them — literally: the
+community-responder programs that maritime nations run,
+training and equipping the fishing fleets that are always,
+everywhere, first — converting the state's most reliable
+responders from improvisation into architecture. It would
+cost less than one ministerial delegation's estacode, and
+it is, of everything in this chapter, the item most
+obviously waiting for a governor or minister in search of
+an inexpensive legacy.
+
 ## Reflection
 
 There is a version of this book's argument that counsels despair:

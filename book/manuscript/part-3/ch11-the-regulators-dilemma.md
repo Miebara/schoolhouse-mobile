@@ -321,6 +321,84 @@ the sovereign is the constituency, no other is needed; and leaving
 open, for Part IV, the question of what substitutes when, as in
 Nigeria, the sovereign's attention is itself the scarcest input.
 
+## Three Fridays
+
+Abstractions about capture benefit from specimens. Here are three
+Fridays from the record — each documented in its era's journalism
+and hearings, each presented here at the altitude of pattern
+rather than prosecution, because the point is the system that made
+each possible.
+
+**A Friday in 1994.** A private carrier's BAC 1-11 is held by an
+inspector over expired weight-and-balance documentation and a
+deferred defect beyond its legal window. The owner — a figure of
+the era's military-commercial aristocracy — does not call the
+directorate; he calls the ministry, which calls the directorate.
+By Monday the aircraft is flying, the inspector is "on course" in
+another city, and the paper trail shows a waiver signed by an
+official three levels above the finding. Nothing about the
+episode is corrupt in the prosecutable sense; no money need have
+moved. The system's currencies were access and career, and both
+were spent through entirely legal channels. The aircraft, as it
+happens, did not crash. The point is that nothing in the
+arrangement would have differed if it had.
+
+**A Friday in 2008.** The reformed NCAA grounds a politically
+connected charter operator's fleet over insurance and crew-
+records findings. The calls are made — the same calls, to a
+ministry now statutorily unable to reverse a technical finding,
+about a DG now removable only at documented cost. The operator
+tries the courts and obtains an interim order; the NCAA's counsel
+— funded, now, by the levy stream — litigates rather than folds;
+the trade press, fed by the Authority's own published register,
+covers the grounding as enforcement rather than persecution. The
+fleet stays down until the findings close. Nobody involved had
+become more virtuous than their 1994 predecessors. The channel
+through which power had flowed had been narrowed, priced, and
+lit.
+
+**A Friday in 2019.** An agency board appointment lapses for
+months while the ministry and presidency contest the shortlist;
+an acting head, removable at will, defers a costly enforcement
+decision against a carrier with National Assembly patrons; the
+deferral is procedurally impeccable and strategically eloquent.
+No rule is waived. The institution has simply learned to
+metabolize pressure through *timing* — the plateau era's
+signature adaptation, invisible to audits, fatal to nothing
+today, corrosive to everything eventually. Capture, defeated at
+the gate, had found the calendar.
+
+Three Fridays, one lesson: the fight is never won, only
+repriced — and the current price list, written in appointment
+delays and litigation calendars rather than telephone calls, is
+where the next reform's engineers must work.
+
+## The succession record
+
+One table-in-prose completes the chapter's evidence. Count the
+leadership of Nigerian civil aviation oversight from 1990 to the
+mid-2020s: across the directorate's final decade and the NCAA's
+first three, the office of the chief regulator changed hands
+roughly a dozen times — a mean tenure under three years, with
+exactly one occupant (Demuren, 2005–13) completing anything
+resembling a full institutional arc. Set beside it the tenure
+of the counterpart office in the systems this book uses as
+benchmarks — FAA administrators serve five-year statutory
+terms; the UK CAA's chairs and chief executives typically span
+governments; Ethiopia's aviation leadership is measured in
+decades — and the correlation with outcomes requires no
+statistics. Institutional memory in a technical regulator lives
+disproportionately at the top, because only the top can defend
+multi-year programs (an inspector-training pipeline, a
+surveillance database, a rulemaking cycle) against annual
+raiding. A three-year mean tenure guarantees that every such
+program is, on average, orphaned before it matures. The
+remedies are known and listed in Chapter 16; what the
+succession record adds is their priority. Of all the 2006
+settlement's provisions, tenure is the one whose erosion since
+2013 most reliably predicts the system's future — and the one
+whose restoration would cost, in naira, precisely nothing.
+
 ## Reflection
 
 The men and women of the thought experiment deserve the chapter's
