@@ -317,6 +317,44 @@ function of civilian institutional strength — a proposition Nigerian
 history would test again in February and May of 2021, with results
 recorded later in this book.
 
+## The transport fleet as national artery
+
+To understand what NAF 911's loss meant operationally — beyond
+the human decapitation — one must understand what the C-130
+fleet was in the Nigeria of 1992: not a military convenience
+but a national artery, performing functions the civil system
+had ceased to be able to price or provide.
+
+The air force's Hercules squadron was, by the early 1990s, the
+state's residual logistics guarantee — the mover of election
+materials and currency, of relief supplies to flood and
+epidemic, of troops to the ECOMOG war in Liberia (the
+deployment cycle in which the Ejigbo flight itself was
+embedded, ferrying officers between the war's staff apparatus
+and the home establishment), of the presidency's overflow, of
+everything the collapsing railways and the hollowed national
+carrier could no longer carry. This ubiquity had a
+maintenance corollary the inquiry never publicly drew:
+utilization far beyond the sustainment budget's assumptions,
+the arithmetic this book has met in every fleet it has
+examined, wearing green. And it had a systemic corollary that
+outlasted the crash: as the fleet's availability collapsed
+after 1992 — grief, groundings, and the spares famine
+compounding — the state's logistics guarantee quietly
+transferred to the market: chartered Antonovs and the gray
+operators of Chapter 4's panorama began carrying what the
+Hercules had carried, at the oversight standard of the era,
+which is to say none. The pattern is worth fixing as a
+general law of institutional collapse: functions do not
+disappear with the institutions that performed them; they
+migrate to whatever will perform them unexamined. Every
+hollowed system in this book — the airline, the regulator,
+the response apparatus, the transport squadron — shed its
+load onto informal successors that inherited the function
+without the accountability, and the country's real safety
+margin became the sum of those migrations, unmeasured by
+anyone until the next fire.
+
 ## What a published report would have contained
 
 Since this chapter's central document does not exist, construct

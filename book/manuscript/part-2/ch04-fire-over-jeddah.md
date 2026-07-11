@@ -488,6 +488,40 @@ Canada, which lost fourteen citizens, read the report as an indictment
 of Canada. Nigeria, which lost two hundred and forty-seven, read it as
 news about a Canadian airline.
 
+## Sokoto, that August
+
+The disaster's Nigerian geography deserves its portrait before
+the analysis resumes, because Jeddah's dead came home, in the
+only sense they could, to a specific place.
+
+Sokoto in the late summer of 1991 absorbed the loss as a
+caliphate city absorbs things: through the mosque, the emirate
+council, and the courtyard networks of its wards. The returning
+Hajj flights of that season landed into a city where nearly
+every extended family in some quarters had a claim on the
+manifest — a husband, a mother, the neighbor entrusted with a
+co-wife's prayers. The Islamic funeral rite, built for the
+body's swift burial, met its hardest case: no bodies came. The
+scholars resolved it as scholars had resolved it for centuries
+of pilgrims lost at sea — the funeral prayer in absentia,
+salat al-gha'ib, performed for the aggregate dead in the great
+mosque and repeated in the ward mosques through the week — and
+the city's grief thus took, from the start, the collective,
+liturgical form that individual inquest never had a chance to
+compete with. The federal delegation came, condoled, and left.
+What remained, sociologists of the region later noted, was a
+specific residue in northern popular attitudes toward the
+state's aviation: the Hajj flight as an act of faith in both
+senses, undertaken in trust of God because trust of the system
+would have been eccentric. When, sixteen years later, the
+reformed NCAA began publishing Hajj carrier audits and the
+National Hajj Commission its performance reports, the
+institutional innovation was quietly radical precisely here:
+it proposed, for the first time since 1973, that the pilgrim's
+safety was a thing officials owed rather than God granted —
+adding, to the oldest form of Nigerian mass air travel, the
+newest Nigerian idea in this book: the passenger as creditor.
+
 ## The chain, link by link
 
 Safety education has a name for the recurring human

@@ -327,6 +327,46 @@ infrastructure is a property not of its wealth but of its institutional
 drivetrain — and that fourteen years is what the drivetrain of a
 military-ruled, treasury-starved, report-shelving state delivers.
 
+## What the tower knew, and when the country learned it
+
+The information history of 086 — who knew what, when, and what
+the public was told — merits reconstruction, because it is the
+cleanest single specimen of the era's crisis-communications
+doctrine and its costs.
+
+Within the control room that evening, the essential facts were
+known within minutes: a conflict had developed, an evasive
+maneuver had been flown, an aircraft had disappeared from the
+frequency. Within the system — NAMA's chain, the ministry, the
+airline — the radar's unserviceability and the procedural-
+control context were not news at all; they were the working
+environment, documented in years of internal correspondence.
+The public record, however, was built in the opposite order:
+first the void (hours without official confirmation while
+Lagos radio ran fishermen's accounts), then the ritual
+reassurance (air transport remained safe; investigations would
+be thorough), then — under the era's military information
+doctrine — the slow release of fragments shaped to distribute
+responsibility outward: weather implied, crew action
+foregrounded, the infrastructure context absent. The full
+context reached the public years later, in the AIB report's
+fine print, long after the narrative had set. The cost of
+this sequence was not only truth deferred. It was the
+squandering of the one asset a disaster briefly creates:
+attention. In the weeks when the nation was listening — when
+the radar budget could have been politically trivial to
+grant — the state spent its communications on containment;
+by the time the facts were public, the attention was gone,
+and the radar waited fourteen years. Mature systems have
+learned the inverse doctrine, and Chapter 10's Asiana
+comparison displayed it: fill the information vacuum
+immediately with verified fact and visible process, both
+because the public is owed it and because the vacuum,
+unfilled, is colonized by rumor and then by indifference.
+Crisis communication is not public relations. It is the
+management of a nation's briefly opened budget window, and
+Nigeria's practice, for decades, was to close it personally.
+
 ## The body in the dark: why the maneuver killed
 
 The final link of 086's chain — a competent crew losing a
