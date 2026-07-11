@@ -327,6 +327,78 @@ infrastructure is a property not of its wealth but of its institutional
 drivetrain — and that fourteen years is what the drivetrain of a
 military-ruled, treasury-starved, report-shelving state delivers.
 
+## The body in the dark: why the maneuver killed
+
+The final link of 086's chain — a competent crew losing a
+serviceable aircraft in fifteen seconds of maneuvering —
+deserves the physiological explanation the summary version
+skips, because "pilot error" is where lazy accounts of this
+accident stop and where the honest account begins.
+
+Human spatial orientation is built for walking. It integrates
+three instruments — the inner ear's balance organs, vision,
+and the body's pressure senses — and all three are
+systematically deceived by flight. The inner ear's
+semicircular canals detect only *changes* in rotation: a
+smooth, sustained bank feels, within seconds, like level
+flight; a rapid roll and pull, like 086's evasive break,
+floods the system with sensations that outrun any human's
+ability to integrate them. Deprived of a visual horizon —
+dusk over the lagoon, haze, the lights of shore indistinct
+from stars — the vestibular system does not report "I don't
+know." It reports wrong answers with total confidence: the
+famous graveyard spiral, in which a descending turn feels
+level, the pull to "level" tightens the spiral, and airspeed
+builds toward structural failure while the body swears the
+wings are level. Recovery requires the act aviation trains
+hardest and humans do worst: disbelieving one's own inner ear
+in favor of instruments — within seconds, under terror, at
+night. The upset-recovery training that today's airline crews
+receive on this exact scenario — unusual-attitude recognition,
+instrument-primacy discipline, automation of the recovery
+sequence — was, in 1996, two decades from becoming a global
+standard; it entered the world's simulators in earnest only
+after the loss-of-control accident category (086's category)
+was recognized, in the 2000s, as commercial aviation's
+biggest killer. The crew of 086 met, in other words, the
+industry's hardest known human-performance trap, without the
+training the industry had not yet invented, in the airspace
+failure their state had not repaired. The three layers —
+physiology, training era, infrastructure — assign the
+accident's weight correctly, and none of the three is
+carried by the two men who died disbelieving their
+instruments. Chapter 14's blame reflex wants a pilot's name.
+The record offers, instead, an inner ear — everyone's.
+
+## The unclaimed and the named
+
+The identification aftermath of 086 became, quietly, a
+juridical landmark. With remains fragmentary and the
+pre-DNA toolkit exhausted, the legal system confronted, at
+scale, a question Nigerian law had rarely met: how the
+unrecovered dead are certified dead — for probate, for
+insurance, for remarriage, for the whole administrative
+machinery that a death certificate unlocks. Families
+navigated presumption-of-death procedures designed for
+seamen lost in the nineteenth century; estates froze for
+years; insurers contested; and the crash generated a body
+of case law and administrative practice — accelerated
+certification pathways after registered disasters — that
+later tragedies would inherit. It is this book's pattern at
+its most granular: the state's learning happening, when it
+happens, in the least visible registers (probate practice)
+while the most visible (the radar) waited fourteen years.
+And it is a reminder, for the reform agenda's drafters, that
+a disaster's administrative aftermath — certificates,
+estates, guardianships, the paper machinery of a suddenly
+absent person — is itself a response system, testable in
+advance, cheap to fix, and encountered by every bereaved
+family at the exact moment of their least capacity to fight
+it. The family-assistance act of Chapter 13's comparison
+includes precisely this machinery. The families of 086
+built Nigeria's informal version of it out of their own
+years and lawyers' fees.
+
 ## The airline that tried
 
 ADC's own arc through and beyond the disaster completes this

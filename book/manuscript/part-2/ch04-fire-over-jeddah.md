@@ -488,6 +488,99 @@ Canada, which lost fourteen citizens, read the report as an indictment
 of Canada. Nigeria, which lost two hundred and forty-seven, read it as
 news about a Canadian airline.
 
+## The chain, link by link
+
+Safety education has a name for the recurring human
+preconditions of maintenance accidents — the "dirty dozen,"
+a taxonomy (pressure, complacency, lack of resources, poor
+communication, and their kin) developed in Canada, fittingly,
+in the years after Nationair's fall. Run Flight 2120's chain
+through it and the accident reads like the taxonomy's
+foundation case, which in pedagogical fact it became.
+
+*Lack of resources:* the unserviceable nitrogen rig — a
+four-figure piece of ground equipment whose absence at a
+remote surge operation nobody with budget authority had
+treated as a flight-safety item. *Pressure:* the rotation
+schedule, the stranded pilgrims, the contract's per-flight
+economics, all concentrating on the shoulders of a line
+maintenance controller an ocean from his company.
+*Communication:* the tire-pressure readings recorded days
+earlier, transmitted upward, and answered with a decision
+whose reasoning never traveled back down — the crew that
+died had no channel through which the ground organization's
+compromise could have reached their own risk picture.
+*Norms:* the operation had been running hot for weeks;
+each previous underinflated departure that landed safely
+became evidence that the next one would — the normalization
+of deviance, as the sociologist Diane Vaughan would name the
+same mechanism in NASA's Challenger organization, published
+five years after Jeddah and describing it exactly.
+*Complacency's* final form: tires, of all things — the
+component everyone walks past, kicks, and trusts, whose
+failure mode (thermal runaway under load, not puncture)
+was outside the intuitive model of everyone in the chain
+who was not a tire engineer.
+
+The chain analysis matters beyond pedagogy because it
+relocates the accident's moral center of gravity. A reader
+looking for the villain of 2120 will not find one person
+whose removal saves the aircraft; every individual in the
+chain behaved as his position, information, and incentives
+constructed him. The removable element was never a person.
+It was a *position* — the absent seat at the operation
+occupied, in functioning systems, by someone whose job
+description is to be unmoved by the schedule: the quality
+inspector with stop authority, the regulator's ramp
+surveyor, the charterer's technical representative. Safety
+systems are, at bottom, org charts with certain chairs
+bolted to the floor. Jeddah 1991 had no bolted chairs, and
+Part III's reform agenda can be read as a bill of
+carpentry.
+
+## The Hajj after Jeddah
+
+The operation that killed the 261 did not pause long, and
+its subsequent history completes the chapter's
+accountability audit. Through the 1990s and 2000s the
+Nigerian Hajj airlift continued on the same architecture —
+seasonal charters, brokered capacity, split oversight
+between aviation and religious-affairs authorities — and
+continued to generate incidents, near-misses, and scandals:
+stranded pilgrims as a near-annual news genre, aircraft
+substitutions of doubtful provenance, and periodic Saudi
+regulatory interventions that did what Nigerian oversight
+had not. The turn, when it came, followed the book's
+standard mechanism — external requirement plus domestic
+reform overlap: the post-2006 NCAA brought Hajj charters
+inside real AOC discipline, the Saudis progressively
+tightened the standards for aircraft admitted to the
+airlift, and the establishment of the National Hajj
+Commission gave the Nigerian side of the operation, at
+last, a permanent institutional owner. The airlift of the
+2010s and 2020s — flown substantially by Nigerian carriers
+under contract, on modern aircraft, with the commission
+publishing performance reporting — is among the reform
+era's least celebrated successes, precisely because its
+success consists of the absence of news.
+
+The dead of 2120, then, did eventually purchase their
+reforms — a generation late, by the indirect route, without
+the acknowledgment a published Nigerian accounting would
+have constituted. The pattern deserves naming because it
+recurs at every crash in this Part: the system does learn,
+eventually, obliquely, once external pressure and internal
+reform happen to align — and the learning arrives unsigned,
+never traced publicly to the event that taught it, never
+credited to the dead who paid its tuition. A country that
+cannot connect its reforms to its catastrophes cannot teach
+its own history to its successors, which is how a nation
+finds itself, in 2018, purchasing a flag-carrier livery at
+an air show. Memory is not sentiment. It is the medium in
+which institutional learning either persists or evaporates,
+and Nigeria's aviation memory has been evaporating,
+unsigned, for as long as it has been learning.
+
 ## Reflection
 
 Every July, the anniversary passes with little notice in the country the

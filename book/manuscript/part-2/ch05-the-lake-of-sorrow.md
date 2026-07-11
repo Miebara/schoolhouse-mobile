@@ -317,6 +317,90 @@ function of civilian institutional strength — a proposition Nigerian
 history would test again in February and May of 2021, with results
 recorded later in this book.
 
+## What a published report would have contained
+
+Since this chapter's central document does not exist, construct
+its table of contents — not to invent findings, which this book
+will not do, but to specify exactly what the Nigerian public and
+the Nigerian military were denied. An Annex 13-standard report
+on NAF 911 would have contained:
+
+A **factual section** establishing the aircraft's maintenance
+history — every engine's hours since overhaul, every deferred
+defect, the fuel uplift records and the fuel farm's quality-
+control documentation for that week — and the crew's training
+currency, the load manifest reconciled against the actual
+recovery, the weight and balance computation as performed and
+as it should have been performed. Merely listing these items
+shows what their absence means: every one is a question some
+Nigerian institution preferred permanently unanswered to
+temporarily embarrassing.
+
+An **analysis section** testing each engine-failure hypothesis
+against the physical evidence — teardown findings from the
+recovered engines (they were recoverable; the canal is not the
+ocean), fuel samples, witness-mark analysis on the propellers
+and turbines that distinguishes, to a metallurgical certainty,
+an engine failing under power from one windmilling dead. The
+technology to answer Ejigbo's central question existed in 1992
+in a dozen laboratories worldwide, available to Nigeria through
+the mutual-assistance provisions the Chicago system runs on.
+The question was answerable. It was not asked where anyone
+could hear.
+
+A **recommendations section** — and here the counterfactual
+bites hardest — addressed to named institutions with dated
+expectations: the fuel farm's certification, the C-130 fleet's
+inspection regime, the transport squadron's loading discipline,
+the staffing of military airworthiness review. Chapter 10
+records what the NAF's transport and utility fleets did across
+the following three decades. Every subsequent loss occurred in
+the recommendation-shaped hole where this section should have
+been.
+
+The exercise generalizes into the chapter's sharpest point:
+secrecy is often defended as the protection of specific
+sensitive facts, but what it actually withholds is *structure*
+— the disciplined, cross-examined, permanent organization of
+knowledge that converts an event into an inheritance. The
+facts of Ejigbo leaked anyway, in fragments, as facts always
+do; Lagos knew within weeks what the divers had found and the
+mess halls knew what the engines had sounded like. What never
+existed was the structure — and rumor, however accurate,
+cannot ground an airworthiness directive. States that choose
+secrecy are not choosing which facts circulate. They are
+choosing that facts shall circulate uselessly.
+
+## The lake in the city's mind
+
+Ejigbo's afterlife in Lagos memory ran through channels this
+book has not yet mapped, and they deserve the paragraph,
+because popular memory is itself an institution — the one that
+functions when the others decline to.
+
+The crash entered the city's oral culture immediately and has
+never left it: the neighborhood's renaming of the canal; the
+anniversary observances that Ejigbo's community sustained,
+unfunded, for decades; the Nollywood-adjacent retellings and
+the radio phone-in seances of speculation each September; the
+persistent, structurally rational conviction — Chapter 14's
+conspiracy ecology in its purest form — that the truth was
+known and withheld, which hardened over time from suspicion
+into simple civic common sense. When, decades later, national
+newspapers marked round-number anniversaries with
+investigative retrospectives, their sourcing was the memory
+bank the community had maintained: survivors of the recovery,
+retired officers speaking at last, the families' preserved
+documents. The state's archive of Ejigbo is a closed file of
+unknown contents; the city's archive is live, growing, and
+public. A historian of twenty-second-century Nigeria who
+wants to understand NAF 911 will work from the community's
+record, not the government's — and that inversion, a
+society's memory institutions outperforming its official
+ones, is perhaps the most Nigerian finding in this book, at
+once an indictment of the state and a testament to the
+people it has been declining to inform.
+
 ## The families of the fallen
 
 The military family occupies a particular position in Nigerian
