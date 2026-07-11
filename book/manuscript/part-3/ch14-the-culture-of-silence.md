@@ -395,6 +395,47 @@ own accidents in aggregate will meet each new one as a
 surprise — and will find, each time, that the surprise was
 in the literature, filed under a neighbor's name.
 
+## The whistle-blower's arithmetic
+
+Between the frontline's protected report and the public's
+published record stands a third figure this chapter has not
+yet given his due: the insider who sees the systemic rot —
+not an error but a practice, not a lapse but a policy — and
+must decide what speaking costs.
+
+Run his arithmetic as the Nigerian system of the crisis
+decades set it. Speaking inside the organization: the
+hazard report filed into the void, at best ignored, at
+worst traced — the controllers' associations' pre-1996
+radar memoranda are the documented case. Speaking to the
+regulator: a directorate that might be the operator's
+patron, in a system where the report's paper trail led
+back to its author. Speaking to the press: effective —
+the era's journalism, Chapter 14 has recorded, was the
+functioning accountability channel — and personally
+catastrophic, career-ending in an industry with three
+employers and one social network. Speaking to no one:
+free. The arithmetic solved itself, and the system's
+information starvation was the sum of ten thousand such
+solutions, each individually rational. The mature systems
+rebuilt the arithmetic deliberately: statutory
+whistle-blower protection with real remedies; regulator
+hotlines with confidentiality that survives subpoena;
+and — the deepest fix — the voluntary-reporting culture
+that makes the dramatic whistle-blow largely unnecessary
+because the undramatic report is answered. Nigeria's
+whistle-blower framework, adopted with fanfare for
+financial crimes in the 2010s, has never been seriously
+extended to safety-critical industries; the aviation
+professional of the 2020s still runs a milder version of
+the old arithmetic. Every silence this book has priced —
+the unreported practice, the unescalated finding — was
+purchased at that exchange rate, and the rate is a
+statute away from repeal. Chapter 16's agenda includes
+the repeal. The profession, which has been solving the
+old equation for forty years, will know within one budget
+cycle whether the new one is real.
+
 ## The statute on one page
 
 The just-culture law this chapter keeps invoking can likewise

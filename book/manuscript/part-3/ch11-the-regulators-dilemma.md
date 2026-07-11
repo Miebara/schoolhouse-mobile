@@ -321,6 +321,48 @@ the sovereign is the constituency, no other is needed; and leaving
 open, for Part IV, the question of what substitutes when, as in
 Nigeria, the sovereign's attention is itself the scarcest input.
 
+## The economics of saying no
+
+One more mechanism completes the capture anatomy: enforcement
+is not a decision but a *budget*, and regulators fail as often
+from enforcement poverty as from corruption.
+
+Follow a single "no" through the system's accounting. The
+inspector's finding costs his time; defensible documentation
+costs more of it. If the operator contests, the Authority pays
+counsel through months or years of litigation — against firms
+whose lawyers bill more per week than the inspector earns per
+year — while the aircraft, under interim orders, may fly on.
+If the operator escalates politically, the Authority spends
+its scarcest currencies, leadership attention and political
+capital, defending not just the finding but the institution.
+And if the operator simply defies — operates while suspended,
+a documented Nigerian genre — the Authority discovers that
+its ultimate instruments (seizing aircraft, prosecuting
+directors) run through police, courts, and prosecutors it
+does not control and must recruit case by case. Every "no"
+is therefore an expenditure, and an agency's enforcement
+posture is exactly as strong as its enforcement budget —
+which is why the comparative literature finds that effective
+regulators are distinguished less by their rulebooks than by
+their litigation war chests, their statutory summary powers
+(fines and groundings that take effect before appeal, not
+after), and their institutionalized alliances with
+prosecutors. The 2006 reform funded the Nigerian version of
+this partially: the levy stream paid for lawyers, and the
+Act's summary powers survived their first court tests. The
+plateau erodes it quietly: every year the war chest is
+raided for overheads, every settlement that rewards
+defiance, every appeal that suspends a grounding, shifts
+the industry's calculated price of non-compliance downward.
+Operators, whose spreadsheets this book has repeatedly
+opened, price regulatory risk as accurately as fuel. The
+question "is the NCAA strong?" is answerable, at any
+moment, by a number no audit publishes: what does defying
+it actually cost, in naira, this year? Chapter 16's
+entrenchment items are, among other things, a proposal to
+make that number public and keep it high.
+
 ## The board question
 
 One design detail deserves separate treatment because Nigerian

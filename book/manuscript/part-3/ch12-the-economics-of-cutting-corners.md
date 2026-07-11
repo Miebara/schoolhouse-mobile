@@ -264,6 +264,47 @@ balance sheet's audit function. Every failure of record integrity
 reverts the market to pricing Nigerian metal, and Nigerian promises,
 at the old discount.
 
+## Too big to ground
+
+The reform's market structure created its own successor risk,
+and intellectual honesty requires this chapter to price it
+before closing: the consolidated era's carriers are large
+enough that the old enforcement calculus now runs in reverse.
+
+When the 1990s NCAA grounded a marginal carrier, the system
+absorbed the loss invisibly — passengers dispersed across a
+dozen alternatives. When today's regulator contemplates
+grounding one of the handful of carriers that among them
+constitute the domestic schedule, it contemplates a national
+event: routes going dark, airports stranded, political
+constituencies (every state with service, every business
+lobby) mobilized within the day, and the airline's own
+thousands of jobs deployed as argument. The carrier knows
+this; its bankers know it; and the knowledge is itself a
+balance-sheet asset — an implicit regulatory forbearance
+that lowers, in exactly the "too big to fail" mechanism of
+banking, the firm's effective cost of running close to the
+line. The 2010s and 2020s supplied the test cases: the
+AMCON-managed carriers whose systemic weight visibly
+complicated every enforcement conversation, and the
+suspension episodes in which national-schedule arithmetic
+audibly shared the table with airworthiness findings.
+Banking's remedies translate almost line for line:
+resolution planning (the "living will" — a pre-agreed
+protocol for keeping the schedule alive through a carrier's
+grounding or failure, so that the safety decision is never
+hostage to the continuity decision); heightened surveillance
+scaled to systemic weight, the largest carriers earning the
+*most* inspection precisely because their failure is least
+affordable; and structural encouragement of the market's
+depth — SAATM's foreign competition again — so that no
+single AOC is ever the difference between a country flying
+and not. None of this apparatus exists in Nigerian aviation
+law at this writing. The gap is the reform's next
+generation of risk, growing quietly inside its greatest
+success — which is, the attentive reader will note, exactly
+how this book's previous eras incubated theirs.
+
 ## The passenger's price
 
 The traveling public's own economics belong in this chapter,

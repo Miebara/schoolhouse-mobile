@@ -376,6 +376,50 @@ it is, of everything in this chapter, the item most
 obviously waiting for a governor or minister in search of
 an inexpensive legacy.
 
+## The volunteer nation
+
+Every response narrative in this book has the same first
+responder — the neighbor — and a serious national doctrine
+would stop treating that fact as an embarrassment to be
+cordoned off and start treating it as the system's largest
+unregistered asset.
+
+The research literature on disaster response converged long
+ago on what practitioners call the "first responder myth":
+in mass-casualty events everywhere — Mexico City 1985, Kobe
+1995, the great urban earthquakes and explosions of the
+record — the majority of live rescues are performed not by
+professional services but by bystanders and neighbors in
+the first hour, before any siren arrives. The professional
+system's highest-leverage move is therefore not to replace
+the crowd but to *equip and interface* with it: community
+emergency response training (the American CERT model and
+its many adaptations), which teaches ordinary residents
+light rescue, fire suppression, and triage in a weekend
+course; simple protocols that let an incident commander
+convert a crowd from obstruction into organized labor
+(cordon assistance, litter bearing, supply chains); and the
+registration of standing community assets — the fishing
+fleets of the coastal chapters, the neighborhood vigilante
+and union structures that already possess rosters, radios,
+and discipline — as auxiliary response units with training
+days and call-out lists. Nigeria is, by civic structure,
+almost ideally suited to this doctrine: its
+neighborhoods are organized (age grades, traders'
+associations, residents' committees, religious brigades) to
+a density most rich countries lost generations ago, and its
+crowds have proven, from Ejigbo to Iju-Ishaga, both willing
+and brave. What they have never been offered is the
+weekend course, the interface protocol, or the respect of
+being planned for. The state that trained one percent of
+Lagos in light rescue would have fielded, at Dana 992, ten
+thousand assets instead of ten thousand obstacles — at the
+cost, roughly, of the ministry's annual conference line.
+Of all this chapter's cheap purchases, this one is the
+cheapest, because the workforce has already volunteered.
+It has been volunteering, unpaid and unthanked, since
+September 1992.
+
 ## The doctrine on one page
 
 Since this chapter has demanded a national response doctrine
