@@ -467,6 +467,36 @@ sequencing, beneath the phases: get them to the same table,
 and keep a chair for the funerals' representatives, so that
 the table never again needs new ones.
 
+## The diaspora dividend
+
+One resource on the agenda's side deserves its closing note,
+because it has grown for forty years in the account this book
+opened in Chapter 3: the diaspora.
+
+The professionals who left in the 1980s and after did not
+merely survive abroad; they accumulated — command hours at
+the world's most audited carriers, engineering authorizations
+under EASA and FAA regimes, investigation experience inside
+the very agencies this book holds up as benchmarks, and, in
+the second generation, an ecosystem of Nigerian-heritage
+professionals throughout global aviation's institutions. The
+2006 reform demonstrated the repatriation mechanism: given
+credible institutions, competitive terms, and the currency of
+institutional dignity Chapter 11 priced, they come back — as
+inspectors, trainers, managers, and standards. Every element
+of this chapter's agenda widens that channel: the pay-parity
+provisions make return economically survivable; the tenure
+and transparency provisions make it professionally
+respectable; the training-pipeline investment gives returnees
+students worth teaching. No other African aviation system
+commands a reserve of this depth, and none of Nigeria's
+competitors for the coming century's traffic can replicate
+it. The diaspora is, in effect, the institutional capital the
+country exported during its worst decades, held offshore at
+compound interest, and available for repatriation on the day
+the arrangements deserve it. The agenda, among everything
+else it is, is the terms of that recall.
+
 ## Reflection
 
 Skeptics will note, correctly, that Nigeria has seen agendas before.

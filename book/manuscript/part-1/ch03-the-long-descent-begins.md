@@ -165,6 +165,49 @@ the pathogens multiplied. Nigeria ran the same experiment with the immune
 system switched off. The 1990s would supply the laboratory results, and
 they are the subject of the next seven chapters.
 
+## The association men
+
+One set of institutions crossed the descent intact and has
+appeared in this book's margins often enough to deserve its
+formal introduction: the professional associations — the
+pilots' and engineers' union NAAPE and the airline
+professionals' bodies, the air traffic controllers'
+association NATCA, the licensed engineers' guilds — the
+organized professions of Nigerian aviation.
+
+Their survival through the collapse was not accidental.
+Unlike the agencies, the associations were funded by their
+members rather than the treasury; unlike the airline, they
+distributed no rents worth capturing; and their leadership
+was elected by constituencies that could not be reshuffled
+by decree. Through the worst decades they performed, in
+their limited registers, the functions the state had
+abandoned: the technical memoranda on radar and runway
+conditions that constitute, today, the era's best
+documentary record of infrastructure decay; the licensing
+and professional-standards discipline that kept individual
+competence credentialed even as institutional competence
+dissolved; the strike threats — aviation professionals
+possess the economy's most immediate veto — that
+periodically forced safety items onto agendas nothing else
+could reach; and the informal mentoring networks that
+carried professional culture across the pipeline's collapse.
+Their limits were equally structural: member-funded bodies
+defend members first, and the associations' energies ran,
+understandably, to salaries and conditions more reliably
+than to system reform; their warnings, filed without
+allies, became the unanswered correspondence this book has
+repeatedly exhumed. But when the reform finally came, its
+staffing ran straight through them — the Demuren
+inspectorate recruited from their rosters, the diaspora
+returned through their networks — and any future reform
+will do the same. In the political sociology of Chapter 16,
+the associations are the reform constituency's standing
+skeleton: permanently organized, technically fluent,
+institutionally immortal, and waiting — as they have waited
+through every era of this history — for a state worth
+advising.
+
 ## What the auditors saw
 
 External eyes documented the descent as it happened, and their

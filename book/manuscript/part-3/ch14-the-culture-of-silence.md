@@ -479,6 +479,54 @@ would rather know than punish — the admission on which the
 entire modern safety miracle, everywhere it exists, was
 built.
 
+## The reader's audit
+
+This chapter has argued that transparency is the cheapest safety
+technology in existence; it should end by transferring the
+technology to the reader, because the culture of silence is
+maintained, finally, by publics that do not ask. Here is the
+citizen's audit of an aviation safety system — six questions
+answerable from any connected device, requiring no expertise, each
+calibrated to a finding of this book.
+
+One: find the investigator's website and count. How many final
+reports were published in the last three years, against how many
+occurrences the same site logs? A healthy ratio approaches one; a
+ratio near zero is Chapter 5 continuing by other means. Two: pick
+any final report and read only its recommendations page, then
+search for any public record of the addressees' answers. Tracked,
+dated responses are the honesty machine running; recommendations
+that vanish into named agencies without reply are the register
+this book has been demanding. Three: find the regulator's list of
+certified operators and its enforcement actions. If the list is
+current and the actions published with reasons, Chapter 11's
+transparency ratchet is holding; if the most recent enforcement
+notice is years old in a market this size, draw the inference.
+Four: search for the last full-scale emergency exercise at the
+airport you use, and for its after-action findings. A drill with
+a published failure list is Chapter 13 functioning; a drill
+reported only as a success, or not at all, is the pageant. Five:
+find the annual safety review — the state of the system, in the
+state's own words, with data. Its existence is item nine of
+Chapter 16; its absence means the only scheduled national
+conversation about aviation safety is still the one that follows
+funerals. Six — the question that contains the others: when the
+system last suffered a serious incident, did you learn what
+happened from an official account, or from rumor, and how long
+did the difference take?
+
+The audit's purpose is not consumer self-defense, though it
+serves that. It is the manufacture, one reader at a time, of the
+constituency this book has repeatedly found missing — the public
+that knows what it is owed and asks for it on schedule, between
+funerals, in the tone of a creditor rather than a mourner.
+Institutions, this book has argued from its first chapter, are
+how societies remember. But institutions answer, in the end, to
+whoever is watching, and the watching is not a specialist's
+task. Sixty children, a staff college, a Sultan, and some three
+thousand others paid for the answers this audit requests. The
+asking costs an evening.
+
 ## Reflection
 
 Of all the patterns in Part III, this one costs least to break and

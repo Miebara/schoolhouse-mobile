@@ -112,6 +112,21 @@ training college, founded 1964 with ICAO/UNDP support (Chapter 2).
 namings — the political principal whose relationship to all of the
 above is the subject of Chapter 11.
 
+**AMCON — Asset Management Corporation of Nigeria.** The state's
+bad-asset manager; custodian of distressed carriers (Arik, Aero)
+from 2016–17 (Chapters 10, 12).
+
+**National Hajj Commission of Nigeria (NAHCON).** Permanent owner
+of the pilgrimage airlift since 2006; the institutional answer to
+Chapters 2 and 4.
+
+**LASEMA — Lagos State Emergency Management Agency.** The
+sub-national response model of Chapter 13.
+
+**The professional associations** — NAAPE (pilots and engineers),
+NATCA (controllers), and the licensed engineers' guilds — the
+professions' standing organizations (Chapters 3, 6, 16).
+
 **International:** **ICAO** (UN standard-setter; USOAP audits),
 **FAA** (US regulator; IASA Category 1/2 assessments), **EASA/EU**
 (air safety list), **IATA** (trade body; IOSA audit).
@@ -322,9 +337,9 @@ dates.
   commissioned; the reform's trophy year.
 - **2011** — Freedom of Information Act; the secrecy default
   formally renounced.
-- **2012** — Dana 992 falls at Iju-Ishaga (163 dead incl.
-  ground); the reformed system's first great test; suspensions
-  and restorations begin their oscillation.
+- **2012** — Dana 992 falls at Iju-Ishaga (153 aboard, plus
+  people on the ground); the reformed system's first great test;
+  suspensions and restorations begin their oscillation.
 - **2013** — Associated Airlines charter crash; Demuren removed;
   the plateau era opens.
 - **2016–17** — Naira crisis; Arik and Aero into AMCON care;

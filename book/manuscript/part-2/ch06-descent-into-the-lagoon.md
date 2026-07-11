@@ -155,10 +155,12 @@ is the book's argument reduced to one sortable column.
 
 ## The investigation
 
-The AIB's report on ADC 086 — completed years after the accident, in
-the unhurried tradition Chapter 14 will quantify — is, on its technical
-merits, a competent document, and its narrative of causation has held
-up. It distributed the accident across the system with unusual candor
+The Accident Investigation Bureau — the AIB, to introduce the body
+whose successes and silences run through the rest of this book —
+completed its report on ADC 086 years after the accident, in the
+unhurried tradition Chapter 14 will quantify. The report is, on its
+technical merits, a competent document, and its narrative of
+causation has held up. It distributed the accident across the system with unusual candor
 for its era: the controllers' loss of separation, built on erroneous
 position reporting and procedural control's fragility; the crew's
 evasive maneuver, correct in impulse and fatal in execution, taken

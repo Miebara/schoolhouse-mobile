@@ -22,6 +22,11 @@ authoring pipeline (concept → outline → sources → style → drafting → r
 
 Target: 350–450 printed pages ≈ 90,000–115,000 words of body text.
 
+**Manuscript as completed: ≈ 90,000 words ≈ 350–380 typeset pages**
+(front matter ~4,900; Part I ~15,000; Part II ~34,700; Part III
+~17,800; Part IV ~11,800; notes and back matter ~6,600). Word counts
+per file are reproducible with `wc -w` over `manuscript/`.
+
 ## Voice
 
 The prose style is modeled on the calm, analytical, historically panoramic,

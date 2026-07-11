@@ -383,7 +383,8 @@ capture confronted at last (Abuja, 2006), and reform's fragile aftermath
 
 **Part III, "The Patterns,"** steps back from narrative to anatomy. Four
 essay chapters take the recurring failure modes in turn: the political
-economy of the regulator (why the NCAA oscillated between capture and
+economy of the regulator (why the Nigerian Civil Aviation Authority —
+the NCAA, this book's central institution — oscillated between capture and
 excellence, and what institutional design has to do with it); the economics
 of cutting corners (why elderly aircraft and deferred maintenance were
 rational choices inside an irrational system of capital scarcity and
