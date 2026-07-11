@@ -162,6 +162,50 @@ only once, in 2006. One deposit does not compound. The American
 lesson to Nigeria is not "build an NTSB"; it is "never again waste
 a crash."
 
+## India: scale, democracy, and the long grind
+
+Before the smaller mirrors, one more large one — the case
+closest to Nigeria in political texture: a vast, raucous,
+federal democracy whose aviation system grew up amid scarcity,
+state ownership, and politics in everything.
+
+Indian aviation's twentieth century rhymed with Nigeria's
+stanza for stanza: the promising indigenous start (Tata's
+airline) nationalized into a flag-carrier duopoly that
+politics slowly strangled; the license-raj decades of scarce,
+shabby capacity; the 1990s deregulation whose first wave of
+private carriers died in heaps (Damania, East-West, ModiLuft —
+India's Okada generation); recurring disasters that exposed
+infrastructure and oversight gaps (Charkhi Dadri above all);
+and a regulator, the DGCA, chronically understaffed against
+its market and periodically embarrassed by FAA downgrade —
+Category 2 in 2014, restored within months by a crash
+program. What distinguishes the Indian arc is not any single
+reform but the *grind*: no Demuren moment, no clean 2006, but
+three decades of incremental, contested, reversible-and-
+mostly-not-reversed accumulation — private airports built to
+world standard through concession models; a second and third
+generation of private carriers (Jet, then IndiGo) that
+learned from the first wave's graves; safety oversight
+capacity dragged upward audit cycle by audit cycle; and a
+market that grew, through every scandal and collapse, into
+the world's third largest, on fleets among the world's
+youngest. India demonstrates the unheroic path: that a noisy
+democracy without institutional islands or benevolent
+sovereign attention can still compound aviation capability,
+provided the direction of each decade's drift is net
+positive and the market's growth keeps recruiting new
+stakeholders into the system's defense. For Nigerian readers
+exhausted by the great-reformer template, India is the
+consoling mirror: the constituency Chapter 16 demands can
+assemble itself gradually, commercially, unromantically —
+one profitable, safety-dependent airline at a time. IndiGo,
+not the DGCA, is the load-bearing institution of Indian
+aviation safety's economics, and its Nigerian equivalent —
+the carrier whose business model cannot survive a lax
+system — is the single most valuable company Nigerian
+policy could help into existence.
+
 ## Korea: the transformation nobody expected
 
 One more great mirror belongs in the set, though it hangs

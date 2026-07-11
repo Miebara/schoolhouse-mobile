@@ -259,6 +259,45 @@ question of whether the state prefers the system's yield to the
 system's rents — Chapter 15's recomputation, awaiting a
 sovereign who runs it honestly.
 
+## What it costs
+
+The agenda's price tag, assembled from the cost classes above,
+belongs in one place, because its smallness is the chapter's
+most subversive fact.
+
+Item one (the investigator's clocks, register, shield):
+drafting time and web infrastructure — call it the price of a
+ministerial committee's annual sitting allowance. Item three
+(trucks, drills, doctrine, family assistance): the genuine
+capital item — agent stocks, tender refurbishment, exercise
+costs across the international airports — sums, on the
+industry's own estimates over the years, to less than one
+mid-sized terminal renovation; the recurring drill budget is
+a rounding error inside FAAN's existing appropriation. Item
+seven (the pipeline): the largest line — simulator and
+training-fleet renewal at Zaria plus the cadetship fund —
+prices at roughly one year of a mid-tier federal agency's
+overhead, amortized over a decade of graduating classes.
+Items two, four, five, six, eight, and nine are, in direct
+fiscal terms, nearly free: statutes, protocols, published
+registers, benchmarked salaries funded from levies already
+collected. Sum the entire program generously and it remains
+below the published cost estimates of the stillborn Nigeria
+Air's launch — below, for a sharper comparison, the value of
+the foreign carriers' funds the state trapped in a single
+bad year of forex queueing. Against it stand the quantified
+returns this Part has assembled: the treaty discount on
+every financed airframe, the insurance re-rating, the route
+economics of durable Category 1, the hub revenues compounding
+across decades — and the unquantified one, the funerals not
+held. Nigerian aviation reform is not an expenditure
+competing with schools and clinics; it is among the
+highest-yield fiscal instruments the federation owns,
+mispriced for sixty years because its dividends are paid in
+absences. The budget office that finally prices the
+absences will wonder, as this book does, what exactly the
+country thought it was saving.
+
 ## The precondition
 
 The agenda's items are cheap severally and achievable jointly; the

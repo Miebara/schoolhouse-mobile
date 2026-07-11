@@ -343,6 +343,58 @@ for the system. The remedy is the one this chapter's book
 has tried to be: the history, written down, argued, sourced,
 and put where the cadets can reach it.
 
+## Two mornings in 2050
+
+Since the whole book has argued that the future is a choice,
+let the choice be rendered as the essayist's instrument
+permits: two mornings, same city, same date, a generation out.
+
+The first morning: Lagos's second airport — the Lekki
+seaside field the 2030s finally built — turns its hourly
+bank of departures. A regional jet assembled with Nigerian-
+made components loads for Douala; the 6 a.m. wave to Accra,
+Abidjan, and Dakar boards under SAATM tariffs that made the
+West African shuttle as ordinary as a bus; the MRO campus
+across the field — anchor tenant, the successor of today's
+carriers; second tenant, Ethiopian, paying rent in Lagos now
+— works the night's heavy checks. In the tower, the
+watch supervisor is a woman from Kano whose grandmother
+watched EAS 4226 from her roof; the morning's NSIB bulletin,
+pushed to every operations room in the federation, reviews
+last month's runway-excursion drill at Port Harcourt. Nobody
+in the terminal thinks about any of this. That is the
+achievement: the system has become boring, and the boring
+system carries two hundred million passengers a year.
+
+The second morning: the same date, the same country, the
+plateau extended. The traffic doubled anyway — demography
+does not wait — onto the old two airports, the old
+inspectorate, the old response archipelago. The fleet is
+younger than 1995's but older than 2025's, because the
+financing dried as Cape Town performance slipped; the
+inspectors' vacancy rate is a standing committee topic; the
+NSIB's backlog is measured in years again; and somewhere in
+the system, on this particular morning, a dispatcher is
+weighing a thunderstorm line against a schedule, an engineer
+is deferring a finding within the letter of a rule, a fire
+tender's pump is awaiting a part — the holes drifting, as
+they drifted through 1991 and 2005, toward alignment. The
+morning ends, this time, with the alignment complete: the
+liturgy resumes — mourning, probe, panel, promises — in
+high definition, before an audience of three hundred
+million, over the graves of people not yet born on the day
+this book was finished.
+
+Both mornings are fully specified in the chapters behind
+this page. Neither requires a miracle; each requires only
+that the decisions of the intervening nine thousand
+mornings lean, on average, one way or the other. The reader
+closing this book is, if Nigerian, a participant in some of
+those mornings — as voter, professional, official,
+passenger, parent. The book's last request is the modest
+one its whole method implies: on the mornings when it is
+your turn, remember which future the deferral belongs to.
+
 ## Seat 14A, again
 
 Return, finally, to the evening flight of the preface — Abuja to
