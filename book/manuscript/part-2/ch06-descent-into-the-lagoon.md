@@ -327,6 +327,43 @@ infrastructure is a property not of its wealth but of its institutional
 drivetrain — and that fourteen years is what the drivetrain of a
 military-ruled, treasury-starved, report-shelving state delivers.
 
+## The 727: a machine of its era
+
+The aircraft itself deserves its biography paragraph, because
+the Boeing 727 was the Nigerian 1990s' workhorse and its
+design era explains a layer of the accident that neither the
+crew nor the controllers supplied.
+
+The 727 was the great trijet of the 1960s — the machine that
+built short-haul jet travel worldwide, rugged, ubiquitous
+(over 1,800 built), and engineered to the automation
+philosophy of its decade: a flight engineer's panel, cable-
+and-pulley flight controls, and a cockpit that assumed three
+crew and continuous hand-flying skill. What it did not have,
+in the standard configurations flying Nigerian trunks in
+1996, were the protective layers that the next design
+generations made universal: no TCAS to paint the conflicting
+traffic that the controllers' paper picture had lost; no
+enhanced ground-proximity warning; no fly-by-wire envelope
+protection to blunt an evasive maneuver's excursion beyond
+structural limits; flight instruments a generation before
+the attitude displays that make unusual-attitude recovery
+legible. Each absence was an era, not a defect — the 727 was
+certified decades before the technologies existed — and each
+was, by 1996, being retrofitted or retired against in the
+wealthy fleets while remaining standard equipment in the
+sorted-downward fleets of Chapter 12. The accident thus
+carries a technological stratum beneath its institutional
+ones: 086's crew met a 1990s traffic environment with 1960s
+tools, because the economics this book has anatomized
+assigned the oldest defenses to the newest risks. When TCAS
+mandates swept the world's fleets in the following years —
+driven by collisions and near-collisions from Überlingen to
+the Amazon — the 727s of Africa aged out with the
+requirement among their executioners. The machines were
+honest to their era. The system that kept them flying past
+it is the one this Part has been indicting.
+
 ## What the tower knew, and when the country learned it
 
 The information history of 086 — who knew what, when, and what

@@ -459,6 +459,47 @@ coffins; the record says almost never, and the exceptions (Ethiopia's
 institutional continuity, chiefly) are the most valuable case studies
 in the field.
 
+## The other October aircraft
+
+Six weeks before Flight 053, in mid-September 2006, a Nigerian
+Air Force Dornier 228 light transport crashed in the hills of
+Benue State carrying a delegation of the army's most senior
+officers to an official engagement; the dead included a
+concentration of generals that made the loss, within the
+military, an Ejigbo in miniature. The event is nearly absent
+from civilian memory of the era — overwhelmed within weeks by
+the Sultan's crash — and its absence is precisely why it
+belongs in this chapter.
+
+Consider the timing. The civil aviation system was, that
+autumn, in the most intense reform ferment of its history:
+the Act in passage, the re-certification designed, the
+Demuren NCAA at maximum energy. The military system, six
+weeks before the civil reform's crowning catastrophe,
+suffered its own decapitating crash — senior commanders,
+a transport aircraft, terrain, weather, the familiar
+elements — and processed it through the unmodified 1992
+protocol: board of inquiry convened, condolences issued,
+findings sealed. No provision of the 2006 Act reached it; no
+ICAO audit scored it; no Category 1 assessment would ever
+ask about it. The two Octobers of 2006 thus ran the book's
+controlled experiment within a single season and a single
+state: the same country, the same weather, the same
+institutional culture — one aviation system entering the
+strongest accountability field ever constructed around it,
+the other in the zero field it had always inhabited. The
+subsequent fifteen years scored the experiment: the civil
+system's fatal-accident curve bent to the floor; the
+military's continued unbent through 2021's twin disasters.
+No finding in this book is better controlled, and none
+makes Chapter 16's military airworthiness item — the
+independent authority, the published summaries, the
+perimeter finally closed — more empirically unanswerable.
+The reform of 2006 was a triumph precisely bounded by its
+jurisdiction. The bound was drawn at the barracks gate, in
+September, in the hills of Benue, where nobody was
+watching.
+
 ## Holding through the handover
 
 Reforms in presidential systems die most often at the

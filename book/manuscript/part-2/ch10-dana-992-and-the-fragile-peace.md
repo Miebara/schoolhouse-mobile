@@ -258,6 +258,47 @@ grows, fleets age, personnel churn — and a safety system standing
 still is, relative to its risk base, slowly walking backward. The
 fragile peace is peace. It is also fragile, and it knows it.
 
+## The charter frontier
+
+The 2013 Associated crash marked, this chapter argued, the
+reformed perimeter's edge; the general-aviation and charter
+sector's subsequent decade proved the marking durable, and its
+political economy explains why the edge resists.
+
+Nigerian charter aviation grew through the 2010s and 2020s
+into one of Africa's largest business-aviation markets: the
+executive jets of the banking and oil aristocracy, the
+political charters of campaign seasons, the helicopter
+shuttles of the delta and the Lagos traffic-escape trade. Its
+structural feature is the one this book has learned to treat
+as a hazard sign: the sector's passengers are precisely the
+country's most powerful people, and its oversight is
+correspondingly the system's most negotiated space. The
+recurring findings of the NSIB's general-aviation dockets and
+the NCAA's periodic charter crackdowns describe the pattern:
+"private" registrations flying commercial charters outside
+AOC discipline (the gray charter, taxed and inspected as
+neither); foreign-registered business jets domiciled in
+Nigeria beyond the practical reach of their registries;
+load manifests and crew duty records of ceremonial accuracy;
+and enforcement campaigns that crest after each embarrassing
+incident and recede as the clientele's calls are returned.
+The sector's accident and incident log — the charter
+crashes, the helicopter losses, the runway excursions of
+the political season — runs at rates the scheduled system
+left behind in 2012. The analytical point is the one
+Chapter 6 seeded: the elite's exit from the public system
+into private aviation did not exempt them from institutional
+quality; it re-exposed them to the pre-reform system they
+had funded their way out of, because the private sphere's
+oversight is exactly as strong as the regulator the public
+sphere maintains. The powerful, in aviation, cannot secede
+from the state's competence. They can only choose which of
+its jurisdictions — the audited or the negotiated — they
+will entrust their families to, and the record of their
+choosing is an irony this book leaves, without further
+comment, to its readers among them.
+
 ## The NSIB's first shelf
 
 Because this chapter has staked the reform's future on the
