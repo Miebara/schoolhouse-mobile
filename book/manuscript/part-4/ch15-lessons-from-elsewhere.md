@@ -352,6 +352,34 @@ the set was, at the moment of its crisis, substantially
 pre-written — by professionals who had been waiting, sometimes
 for decades, with the file open.
 
+## Reading the mirrors from Lagos
+
+A closing methodological honesty: comparison is a powerful
+instrument and a corruptible one, and Nigerian public argument
+has long been fluent in its corruptions. The same five mirrors
+this chapter has used can be — and in ministerial speeches
+regularly are — used to prove anything: Ethiopia proves state
+ownership works (order a flag carrier); America proves
+deregulation works (license everybody); Indonesia proves bans
+are colonial bullying (denounce the EU list); Korea proves
+culture is destiny (sigh, and change nothing). The
+discipline that separates analysis from advocacy is the one
+this chapter has tried to model: compare *mechanisms*, not
+outcomes — ask in each case what specific arrangement
+produced the result, whether the arrangement's preconditions
+exist or can be built at home, and what the case's failures
+(every mirror has them) reveal about its limits. And insist
+on the full set: any single comparison is an anecdote with a
+flag; it is the pattern across five or eight — the same three
+algebra terms surfacing in every recovery, the same absences
+in every stagnation — that carries evidential weight. The
+reader equipped with that discipline is armed against the
+next Farnborough livery, and arming that reader has been
+this chapter's practical purpose. Nigeria does not lack
+comparative material; it has been governing by comparison —
+badly chosen, half-read — for sixty years. The upgrade on
+offer is not new mirrors. It is optics.
+
 Culture appears nowhere in the algebra, and the omission is the
 chapter's finding. What is called safety culture in the literature
 is real but *downstream* — the residue that forms inside

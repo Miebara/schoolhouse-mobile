@@ -395,6 +395,49 @@ own accidents in aggregate will meet each new one as a
 surprise — and will find, each time, that the surprise was
 in the literature, filed under a neighbor's name.
 
+## The statute on one page
+
+The just-culture law this chapter keeps invoking can likewise
+be sketched in its essentials, drawn from the New Zealand and
+Danish models and ICAO's Annex 19 protections, so the reader
+can see that the ask is modest and the drafting substantially
+done elsewhere.
+
+Section one defines protected safety information: voluntary
+hazard and occurrence reports, flight-data monitoring records,
+cockpit voice recordings, and statements given to safety
+investigators. Section two erects the shield: protected
+information is inadmissible in criminal, civil, disciplinary,
+and administrative proceedings against the person who provided
+it, and may not ground prosecution or license action — with
+the carve-outs that make the bargain honest: willful
+misconduct, gross negligence as strictly defined, sabotage,
+and intoxication remain fully prosecutable on independently
+gathered evidence. Section three obliges the institutions:
+every operator and agency above a size threshold must run a
+reporting system meeting confidentiality standards; the
+regulator must publish annual de-identified analyses so the
+system's yield is visible. Section four governs the
+interface with justice: a standing protocol between the NSIB
+and the federal prosecution service — modeled on the accords
+that ended the French wars between the BEA and the
+magistrates — sequencing access to wreckage and records so
+that neither the safety investigation nor any legitimate
+criminal one contaminates the other. Section five protects
+the protectors: retaliation against a reporter becomes
+itself an offense.
+
+Nothing in the page prevents Nigeria from prosecuting the
+genuinely criminal; everything in it prevents the state from
+taxing candor at rates that return the system to silence.
+The models are public, the ICAO guidance explicit, the
+drafting a month's work for a competent chamber. What the
+page requires is only the signature this chapter has been
+describing all along: the state's formal admission that it
+would rather know than punish — the admission on which the
+entire modern safety miracle, everywhere it exists, was
+built.
+
 ## Reflection
 
 Of all the patterns in Part III, this one costs least to break and

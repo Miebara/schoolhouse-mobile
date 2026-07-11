@@ -183,6 +183,48 @@ that killed the Sultan will be presented to Nigerian crews
 more often in 2050 than in 2006. Whether it kills again is,
 as ever, not a weather question.
 
+## The case against hope, answered
+
+Intellectual honesty requires this book to state the strongest
+version of the pessimist's case before closing against it, and
+the strongest version is not cynicism but pattern: every
+argument this chapter has made from demography and interest
+was equally available in 1960 (the airline age's Nigeria as
+natural aviation power), in 1977 (the boom as take-off), in
+2010 (Category 1 as turning point) — and each time the
+structural tailwinds blew, and each time the institutional
+sails were not raised, or were raised and then struck. The
+pessimist does not deny that reform is possible; he observes
+that in sixty years it has been sustained for roughly eight,
+and asks why the base rate should not govern the forecast.
+
+Three things have changed that the base rate does not price.
+First, the information environment: every prior relapse
+happened substantially in the dark — the plateau of the
+2020s is the first to occur under continuous public
+documentation, FOI, smartphone archives, and an NSIB that
+publishes, and decay that must happen in daylight happens
+slower and costs more. Second, the interest structure:
+for the first time, the growth arithmetic makes safety
+directly and visibly profitable to actors with power — the
+consolidated carriers' fleets are financed on covenants that
+price the system's integrity; the hub prize is contested and
+lucrative; aviation is, at last, an industry someone
+powerful loses money when it rots. Third, the demonstration
+stock: 1960's optimists had theory; 2010's had one
+turnaround; today's have a shelf — Nigeria 2006, Indonesia,
+Korea, Ghana, the offshore enclave — of executed,
+documented, imitable repairs, including two performed by
+Nigerians on Nigerian institutions. Base rates govern
+systems whose parameters are static. The pessimist's
+pattern was real, and its parameters are moving — not
+guaranteeing the second act, but repricing it from miracle
+to decision. This book's bet, stated once and finally, is
+on the decision; and unlike its predecessors' bets, this
+one will be auditable, in public, one published report and
+one funded drill at a time, by every reader who holds the
+instrument panel this history has assembled.
+
 ## The wager restated
 
 It is customary for books like this one to end with optimism, and

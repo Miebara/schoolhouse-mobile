@@ -281,6 +281,44 @@ is what "rebuilding trust" means in operational terms: not a
 communications strategy, but the construction of permanent,
 self-interested watchers.
 
+## The first hundred days
+
+For concreteness — and because reform windows, when they open,
+open briefly — here is the agenda translated into the opening
+program of a hypothetical reforming administration or newly
+protected Director-General, sequenced for momentum rather than
+importance.
+
+Day one to thirty: the publications. Order the recommendation
+register, the AOC registry, the ARFF inspection results, and
+the enforcement log onto the public web in whatever state they
+exist — imperfect data published beats perfect data promised,
+and the act itself signals the era's terms. Simultaneously:
+one unannounced ARFF substance audit at each international
+airport, results published within the month. Cost: server
+space and nerve.
+
+Day thirty to sixty: the clocks. Direct the NSIB (or agree
+with it publicly) on interim-statement and docket timelines
+for all open investigations, with the backlog scheduled and
+dated. Convene the first quarterly safety-performance briefing
+— cameras present, agency heads on the record, questions
+taken. Institutions learn tempo from the top's calendar.
+
+Day sixty to one hundred: the entrenchments begun. Transmit
+the prepared bills — the just-culture shield, the family-
+assistance act, the levy protections — to the National
+Assembly while the administration's honeymoon lasts; announce
+the inspector pay-parity mechanism and the diaspora
+recruitment round; commission the full-scale exercise at the
+busiest airport for a date within the year, and attend it.
+None of this completes anything; all of it makes the
+program's reversal visible and therefore expensive, which is
+— the Demuren tenure taught — the whole art of the opening.
+The hundred days do not build the cathedral. They pour the
+part of the foundation that shows, so that stopping becomes
+a public act.
+
 ## The ways this fails
 
 An agenda that cannot name its own failure modes is a

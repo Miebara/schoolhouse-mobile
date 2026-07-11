@@ -376,6 +376,41 @@ it is, of everything in this chapter, the item most
 obviously waiting for a governor or minister in search of
 an inexpensive legacy.
 
+## The doctrine on one page
+
+Since this chapter has demanded a national response doctrine
+often enough, it should sketch one — the skeleton any competent
+drafting team would flesh, offered to show how little mystery
+the assignment holds.
+
+**Command:** one incident commander per event, designated by
+pre-agreed rule (the airport authority inside the fence, the
+metropolitan emergency authority outside it), with every other
+agency — federal, state, military, voluntary — subordinated for
+the duration by statute, not negotiation. Dual command is no
+command; every failed response in this book had five.
+**Communication:** a national mutual-aid radio protocol and a
+single emergency coordination number for responders; contact
+trees tested monthly by actual calls, not annual memos.
+**Capability:** ARFF substance audited unannounced; each
+international airport paired by written agreement with its
+municipal fire, ambulance, and hospital network, the pairing
+exercised annually; regional caches of the heavy kit (cranes,
+cutting gear, lighting) mapped and contracted in advance —
+the Dana crane must never again be sourced by phone on the
+afternoon. **Casualty flow:** a regulating function that
+assigns patients to hospitals by capability and load, with the
+burn and trauma centers' real-time capacity visible to the
+incident commander; a single casualty registry opened within
+the hour, staffed to answer families. **Families:** the
+assistance act's machinery — notification standards, a family
+information center at every event, remains management under
+forensic protocol, a named liaison per family. **Learning:**
+the after-action report mandatory, published, and answered,
+feeding the same recommendation register as the NSIB's. One
+page; nothing novel; every line paid for somewhere in this
+book. The drafting team can start Monday.
+
 ## Reflection
 
 There is a version of this book's argument that counsels despair:
