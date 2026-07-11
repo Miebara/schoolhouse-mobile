@@ -205,6 +205,55 @@ same direction as safety rather than against it. Grief built the
 first reform. Interest is available to build the second, in
 quantities the first never had.
 
+## The continental stage
+
+Nigeria's aviation century will be played on a stage the
+previous century never built: a continental market attempting,
+at last, to become one, and the geopolitics of that attempt
+deserve a section, because Nigeria's choices will do more than
+any other single state's to decide it.
+
+The Single African Air Transport Market — SAATM, launched under
+the African Union in 2018 as the operationalization of the
+1999 Yamoussoukro Decision's long-stalled open-skies promise —
+proposes the aviation equivalent of the continental free trade
+area: any African carrier flying between any African cities,
+fifth-freedom rights and all, without the bilateral
+route-by-route haggling that has kept intra-African
+connectivity scarcer and costlier than intercontinental links.
+The economics are not controversial: study after study finds
+liberalization multiplying traffic, halving fares on
+liberalized routes, and creating the network density that
+makes hubs, MROs, and training economies viable. The politics
+are entirely controversial, because open skies reward the
+prepared — the Ethiopians, with a mega-hub and a fleet already
+built for continental reach — and expose the unprepared, whose
+markets are opened faster than their carriers can compete for
+them. This is precisely the calculation that has kept Nigeria,
+a SAATM signatory, hedging in practice: protecting its
+carriers' domestic riches while its international traffic —
+the richest origin-and-destination market in West Africa —
+enriches everyone else's hubs.
+
+The hedge is understandable and, on this book's evidence,
+backward. Protection has never built a competitive Nigerian
+carrier — six decades of it built Nigeria Airways and the
+graveyard of Chapter 12 — while exposure to standards (the
+Category 1 campaign, IOSA, the lessors' covenants) built
+everything that now works. The SAATM decision is the same
+choice at continental scale: whether Nigerian aviation's
+future is negotiated as a rent to be defended or a market to
+be won. A Nigeria that chose the second — that paired open
+skies with the Chapter 16 agenda, offering the continent's
+carriers its traffic in exchange for its own carriers'
+right to compete everywhere — would be placing the bet
+Ethiopia placed in 1945 and Indonesia in 2007: that its
+people's competence, given institutions, can win on merit.
+Two hundred million passengers' worth of gravity says the
+bet is underpriced. The alternative — the hedge extended
+indefinitely — has a precedent too, and this book has
+already written its history once.
+
 ## The generation
 
 The people who will run the Nigerian century in the air are

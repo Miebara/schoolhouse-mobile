@@ -162,6 +162,57 @@ only once, in 2006. One deposit does not compound. The American
 lesson to Nigeria is not "build an NTSB"; it is "never again waste
 a crash."
 
+## Korea: the transformation nobody expected
+
+One more great mirror belongs in the set, though it hangs
+outside Africa, because it answers the question the other five
+leave open: can a national aviation system's *culture* — since
+skeptics will keep using the word — actually be rebuilt, fast,
+on purpose, at scale? South Korea is the documented yes.
+
+Korean aviation in the 1990s was the developed world's problem
+child. Korean Air's loss record across the decade — cargo and
+passenger hulls from Guam to Stansted — had made the airline a
+byword; the FAA downgraded Korea to Category 2 in 2001; the
+US military restricted personnel from the flag carrier; Delta
+and Air France suspended codeshares. The diagnosis that
+entered the popular literature (via Gladwell's retelling of
+the cockpit-gradient studies) was cultural: deference
+steepened by language and hierarchy, first officers unable to
+challenge captains. The truth in the diagnosis was real; the
+lesson usually drawn from it — culture as fate — was refuted
+by what followed. Korean Air, under regulatory and commercial
+siege, rebuilt its training system root and branch: foreign
+consultants given real authority, English standardized,
+crew-resource-management retrained fleet-wide, checking made
+adversarial, hiring diversified. The regulator rebuilt
+alongside. Category 1 returned within sixteen months; the
+airline's subsequent two decades rank among the industry's
+safer records; and the "cultural" cockpit of the diagnosis
+was, within a professional generation, simply gone —
+replaced not by a different national character but by a
+different *procedural environment* that made the old
+deference operationally impossible.
+
+Korea's relevance to Lagos is exact. It demonstrates that
+even where a genuine cultural pattern contributes to
+accidents, the tractable variable remains institutional:
+Koreans did not become less Korean; their cockpits became
+places where the hierarchy's cost had been priced and
+engineered out. It demonstrates the compressed timescale —
+years, not generations — on which a determined system can
+convert its reputation. And it demonstrates, once more, the
+mechanism this book keeps finding under every recovery:
+external pressure (the downgrade, the codeshare suspensions)
+converting safety into a commercial and national-prestige
+emergency that the state's own machinery then had reasons to
+solve. The Nigerian professionals who cite Korea in
+conference presentations — and they do, often — are making
+the precise claim this chapter's algebra supports: nobody's
+grandmother has ever crashed an airplane. Systems do, and
+systems can be rebuilt by anyone willing to pay their
+political price.
+
 ## The near mirrors
 
 Five great mirrors structure this chapter, but three smaller,

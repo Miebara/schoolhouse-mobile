@@ -159,6 +159,50 @@ delay statistics — machine-readable, on the web, by default.
 Transparency is the only regulator that works weekends. Cost class:
 negligible. Enemy: reflex.
 
+## What trust is, operationally
+
+"Rebuilding trust" names this chapter, and before its close
+the phrase should be cashed out, because trust in a technical
+system is not a sentiment; it is an inference from evidence,
+and it can be specified.
+
+A passenger trusts an aviation system when she can reason,
+even implicitly: *the people operating this machine are
+qualified by an examiner who cannot be bought; the machine is
+maintained on a schedule someone independent verifies; if
+something goes wrong tonight, trained help will arrive inside
+the survival window; and if the worst happens, the cause will
+be found and published, and the system will change.* Four
+inferences — competence, verification, response, learning —
+each resting on an institution, each checkable in principle.
+The Nigerian public of 1996 could make none of the four; the
+public of the quiet decade can make perhaps two and a half,
+which is why its trust remains provisional, cheap to shake,
+and expressed in the dark humor that has always been the
+Nigerian passenger's actuarial instrument. The agenda above
+is, item by item, a machine for making the four inferences
+severally true and severally *visible* — the publication
+clauses mattering as much as the substance, because an
+inference requires evidence, and invisible rigor builds no
+trust at all.
+
+The same specification explains why trust, once built, is an
+economic asset of the first order. Aviation is the advance
+purchase of a promise; every doubt about the promise is
+priced — in demand suppressed, in the insurance and lease
+premia this book has tracked, in the diversion of the
+country's own elite to foreign carriers and charter fleets,
+in the hub traffic that connects over Addis because a
+transfer through Lagos still carries, fairly or not, a
+discount for uncertainty. A percentage point of restored
+trust is worth more to Nigerian aviation's growth arithmetic
+than any terminal ever commissioned. Governments understand
+buildings; the case this chapter has tried to make, in the
+end, is that trust is also infrastructure — the only kind
+that compounds, the only kind that cannot be commissioned
+with a ribbon, and the only kind whose construction schedule
+is entirely, permanently, within the state's own control.
+
 ## Sequencing, or how reforms actually land
 
 An agenda is a list; a program is an order of operations, and the
