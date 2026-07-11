@@ -151,61 +151,249 @@ professions' standing organizations (Chapters 3, 6, 16).
 
 # Appendix C — Glossary and Abbreviations
 
-- **AOC** — Air Operator Certificate; an airline's license to operate.
-- **ARFF** — Aircraft Rescue and Firefighting; airport fire service.
-- **Annex 13** — Chicago Convention annex governing accident
-  investigation; mandates independence and prevention-only purpose.
-- **Annex 14** — Annex governing aerodromes, including ARFF standards.
-- **C-check** — Major scheduled maintenance inspection, weeks-long.
-- **Category 1 / 2 (IASA)** — FAA rating of a *country's* oversight
-  (not its airlines); Category 1 permits direct US service.
-- **CVR / FDR** — Cockpit voice recorder / flight data recorder
-  ("black boxes").
-- **Density altitude** — Effective altitude for aircraft performance;
-  high heat = thin air = degraded performance.
-- **EU Air Safety List** — The European ban list of carriers/states.
-- **IOSA** — IATA Operational Safety Audit of airlines.
-- **Just culture** — The bargain protecting honest error reports from
-  punishment to keep safety information flowing.
-- **SAATM** — Single African Air Transport Market (AU open-skies).
-- **SARPs** — ICAO Standards and Recommended Practices.
-- **SMS** — Safety Management System; an operator's formal risk
-  machinery.
-- **TRACON** — Total Radar Coverage of Nigeria (commissioned 2010).
-- **USOAP** — ICAO's Universal Safety Oversight Audit Programme.
-- **Wet lease** — Renting aircraft *with* crew/maintenance/insurance
-  (vs. **dry lease**, aircraft only).
-- **Windshear** — Abrupt wind change with altitude/position; lethal
-  near the ground; thunderstorm signature.
-- **AOG** — Aircraft on ground: unflyable pending parts/repair; the
-  industry's costliest routine emergency.
-- **ATC** — Air traffic control. **Procedural control** — separation
-  by position reports and timing, without radar surveillance.
-- **Density altitude** — see Chapter 7; the performance-effective
-  altitude after temperature correction.
-- **FDR / CVR readout** — laboratory recovery of recorder data;
-  requires specialized facilities (see Chapters 8, 10).
-- **Go-around** — Abandoning an approach to climb and retry or
-  divert; mandated at defined "stabilized approach" gates.
-- **IASA** — see Category 1/2. **USOAP EI score** — ICAO's
-  "effective implementation" percentage for a state's oversight.
-- **MEL** — Minimum equipment list: what may legally be inoperative
-  for dispatch, and for how long.
-- **Microburst / downburst** — concentrated storm downdraft; the
-  windshear mechanism in Chapters 8–9.
-- **MRO** — Maintenance, repair, and overhaul (organization or
-  industry).
-- **Plan-continuation bias** — the decision pathology of pressing
-  on as evidence accumulates against the plan (Chapter 8).
-- **Ramp check / SAFA** — unannounced inspection of a visiting
-  foreign aircraft; the EU's programme of the same.
-- **Stabilized approach** — defined speed/configuration/descent
-  gates on final; deviation mandates go-around.
-- **Swiss cheese model** — Reason's image of layered defenses whose
-  aligned holes admit the accident (Introduction).
-- **Wreckage-site custody** — evidence-preservation discipline at a
-  crash site; its failure at Lisa cost the Bellview investigation
+Every term of art used in this book, in plain English, alphabetized.
+Chapter references point to the fullest discussion. Institutional
+names (NCAA, NSIB, FAAN, etc.) are covered separately in Appendix B.
+
+- **AIB** — Accident Investigation Bureau, Nigeria's independent
+  civil accident investigator from 2006 until its 2022
+  reconstitution as the NSIB (see Appendix B).
+- **Airworthiness** — The condition of an aircraft conforming to its
+  approved design and being safe for flight; maintained by
+  inspection and certified maintenance, and attested by a
+  certificate of airworthiness on the national registry.
+- **Airworthiness directive (AD)** — A regulator's mandatory order
+  requiring inspection, repair, or modification of an aircraft type
+  after a safety deficiency is identified.
+- **Annex (to the Chicago Convention)** — One of the nineteen
+  technical rulebooks attached to the 1944 treaty. This book leans
+  on **Annex 6** (aircraft operations, including lease oversight),
+  **Annex 13** (accident investigation: independent, public, for
+  prevention "not to apportion blame or liability"), **Annex 14**
+  (aerodromes, including rescue and firefighting standards), and
+  **Annex 19** (safety management and the protection of safety
+  information).
+- **AOC — Air Operator Certificate** — The state's license
+  authorizing a company to operate commercial air transport; the
+  document at stake in the 2006–07 re-certification purge
+  (Chapter 9).
+- **AOG — Aircraft on ground** — Industry shorthand for an aircraft
+  grounded awaiting parts or repair; the costliest routine
+  emergency in airline operations (Chapter 12).
+- **ARFF — Aircraft rescue and firefighting** — The airport fire
+  service. ICAO categories specify vehicles, water and foam
+  quantities, and a response time of about three minutes to any
+  point of the runway (Chapters 8, 13).
+- **ATC — Air traffic control** — The ground service that separates
+  aircraft. **Procedural control** is ATC without radar: separation
+  built from pilots' position reports, timing, and altitude rules —
+  the method in use over Lagos in 1996 (Chapter 6).
+- **Bilateral air services agreement (BASA)** — The state-to-state
+  treaty allocating routes, capacity, and landing rights between
+  two countries' airlines (Chapters 2, 17).
+- **Black boxes** — see CVR and FDR.
+- **C-check / D-check** — The heavy tiers of an airliner's scheduled
+  maintenance program: deep, weeks-long structural and systems
+  inspections in which airworthiness actually lives (Chapter 12).
+- **Cannibalization** — Removing serviceable parts from one aircraft
+  to keep another flying; legitimate under tight control, and a
+  symptom of collapse as a way of life (Chapter 3).
+- **Cape Town Convention (2001)** — The treaty giving aircraft
+  financiers fast, reliable cross-border repossession rights;
+  compliance lowers a country's cost of financing new aircraft
+  (Chapters 12, 16).
+- **Category 1 / Category 2** — see IASA.
+- **Charter** — A flight sold as a whole to one customer (a Hajj
+  board, a company, a family) rather than seat-by-seat on a
+  schedule; historically the least-supervised corner of Nigerian
+  aviation (Chapters 2, 4, 10).
+- **Chicago Convention (1944)** — The founding treaty of
+  international civil aviation, establishing state sovereignty over
+  airspace, national registries, and the ICAO system.
+- **CVR — Cockpit voice recorder** — The crash-protected recorder of
+  cockpit sound; its legal protection from routine prosecutorial
+  use is part of the just-culture bargain (Chapter 14).
+- **Density altitude** — The altitude at which the standard
+  atmosphere would match the day's actual air density. Heat thins
+  air; a hot afternoon at Kano makes an aircraft perform as if
+  departing a mountain airfield (Chapter 7).
+- **Dispatch** — The ground function that releases a flight: weather,
+  fuel, weight, aircraft status, and legality, decided before the
+  cabin door closes. **Dispatch pressure** is the commercial force
+  that leans on that decision (Chapters 4, 9).
+- **Downburst / microburst** — A column of storm-cooled air
+  collapsing to the ground and splashing outward; its concentrated
+  form, the microburst, creates the low-altitude windshear trap
+  that destroyed Sosoliso 1145 and ADC 053 (Chapters 8, 9).
+- **Dry lease** — Renting an aircraft alone, without crew; the
+  lessee operates it under its own certificate (contrast wet
+  lease).
+- **EASA** — The European Union Aviation Safety Agency, Europe's
+  joint regulator.
+- **EU Air Safety List** — The European Union's published ban list
+  of airlines and states whose oversight it does not trust; exile
+  to and exit from it bracket the Indonesian and Angolan cases
+  (Chapter 15).
+- **FAA** — The United States Federal Aviation Administration.
+- **FDR — Flight data recorder** — The crash-protected recorder of
+  flight parameters; with the CVR, the primary forensic witness to
+  any accident. **Readout** requires specialized laboratories
+  (Chapters 8, 10).
+- **Ferry flight** — A non-revenue repositioning flight, often to
+  deliver an aircraft to a buyer or maintenance base.
+- **Fifth freedom** — The right of an airline to carry traffic
+  between two foreign countries on a route from home; the
+  contested heart of African open-skies negotiations (Chapter 17).
+- **Flag carrier** — A state-owned or state-identified national
+  airline; this book's Chapter 2 and its recurring cautionary
+  object.
+- **Flight data monitoring (FDM)** — An airline's routine download
+  and analysis of its own flights' data to catch hazards before
+  they become accidents; runs on negotiated no-punishment
+  protections (Chapter 14).
+- **Go-around** — Abandoning an approach to climb away and retry,
+  divert, or hold; modern doctrine makes it mandatory at defined
+  stabilized-approach gates and treats it as the system working,
+  never as failure (Chapter 8).
+- **Golden hour** — Trauma medicine's shorthand for the early
+  post-injury window in which intervention saves the most lives;
+  the calibration behind response-time standards (Chapter 13).
+- **GPWS / EGPWS** — Ground-proximity warning systems, the cockpit
+  technology that warns of terrain; the enhanced version arrived a
+  generation after the fleets of Chapter 6 were built.
+- **Ground effect** — The cushion of improved lift very close to the
+  ground; an aircraft that cannot climb may still stagger along in
+  it, as EAS 4226 did across Gwammaja (Chapter 7).
+- **Hull loss** — Industry term for an accident that destroys the
+  aircraft.
+- **IASA — International Aviation Safety Assessment** — The FAA's
+  audit of a *country's* oversight system, not of its airlines.
+  **Category 1** (meets ICAO standards) permits that country's
+  carriers to serve the United States; **Category 2** does not.
+  Nigeria attained Category 1 in August 2010 (Chapter 9).
+- **IATA** — The International Air Transport Association, the
+  airlines' global trade body.
+- **ICAO** — The International Civil Aviation Organization, the UN
+  agency in Montreal that maintains the Chicago system's standards
+  and audits states' compliance.
+- **ILS — Instrument landing system** — The ground-based radio
+  guidance that lets aircraft descend to a runway in poor
+  visibility.
+- **IOSA — IATA Operational Safety Audit** — The airline-level
+  international audit; made a condition of Nigerian scheduled
+  operation in the reform era (Chapter 9).
+- **Just culture** — The institutional bargain in which frontline
+  professionals trade candor about errors and hazards for
+  protection from punishment, keeping safety information flowing;
+  the foundation of modern aviation safety (Chapter 14).
+- **Load sheet / weight and balance** — The computation certifying
+  that an aircraft's weight and its distribution are within limits;
+  soft weight culture is a recurring finding of this book
+  (Chapter 7).
+- **Manifest** — The definitive list of persons aboard a flight; its
+  unreliability in the crisis decades turned every Nigerian
+  disaster into an identification crisis (Chapters 3, 4, 8).
+- **MEL — Minimum equipment list** — The approved list of what may
+  legally be inoperative at dispatch, and for how long; the lawful
+  channel for deferring defects (Chapters 4, 12).
+- **Micromort** — A one-in-a-million probability of death; the unit
+  in which transport risk premia are usefully imagined
+  (Chapter 12).
+- **Montreal Convention (1999)** — The modern treaty governing
+  airline liability to passengers, replacing the Warsaw regime's
+  low caps (Chapters 4, 10).
+- **MRO — Maintenance, repair, and overhaul** — The heavy-
+  maintenance industry; Nigeria's absent storey of the aviation
+  stack (Chapter 12).
+- **Normalization of deviance** — Diane Vaughan's term for the drift
+  by which each survived shortcut becomes evidence the next one is
+  safe (Chapter 4).
+- **NOTAM** — Notice to airmen: the official channel publishing the
+  operational status of airports, airspace, and navigation aids.
+- **NTSB** — The US National Transportation Safety Board, the
+  world's reference independent accident investigator and the
+  model for the NSIB (Chapters 10, 14).
+- **Obstacle limitation surfaces / public safety zones** — The
+  planning controls that keep construction and settlement out of
+  the approach and climb funnels at runway ends; unenforced at
+  Kano in 2002 (Chapter 7).
+- **Plan-continuation bias** — The decision pathology of deepening
+  commitment to a plan as evidence mounts against it, strongest
+  near the plan's completion — the psychology of the continued
+  approach (Chapter 8).
+- **Procedural control** — see ATC.
+- **Ramp check** — An unannounced inspection of an aircraft between
+  flights; **SAFA** is the EU's program of ramp checks on foreign
+  aircraft (Chapters 4, 11).
+- **Recorder, crash-survivable** — see CVR, FDR; certified to
+  survive defined impact, fire, and immersion — an envelope the
+  Bellview impact exceeded (Chapter 8).
+- **Registry / registration** — The national list on which every
+  aircraft is entered (Nigerian registrations begin 5N-); the
+  state of registry owes the aircraft its safety oversight, the
+  gap wet leases exploit (Chapter 4).
+- **Rome Convention framework** — The treaty line governing
+  liability to people harmed on the ground by aircraft
+  (Chapter 7).
+- **SAATM — Single African Air Transport Market** — The African
+  Union's open-skies project, operationalizing the 1999
+  Yamoussoukro Decision (Chapters 16, 17).
+- **SARPs** — ICAO's Standards and Recommended Practices, the
+  content of the Annexes.
+- **SMS — Safety management system** — An operator's or agency's
+  formal machinery for identifying, assessing, and controlling
+  risk; required of modern operators under Annex 19.
+- **Spatial disorientation** — The systematic deception of the human
+  balance senses in flight without visual horizon; the physiology
+  of the graveyard spiral and of ADC 086's final seconds
+  (Chapter 6).
+- **Squall line** — West Africa's organized walls of thunderstorms,
+  moving east to west on the seasonal monsoon contest; the
+  recurring meteorological antagonist of Part II (Chapter 9).
+- **Stabilized approach** — The doctrine defining speed,
+  configuration, and descent gates on final approach; any
+  deviation mandates a go-around, no diagnosis permitted
   (Chapter 8).
+- **Swiss cheese model** — James Reason's image of accident
+  causation: every defensive layer has holes, and disaster occurs
+  when the holes align (Introduction).
+- **TCAS — Traffic collision avoidance system** — The onboard
+  system that detects conflicting aircraft and commands evasive
+  climbs and descents; absent from the fleets of 1996
+  (Chapter 6).
+- **TDWR — Terminal Doppler weather radar** — Airport radar
+  designed to detect windshear and microbursts; the technology
+  the post-1985 American reforms installed and Abuja 2006 lacked
+  (Chapter 9).
+- **TRACON — Total Radar Coverage of Nigeria** — The national radar
+  project commissioned in 2010, fourteen years after the lagoon
+  (Chapter 6).
+- **Type rating** — The specific license qualification to fly a
+  particular aircraft type.
+- **Upset / upset recovery training** — Loss of normal flight
+  attitude, and the modern simulator training for recognizing and
+  recovering from it; standardized globally only after the era of
+  Chapter 6's accident.
+- **USOAP — Universal Safety Oversight Audit Programme** — ICAO's
+  audit of states' oversight systems; its **effective
+  implementation (EI) score** is the percentage of the oversight
+  function that actually exists (Chapters 11, 15).
+- **Warsaw Convention (1929)** — The old airline-liability treaty
+  whose low per-passenger caps shaped the settlements of Chapter
+  4; superseded by Montreal 1999.
+- **Wet lease** — Renting an aircraft together with its crew,
+  maintenance, and insurance, so the aircraft flies under one
+  company's flag while answering operationally to another's — the
+  arrangement at the heart of Flight 2120 (Chapter 4).
+- **Windshear** — An abrupt change of wind speed or direction over
+  a short distance; encountered at low altitude it strips lift
+  faster than engines can restore it (Chapters 8, 9).
+- **Wreckage-site custody** — The evidence-preservation discipline
+  at a crash site; its failure at Lisa village helped defeat the
+  Bellview investigation (Chapter 8).
+- **Yamoussoukro Decision (1999)** — The African agreement to
+  liberalize intra-African air transport, parent of SAATM
+  (Chapter 17).
 
 ---
 
