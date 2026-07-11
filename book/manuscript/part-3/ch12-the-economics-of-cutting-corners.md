@@ -264,6 +264,53 @@ balance sheet's audit function. Every failure of record integrity
 reverts the market to pricing Nigerian metal, and Nigerian promises,
 at the old discount.
 
+## What a check buys
+
+The maintenance economics this chapter keeps invoking deserve
+one concrete walk-through, because "deferred maintenance" is an
+abstraction until one sees what the money purchases and what
+deferral therefore sells.
+
+An airliner's maintenance program is a pyramid of escalating
+intimacy. At the base, the daily and transit checks — walk-
+arounds, fluid levels, tire and brake condition — hours of
+labor, performed everywhere, skipped by no one because their
+absence is visible by lunchtime. Above them, the lettered
+checks: the A-check's overnight inspections every few weeks;
+and then the heavy checks — the C and D — in which the
+aircraft is withdrawn from service for weeks, opened to its
+bones, its systems functionally tested, its structure
+inspected for the cracks and corrosion that fatigue
+mathematics predicts and only eyes and instruments confirm.
+The heavy checks are where airworthiness actually lives:
+metal fatigue is invisible, progressive, and unforgiving of
+schedule slippage, and the inspection intervals are set by
+engineering analysis of exactly how long a detectable crack
+takes to become a critical one. Defer the check and one is
+not skipping a formality; one is spending the safety
+analysis's margin — flying into the interval the engineers
+reserved for error, on the bet that this airframe is
+average. Old aircraft raise the stakes twice over: their
+inspection programs thicken with age (supplemental
+structural inspections, corrosion-control programs, aging-
+aircraft directives born of the 1988 Aloha convertible), and
+their owners' economics thin exactly as the programs
+thicken. The crisis-era Nigerian pattern — documented in the
+liquidation archaeology and the ferry-flight records —
+included the genre's whole repertoire: checks stretched to
+the deferral limits and past them on paper, heavy work
+bought at the cheapest shops on the certification periphery,
+and the quiet downgrading of findings that richer owners
+would have repaired. None of it fell out of the sky
+immediately; that is the trap's design. Fatigue collects on
+its own calendar, and the fleet's true condition in any
+year was knowable only the way Gwammaja learned it. When
+the reform's age limits and records audits pushed the
+geriatric fleet out, what Nigeria actually expelled was
+this whole shadow ledger — the accumulated, unpriced debt
+of a thousand stretched intervals, exported at last to the
+scrapyards where such debts are safely written off.
+
 ## The bazaar
 
 Between the airline and the airframe stands the spares economy,

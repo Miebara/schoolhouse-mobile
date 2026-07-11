@@ -281,6 +281,55 @@ philosophy of aviation safety in one clause, which is perhaps
 why it has waited so long in Abuja: it is the clause by which a
 state admits what kind of state it intends to be.
 
+## Annex 13 in a good week
+
+Because this chapter has measured Nigeria against the honesty
+machine's design, the design itself should be shown running —
+a composite good week, assembled from the standard practice of
+the mature agencies, so the reader can see concretely what the
+treaty imagines.
+
+Hour one: the accident. The duty investigator's phone runs the
+notification tree written years earlier; go-team members —
+operations, structures, powerplants, human factors, survival
+factors — converge on pre-packed kits. The state of the
+operator, of manufacture, and of design are notified under the
+treaty and appoint accredited representatives; the
+manufacturer's and airline's technical advisors attach under
+rules that let them inform the inquiry without steering it.
+Day one: the site is secured *by protocol agreed with police
+and courts in advance* — the parallel criminal question, if
+any, proceeding without contaminating the safety evidence;
+recorders travel under escort to the laboratory; the first
+factual statement goes out, saying only what is known. Week
+one: the public docket opens — not conclusions, evidence:
+manifests, weather, maintenance summaries, ATC transcripts as
+verified. Month one to three: interim recommendations issue
+the moment any finding can protect someone — a fleet
+inspection, a procedure change — without waiting for the full
+narrative; addressees must answer on the record within
+statutory windows. Year one: the draft report circulates to
+parties for technical comment (accuracy, not approval); the
+final publishes with every recommendation tracked in a public
+register that anyone — journalist, widow, underwriter,
+senator — can query for the rest of time. Throughout: no
+name is prosecuted on the strength of a safety statement; no
+finding is softened because a party is powerful; and the
+agency's budget line for all of it is protected precisely so
+that none of the above requires courage.
+
+Nothing in the sequence is exotic. Every element is
+practiced, somewhere, this week; most are practiced in
+countries no richer than Nigeria; and the NSIB-era system now
+performs a genuine subset — the notification machinery, the
+laboratory, the published finals. The gaps — the docket, the
+interim tempo, the tracked register, the prosecutorial
+firewall — are the difference between an agency that
+investigates and a state that learns, and each is a statute
+or a protocol, not a purchase. The good week costs less than
+the bad decade. That is the whole argument of Part III, run
+at the speed of one composite fortnight.
+
 ## The archive problem
 
 Beneath the unpublished report lies a deeper stratum of the

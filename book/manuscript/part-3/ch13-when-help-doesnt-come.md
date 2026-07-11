@@ -258,6 +258,47 @@ Chapter 14 will measure. How a country treats the manifest is how
 it treats the citizen: as a record worth keeping, or a crowd worth
 estimating.
 
+## Counting what rescue is worth
+
+Public investment lives or dies by cost-benefit arithmetic, and
+emergency response's Nigerian neglect has always hidden inside a
+quiet assumption that the arithmetic is unfavorable — that
+rescue capacity is a rich country's luxury. The assumption
+deserves to be run honestly, because it collapses on contact.
+
+Standard policy analysis prices life-saving interventions
+against each other: a health ministry weighing vaccines against
+dialysis, a road authority weighing barriers against
+ambulances. On any such table, aviation disaster response looks,
+at first glance, like a poor buy — rare events, concentrated
+costs. The first glance misprices three things. It misprices
+the *shared* nature of the capacity: the ARFF trucks, the
+trauma protocols, the mass-casualty coordination, the family-
+assistance machinery are not aviation assets but all-hazards
+assets — the same investments answer the tanker explosion, the
+market fire, the collapsed church, the flood, and Nigeria's
+calendar supplies those at a rate that makes the capacity's
+utilization anything but rare. It misprices the trust
+externality this book has documented: every failed response
+compounds the civic distrust that taxes every other state
+function, while visible competence pays into the same account
+— the Hudson ditching was worth more to American institutional
+confidence than any budget line it consumed. And it misprices
+the alternative's true cost: the second disaster's casualties,
+the uncounted second-week dead, the decades of litigation and
+grief-work, the international reputation repriced — costs
+fully paid, merely booked nowhere. Run honestly, the
+drills-and-doctrine package of this chapter prices out among
+the cheapest life-years a Nigerian budget can buy — cheaper
+than most health interventions, cheaper by orders of magnitude
+than the terminal buildings that outrank it annually. The
+arithmetic was never unfavorable. It was never done — because
+the constituency that would have demanded it, the future
+victims of the unresponded crash, are by definition not yet
+assembled. Chapter 16's manufactured constituency exists to do
+this arithmetic in advance, on the record, every year, until
+some budget finally answers it.
+
 ## The offshore exception
 
 One sector of Nigerian aviation has run, for decades, a response

@@ -321,6 +321,49 @@ the sovereign is the constituency, no other is needed; and leaving
 open, for Part IV, the question of what substitutes when, as in
 Nigeria, the sovereign's attention is itself the scarcest input.
 
+## The inspector's market
+
+Beneath the architecture sits a labor market, and no account of
+regulatory capacity is honest without it: the world bids
+continuously for exactly the people a regulator needs, and the
+bid is rigged against the public sector everywhere —
+catastrophically so in Nigeria.
+
+Consider what an airworthiness surveyor is: a licensed aircraft
+engineer with a decade's hangar seniority, retrained in
+regulation and audit, fluent in the documentation of three
+manufacturers — a profile that the airlines themselves, the
+lessors, the MROs of the Gulf, and the international agencies
+all hire, at multiples of any Nigerian public salary, in
+dollars, with schools fees attached. The flight operations
+inspectorate needs current or near-current airline captains,
+whose market price is set in Dubai and Doha; the same Gulf
+expansion that drained the 1980s airline drains the 2020s
+regulator. Every capable aviation authority on earth manages
+this squeeze with some mix of three tools: pay parity
+mechanisms that peg technical salaries to industry rather than
+civil-service scales (the 2006 levy funding made a version of
+this possible, and its partial erosion is among the plateau's
+quietest dangers); secondment cultures that borrow industry
+professionals under conflict-of-interest firewalls; and
+prestige — the intangible that lets the FAA and the UK CAA
+hold people the market prices higher, because the work
+confers standing the market cannot. Prestige is the
+interesting one, because it is manufactured by exactly the
+things this book keeps prescribing for other reasons:
+published work, visible independence, international respect,
+the institution's name meaning something. A regulator whose
+findings are overruled by phone call cannot pay in prestige;
+one whose Category 1 the whole industry cites can. The
+Demuren-era NCAA's diaspora recruitment succeeded on this
+currency as much as on the levy-funded salaries — engineers
+took pay cuts to join an institution that had begun to mean
+something — and every subsequent erosion of the institution's
+standing raises, invisibly, the real price of staffing it.
+Institutional dignity, it turns out, is a compensation line.
+Governments that spend it down discover the deficit in their
+vacancy lists.
+
 ## Three Fridays
 
 Abstractions about capture benefit from specimens. Here are three
