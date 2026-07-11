@@ -146,6 +146,35 @@ above is the subject of Chapter 11.
   (vs. **dry lease**, aircraft only).
 - **Windshear** — Abrupt wind change with altitude/position; lethal
   near the ground; thunderstorm signature.
+- **AOG** — Aircraft on ground: unflyable pending parts/repair; the
+  industry's costliest routine emergency.
+- **ATC** — Air traffic control. **Procedural control** — separation
+  by position reports and timing, without radar surveillance.
+- **Density altitude** — see Chapter 7; the performance-effective
+  altitude after temperature correction.
+- **FDR / CVR readout** — laboratory recovery of recorder data;
+  requires specialized facilities (see Chapters 8, 10).
+- **Go-around** — Abandoning an approach to climb and retry or
+  divert; mandated at defined "stabilized approach" gates.
+- **IASA** — see Category 1/2. **USOAP EI score** — ICAO's
+  "effective implementation" percentage for a state's oversight.
+- **MEL** — Minimum equipment list: what may legally be inoperative
+  for dispatch, and for how long.
+- **Microburst / downburst** — concentrated storm downdraft; the
+  windshear mechanism in Chapters 8–9.
+- **MRO** — Maintenance, repair, and overhaul (organization or
+  industry).
+- **Plan-continuation bias** — the decision pathology of pressing
+  on as evidence accumulates against the plan (Chapter 8).
+- **Ramp check / SAFA** — unannounced inspection of a visiting
+  foreign aircraft; the EU's programme of the same.
+- **Stabilized approach** — defined speed/configuration/descent
+  gates on final; deviation mandates go-around.
+- **Swiss cheese model** — Reason's image of layered defenses whose
+  aligned holes admit the accident (Introduction).
+- **Wreckage-site custody** — evidence-preservation discipline at a
+  crash site; its failure at Lisa cost the Bellview investigation
+  (Chapter 8).
 
 ---
 
@@ -310,6 +339,113 @@ dates.
 - **2024** — The quiet decade continues in scheduled aviation;
   the constituency question — this book's closing question —
   remains open.
+
+---
+
+# Appendix F — A Teaching Guide
+
+This book's primary audience includes the instructors of Nigeria's
+and Africa's aviation academies, the safety departments that run
+recurrent training, and the university programs in aviation
+management, transport policy, and public administration. This
+appendix converts the book into seminar material: for each part, the
+teaching questions the material is built to open, and a case
+exercise drawn from its chapters.
+
+## Part I — The Ascent
+
+**Questions.** What is the difference between inheriting aviation's
+artifacts and inheriting its institutions, and where else in your
+country's infrastructure does the distinction apply? Why did
+operational roles (pilot, engineer) Nigerianize faster than
+oversight roles (surveyor, investigator), and what does the pattern
+predict about any decolonizing or rapidly localizing industry? Was
+WAAC's dissolution inevitable? Argue both sides with evidence from
+the chapters and from your own region's federated institutions.
+
+**Exercise.** You are the ICAO technical-assistance advisor to a
+newly independent state in 1961, with budget for exactly one
+institution: a flag carrier's management contract (the Ethiopian
+model), a training college (the Zaria model), or an autonomous
+regulator. Choose, defend the choice against the two alternatives,
+and specify the failure mode of your own selection.
+
+## Part II — The Crashes
+
+**Questions.** Apply Reason's organizational-accident model to any
+two of the seven crashes: identify each defensive layer and the
+origin of its hole; then identify the earliest intervention point
+at which the accident becomes improbable. For Flight 2120: map the
+accountability triangle (state of registry, of occurrence, of the
+charterer) and show precisely where each corner's oversight duty
+lapsed — then redo the map under Article 83 bis and a modern
+foreign-operator assessment regime. For Bellview 210: what does a
+system owe the public when a cause cannot be determined, and what
+specific practices convert "undetermined" from a trust catastrophe
+into a demonstration of integrity? For ADC 053 and Sosoliso 1145:
+reconstruct the go/no-go and continuation decisions using
+plan-continuation bias and the stabilized-approach doctrine; then
+design the dispatch-level rule that removes the decision from the
+cockpit's judgment at the moment judgment is weakest.
+
+**Exercise.** Divide the seminar into the AIB go-team for a
+hypothetical Nigerian accident in 2007: assign operations,
+structures, powerplants, human factors, and survival factors
+leads; draft the first factual statement (24 hours), the interim
+recommendation set (30 days), and the recommendations register
+entries with addressees. Grade each product against Annex 13 and
+against Chapter 14's "good week."
+
+## Part III — The Patterns
+
+**Questions.** Distinguish de jure from de facto regulatory
+independence using the NCAA's three regimes; which of the 2006
+architecture's four members (funding, tenure, transparency,
+external witnesses) would you defend first against erosion, and
+why? Reconstruct the marginal carrier's maintenance-deferral
+decision as a cash-flow problem; then redesign any two upstream
+institutions (leasing law, insurance, forex access, licensing
+floors) so the same spreadsheet yields the safe decision. Why is
+emergency response the most reform-tractable failure in the book,
+and what does its neglect therefore reveal about how attention,
+rather than money, is allocated?
+
+**Exercise.** Using Appendix D (the publication ledger), compute
+your own country's equivalent table. For each unpublished or
+delayed report, identify who bore the cost of silence and who
+collected its benefit. Draft the one-page just-culture statute of
+Chapter 14 for your jurisdiction, adapting the carve-outs to your
+criminal code.
+
+## Part IV — The Future Flight Path
+
+**Questions.** Which of the five (plus Korea, plus the near
+mirrors) comparative cases is most instructive for your country,
+and — applying Chapter 15's discipline — which mechanism, not
+outcome, transfers? Stress-test Chapter 16's agenda against the
+four named failure modes: which item fails first in your
+political system? Does the demographic argument of Chapter 17
+strengthen or weaken the case for open skies from the
+perspective of a small West African state that is not Nigeria?
+
+**Exercise.** Write the "first hundred days" memorandum for a
+newly appointed Director-General of your own civil aviation
+authority, on Chapter 16's template, with every action costed,
+owned, and dated — then write the opposing memorandum from the
+ministry's permanent secretary explaining, in the system's own
+polite language, how each action will be delayed. The second
+memorandum is the real examination.
+
+## A note for instructors
+
+The book's method — scene, evidence, institutional analysis,
+comparison — is itself the curriculum. Students who can run the
+four moves on a case they have never seen have learned what the
+book teaches; students who have memorized its conclusions have
+not. Set the unfamiliar case. The Nigerian record, unhappily
+and usefully, will keep supplying them until the day it
+doesn't — which day, the instructor should remind every cohort,
+is the assignment.
 
 ---
 
