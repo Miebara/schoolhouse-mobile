@@ -273,6 +273,92 @@ churches full, flags lowered, and — for the first time in this book's
 chronology — a public conversation about aviation conducted in the
 language of accountability rather than fate.
 
+## The boxes that would not speak
+
+Bellview 210's recorders failed the investigation, and the
+failure's technical anatomy carries a policy lesson precise
+enough to legislate from, so it belongs in the record.
+
+A flight data recorder and cockpit voice recorder are built
+around crash-survivable memory units — armored capsules
+rated, under the international standard, to survive
+punishing accelerations, penetrating impact, deep-sea
+pressure, and an hour of high-temperature fire. Rated,
+however, against the *envelope of survivable and typical
+accidents*: the certification case is not unlimited. A
+near-vertical, high-velocity impact into laterite —
+Lisa's case — concentrates energies at the extreme edge of
+any capsule's rating, and the units recovered from the
+crater emerged with damage that put their contents beyond
+the readout capabilities then reachable by Nigeria's
+investigation: the domestic laboratory did not exist, and
+the foreign laboratories to which such wreckage-cases are
+carried — the NTSB's, the UK AAIB's, the BEA's — work
+miracles routinely but not always. The era compounds the
+loss: 2005-generation recorders were, by then, decades into
+obsolescence debates — older magnetic-tape and early
+solid-state units, fewer recorded parameters, no
+crash-protected image or datalink recording, none of the
+deployable-recorder or triggered-transmission technologies
+that the post-MH370 rulemakings would push into the 2020s
+fleet. Had 210 carried the recorder fit of a decade later,
+or had the wreckage-site custody of the first days preserved
+the units' condition, or had a regional readout capability
+existed — any one of the three — this book's Chapter 8 would
+contain a causation section. The policy translations are
+direct: recorder-fit standards are worth regulating ahead of
+ICAO minima in high-risk registries; wreckage-site custody
+is a trainable, drillable discipline (it failed at Lisa
+before any laboratory could); and a *regional* African
+recorder laboratory — long proposed in ICAO's Africa
+planning, perennially unfunded — would repay its cost with
+the first mystery it retired. Nigeria's NSIB has since built
+meaningful readout capability in Abuja, one of the reform
+era's concrete assets; the families of 210, fifteen years
+too early, received instead the word "undetermined," which
+is what infrastructure gaps are called after they happen to
+someone.
+
+## The go-around that wasn't
+
+Sosoliso's cockpit, in its last ninety seconds, held a
+decision structure that aviation psychology has since mapped
+so thoroughly that it bears a name in every training
+syllabus: plan continuation bias — the deepening commitment
+to an original course of action as the evidence against it
+accumulates, strongest exactly where the plan is nearly
+complete. An approach is the textbook habitat. The crew has
+briefed it, flown it, configured for it; the runway is two
+minutes ahead; every mental model is landing-shaped. Each
+new adverse cue — the windshear report, the sink rate, the
+visual picture degrading — arrives incrementally, each
+individually survivable, none crossing the threshold that
+would have forbidden the approach outright had it presented
+at the start. The go-around, meanwhile, is priced by the
+brain as an *event*: fuel, delay, explanation, the storm
+still there on the second try, the passengers' lurch, the
+subtle professional confession that one misjudged. The
+continuation is priced as nothing — it is the plan. Every
+pilot alive has felt the asymmetry; the industry's answer,
+built into the stabilized-approach doctrine that hardened
+worldwide in exactly the years after 2005, was to abolish
+the judgment call: defined gates (altitude, configuration,
+sink rate, energy) at which any deviation *mandates* the
+go-around, no diagnosis permitted, the decision pre-made in
+the briefing room where cognition is cheap rather than at
+four hundred feet where it is impossible. Airlines that
+enforce the doctrine — and publish, through their flight-
+data monitoring, their go-around compliance rates — have
+driven approach-and-landing accidents, aviation's largest
+historical category, toward the floor. The doctrine reached
+Nigerian operations with the reform's IOSA wave; the crews
+of 1145 and, ten months later, 053 flew before it. Between
+them, the two crashes taught the Nigerian industry the
+sentence its training departments now repeat as liturgy: a
+go-around is never an admission of failure; it is the
+system working. The tuition, as always in this Part, is on
+record.
+
 ## The winter of accounting
 
 The weeks between the two crashes, and the weeks after the second,

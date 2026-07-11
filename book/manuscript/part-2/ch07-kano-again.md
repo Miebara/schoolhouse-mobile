@@ -313,6 +313,102 @@ aviation a growth strategy rather than a patronage arena, which gave
 Jakarta's reformers what Abuja's never durably had: a constituency
 richer than the constituency for decay.
 
+## The physics of a hot afternoon
+
+The performance calculus that failed over Gwammaja deserves a
+plain-language exposition, because it is the most
+democratically important physics in this book: every passenger
+boarding a heavily loaded flight from a hot-climate airport is
+inside this arithmetic, and none of it is visible from seat
+14A.
+
+Air is an aircraft's working fluid, and heat thins it. A wing
+generates lift, and an engine generates thrust, in proportion
+to the mass of air each can process; on a 40-degree afternoon
+at Kano's elevation, the atmosphere delivers meaningfully less
+mass per cubic meter than the "standard day" against which
+aircraft brochures are written. Performance engineering
+handles this through density altitude — the altitude at which
+the standard atmosphere would match today's actual air. On the
+afternoon of 4 May 2002, Kano's density altitude stood
+thousands of feet above its physical elevation: the aircraft,
+sitting on a Sahelian runway, was performing as if departing
+from a mountain airport. Every increment matters and
+compounds: higher true speeds needed for the same lift, longer
+roll to reach them, less excess thrust for the climb, and —
+the certification's core case — a thinner margin should an
+engine falter at the worst moment. The manufacturer's charts
+price all of it, line by line: at this weight, this
+temperature, this runway, with one engine out at rotation, the
+aircraft clears obstacles by this margin, *provided* the
+engines deliver book thrust and the weight is what the load
+sheet says.
+
+Now degrade the assumptions the way the era degraded them. An
+elderly Spey's actual thrust, decades from the test cell,
+sits some percentage below book — legally, if trend
+monitoring catches it; invisibly, if the monitoring is
+paperwork. The load sheet's weights ride on standard passenger
+assumptions and honest cargo declarations — in a system whose
+baggage culture ran on negotiation, both were soft. The
+obstacle survey assumes the 1958 fence line. Each softness is
+small, deniable, and cumulative; and the arithmetic that
+results is not an approximation of the certified case but a
+different case never computed by anyone. This is what "margin"
+means and how margins actually die — not stolen at once but
+lent away in slivers, each borrower certain the others left
+enough. On a cool morning at light weight, the aircraft that
+crashed would likely have flown away from the same engine
+trouble, and nobody would ever have learned how little
+remained in the account. Hot afternoons are the audit. The
+lesson generalizes far beyond aviation, and it is Chapter 3's
+lesson in physical form: systems reveal their borrowed margins
+only at load, and a society that meets its systems only in
+fair weather knows nothing about them at all.
+
+## The hospital day
+
+Kano's medical response on 4 May deserves its record alongside
+the crash, because the pattern it set recurs at every urban
+disaster in this book and has never been nationally examined.
+
+The city's hospitals learned of the crash the way the state
+did: from the smoke and the crowds. Within the hour, Murtala
+Muhammed Specialist Hospital and the teaching hospital
+received simultaneous waves no triage plan had allocated —
+the burned, the crushed, and the walking shocked, delivered
+in taxis, on motorcycles, in the beds of pickups, by the same
+citizen-responders who had dug them out, distributed among
+facilities by proximity and rumor rather than by capability.
+No casualty regulating center existed to match patient to
+resource: burn cases arrived at hospitals without burn
+capability while surgical theaters elsewhere stood ready and
+unused; families searched facility to facility for days,
+because no central casualty registry existed to search once.
+Blood ran short by evening and was replenished the Nigerian
+way, by an emergency appeal answered — magnificently — by
+ordinary Kano queuing at donor benches. The health system's
+staff performed, by every account, with the improvised
+excellence this book has learned to expect at the individual
+level of Nigerian institutions; the system performed as
+designed, which is to say it had not been.
+
+The uncounted consequence was the second-week mortality — the
+burn and crush patients who survived the day and died of the
+infections, the renal failures, and the transfer-delays that
+mature trauma systems exist to prevent. No study ever
+enumerated them; Nigerian disaster mortality is counted at
+the scene or not at all, which flatters every response the
+statistics touch. When Chapter 13 argues that response
+capacity is the cheapest life-saving investment available to
+the Nigerian state, its evidence base ends, honestly, at the
+hospital door — beyond which the data was never collected.
+That, too, is a finding. Systems that do not count their
+second-week dead have decided, in effect, that the
+post-disaster patient is the family's project; and the
+families of Gwammaja, who had already supplied the rescue,
+supplied the nursing too.
+
 ## The city that keeps meeting the sky
 
 Kano's third catastrophe invites the longer view of the city
