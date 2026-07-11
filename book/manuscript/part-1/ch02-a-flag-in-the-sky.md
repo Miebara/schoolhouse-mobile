@@ -339,6 +339,45 @@ inhabited it, and the whole boom-bought apparatus of Nigerian flight — the
 same slow subtraction, deferral by deferral. It required only that the
 money stop. In 1981, it stopped.
 
+## The airline as mirror of the state, 1958–1979
+
+Before the chapter's catastrophe, one more analytical layer: the
+airline's first two decades track the Nigerian state's own
+constitutional history with a fidelity that makes it usable as a
+political seismograph, and reading it that way explains features
+the business history alone cannot.
+
+The First Republic airline (1958–66) was the federation's
+airline: its board seats and management posts balanced across
+regions with the same care as the federal cabinet, its route
+map — Lagos, Kano, Enugu, the regional capitals — a diagram of
+the tripodal federation, its recruitment a patronage lattice in
+which each region monitored its share. When the federation
+broke — the 1966 coups, the pogroms, the war — the airline
+broke along the identical seams: eastern staff withdrew or were
+withdrawn; aircraft became war assets; the "national" carrier
+became, for three years, a belligerent's. The post-war airline
+of the 1970s was the unitary military state's airline: run from
+the center, its federal character now meaning federal
+*character* — an instrument of the oil-funded, Lagos-
+headquartered, decree-governed state that the war had built.
+The oil boom's fleet expansion was that state's expansion; the
+type-count chaos was its procurement politics; the payroll
+growth was its employment politics; and the airline's
+management churn tracked, coup by coup and reshuffle by
+reshuffle, the center's own instability. Nothing about this
+correspondence is accidental. A wholly state-owned enterprise
+in a personalized state *cannot* have a corporate character
+distinct from the state's; its governance is the state's
+governance, applied to aircraft. This is why the Ethiopian
+comparison keeps its force — the founding bargain there built,
+deliberately, a firewall between the state's character and the
+airline's — and why every proposal to revive a Nigerian flag
+carrier without first reforming the state's grip (a proposal
+renewed, Chapter 16 records, as recently as 2023) is a
+proposal to re-run this chapter with newer aircraft. The
+airline was never the patient. It was the thermometer.
+
 ## After Kano: the anatomy of a non-response
 
 Because Chapter 4 will lean on the claim that 1973's lessons went

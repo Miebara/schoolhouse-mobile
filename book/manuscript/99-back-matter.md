@@ -183,7 +183,40 @@ All remaining errors are the author's.
 
 ---
 
-# Appendix D — Institutional Milestones, 1919–2024
+# Appendix D — The Publication Ledger
+
+Chapter 14's central evidence, tabulated: the disposition of the
+official investigation for each major event in this book. "Published"
+means a final report publicly issued by the responsible authority;
+dates approximate the public release, not completion. All entries
+require verification at press time; the NSIB's online library is the
+current authority for the civil entries.
+
+| Event (year) | Investigating authority | Public disposition |
+|---|---|---|
+| Nigeria Airways VC10, Lagos (1969) | Ministry-era inquiry | No known public report |
+| Kano Hajj charter (1973) | Nigerian authority, ICAO digest entry | No known public Nigerian report; digest summary only |
+| Flight 2120, Jeddah (1991) | Saudi Presidency of Civil Aviation | Final report issued (Saudi); no Nigerian public accounting |
+| NAF 911, Ejigbo (1992) | NAF board of inquiry | Never published |
+| Nigeria Airways 737, Kaduna (1995) | Ministry/AIB-precursor | Findings summarized; full report not publicly available |
+| ADC 086, lagoon (1996) | AIB (retrospectively) | Final report published, years delayed |
+| EAS 4226, Kano (2002) | AIB-precursor/AIB | Findings released; full report public availability partial |
+| Bellview 210, Lisa (2005) | AIB | Final report published years later; cause undetermined |
+| Sosoliso 1145, Port Harcourt (2005) | AIB | Final report published; ARFF findings on record |
+| ADC 053, Abuja (2006) | AIB | Final report published |
+| Dana 992, Iju-Ishaga (2012) | AIB | Final report published 2017 |
+| Associated EMB-120, Lagos (2013) | AIB | Final report published |
+| NAF Beechcraft, Abuja (Feb 2021) | NAF inquiry | Not published |
+| NAF King Air, Kaduna (May 2021) | NAF inquiry | Not published |
+
+Pattern: civil publication improves decisively after 2006 —
+in existence, then gradually in tempo. Military publication is
+unchanged across sixty years. The ledger is the book's argument in
+one table.
+
+---
+
+# Appendix E — Institutional Milestones, 1919–2024
 
 A chronology of the governance events this book treats as the
 true plot, for the reader who wants the argument's spine in

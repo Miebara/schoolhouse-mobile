@@ -348,6 +348,54 @@ flown. The variable was never African-ness, poverty, or turbulence. It
 was whether the state treated the airline as an institution or as a
 carcass.
 
+## The decade's invoice, itemized
+
+Before the stage-setting, the 1980s' specific subtractions from
+the aviation system deserve one consolidated statement, because
+Part II will draw on every line.
+
+From the *airline*: the fleet halved and halved again; the
+maintenance base's tooling and inventory run down past
+regeneration; the training pipeline's cadet schemes suspended;
+the international network's stations — with their slots,
+their bilateral standing, their revenue in hard currency —
+surrendered one by one, each surrender permanent (slots, once
+lost, are bought back at market, and the market never forgot).
+From the *infrastructure*: the navaid replacement cycle
+abandoned mid-rotation, leaving the 1990s a scatter of dead
+and dying beacons; the radar program deferred into legend;
+runway and lighting maintenance triaged to the international
+showpieces; the meteorological service's upper-air program —
+balloons, soundings, the data on which forecasts feed —
+thinned toward blindness. From the *institutions*: the
+directorate's inspector corps aged without replacement (a
+hiring freeze is a time bomb with a fifteen-year fuse — the
+freeze of 1984 detonated as the inspection deficit of 1999);
+Zaria's instructor cadre lost to the Gulf; the accident-
+investigation function reduced to a filing convention. From
+the *professions*: the diaspora, mapped above. And from the
+*culture* — the least tangible line and the most expensive:
+a decade's daily lesson, taught to every professional and
+passenger, that decline was normal, workaround was
+competence, and the gap between regulation and reality was
+not a scandal but the weather.
+
+Total the invoice and 1990s Nigeria stands revealed as
+something more specific than a poor country with old planes:
+it was a country that had, within living memory, possessed
+substantial fractions of a functioning aviation system and
+had *consumed* them — eaten the seed corn of machines,
+margins, institutions, and expectations alike. Decline from
+possession has a different physics than simple poverty: the
+forms all remain (the directorates, the checklists, the
+uniforms), emptied, which is why the era's audits kept
+finding a system that existed in every particular except
+function. Countries that never had the thing must build it;
+countries that ate it must first admit the eating. The
+admission took Nigeria until 2006, and the confession — as
+this book's second half records — was extracted, syllable
+by syllable, by the dead.
+
 ## 1990
 
 Set the stage, then, as the ninth decade of the century closes, for the
