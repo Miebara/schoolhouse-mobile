@@ -321,6 +321,41 @@ the sovereign is the constituency, no other is needed; and leaving
 open, for Part IV, the question of what substitutes when, as in
 Nigeria, the sovereign's attention is itself the scarcest input.
 
+## The board question
+
+One design detail deserves separate treatment because Nigerian
+practice keeps getting it wrong in a specific, fixable way: the
+governing board.
+
+Regulatory boards exist to hold the space between the political
+principal and the technical executive — absorbing pressure that
+would otherwise land on the Director-General, supplying
+continuity across administrations, and lending decisions a
+collective weight no single officeholder carries. That is the
+theory. The Nigerian practice, across the agency alphabet, has
+inverted each function: boards appointed as patronage slates
+(the geopolitical balancing that fills seats with political
+creditors rather than aviation competence); boards dissolved
+en masse with each change of government, so that the organ of
+continuity churns faster than the executives it should
+steady; boards chaired, at recurring intervals, by exactly the
+political figures from whom the agency needs insulation; and —
+the quiet operational damage — board approval thresholds set
+so low that routine technical and procurement decisions queue
+behind a body that meets episodically, converting governance
+into delay. The design correctives are standard and cheap:
+statutory competence requirements for a majority of seats;
+staggered terms that no single administration can sweep;
+public nomination and confirmation; the chair barred to
+serving politicians; thresholds that reserve the board for
+strategy, budget, and executive accountability. None of this
+is exotic — Nigeria's own central bank and securities boards
+approximate several elements — and the aviation acts' next
+amendment could carry the whole package in two pages. The
+board is the institution's suspension system: invisible when
+right, and the explanation, more often than any Nigerian
+post-mortem admits, for why the vehicle shakes.
+
 ## The inspector's market
 
 Beneath the architecture sits a labor market, and no account of

@@ -17,6 +17,28 @@ pages, and the debt is not sentimental. A state that will not
 memorialize its failures is declaring its intention to be surprised
 by them again.
 
+Visit the sites, if the reader ever can, in the order this book
+did. At Kano, the Gwammaja lanes rebuilt over the scar carry no
+plaque, but the neighborhood's elders will walk a visitor along
+the aircraft's path from memory, house by house, and the
+recitation is itself the monument — precise, practiced, handed
+already to a second generation. At Ejigbo the canal's water
+moves slowly under a road that did not exist in 1992, and the
+district's September observances have outlasted four
+presidencies. At Lisa the forest closed over the crater within
+a few seasons, and the village that found Flight 210 keeps the
+anniversary with a service whose congregation has never once
+included the federal government. At Port Harcourt the airport
+has been rebuilt around the runway where 1145 burned; the fire
+station is better equipped now, which is a monument of the
+only kind this book has argued for. And at Abuja, in the
+memorial garden at Loyola Jesuit College, the sixty names are
+read aloud each December by students who were not born in
+2005 — the school having institutionalized, with a rigor the
+state has never matched, the discipline this book has been
+recommending to the republic: memory, scheduled, funded,
+audited, and taught.
+
 But the truer memorial, this book has argued from its first chapter,
 was never stone at all. It is the published report, the tracked
 recommendation, the drilled airport, the funded inspector, the

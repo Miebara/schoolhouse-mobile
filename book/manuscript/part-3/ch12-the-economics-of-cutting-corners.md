@@ -264,6 +264,46 @@ balance sheet's audit function. Every failure of record integrity
 reverts the market to pricing Nigerian metal, and Nigerian promises,
 at the old discount.
 
+## The passenger's price
+
+The traveling public's own economics belong in this chapter,
+because the crisis era's popular defense of the system — cheap
+flights for a poor country — was an accounting fraud on the
+passengers themselves, and demonstrating it closes the
+"safety versus affordability" question from the demand side.
+
+The Nigerian passenger of the dangerous decades paid, first,
+fares that were never actually cheap: thin competition on
+trunk routes, cash-based distribution with its layers of
+agents, and the operational chaos premium — the missed
+connections, the overnight strandings, the bribes and
+rebookings of a system without schedule integrity — summed to
+an effective cost per completed journey that regularly
+exceeded the sticker price by half. He paid, second, the risk
+premium in its rawest form: the era's accident rates,
+translated into actuarial language, amounted to a hidden
+surcharge measured in micromorts that no other consumer
+purchase in his life carried at such density — a tax paid in
+expectation and, for the unlucky planeloads, in full. He
+paid, third, through the insurance and financing costs
+buried in every ticket: the country-risk loadings this
+chapter has traced flowed to reinsurers and lessors abroad,
+a permanent export of premium extracted by the system's own
+disrepute. And he paid, fourth, in the alternatives the
+system's failure forced: the elite's charter economy, the
+middle class's road journeys with their tenfold fatality
+rates, the business never done because the meeting could not
+be reliably reached. Stack the four payments and the
+dangerous system was, per safe completed journey, among the
+most expensive transport products sold anywhere — the
+poverty argument exactly inverted. The reform era's
+consolidated, audited industry sells a dearer sticker and a
+radically cheaper product. That arithmetic, more than any
+moral claim, is the durable case for the standards this
+book defends: safety is not a tax on affordability. In
+aviation, uniquely and provably, it is the only route to
+it.
+
 ## What a check buys
 
 The maintenance economics this chapter keeps invoking deserve

@@ -412,6 +412,37 @@ question of whether it was a turning point or an interlude is not yet
 settled. Books get written for many reasons; this one exists to load the
 scale.
 
+## The stakes beyond Nigeria
+
+A final word on why this history warrants a reader who will
+never transit Murtala Muhammed. The twenty-first century's
+central governance question — visible in every capital, rich
+and poor — is whether societies can maintain complex technical
+systems under political stress: grids, banks, biolabs,
+pipelines, algorithms, aircraft. The rich world has begun
+discovering, through its own institutional decay, what the
+poor world has always known: that competence is not a
+possession but a practice, that systems rot invisibly under
+confident management, and that the distance between a
+functioning arrangement and a hollow one can be a decade of
+distracted budgets. Nigeria's aviation history is that
+discovery run at high amplitude with full documentation — a
+society that inherited, built, consumed, lost, rebuilt, and is
+now maintaining-or-not a safety-critical system, all within
+one lifetime, all measured by external audit. The 737 MAX
+episode taught Americans that their own regulator could
+hollow; the British Post Office scandal, the German
+procurement sagas, the pandemic's institutional stress tests
+everywhere — each is a local dialect of the language this
+book studies in its Nigerian original. Readers who want to
+know what institutional failure looks like from inside, what
+it costs, and — rarest of all in this literature — what its
+verified repair actually consisted of, will find no cleaner
+case anywhere. Nigeria is not the world's cautionary tale.
+It is the world's laboratory notebook, and the experiments
+in it were paid for at rates no other country should have
+to repeat.
+
 Nigeria's tragedy has never been a shortage of talent, and its aviation
 story proves it: Nigerian pilots fly for the great airlines of the world,
 Nigerian engineers certify aircraft in Europe and America, and a Nigerian

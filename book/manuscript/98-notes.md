@@ -281,6 +281,17 @@ environmental reports. **Verify:** every country-case date against
 primary regulatory records; the House committee's exact language on
 the 2023 Nigeria Air launch.
 
+## Epilogue
+
+The epilogue's site descriptions (community remembrance practices at
+Gwammaja, Ejigbo, Lisa, Port Harcourt, and the Loyola Jesuit memorial
+garden) are drawn from press accounts of anniversary observances and
+community memory reported over the years. **Verify before print:**
+each practice's current form through field reporting or direct
+contact with the communities and the school; the Loyola memorial
+service's format is documented in the school community's own
+publications.
+
 ## A general caution
 
 Nigerian casualty figures, as the Author's Note states, vary across
