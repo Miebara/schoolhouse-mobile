@@ -237,6 +237,63 @@ is what "rebuilding trust" means in operational terms: not a
 communications strategy, but the construction of permanent,
 self-interested watchers.
 
+## The ways this fails
+
+An agenda that cannot name its own failure modes is a
+communiqué; here are this one's, with the mitigations that
+exist and the residual risks that don't.
+
+**It fails by consolidation of the wrong kind** — the treasury
+raid dressed as reform: the periodic Abuja drive to sweep
+agency levies into the consolidated revenue fund, rationalized
+as fiscal discipline, which would reverse item two in a single
+appropriations act and re-create the begging regulator of
+Regime One within a budget cycle. The mitigation is drafting
+(protecting the levies at the highest available legal
+altitude) and noise (the external witnesses pricing the raid
+publicly). The residual risk is real: a sufficiently
+determined fiscal center beats any statutory fence, and the
+defense of the fence must therefore be made cheaper than its
+breach — which is what item nine's manufactured constituency
+is for.
+
+**It fails by success** — the quiet decade lulling the very
+coalition it should recruit: no funerals, no urgency; the
+safety hearing of item nine degenerating into a ritual of
+mutual congratulation; the drills becoming pageants again.
+This is the plateau extending itself, the likeliest single
+future, and its only structural antidote is the coupling of
+safety to *money* — the growth coalition of Chapter 15, for
+whom the system's rigor is a revenue input rather than a
+moral achievement. Where no one profits from vigilance,
+vigilance is a mood; moods end.
+
+**It fails by federal drift** — the reform captured at the
+center while the periphery (state airstrips, charter
+operators, the general-aviation frontier, the drone economy)
+grows faster than oversight reaches. The 2013 Associated
+crash and the 2021 military losses were peripheral failures
+in exactly this sense; the periphery is where the next
+Part II begins. Mitigation: risk-based surveillance that
+follows exposure rather than history, and the sub-national
+response architecture of Chapter 13.
+
+**And it fails by personalization** — the reform identified
+with a champion, rising and falling with one career: the
+Demuren pattern, which this book has praised and must
+therefore also flag as the design's known vulnerability. The
+2006 era survived one succession on borrowed motives and
+began eroding at the next. A reform is finished not when its
+champion wins but when its champion becomes replaceable
+without event — the dullest possible test, and the only one
+that matters.
+
+None of these failure modes is exotic; all have Nigerian
+precedents; and the agenda above was drafted, item by item,
+with each in view. The honest summary of the risk register:
+the engineering is solved, the politics is unsolved, and the
+politics is the project.
+
 ## Who actually holds the pen
 
 Agendas fail when addressed "to Nigeria"; this one closes by

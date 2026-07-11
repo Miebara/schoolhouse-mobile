@@ -205,6 +205,53 @@ same direction as safety rather than against it. Grief built the
 first reform. Interest is available to build the second, in
 quantities the first never had.
 
+## The generation
+
+The people who will run the Nigerian century in the air are
+alive now, mostly under thirty, and the honest closing survey
+belongs to them rather than to the institutions this book has
+audited, because they are arriving with assets no previous
+Nigerian aviation generation possessed.
+
+They are arriving into a functioning core: the cadet who joins
+the industry in the 2020s enters a system with radar, a real
+regulator, published regulations, and a domestic safety record
+her instructors could not have imagined at her age — a baseline,
+not a battlefield. They are arriving networked: the diaspora
+that drained the 1980s system now functions, in the era of
+cheap connection, as an accessible faculty — the Nigerian
+training captain in Doha mentoring Lagos cadets by video, the
+NCAA inspector benchmarking with FAA counterparts she met on
+attachment, the professional associations' webinars erasing
+the isolation in which the 1990s workforce fought its lonely
+arguments. They are arriving with the archive in their
+pockets: the smartphone-documented, FOI-accessible,
+NSIB-published information environment means the next
+generation's version of this book's history is, increasingly,
+checkable from a dormitory — and a generation that can check
+is harder to govern by liturgy. And they are arriving
+ambitious in a market that finally rewards it: the growth
+arithmetic above is, from a career's-eye view, simply
+opportunity — command upgrades, engineering practices,
+startups in drones and MRO and training, the whole
+professional ladder lengthening for decades.
+
+What they are not arriving with is the memory, and that is
+this book's reason for existing. The last Nigerians who
+watched the whole arc — Zaria's founding, the boom's waste,
+the canal, the lagoon, the school, the reform — are leaving
+the industry and the world. Memory does not transfer by
+inheritance; it transfers by institution (the archive, the
+curriculum, the memorial, the annual hearing) or it does not
+transfer at all, and Part III measured exactly how little of
+that machinery exists. The generation's single greatest risk
+is not the plateau, the naira, or the ministry; it is
+inheriting quiet skies without the invoice — mistaking, as
+their grandparents' politicians did in 1975, the artifacts
+for the system. The remedy is the one this chapter's book
+has tried to be: the history, written down, argued, sourced,
+and put where the cadets can reach it.
+
 ## Seat 14A, again
 
 Return, finally, to the evening flight of the preface — Abuja to

@@ -183,6 +183,81 @@ All remaining errors are the author's.
 
 ---
 
+# Appendix D — Institutional Milestones, 1919–2024
+
+A chronology of the governance events this book treats as the
+true plot, for the reader who wants the argument's spine in
+dates.
+
+- **1919** — Paris Convention establishes state sovereignty over
+  airspace; colonial Nigeria's skies vest, legally, in Britain.
+- **1925** — RAF Cairo–Kano flights; aviation arrives as imperial
+  demonstration.
+- **1935–36** — Kano established as trans-African civil staging
+  post; scheduled services reach Lagos.
+- **1940–45** — West African Reinforcement Route; wartime runway
+  and radio infrastructure built.
+- **1944** — Chicago Convention signed; ICAO system created.
+- **1946** — West African Airways Corporation founded (four-
+  territory public corporation).
+- **1958** — WAAC (Nigeria) Ltd formed; becomes Nigeria Airways.
+- **1960–61** — Independence; Nigeria joins ICAO in its own right;
+  oversight functions repatriated without matching capacity.
+- **1964** — Nigerian Civil Aviation Training Centre, Zaria,
+  founded with ICAO/UNDP support.
+- **1969** — Nigeria Airways VC10 lost at Lagos; the national
+  grammar of unexplained disaster set.
+- **1973** — Kano Hajj charter disaster (176 dead); no public
+  Nigerian reckoning.
+- **1976** — Murtala Muhammed Airport commissioned; FAAN's
+  predecessor established; aviation as monument era peaks.
+- **1985–86** — Oil collapse; SAP; the dollar famine reaches the
+  hangar.
+- **1988–95** — Deregulation licensing wave; private carriers
+  multiply against a starved directorate.
+- **1991** — Flight 2120 burns at Jeddah (261 dead); wet-lease
+  accountability vacuum exposed.
+- **1992** — NAF C-130 falls at Ejigbo (~158 dead); report never
+  published.
+- **1995–96** — FAA and international bodies flag Lagos
+  deficiencies; ADC 086 lost over the lagoon (144 dead).
+- **1999** — Democracy restored; NCAA created on paper; NEMA
+  established; ICAO USOAP begins auditing sovereign oversight.
+- **2002** — EAS 4226 falls into Kano (~148 dead); aircraft age
+  limits enter policy.
+- **2003–04** — Nigeria Airways liquidated; Ghana Airways
+  parallel collapse; both flags grounded permanently.
+- **2005** — Bellview 210 (117) and Sosoliso 1145 (108); the
+  Loyola parents organize; national aviation summit convened.
+- **2006** — ADC 053 (96 dead, the Sultan among them); Civil
+  Aviation Act 2006: NCAA autonomy, statutory funding, AIB
+  separated; Demuren era begins; re-certification purge.
+- **2007** — Democratic succession survives; purge completes;
+  AOC count roughly halved.
+- **2010** — FAA IASA Category 1 attained; TRACON radar
+  commissioned; the reform's trophy year.
+- **2011** — Freedom of Information Act; the secrecy default
+  formally renounced.
+- **2012** — Dana 992 falls at Iju-Ishaga (163 dead incl.
+  ground); the reformed system's first great test; suspensions
+  and restorations begin their oscillation.
+- **2013** — Associated Airlines charter crash; Demuren removed;
+  the plateau era opens.
+- **2016–17** — Naira crisis; Arik and Aero into AMCON care;
+  fleet-safety floors hold.
+- **2018–23** — Nigeria Air saga, from Farnborough livery to
+  parliamentary verdict; symbolic politics resurgent.
+- **2021** — NAF Beechcraft losses at Abuja and Kaduna (Chief of
+  Army Staff killed); military opacity intact at 29 years from
+  Ejigbo.
+- **2022** — Civil Aviation Act renewed; NSIB created with
+  multimodal mandate; publication tempo improves.
+- **2024** — The quiet decade continues in scheduled aviation;
+  the constituency question — this book's closing question —
+  remains open.
+
+---
+
 # A Bibliographic Essay: Reading Further
 
 For the reader who wishes to go deeper, the literature sorts

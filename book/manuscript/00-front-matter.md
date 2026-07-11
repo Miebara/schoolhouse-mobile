@@ -103,6 +103,28 @@ since 2012. A country that is routinely described as ungovernable governed,
 in this one domain, rather well — for a time, under pressure, after
 catastrophe.
 
+I remember when the question changed for me. In the middle
+2000s, boarding at the old domestic wing at Ikeja was an
+exercise in actuarial prayer: you studied the aircraft through
+the window as if competence were visible in paint, you noted
+which airline's name was on this month's front pages, and the
+gallows humor of the departure lounge — Nigerians are
+unsurpassed at it — did the work that trust does in other
+countries. Then, across the 2010s, almost imperceptibly, the
+humor lost its edge. The flights simply went. Delayed,
+overbooked, maddening — but they went, year upon year, and
+nobody's cousin knew somebody on the one that didn't. A whole
+national reflex — the specific dread of the boarding call —
+faded so gradually that no one marked its passing. I began
+asking the people who run the system how that had happened,
+and their answers kept converging on the same few years, the
+same statute, the same names, the same funerals. The absence
+of catastrophe, I came to understand, has a history too. It
+is just never written, because its evidence is that nothing
+happened. This book is, among other things, an attempt to
+write it — to give the quiet decade the same forensic
+attention the loud ones extort.
+
 So this is not a book about Nigerian failure. It is a book about the
 conditions under which failure happens and the conditions under which it
 stops — a subject on which Nigeria's sky is perhaps the most instructive

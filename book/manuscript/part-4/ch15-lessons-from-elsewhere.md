@@ -261,6 +261,46 @@ survive every border crossing:
    reputation — must be structurally attached to safety, because
    attention is mortal and grief has a half-life.
 
+## What doesn't travel
+
+Honesty about the method requires the negative list too, because
+the world is littered with transplanted institutions that died on
+arrival, and the failures have their own pattern.
+
+Organograms don't travel. Africa's aviation authorities are,
+on paper, near-clones — the same directorates, the same board
+structures, mostly drafted from the same ICAO model
+legislation — and their performance spans the full range from
+excellent to fictional. The form is the cheapest part of an
+institution to copy and the least of what it is; copying it
+creates what development scholars call isomorphic mimicry —
+the camouflage of capability without its function — and
+aviation's audit-driven world is unusually prone to it,
+because the audits themselves begin (though do not end) with
+the paper.
+
+Personnel don't travel as institutions. The consultant
+missions, the seconded inspectors, the returned diaspora —
+all can transfer knowledge; none can transfer the surrounding
+incentive field, and Chapter 11's whole argument was that the
+field, not the knowledge, sets behavior. Nigeria's own reform
+succeeded not when it acquired knowledgeable people (it always
+had them) but when it rearranged what their knowledge cost
+them to apply.
+
+And crisis doesn't travel — the most important negative. The
+1958 American reform, the 2006 Nigerian one, the 2007
+Indonesian one: each ran on a domestic catastrophe's political
+energy, and the energy is not exportable. Countries cannot
+borrow each other's funerals. What they can borrow — the
+genuinely portable stock — is the *prepared design*: the
+statute drafted before the window, the reform plan on the
+shelf, Chapter 16's reform-by-preparedness. The five mirrors'
+deepest common lesson is that every successful reform in
+the set was, at the moment of its crisis, substantially
+pre-written — by professionals who had been waiting, sometimes
+for decades, with the file open.
+
 Culture appears nowhere in the algebra, and the omission is the
 chapter's finding. What is called safety culture in the literature
 is real but *downstream* — the residue that forms inside
