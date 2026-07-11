@@ -317,6 +317,68 @@ function of civilian institutional strength — a proposition Nigerian
 history would test again in February and May of 2021, with results
 recorded later in this book.
 
+## The families of the fallen
+
+The military family occupies a particular position in Nigerian
+society — the barracks as a world of its own, with its schools,
+its markets, its hierarchies of rank worn by wives and children
+as much as by the men — and the Ejigbo disaster fell on that
+world with a completeness civilian tragedies rarely achieve.
+Because the passengers were drawn from a single institutional
+cohort, the grief mapped onto the military's own geography:
+particular staff quarters at particular bases lost multiple
+neighbors at once; the children of the dead attended the same
+barracks schools, where whole classrooms mourned together; the
+widows — many of them young, most without independent income in
+the military economy of the era — confronted simultaneously a
+husband's death and an administrative machine that now governed
+everything from their housing (military quarters are for
+serving families; bereavement began a countdown to eviction)
+to their children's school fees.
+
+What the institution owed them was clear in regulation:
+pensions, gratuities, insurance benefits, the burial honors.
+What it delivered became one of the era's quiet scandals,
+documented in fragments across years of petitions and
+journalism: benefits delayed by file-shuffling between
+service headquarters and the military pensions boards;
+gratuities eroded by inflation during the delay; the
+survivor's dependence on personal intercession — the sympathetic
+adjutant, the late husband's course-mate now a colonel — to
+move what entitlement alone could not. Some families were
+treated honorably and promptly; the variance itself was the
+scandal, because a system that delivers entitlements at the
+speed of connections is not a system but a favor economy, and
+the military's favor economy priced a dead major's family by
+the liveliness of his network. Veterans of the era's officer
+corps speak of Ejigbo's aftermath as a private radicalization:
+the institution's treatment of its dead men's families was
+legible to every living officer as a preview of his own
+family's contingency, and it entered the quiet calculus —
+loyalty, risk, exit — that the 1990s military ran in its
+thousands of individual heads.
+
+The civilian state compounded the pattern at the margins where
+the crash's civilian victims stood: the handful of
+non-military passengers, and Ejigbo's own residents, whose
+canal — their water source, their fish pond, their children's
+swimming place — had become a mass grave and a contamination
+site. No environmental remediation worthy of the name reached
+the neighborhood; no counseling apparatus existed to reach
+anyone; the community absorbed the event into its own
+religious and communal structures, as Nigerian communities
+absorb everything, and the state's ledger closed. Thirty years
+on, the pattern repeats at every disaster site in this book
+with variations only of degree. A state's disaster obligations
+run in concentric circles — the dead, the bereaved, the
+responders, the host community — and the Nigerian state of
+this history consistently serviced only the innermost circle's
+ceremonial arc, the funeral, while every outer circle
+self-financed its recovery. The cost of that abandonment
+never appears in any account of what the crashes cost. It
+should. It compounds, in health and schooling and trust,
+across generations, in every community this book names.
+
 ## Reflection
 
 Ejigbo subtracted a generation of command from the Nigerian military,

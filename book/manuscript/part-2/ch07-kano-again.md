@@ -313,6 +313,58 @@ aviation a growth strategy rather than a patronage arena, which gave
 Jakarta's reformers what Abuja's never durably had: a constituency
 richer than the constituency for decay.
 
+## The city that keeps meeting the sky
+
+Kano's third catastrophe invites the longer view of the city
+itself, because no place in Nigeria has a deeper or stranger
+relationship with aviation, and the relationship is a
+compressed history of everything this book argues.
+
+The city met the airplane as spectacle (1925), profited from it
+as rent (the crossroads years), suffered it as bereavement
+(1973, at the airport's edge), and in 2002 was struck by it in
+its own streets — a progression from audience to victim that
+tracked, step by step, the aviation system's institutional
+trajectory. And through all of it, Kano's actual demand for
+flight — the Hajj above all, the commercial diaspora's traffic,
+the north's connection to Lagos and the world — remained among
+the most authentic in Africa: this was never a city that needed
+aviation sold to it. What Kano needed, and never received in
+eighty years, was an aviation system that took its needs as
+design inputs. The Hajj operations that dominated its calendar
+were run from Lagos and Abuja as annual improvisations; the
+airport that carried the emirate's name decayed on FAAN's
+schedule of southern priorities; the airspace and approach
+aids served the trunk routes' logic. Gwammaja itself — the
+quarter under the climb path — was the residue of a planning
+conversation between airport and city that had simply never
+occurred, in a metropolis whose own planning institutions had
+been assembled and starved on the same colonial-then-federal
+pattern as everything else in this history.
+
+The 2002 aftermath added the era's characteristic coda. For a
+season, Kano's catastrophe organized national attention:
+delegations, probes, the age-limit policy, pledges to the
+neighborhood. Then attention moved south — 2005's disasters,
+2006's reform — and the reform itself, this book's celebrated
+turn, was experienced from Kano at an angle worth recording:
+the re-certification purge fell hardest on the northern
+regional carriers (Kabo, the Hajj-adjacent operators) whose
+marginal economics could not clear the new bar, and the
+consolidated industry that emerged was more Lagos-centric
+than the one it replaced. The safety dividend was real and
+shared; the industry's geography narrowed. Nobody designed
+that outcome either, and its politics — the north's
+perennial, not-unfounded sense of servicing a system
+headquartered elsewhere — now shadow every route-allocation
+and airport-investment fight in the sector. A national
+aviation reform that does not think about its own geography
+will be experienced, in a federation, as someone's regional
+project; and systems experienced as someone else's project
+do not acquire the broad constituency Chapter 16 requires.
+Kano has been teaching that lesson since 1925. It is still
+on offer.
+
 ## Reflection
 
 There is a moral asymmetry at the heart of this chapter that the tidy

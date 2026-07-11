@@ -327,6 +327,56 @@ infrastructure is a property not of its wealth but of its institutional
 drivetrain — and that fourteen years is what the drivetrain of a
 military-ruled, treasury-starved, report-shelving state delivers.
 
+## The airline that tried
+
+ADC's own arc through and beyond the disaster completes this
+chapter's institutional accounting, because the airline's fate
+tested a question that hovers over every reformed system: what
+does the market do to the operator who was, by the general
+standard, one of the good ones?
+
+ADC — Aviation Development Company — had been founded at the
+deregulation wave's serious end: airline professionals rather
+than arbitrageurs, public listing rather than a single patron's
+purse, early investment in training and maintenance
+relationships that the era's average carrier skipped. Its 727s
+were old because everyone's were, but its operation was
+regarded, by the professionals whose regard is this book's
+recurring measure, as disciplined. Flight 086's investigation,
+as noted, found the airline's own conduct largely sound; the
+system had failed around it. None of that mattered
+commercially. The crash destroyed the brand's meaning — "ADC"
+now signified the lagoon — bookings collapsed, insurance
+re-rated, and the airline spiraled through retrenchment toward
+suspension, clawing back to operations in the 2000s as a
+diminished thing. Its end belongs to Chapter 9: ADC Flight 053,
+Abuja, October 2006 — the good airline of 1996, by then a
+struggling carrier under every pressure this Part has
+catalogued, making the departure decision that killed the
+Sultan. The company did not survive that second wound.
+
+Read as a pair, ADC's two disasters bracket the era's
+central injustice, which is also its central incentive
+problem: the system's costs were assessed on whoever the
+lightning found, nearly without reference to desert. The 1996
+crash punished ADC for NAMA's radar and the airspace's chaos;
+the survivors of the era's true cowboy operators, meanwhile,
+exited with their capital intact when their AOCs died of
+paperwork rather than catastrophe. A market that cannot
+distinguish its good actors from its bad ones — because the
+common infrastructure fails on top of everyone equally, and
+because no published record (Chapter 14) preserves the
+distinction — cannot reward diligence, and an industry that
+cannot reward diligence will, generation by generation,
+attract less of it. The reformed era's operators understood
+this history precisely; it is why the serious ones became,
+after 2006, the regulator's loudest constituency for
+*publishing* audit results — the good airline's interest in a
+system that can tell the difference being, in the end, the
+most reliable pro-transparency force Nigerian aviation
+possesses. Markets, like publics, can only love what they can
+see.
+
 ## Reflection
 
 There is a particular cruelty in dying of the commons. The passengers of

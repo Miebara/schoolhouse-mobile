@@ -332,6 +332,55 @@ could not touch — were the exact photographic negative of that
 proposition, and the distance between the two images is the remaining
 distance of the Nigerian reform.
 
+## What the report finally said — and what happened to it
+
+When the Dana 992 final report emerged in 2017, its substance
+rewarded the wait even as its tempo indicted it, and its
+afterlife is the reform era's report-to-reality transmission
+measured end to end.
+
+The findings assembled a textbook dual-failure narrative: the
+number one engine's fuel-supply degradation, traceable through
+component histories the investigation reconstructed in detail;
+the crew's decision — against the logic of the failing engine's
+trend — to continue to Lagos rather than divert; the second
+engine's collapse on final; and, beneath the sequence, the
+organizational layers — the airline's maintenance decision
+chain for the sick engine in the preceding days, the dispatch
+and crew-pairing questions, the fatigue and pressure ecology of
+a carrier running a punishing shuttle schedule. The
+recommendations ran from the specific (engine fuel-system
+inspection regimes for the type; crew training on
+engine-failure decision-making) to the systemic: strengthened
+NCAA surveillance of airlines' continuing-airworthiness
+management, and — the recommendation with this book's whole
+argument inside it — measures to ensure operators' commercial
+pressures could not override maintenance decision-making. Each
+went to a named addressee.
+
+Then the transmission question: what closed? The type-specific
+items, substantially yes — the NCAA's airworthiness directorate
+tracked them, and the MD-83's Nigerian career ended within the
+decade regardless, retired by economics. The systemic items
+entered the recommendations register and there, in the pattern
+Chapter 14 quantifies, their public trail thins: no published
+closure verification, no annual recommendations-status report
+in which a citizen — or a Loyola parent, or an underwriter —
+could look up whether the commercial-pressure safeguards exist
+now in auditable form. Dana Air itself flew on until 2022–24's
+troubles finally grounded it, through further incidents and
+two further suspension cycles, each restoration accompanied by
+official assurances referencing enhanced oversight whose
+documentation the public was never shown. The 153 dead of
+Iju-Ishaga thus purchased, verifiably, some narrow technical
+protections and, unverifiably, everything else. That ratio —
+the verifiable narrow to the unverifiable broad — is the
+plateau's signature, and improving it requires no new
+catastrophe, no new statute, and no new naira: only the
+publication, on a schedule, of the register the NSIB already
+keeps. Chapter 16 makes it item one. The reader now knows
+which 153 people its price was.
+
 ## Reflection
 
 Part II closes where it opened, with fire in a place fire should not

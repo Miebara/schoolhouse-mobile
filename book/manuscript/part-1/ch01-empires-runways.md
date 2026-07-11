@@ -433,6 +433,59 @@ state whose own institutions were three years old. The wonder, in
 retrospect, is not that Nigerian aviation struggled; it is that it worked
 as well as it did, for as long as it did.
 
+## The Kano crossroads
+
+Between the wars, Kano became something no other Nigerian city has
+been before or since: a genuine node of the world's traffic. The
+trans-African routes of the 1930s — Imperial Airways' England–
+Africa services, the French lines working across the Sahara, the
+Italian connections to their East African possessions — funneled
+through a small set of viable Sahelian stops, and Kano, with its
+established aerodrome, its rest house, its fuel stocks, and its
+colonial administrative depth, captured the traffic. The
+passenger lists of the Kano rest house in 1936 read like a
+gazette of the imperial world in motion: colonial governors and
+mining engineers, newspaper correspondents heading for
+Abyssinian wars, aristocrats on shooting itineraries, the
+occasional royal. For the city's traders and the emirate's
+administration, the aerodrome became an economic fact — provisioning
+contracts, employment, the beginnings of a local aviation service
+economy — and for the city's imagination it became something
+larger. Kano had been a terminus of the desert for a millennium;
+the caravanserai now had a runway. Northern Nigerian memory
+retains this era with a particularity that southern accounts of
+Nigerian aviation history often miss: aviation was not introduced
+to the north as a Lagos phenomenon that traveled up-country. It
+arrived in the north first, embedded itself in the north's
+oldest commercial city, and the north's relationship with flight
+— the Hajj traffic above all — developed its own lineage, its
+own expectations, and eventually its own tragedies, at Kano in
+1973, at Jeddah in 1991, at Kano again in 2002. When this book's
+later chapters find the northern establishment aboard the
+aircraft of catastrophe — the Sultan on 053, the emirs' sons on
+the Hajj charters — the density is not coincidence. It is the
+century-old geography of who, in Nigeria, has needed the sky.
+
+The crossroads era also planted Nigeria's first aviation
+economics lesson, promptly forgotten and relearned expensively
+ever after: hub traffic is rented, never owned. Kano's position
+depended entirely on the technology of the moment — aircraft
+whose range demanded a Sahelian stop. The long-range airliners
+of the postwar years overflew the Sahel without stopping;
+Kano's transit traffic evaporated within a decade; and the
+city's aviation economy contracted to its organic base, the
+Hajj and the north's own demand. Nothing about the loss was
+avoidable — technology moves — but the pattern (a windfall
+position mistaken for a permanent endowment, no investment made
+in the underlying system while the rent flowed) would repeat at
+national scale with oil, and at sectoral scale with every
+bilateral route concession Nigeria later treated as a birthright
+rather than a competitive position. Chapter 17's hub question —
+whether Lagos can capture the twenty-first century's West
+African traffic — is Kano's question, returned after a hundred
+years, with the same answer waiting: the traffic goes where the
+system is, and stays exactly as long as the system deserves it.
+
 ## The decade of handover
 
 The 1950s, Nigerian aviation's decade of transition, rewards a closer

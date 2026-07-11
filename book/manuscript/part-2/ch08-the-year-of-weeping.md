@@ -362,6 +362,62 @@ of the pathology this book has been tracking since the empty
 regulatory "housing" of Chapter 3, and 2005 displayed it at the exact
 point where costume meets fire.
 
+## The operator and the mystery
+
+Bellview Airlines deserves the closer look its unsolved crash
+usually forecloses, because the airline's profile complicates
+the era's morality tale in instructive ways.
+
+Bellview was, by 2005, the closest thing the deregulated era
+had produced to a Nigerian success story: a private carrier
+that had outlived the 1990s cull, expanded into regional
+international routes (Accra, Freetown, Abidjan — inheriting,
+in effect, fragments of the WAAC map), passed the IATA
+operational audit, and cultivated exactly the
+business-traveler respectability ADC had owned a decade
+earlier. Its 737s were old, its finances — like every Nigerian
+carrier's — strained; but the airline the public boarded that
+October was the industry's reputational upper tier. That is
+what made the crash's aftermath so corrosive. The
+investigation's forensic defeat (the unusable recorders, the
+crater, the looted site) meant that no authoritative account
+ever separated the possibilities — weather upset, mechanical
+failure, crew factors, some compound — and into the permanent
+ambiguity flowed everything the era's information famine
+always supplied: theories of sabotage (the passenger list had
+included figures with enemies), of structural failure hidden
+to protect interests, of causes known and suppressed. The
+airline itself, brand destroyed on the ADC pattern, staggered
+into decline and ceased operations within a few years, its
+corporate records dispersing with it — which further
+guaranteed that the questions would never close.
+
+For this book's argument, Bellview's mystery performs one
+essential function: it demonstrates that investigative
+capacity is not a service to blame but a service to
+*innocence*. Had the AIB of 2005 possessed the recorder
+laboratory, the site-control protocols, and the tempo of a
+mature agency, the most likely beneficiary would have been
+the airline's own professionals — the crew who could not
+defend themselves, the engineers whose maintenance was
+forever after suspected without evidence, the company whose
+diligence or negligence deserved, either way, to be
+established. The culture of silence is often defended,
+implicitly, as protective; Bellview shows what it protects
+no one from. In the absence of findings, every party is
+convicted of something by someone forever. The families
+received no cause; the professionals no vindication; the
+system no lesson; and the public no reason to believe that
+boarding the era's *best* airline differed, in the end, from
+boarding its worst. That last conclusion — statistically
+false, experientially irresistible — may have been the 2005
+season's deepest damage, because a public that cannot
+distinguish good operators from bad ones cannot reward
+safety with custom, and the market loses its one organic
+safety instrument. Chapter 12's economics assumed consumers
+could see quality. Bellview's unsolved crater is where that
+assumption went to die.
+
 ## Comparative note: what "unsolved" means elsewhere
 
 Bellview 210's forensic defeat invites a specific comparison: what do

@@ -349,6 +349,61 @@ coffins; the record says almost never, and the exceptions (Ethiopia's
 institutional continuity, chiefly) are the most valuable case studies
 in the field.
 
+## Holding through the handover
+
+Reforms in presidential systems die most often at the
+succession, and the Nigerian reform's survival of the 2007
+transfer of power deserves its own examination, because it is
+the part of the story with the most transferable political
+engineering in it.
+
+President Obasanjo left office in May 2007, months into the
+re-certification purge, with the reform's enemies waiting
+precisely for his exit: the grounded operators' injunctions were
+live, the legislative sympathy campaigns warm, and the incoming
+administration of Umaru Yar'Adua owed nothing to his
+predecessor's aviation legacy — indeed owed its existence to a
+party machine several of whose financiers the purge had
+grounded. Every precedent in this book — the post-1996 promises
+evaporating with Abacha, the post-2002 probes dissolving into
+the election season — predicted reversal. It did not come, and
+the reasons reward listing. First, the reform had been
+*legislated*, not merely decreed: the 2006 Act's statutory
+funding and tenure provisions meant that unwinding it required
+public parliamentary action, with the 2005–06 graves still
+fresh — the transparency ratchet doing exactly what its
+designers intended. Second, the external witnesses were mid-
+examination: the ICAO audit cycle and the Category 1 campaign
+were underway, and the new government inherited them as
+national projects whose abandonment would be internationally
+legible failure. Third — the underrated element — the reform
+had been staffed with people whose professional reputations
+were their own capital: Demuren and his rebuilt inspectorate
+did not depend on the new president's favor for their standing,
+only for their protection, and protection is cheaper to grant
+than sponsorship. Yar'Adua, a cautious institutionalist by
+temperament, granted it; his successor Goodluck Jonathan, in
+whose tenure Category 1 arrived, kept the arrangement through
+2010's triumph.
+
+The plateau's origins, seen from here, acquire their exact
+date range: the arrangement held while its costs were low and
+its trophies pending, and began to erode once the trophy
+cabinet was full — the 2013 removal of Demuren, weeks after a
+crash, by an administration for which the reform was
+inherited furniture rather than personal legacy. The general
+lesson is uncomfortable and precise: institutional reforms
+survive successions on borrowed motives — legal friction,
+international examination, reputational hostages — and these
+borrowings buy time, not permanence. Time is what they buy
+*for*: the maturation of a domestic constituency that makes
+the reform self-enforcing. Nigeria's reform used its borrowed
+decade to build superb machinery and almost no constituency —
+the omission Chapter 16 addresses — and the plateau is the
+interest on that omission, compounding since roughly 2013.
+Reformers elsewhere should read the Nigerian file twice: once
+for how to win, and once for what winning fails to secure.
+
 ## Reflection
 
 The Sultan's last flight lasted less than two minutes, and its
