@@ -535,6 +535,43 @@ capability (surveyors, inspectors, investigators), because operations
 had glamour, constituency, and a wage market, and oversight had none
 of the three. States, like people, staff what they love.
 
+## The archive speaks: reading the colonial files
+
+A note on evidence closes the chapter, because the colonial
+era's documentary abundance — compared with the decades that
+follow — is itself a historical finding worth pausing on.
+
+The researcher who works the AIR and CO series at Kew, or the
+surviving aerodrome files at Ibadan and Kaduna, encounters the
+colonial aviation state in exhaustive miniature: the monthly
+serviceability returns of the Kano wireless station; the
+correspondence over an emir's request for a flight
+demonstration; the land-acquisition disputes, compensation
+schedules, and labor musters of every airstrip; the incident
+files in which a damaged undercarriage generates a minuted
+inquiry, a finding, and a filed reply. The record is
+imperial, partial, and self-serving in all the ways
+historians expect — and it *exists*, cross-referenced and
+retrievable, because the system that produced it treated
+documentation as the substance of administration rather than
+its decoration. Set beside it the documentary condition of
+the 1980s and 1990s Nigerian aviation state — the vanished
+registries and unfindable reports of Chapter 14's archive
+problem — and an uncomfortable inversion appears: the
+Nigerian historian can reconstruct 1935's aviation
+administration more completely than 1985's. The inversion
+carries this chapter's institutional lesson in its purest
+form. Record-keeping is the load-bearing habit — the
+substrate on which oversight, accountability, memory, and
+this book itself all stand — and it was among the
+inheritances that the successor state let lapse least
+visibly and most expensively. When Part IV's agenda lists
+archives and registers among its unglamorous priorities, the
+authority for the listing is here, in the reading room:
+states that write things down can be audited, reformed, and
+eventually understood. States that stop cannot — not even,
+in the end, by themselves.
+
 ## What was planted
 
 By Independence Day — 1 October 1960, when a green-and-white flag rose over

@@ -165,6 +165,44 @@ the pathogens multiplied. Nigeria ran the same experiment with the immune
 system switched off. The 1990s would supply the laboratory results, and
 they are the subject of the next seven chapters.
 
+## What the auditors saw
+
+External eyes documented the descent as it happened, and their
+testimony — long buried in institutional archives — deserves
+exhumation because it establishes that the decade's decay was
+contemporaneously known, officially recorded, and formally
+answered with nothing.
+
+The World Bank's Nigeria transport reviews of the 1980s read
+today like Part II's table of contents drafted in advance:
+navigation aids below operational standards, maintenance
+funding a fraction of requirements, institutional
+fragmentation, cost recovery nonexistent, the flag carrier's
+finances beyond audit. ICAO's technical cooperation missions
+filed parallel findings through the decade, in the polite
+subjunctive of UN documents. The IATA operational assessments
+that international carriers commissioned before serving Lagos
+recorded the deficiencies airline by airline, item by item —
+fuel quality risk, fire category shortfalls, communications
+gaps — and the carriers priced them into operations (tankering
+fuel from Europe, carrying their own ground engineers) rather
+than trusting the system to fix them. Even the Nigerian
+state's own instruments spoke: the ministry's internal
+reviews, the National Assembly's pre-1983 transport committee
+reports, the audit queries that the Auditor-General's office
+filed annually into the void. The historiographical point is
+sharp: no one can claim the descent was invisible, technical,
+or discoverable only in hindsight. It was watched, measured,
+minuted, and filed by at least five institutional observers
+across fifteen years — a documented emergency answered by no
+budget. The failure of the 1980s was therefore never a
+failure of information, and analysts who prescribe better
+data for such systems are treating the one deficiency the
+record rules out. What was missing was a mechanism to convert
+known facts into forced choices — the mechanism this book has
+been calling a constituency, and whose eventual, terrible
+construction out of funerals is the story of Part II.
+
 ## The two fleets
 
 No feature of military-era aviation policy expresses its priorities

@@ -303,6 +303,41 @@ countries — the deferred bill would arrive, with 261 names on it, and
 Chapter 4 of this book will read it line by line. Institutions that do
 not digest their first warning are not granted gentler second ones.
 
+## The routes as foreign policy
+
+One boom-era pattern deserves separate notice because its costs
+compounded quietly for fifty years: the use of the route
+network as diplomatic currency.
+
+An international air route is, commercially, a franchise; the
+bilateral air services agreements that govern them are, for a
+flag carrier, the deed book. The Nigeria of the boom negotiated
+its bilaterals as an instrument of presence — routes to fellow
+African capitals as pan-African statement, frequencies granted
+to partners as summit courtesy, the network drawn by the
+foreign ministry's map rather than the airline's spreadsheet.
+The airline flew the statements at a loss, which the treasury
+absorbed, which was the point: the network was purchasing
+standing, not revenue. The practice's true price emerged
+later, in the lean decades, in two forms. Routes flown for
+diplomacy could not be cut without diplomatic incident, so the
+dying airline hemorrhaged longest exactly where it earned
+least. And the bilateral deed book, negotiated from symbolism
+rather than strategy, systematically underpriced the asset
+that mattered: access to Nigeria's own market. Foreign
+carriers accumulated frequencies and capacity into Lagos on
+terms a commercially minded negotiator would never have
+granted — terms that outlived the airline whose interests
+they were traded against, and that later Nigerian carriers,
+attempting international operations from the 2000s onward,
+found arrayed against them like a mortgage their grandparents
+had signed. The lesson recurs throughout aviation's political
+economy and beyond it: when a state spends an institution's
+commercial assets as diplomatic currency, the expenditure is
+invisible until the institution must live on what remains.
+Chapter 17's hub question will be fought, in part, clause by
+clause, through the renegotiation of exactly this inheritance.
+
 ## The terminal and the mirror
 
 Before the reckoning, one more scene from the boom, because it captures
