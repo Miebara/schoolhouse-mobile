@@ -258,6 +258,74 @@ grows, fleets age, personnel churn — and a safety system standing
 still is, relative to its risk base, slowly walking backward. The
 fragile peace is peace. It is also fragile, and it knows it.
 
+## The engines, and the decision that outweighed them
+
+Dana 992's mechanical story and its human story intersect at a
+point fine enough to hold the whole discipline of airline
+operations, and the intersection rewards magnification.
+
+A twin-engine airliner is certified around a brutal, liberating
+premise: any single engine may fail at any moment, and the
+aircraft must fly, climb, and land on the survivor. The premise
+converts an engine failure from emergency to procedure — but
+only under the procedure's own premise, which is that the
+failure is treated as the *opening* of an emergency window, not
+as a condition to be managed indefinitely. The report's
+reconstruction shows 992's number one engine sickening —
+thrust decaying through fuel-supply degradation — with the
+crew aware of anomaly for a substantial period before the
+final approach, and electing continuation to Lagos, the home
+base, the maintenance base, the schedule's destination. The
+election had arguments: the engine had not failed outright;
+Lagos was close; diversion airports in the Nigerian network of
+2012 offered their own uncertainties of fuel, handling, and
+onward passage. It also had, invisibly aboard, the entire
+freight of this book: a decision culture formed by decades in
+which diversions were operationally punishing and
+commercially punished, a fleet whose anomalies were chronic
+enough to be normalized, and — the item the report circles —
+an operator whose schedule intensity left thin allowance for
+the conservative call. Then the second engine, drawing on the
+same fuel system, joined the first, and the certification's
+premise — independent failures — was gone, and with it the
+aircraft. The industry's summary doctrine, hard-won
+everywhere: *the first anomaly buys you options; spend them
+immediately, because the second anomaly spends them for
+you.* It is Chapter 8's plan-continuation bias wearing
+engineering clothes, and it is trained today, worldwide, with
+992 among its case studies — one more Nigerian tuition
+payment credited to the global account.
+
+## Iju-Ishaga afterward
+
+The neighborhood's own decade completes the record. The
+struck buildings were eventually cleared; the dead of the
+ground — the printing shop's workers, the residents, the
+never-precisely-numbered — were mourned in the churches and
+mosques of a district that had, within one Sunday, joined
+Gwammaja and Ejigbo in the fraternity no community seeks.
+Compensation for ground victims ran the familiar course:
+the airline's insurers processing passenger claims under the
+Montreal Convention's machinery (imperfectly, slowly, but
+within an international frame), while the surface victims —
+outside any ticket contract — negotiated the domestic
+system's mercies, with outcomes that community advocates
+were still litigating and lamenting years later. A memorial
+gesture came — a cenotaph, anniversary observances sustained
+by the community and the airline's better instincts — and
+Lagos State's post-2012 emergency investments, LASEMA's
+maturation among them, stand as the disaster's most concrete
+municipal legacy. The pattern, by this seventh crash, needs
+no re-argument; it needs only the noting that 2012's version
+ran measurably better than 2005's, and 2005's than 1996's —
+the response half of the system genuinely, if slowly,
+compounding — while the compensation and memorial half
+remained, across the same arc, essentially static. States,
+it seems, learn to rescue before they learn to repair, and
+learn to repair before they learn to remember. Nigeria in
+2012 stood between the first two lessons. It stands there
+still.
+
 ## The stress tests nobody scheduled
 
 The plateau decade administered two system-wide stress tests of

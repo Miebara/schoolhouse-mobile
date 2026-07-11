@@ -237,6 +237,84 @@ accountability is unbuilt, external accountability can hold the
 structure while it grows — but only if some domestic actor has the
 authority and the motive to invite it in.
 
+## The weather that morning
+
+West Africa's convective weather deserves its technical
+portrait here, at the chapter where it killed a king, because
+it is the recurring antagonist of this Part and the most
+misunderstood.
+
+The West African squall line is not a storm in the temperate
+sense but a moving wall: organized lines of thunderstorms,
+sometimes hundreds of kilometers long, that build along the
+seasonal contest between the Sahara's dry northeasterly air
+and the Atlantic's moist monsoon flow, and sweep east-to-west
+across the country with the reliability of a timetable and the
+violence of a front line. Inside and beneath them live the
+phenomena that aviation's weather science ranks among its most
+lethal: the downburst — a column of rain-cooled air
+collapsing from the storm's core and splashing outward along
+the ground — and its concentrated form the microburst, whose
+signature is precisely the trap that killed 053 and 1145. An
+aircraft penetrating a microburst at low altitude meets first
+a rising headwind (performance improves; the trap baited),
+then, within seconds, the core's downdraft and a tailwind
+shear that together strip airspeed and lift faster than any
+engine can replace them. The recognition and escape maneuver
+is trained; the survivable encounter envelope is narrow; and
+the doctrinal answer, written in America's own blood at
+Dallas in 1985 (Delta 191, the accident that forced the
+issue), is technological and procedural avoidance: terminal
+Doppler weather radar and low-level windshear alerting at
+airports, predictive windshear radar aboard aircraft, and
+dispatch cultures that treat an active cell over the field as
+a closed door. By 2006, that apparatus was two decades
+mature in the systems that built it. Abuja that October
+morning had the forecast and the pilots' eyes — the squall
+line was visible assembling — and none of the alerting
+infrastructure; the investigation's recommendations put
+low-level windshear detection at Nigerian airports on the
+national agenda, where it joined the queue behind every
+other item this book has watched wait. The atmosphere of the
+Gulf of Guinea is not more hostile than Texas's. It is
+identically hostile, on a more regular schedule, to a system
+that had priced its warnings at zero. Climate projections,
+Chapter 17 will note, are steepening the schedule. The
+doctrine and the hardware exist, costed, on the shelf where
+1985's dead left them.
+
+## The nine
+
+Nine people survived Flight 053, and their survival is a
+dataset this chapter should not close without reading. They
+were seated, substantially, in one region of the cabin that
+the breakup's chance geometry spared; they exited through
+gaps the disintegration made; several were pulled from the
+wreck's margins by the first-arriving farmers and airport
+workers before the fuel-fed fire consolidated. Their
+subsequent accounts — given to investigators, to journalists,
+and in the years of memorial interviews — supplied the
+approach's human record: the ordinary boarding, the visible
+storm, the prayer and unease that Nigerian passengers of
+that era carried as standard equipment, the seconds of
+violence. And their aftermath supplied, once more, the
+survivorship audit of the state: burn and trauma care
+sourced by family means, psychological care essentially
+absent, compensation processes that distinguished not at
+all between the bereaved and the maimed — the survivor of a
+Nigerian crash inheriting, along with the injuries, a
+lifetime administrative project. Survivors are aviation
+safety's most underused witnesses; the mature systems
+interview them within days under survival-factors protocols
+that have redesigned exits, slides, seat strength, and cabin
+materials generation by generation. The nine of 053 were
+heard, in the Nigerian record, mostly by God and the
+newspapers. It is one more register in which the system
+declined its own evidence — and one more reason the
+family-assistance and survivor-care machinery of Chapter 13
+belongs in any serious reform bill, not as compassion,
+though it is that, but as instrumentation.
+
 ## The purge, from the ramp
 
 Reform histories written from the regulator's side acquire a
