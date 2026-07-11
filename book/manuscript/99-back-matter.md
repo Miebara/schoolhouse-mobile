@@ -48,6 +48,22 @@ person to whom that memorial was owed in advance and delivered, if
 ever, too late. The names are the argument. Everything else in this
 book has merely been their arrangement.
 
+And one name is missing from every list in these pages, because
+it belongs to the future: the passenger of some ordinary Tuesday
+in the 2040s whose flight lands without incident because an
+inspector's finding held on a Friday, because a fire tender's
+pump was tested in March, because a report was published on
+schedule in a year nobody remembers. She will never know her
+benefactors — the reformers, the association men, the
+investigators, the mothers who refused to stop asking — and
+that is the point of the whole enterprise: safety's highest
+achievement is a debt nobody knows they owe. This book was
+written so that the debt, at least once, in at least one place,
+stands acknowledged in advance. The dead of Nigeria's aviation
+century paid into an account they never drew on. Fly safely,
+someday, stranger — and know that it was purchased, and by
+whom.
+
 ---
 
 # Appendix A — Timeline of Major Nigerian Aviation Accidents, 1969–2021
