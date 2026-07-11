@@ -237,6 +237,38 @@ accountability is unbuilt, external accountability can hold the
 structure while it grows — but only if some domestic actor has the
 authority and the motive to invite it in.
 
+## The throne and the timetable
+
+The Sultanate's own account of the succession that followed
+belongs briefly in this chapter, because it displays — from
+an institution nine centuries old — the discipline whose
+absence in the republic this book has been chronicling.
+
+Muhammadu Maccido's death left vacant, without warning, an
+office central to the religious peace of half the federation.
+The response of the Sokoto establishment was a study in
+institutional depth: the succession machinery — kingmakers,
+consultation, the state's formal instruments — produced,
+within days and without public crisis, the selection of
+Sa'adu Abubakar, a serving army officer then abroad, as the
+20th Sultan; the transition was accomplished with a
+sure-footedness that drew national comment precisely because
+the surrounding month was otherwise a portrait of systems
+failing. The comparison was not lost on Nigerian
+commentators then, and it should not be lost on this book's
+readers now: institutions that expect to exist in a century
+maintain succession machinery, documented custom, and
+reserves of legitimacy against exactly the unscheduled
+catastrophe; institutions that live appointment-to-
+appointment — the era's NCAA, its airlines, its ministries —
+meet the same catastrophe as an existential surprise. The
+caliphate, whatever else it is, is the oldest continuously
+functioning institution in Nigeria, and its performance
+that November was a masterclass in the book's central
+subject, delivered by the victim's own house. Depth is not
+a Western import. It was available locally, on display, at
+the funeral itself.
+
 ## The weather that morning
 
 West Africa's convective weather deserves its technical

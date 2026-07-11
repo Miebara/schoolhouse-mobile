@@ -258,6 +258,43 @@ grows, fleets age, personnel churn — and a safety system standing
 still is, relative to its risk base, slowly walking backward. The
 fragile peace is peace. It is also fragile, and it knows it.
 
+## The NSIB's first shelf
+
+Because this chapter has staked the reform's future on the
+new bureau's publication rate, the record of its opening
+years deserves its paragraph of specifics.
+
+The NSIB inherited the AIB's backlog and its laboratory, and
+its early output suggested an institution that understood its
+own probation: final reports issued on the accumulated
+general-aviation and airline-incident files at a tempo the
+AIB never sustained; preliminary statements published within
+weeks of new occurrences, in the international format, on a
+public website that works; the multimodal mandate exercised
+with first investigations into rail and marine occurrences —
+modest documents, but precedents, the first time in Nigerian
+history that a train derailment received the Annex 13
+treatment. The bureau's leadership cultivated, deliberately,
+the external-witness strategy of its aviation ancestors:
+cooperation agreements with the NTSB and European agencies,
+regional training ambitions (the bureau positioning itself
+as an African investigative hub, the recorder laboratory
+offered to neighbors), and public communication modeled on
+the agencies it aspires to join. The honest asterisks
+remain: tempo on the most sensitive files, the untested
+prosecutorial firewall, the recommendation register's
+follow-through, and the unbroached military perimeter. But
+the trajectory matters for the book's ledger: the
+investigative function — the one this history found most
+completely absent at Ejigbo, most tragically defeated at
+Lisa, most slowly vindicated at Iju-Ishaga — is, at this
+writing, the strongest-performing safety institution in the
+country. Whether it becomes the NTSB of Africa or merely
+its organogram will be decided by the constituency politics
+this Part has anatomized. What can be said now is that of
+all the institutions this book has audited, it is the only
+one whose current decade is its best.
+
 ## The engines, and the decision that outweighed them
 
 Dana 992's mechanical story and its human story intersect at a

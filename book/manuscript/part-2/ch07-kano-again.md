@@ -313,6 +313,36 @@ aviation a growth strategy rather than a patronage arena, which gave
 Jakarta's reformers what Abuja's never durably had: a constituency
 richer than the constituency for decay.
 
+## The month of May, 2002
+
+The crash's national context sharpened its reception in ways
+the retelling usually forgets: EAS 4226 fell into a country
+already bleeding. Nigeria in the first half of 2002 was
+absorbing the Lagos armoury explosion of January — the
+Ikeja cantonment blasts that killed over a thousand, many of
+them drowned in a canal while fleeing, in a catastrophe whose
+emergency-response failures prefigured everything Chapter 13
+would later systematize — along with recurrent communal
+violence and the general vertigo of a young democracy
+discovering the state's condition. The Kano crash thus landed
+not as an aviation event but as a data point in a national
+argument already raging: what, exactly, could this state
+protect? The May headlines set the armoury's canal beside
+Gwammaja's rubble and drew the connection the government
+least wanted drawn — that the two disasters, one military and
+one civil, shared an anatomy: hazardous systems sited among
+the poor, maintained by deferral, and answered by mourning.
+The political scientist reading 2002 finds there the first
+full articulation, in the Nigerian press, of the thesis this
+book has formalized: that disasters are audits, and the
+audit findings were converging from every sector at once.
+The aviation reform, when it finally came in 2006, drew on
+rhetorical capital accumulated across all of them — the
+armoury dead and the Gwammaja dead posthumously
+collaborating, as the constituencies of catastrophe
+eventually must, in the indictment that no single tragedy
+had been able to make stick.
+
 ## The physics of a hot afternoon
 
 The performance calculus that failed over Gwammaja deserves a

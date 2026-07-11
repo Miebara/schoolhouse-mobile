@@ -273,6 +273,40 @@ churches full, flags lowered, and — for the first time in this book's
 chronology — a public conversation about aviation conducted in the
 language of accountability rather than fate.
 
+## Two airlines, one December
+
+The corporate epilogues of 2005's two carriers complete the
+year's accounting, and their divergence from their reputations
+is itself a finding.
+
+Bellview — the respectable one, the IOSA-audited regional
+success — proved to have no second act: the brand was its
+asset, the crash consumed it, and the airline wound down
+within a few years, leaving its unanswered crash as its
+principal estate. Sosoliso — the smaller operator, whose name
+became synonymous with the year's deepest grief — ceased
+operations almost immediately; its principals later
+attempted returns to the industry under new banners, a
+pattern (the operator outliving the operation) that Nigerian
+corporate law made routine and that the re-certification era
+only partially closed. Neither company's internal story —
+the board discussions, the insurance positions, the safety
+investments made and skipped — ever entered the public
+record in the systematic way a mature system's litigation
+and dockets would have forced; both dissolved into the
+corporate registry's silence, taking their organizational
+lessons with them. The comparative point is worth one
+sentence: after every major American crash of the era, the
+operator's internal life was subpoenaed into the light —
+memos, budgets, audit trails — and the industry's collective
+knowledge of *how airlines actually fail* grew accordingly;
+Nigeria's industry buried its dead companies unautopsied,
+like its reports, and each new entrant began with the full
+inheritance of undiagnosed precedent. An economy's corporate
+graveyard is a curriculum, or it is nothing. Chapter 12
+tallied the headstones; the missing autopsies are why the
+tally had to be assembled, decades later, by a book.
+
 ## The boxes that would not speak
 
 Bellview 210's recorders failed the investigation, and the
