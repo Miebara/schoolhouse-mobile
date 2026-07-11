@@ -303,6 +303,44 @@ countries — the deferred bill would arrive, with 261 names on it, and
 Chapter 4 of this book will read it line by line. Institutions that do
 not digest their first warning are not granted gentler second ones.
 
+## The elephant
+
+The airline's emblem earned its place in this history's
+imagery, and its cultural career deserves the telling.
+
+The flying elephant — a winged pachyderm in profile, borne on
+the fins and timetables of Nigeria Airways' great years — was
+chosen from the same symbolic register as everything else in
+the founding era: the elephant as Africa's grandeur, its
+strength, its unignorable scale; the wings as the new age.
+Nigerians embraced it, teased it, and made it theirs — the
+national gift for affectionate irony finding, in an elephant
+asked to fly, a metaphor that improved with every decade of
+the airline's troubles. By the 1980s the joke had turned
+proverbial: elephants, market wits observed, do not fly, and
+the airline's cancellations, its debts, and finally its
+liquidation were narrated in the national press under
+elephant metaphors of increasing cruelty. The emblem's
+afterlife outlasted the fleet: it survives in the memorabilia
+market, in the nostalgia of the diaspora's older generation —
+for whom the elephant on a Heathrow-bound 707 remains a
+memory of national pride with no available replacement — and
+in the standing caution it offers every subsequent flag-
+carrier romantic. When the Nigeria Air livery was unveiled at
+Farnborough in 2018, commentators reached instinctively for
+the comparison: another proud symbol procured before the
+system beneath it, another animal asked to fly on
+announcement alone. Symbols are not the enemy in this
+history — nations need them, and the elephant, in its day,
+carried real meaning honorably earned by real crews and
+engineers. The enemy is the sequence. A symbol that
+crowns a working system compounds its worth; a symbol
+procured in place of one becomes, with time, the system's
+epitaph — and the elephant, which began as a boast, is
+remembered as a lesson. The lesson's fee ran to several
+hundred million dollars and one national institution. The
+wings, at least, were always honest: they were painted on.
+
 ## The routes as foreign policy
 
 One boom-era pattern deserves separate notice because its costs

@@ -18,6 +18,31 @@ and for the investigators who kept asking why.*
 
 ---
 
+# A Note on the Title
+
+*Broken Wings* names, first, the obvious: the wreckage this
+history is obliged to walk through. But wings, in the aviation
+of real life, are almost never what breaks — the metaphor's
+truth lies elsewhere, and the reader should carry it in. Wings
+are the most carefully engineered, most redundantly certified,
+most obsessively inspected structures human industry produces;
+they fail approximately never, and none of this book's seven
+disasters was a wing's fault. What breaks — what this book
+finds broken at Jeddah and Ejigbo and Lisa and Iju-Ishaga — is
+everything the wing depends on and cannot check for itself:
+the pressure in a tire, the truth of a load sheet, the honesty
+of a fuel farm, the funding of a radar, the courage of an
+inspector's signature, the publication of a report. The wing
+is the professional excellence Nigeria always possessed; the
+breaking was done around it, upstream of it, by arrangements
+that let everything the wing trusted go soft. And the title's
+second reading follows from the first: broken wings, unlike
+broken spells or broken nations, are a repairable category —
+mended, in workshops, by method, on schedules, every day. The
+title is not an elegy. It is a work order.
+
+---
+
 # Author's Note
 
 This is a book about airplanes that is not really about airplanes.
