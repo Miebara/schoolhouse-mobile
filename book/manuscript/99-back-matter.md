@@ -526,10 +526,16 @@ dates.
   deficiencies; ADC 086 lost over the lagoon (144 dead).
 - **1999** — Democracy restored; NCAA created on paper; NEMA
   established; ICAO USOAP begins auditing sovereign oversight.
+- **2001** — Nigeria Global, the first successor-carrier project
+  (Minister Kema Chikwe), announced; never operates; dissolves in
+  controversy.
 - **2002** — EAS 4226 falls into Kano (~148 dead); aircraft age
   limits enter policy.
 - **2003–04** — Nigeria Airways liquidated; Ghana Airways
-  parallel collapse; both flags grounded permanently.
+  parallel collapse; both flags grounded permanently; the
+  ex-workers' twenty-year entitlements saga begins.
+- **2005** — Virgin Nigeria (second successor project) begins
+  flying under Virgin Atlantic partnership.
 - **2005** — Bellview 210 (117) and Sosoliso 1145 (108); the
   Loyola parents organize; national aviation summit convened.
 - **2006** — ADC 053 (96 dead, the Sultan among them); Civil
@@ -543,7 +549,12 @@ dates.
   formally renounced.
 - **2012** — Dana 992 falls at Iju-Ishaga (153 aboard, plus
   people on the ground); the reformed system's first great test;
-  suspensions and restorations begin their oscillation.
+  suspensions and restorations begin their oscillation; Air
+  Nigeria (ex-Virgin Nigeria, the second successor project)
+  collapses.
+- **2017–18** — Federal government approves the ex-Nigeria
+  Airways workers' settlement (reported ≈ N45bn); tranche
+  payments begin 2018–19.
 - **2013** — Associated Airlines charter crash; Demuren removed;
   the plateau era opens.
 - **2016–17** — Naira crisis; Arik and Aero into AMCON care;

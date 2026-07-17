@@ -269,6 +269,17 @@ literature). The "three Fridays" vignettes are explicitly composite
 constructions from documented episodes and are labeled as such in
 the text.
 
+**Chapter 3 addendum — the ex-workers' saga ("The abandoned"):**
+staffing and retiree counts, union mortality claims, the 2017–18
+settlement approval (reported at roughly N45 billion) and the
+2018–19 tranche payments are drawn from the press record (Punch,
+Vanguard, ThisDay, Premium Times coverage of the ex-Nigeria Airways
+workers' associations) and official announcements. **Verify before
+print:** the approved settlement figure and its disbursement
+schedule against Federal Ministry of Finance/Debt Management records;
+union casualty claims labeled as claims; current status of residual
+payments.
+
 ## Chapters 15–17 (Part IV)
 
 Country cases: Ethiopian Airlines corporate histories and financial
@@ -281,8 +292,19 @@ transformation (Category 2 episode 2001, recovery, the
 training-reform record; Gladwell's *Outliers* account used
 critically); Ghana's post-flag-carrier trajectory (GCAA record);
 Angola's EU-list history; Rwanda's aviation-finance positioning.
-Nigeria Air: Farnborough 2018 announcement, procurement record,
-House committee findings (2023), suspension. SAATM/Yamoussoukro:
+The successor-airline genealogy (Chapter 16): Nigeria Global under
+Minister Kema Chikwe (announced c. 2001, never operational —
+**verify** exact announcement/collapse dates and the leasing
+controversy against 2001–03 press and National Assembly records);
+Virgin Nigeria (2004–05 launch, Virgin Atlantic exit, Nigerian
+Eagle/Air Nigeria rebranding, 2012 collapse — corporate press
+record); Nigeria Air under Minister Hadi Sirika (Farnborough 2018
+announcement, procurement record, AON litigation, Ethiopian
+partnership, May 2023 launch event, House committee findings 2023,
+suspension by the succeeding administration). Post-2023
+anti-corruption proceedings connected to the ministry's projects are
+reported but unresolved; the text takes no position — **verify**
+current case status before print and adjust phrasing to the outcome. SAATM/Yamoussoukro:
 AU/AFCAC documents and the liberalization economics literature.
 Market forecasts: Airbus GMF, Boeing CMO, UN WPP 2024. Climate:
 IPCC regional projections for West African convection; ICAO

@@ -45,6 +45,61 @@ simple test to every future Nigerian aviation announcement — does
 this spend attention on the system, or on its portrait? — and the
 rest of this chapter is confined, item by item, to the system.
 
+Nigeria Air was not the first attempt to conjure a successor to
+Nigeria Airways; it was the fourth, and the genealogy deserves
+setting out, because four failures on one template constitute a
+dataset.
+
+The first came even before the old airline was formally dead. Around
+2001, with Nigeria Airways in terminal decline, the aviation
+minister of the day, Kema Chikwe, championed the flotation of a new
+national carrier — announced under the name Nigeria Global — that
+was to rise alongside and then replace the dying flag carrier. The
+project was launched with ministerial fanfare, acquired the
+trappings of an airline (a name, designated aircraft arrangements,
+inaugural ambitions on the London route), and never became a
+functioning carrier: it dissolved within a couple of years amid
+controversy over its aircraft leasing arrangements and funding, its
+principal legacy a set of legislative queries and a précis of every
+error the later attempts would repeat — the successor airline
+willed into being from the ministry outward, symbol first, system
+never.
+
+The second attempt was the era's most serious: Virgin Nigeria,
+launched in 2004–05 as a joint venture between the federal
+government's designated investors and Virgin Atlantic, with the
+British carrier providing management, brand, and operational
+standards — a deliberate borrowing of external institutional
+quality on the Kenya Airways model. It flew, and for a period flew
+well. Then the arrangement met the Nigerian political economy:
+disputes with authorities over terminal allocation, friction over
+the brand and control, the exit of Virgin, rebranding as Nigerian
+Eagle and then Air Nigeria under new private ownership, and collapse
+into unpaid salaries and grounding by 2012. The lesson was Chapter
+15's in reverse: rented institutional quality works only while the
+landlord state honors the lease.
+
+The third, a succession of paper carriers and announcements through
+the 2010s, never reached the runway. And the fourth was Nigeria Air
+itself — the project of Hadi Sirika, minister of state and then
+minister of aviation across the Buhari years, and its most
+determined champion. Sirika unveiled the livery at Farnborough in
+2018, suspended the project within months, revived it, selected
+Ethiopian Airlines as strategic partner over the objections and
+litigation of the domestic carriers' association, and staged the
+May 2023 launch — a chartered Ethiopian aircraft in Nigeria Air
+paint, days before the administration left office — that the House
+of Representatives committee investigating the project would
+denounce in the harshest available parliamentary language. The
+succeeding administration suspended the project; the anti-corruption
+authorities subsequently brought charges connected to the ministry's
+projects, which were being contested in court as this book went to
+press and on which it takes no position. What the record already
+supports is the structural verdict: four attempts, four ministries,
+one method — the airline summoned from the ministry, capitalized in
+announcements, and delivered to a state that had still not performed
+the unglamorous repairs beneath it.
+
 The saga's details sharpen the diagnosis. The 2018 unveiling
 priced the venture's launch requirement in the hundreds of
 millions of dollars the treasury did not have, on a public-private

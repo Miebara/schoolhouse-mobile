@@ -416,6 +416,63 @@ merits, would buy aircraft, insurance, and credibility at prices marked
 up by the flag's default. Nations, like people, pay compound interest on
 their reputations.
 
+## The abandoned
+
+What happened to the airline's people after the end deserves more
+than the summary above, because the ex-workers' saga became one of
+the longest-running labor tragedies in Nigerian history — and one of
+the most instructive exhibits in this book's case about what state
+promises are worth.
+
+When the liquidation was announced in 2003–04, Nigeria Airways
+carried on its rolls thousands of serving staff and a longer tail of
+retirees — pilots, engineers, cabin crew, ground staff, clerks —
+many with two and three decades of service, whose severance,
+pensions, and accumulated entitlements now became claims against a
+carcass. The federal government, as owner and liquidator, repeatedly
+promised settlement. What followed instead was a generation of
+waiting. The ex-workers organized into associations and unions of
+the retrenched; they picketed the ministry and the National Assembly
+through successive administrations; their leaders aged into the role
+of professional petitioners, appearing before committee after
+committee with files of verified entitlements. The years passed. The
+associations began keeping a different ledger — the roll of members
+who had died waiting: former captains and licensed engineers among
+them, men and women who had operated one of Africa's larger airlines
+finishing their lives in penury, some famously reduced to menial
+work or public appeals for medical care. By the unions' counts,
+which no official source has contradicted with better data, the dead
+ran into the thousands before the state substantially paid.
+
+Movement came only in 2017–18, when the Buhari administration
+approved a settlement package — reported at roughly 45 billion naira
+— for verified ex-workers, and payments began in tranches in 2018
+and 2019, continuing intermittently since, with verification
+disputes, exclusion complaints, and residual claims still being
+litigated and paid well into the 2020s. The settlement, when it
+finally moved, was real; so was the arithmetic of the delay. Paid
+fifteen years late, in a currency that had lost most of its value
+across the interval, the entitlements delivered a fraction of the
+purchasing power the workers had earned — the difference quietly
+confiscated by time and inflation from the people least able to
+absorb it.
+
+The saga belongs in this chapter, not an epilogue, because its
+institutional lesson operated forward. Every serving professional in
+Nigerian aviation watched, for twenty years, what the state's
+gratitude to its aviation workforce looked like in practice — and
+priced the observation. The exodus of Chapter 3's engineers and
+captains was propelled not only by Gulf salaries but by exactly this
+demonstrated contingency: the knowledge that a Nigerian aviation
+career's terminal benefits were a lottery ticket against the
+treasury's attention span. Institutions run on deferred
+compensation — pensions are the purest form — and an employer who
+defaults on the deferred teaches every current employee to demand
+everything now or leave. The ex-workers of Nigeria Airways paid the
+price of the airline's death twice: once in their livelihoods, and
+once as the cautionary tale that helped drain their successors
+abroad.
+
 The comparative note here is Ghana, whose flag carrier ran the same
 trajectory to the same terminus — Ghana Airways, mismanaged and raided in
 close parallel, banned from US airspace in 2004 and liquidated the next
