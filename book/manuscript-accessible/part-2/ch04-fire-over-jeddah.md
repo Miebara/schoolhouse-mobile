@@ -338,6 +338,8 @@ tuition. A country that cannot connect its reforms to its
 catastrophes cannot teach its own history. Memory is not sentiment.
 It is the medium in which learning either persists or evaporates.
 
+![Three states each held a corner of Flight 2120. The centre was sovereign to nobody.](figures/fig-07-triangle.png)
+
 ## Reflection
 
 Every July the anniversary passes with little notice in the country

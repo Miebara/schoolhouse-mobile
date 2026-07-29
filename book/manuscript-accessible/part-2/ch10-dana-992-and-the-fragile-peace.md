@@ -260,6 +260,8 @@ jurisdictions, the audited or the negotiated, to entrust their
 families to. The record of their choosing is an irony this book
 leaves to its readers among them.
 
+![Cumulative deaths in the events recorded here. The interesting part of the curve is where it stops climbing.](figures/fig-02-cumulative.png)
+
 ## What a plateau looks like
 
 The honest ledger of Nigerian aviation after 2012 has two columns,

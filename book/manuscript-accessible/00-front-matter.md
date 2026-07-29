@@ -263,6 +263,8 @@ fly more in the next thirty years than in its whole previous
 history. Whether that future looks like Ethiopia or like 2005 is not
 fate. It is design.
 
+![Every mass casualty event in this book, and the line the Act of 2006 drew through them.](figures/fig-01-toll.png)
+
 ## The story in one page
 
 Aviation came to Nigeria as the tool of an empire. Independence

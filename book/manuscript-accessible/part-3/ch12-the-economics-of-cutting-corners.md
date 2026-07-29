@@ -211,6 +211,8 @@ of assumptions about metal fatigue as inadequate. So the requirement
 rises at exactly the moment when the capacity of the owner to meet
 it falls.
 
+![How the retired aircraft of the rich world found Lagos and Kano. Nothing in the sequence is illegal.](figures/fig-08-sorting.png)
+
 ## The bazaar
 
 Between the airline and the airframe stands the spares economy, and
@@ -249,6 +251,8 @@ Nigerian fleet was below the world average. Where a suspect
 component actually failed, nobody can say, and that is the point of
 laundered paper. It forecloses the question forever, including in
 the accident dockets.
+
+![What a heavy check is buying, and what deferring one actually spends.](figures/fig-06-pyramid.png)
 
 ## The insurance that did not inspect
 

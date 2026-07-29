@@ -83,6 +83,8 @@ teeth to forbid it. Its very conventionality made it, politically,
 the last straw. There was nothing left to blame but the system
 itself.
 
+![Why a microburst is a trap. The first thing it does is make the instruments look good.](figures/fig-05-microburst.png)
+
 ## The nine
 
 Nine people survived Flight 053, seated mostly in one region of the

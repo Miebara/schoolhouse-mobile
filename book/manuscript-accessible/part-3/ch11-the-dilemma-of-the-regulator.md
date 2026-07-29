@@ -1,4 +1,4 @@
-# PART THREE. THE PATTERNS
+# PART III. THE PATTERNS 1960 TO 2020
 
 # Chapter 11. The Dilemma of the Regulator
 

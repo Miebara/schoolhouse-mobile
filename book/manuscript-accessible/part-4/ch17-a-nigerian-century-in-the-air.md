@@ -112,6 +112,8 @@ at scale. And systems are what this history has been about.
 Ethiopia built one on a fraction of the endowment of Nigeria. The
 endowment waits.
 
+![Oversight is a coverage ratio. Hold the inspectorate flat while traffic grows and it erodes on its own.](figures/fig-03-coverage.png)
+
 ## The continental stage
 
 The aviation century of Nigeria will be played on a stage the

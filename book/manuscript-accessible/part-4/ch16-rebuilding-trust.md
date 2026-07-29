@@ -136,6 +136,8 @@ let the market own the metal.
 The applause line the politicians keep searching for is the one
 Chapter 10 identified. A decade without funerals.
 
+![Four attempts at a successor to Nigeria Airways, and the debt none of them settled.](figures/fig-09-successors.png)
+
 ## The people the state forgot
 
 There is one more piece of unfinished business from the first flag

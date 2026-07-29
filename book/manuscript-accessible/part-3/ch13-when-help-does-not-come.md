@@ -135,6 +135,8 @@ which flatters every emergency response the statistics touch and
 means the true cost of the second disaster in this book is
 understated in every number it contains.
 
+![Emergency response is a product and not a sum. Seven stages at eighty percent each leave twenty one.](figures/fig-04-chain.png)
+
 ## The archipelago
 
 Nigeria does not lack emergency institutions. It lacks an emergency
