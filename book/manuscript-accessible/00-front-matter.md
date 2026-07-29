@@ -35,7 +35,7 @@ There is a second meaning. Broken wings can be mended. They are
 mended every day, in workshops, by method, on schedules. This title
 is not a lament. It is a work order.
 
-# Author's Note
+# A Note from the Author
 
 This is a book about airplanes that is not really about airplanes.
 

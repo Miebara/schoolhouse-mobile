@@ -333,6 +333,78 @@ in Nigeria and left the decade profitable and expanding. The
 variable was never Africa, poverty, or turbulence. It was whether
 the state treated the airline as an institution or as a carcass.
 
+## The abandoned
+
+The liquidation of 2003 and 2004 closed a company and opened a
+wound that stayed open for the better part of twenty years, and no
+honest account of Nigerian aviation leaves it out.
+
+Nigeria Airways went down carrying roughly five thousand serving
+staff and a longer tail of retirees. Pilots. Licensed engineers.
+Cabin crew. Ticket clerks and loaders and cleaners. Many of them had
+given the airline two and three decades. Their severance, their
+pensions, and their accumulated entitlements became claims against
+the estate of a dead airline that had been owned, funded, and
+finally killed by the state that now had to settle them.
+
+The federal government promised settlement, and then promised it
+again. What followed was a generation of waiting.
+
+The former workers organized into associations of the retrenched.
+They picketed the ministry gates. They petitioned the National
+Assembly through four administrations. Their leaders grew old in the
+role and became professional petitioners, arriving at committee
+after committee with the same verified files and hearing the same
+sympathetic language. Journalists who covered aviation in those
+years came to know them by name.
+
+And the associations began keeping a second ledger beside the ledger
+of what they were owed. It recorded the members who had died
+waiting. Former captains who had flown wide bodies across the
+Atlantic finished their lives in penury. Licensed engineers made
+public appeals for money to treat illnesses. By the counts the
+unions kept, never contradicted by any better official figure, the
+dead ran into the thousands before the state substantially paid.
+
+Movement came at last in 2017 and 2018, when the government approved
+a settlement package reported at roughly forty five billion naira,
+with payments beginning in tranches from 2018 and with verification
+disputes and residual claims running on for years after that. The
+payment was real and it should be recorded as real.
+
+So should its arithmetic. Settled some fifteen years late, in a
+currency that had lost most of its value across the interval, the
+money delivered a fraction of the purchasing power the work had
+earned. The difference was quietly taken by time and inflation from
+the people least able to absorb the loss.
+
+That story belongs in a book about safety, and not as a footnote,
+because its effects ran forward into the safety of the system.
+
+Institutions run on deferred payment. A pension is the purest form
+of it. Work now, be paid later, on the strength of a promise the
+institution makes about its own future. An employer that defaults on
+the deferred teaches every serving employee a lesson, and the lesson
+is learned quickly and never unlearned. Take everything now, or
+leave.
+
+Every working professional in Nigerian aviation spent twenty years
+watching what the gratitude of the state to its aviation workforce
+looked like in practice, and priced what they saw. The exodus this
+chapter has already described was driven by Gulf salaries, and it
+was also driven by something the salary tables never showed. A
+Nigerian aviation career carried terminal benefits that were a
+lottery ticket drawn against the attention span of the treasury.
+
+Which produces a finding that no aviation authority anywhere lists
+among its safety indicators, and several of them should. A state
+that defaults on its aviation pensions is degrading its own future
+inspectorate.
+
+The former staff of Nigeria Airways paid for the death of the
+airline twice. Once in their livelihoods. And once again as the
+cautionary tale that helped drain their successors abroad.
+
 ## 1990
 
 Set the stage as the decade closes.
