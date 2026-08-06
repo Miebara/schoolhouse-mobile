@@ -6,11 +6,29 @@
 
 ---
 
-**A note to the reader who wants to skip the philosophy.** You may. Every chapter ends with a section called *What to do*, containing instructions of the kind you would give a nephew: which account to open, what it costs, what the minimum is, where to check. Every chapter also ends with a single line marked *If you remember one thing.* If you read only those two things you will still finish this book richer than you started it. But the instructions are downstream of the ideas, and the reason most Nigerians who receive good financial instructions do not follow them is that nobody explained what the instructions are *for*.
+**A note to the reader who wants to skip the philosophy.** You may. Every chapter ends with a section called *What to do*, containing instructions of the kind you would give a nephew: which account to open, what it costs, what the minimum is, where to check. The denser chapters also carry a short *In plain words* summary, and every chapter closes with a single line marked *If you remember one thing.* If you read only those three things you will still finish this book richer than you started it. But the instructions are downstream of the ideas, and the reason most Nigerians who receive good financial instructions do not follow them is that nobody explained what the instructions are *for*.
 
-**A note on numbers.** I give figures so you can see how arithmetic works, not so you can quote them. Rates move; regulations move; governments move. Where I say "verify at the source," I am not covering myself — I am telling you that a number in a book is a photograph of a moving animal.
+**A note on numbers.** I give figures so you can see how arithmetic works, not so you can quote them. Rates move; regulations move; governments move. Every changeable number in this book is listed in **Appendix D** with the place to verify it — and where the appendix disagrees with the body of the book, the appendix wins, because it tells you where to look rather than what to believe.
+
+**A note on the cases.** The people in the boxed cases are composites, assembled from patterns I have watched repeat. The names are invented, the sequences are not. They are there for pattern recognition, not inspiration.
 
 **A note on forecasts.** There are none in this book. Anyone who tells you where the naira will be in December is telling you about their confidence, not about the naira.
+
+---
+
+# What was true when this was written
+
+Ideas date more slowly than conditions, but a reader ten years from now deserves to know what the weather was like when the roof was designed. **This book was written in 2026.** At the time of writing:
+
+- Headline inflation stood in the low-to-mid twenties, having exceeded 30% in 2024 before the National Bureau of Statistics rebased the consumer price basket in early 2025.
+- The Monetary Policy Rate had been raised to 27.5% in late 2024, with easing beginning during 2025. **Money market yields were unusually generous in nominal terms and frequently negative in real terms.**
+- The naira traded in the region of ₦1,500 to the dollar, following the June 2023 unification and the further devaluation of early 2024.
+- Banks were completing a recapitalisation directed by the Central Bank in 2024, with a deadline in March 2026.
+- The **Investments and Securities Act 2025** was in force, criminalising Ponzi schemes explicitly and bringing digital assets under the Securities and Exchange Commission.
+- Nigeria's **tax reform legislation**, signed in 2025, took effect from January 2026 — introducing capital gains tax on larger share disposals, revising personal income tax bands, and raising the threshold below which individuals pay nothing.
+- The **National Health Insurance Authority Act 2022** had made health insurance mandatory, with implementation varying widely by state.
+
+**Which claims depend on those conditions and which do not.** The arithmetic of ruin, fat tails, skin in the game, iatrogenics, optionality and the barbell do not depend on any of it; they were true in 1986 and will be true in 2046. The specific instruments, thresholds and yields do depend on it entirely. **If you are reading this long after 2026, keep Books I, II and IV and re-verify every number in Books III and V** using Appendix D.
 
 ---
 
@@ -33,6 +51,7 @@ There are three ways in. Choose honestly, not aspirationally.
 | Appendix E | The worksheet that turns all of it into numbers |
 | Chapter 36 | Your first ninety days |
 | Chapter 34 | The twenty things not to do |
+| Appendix H | What to do in the thirty days after you close the book |
 
 Then, when something specific arises — land, dollars, shares, tax — read that chapter alone. Each is written to survive being read out of order.
 
@@ -51,6 +70,8 @@ Then, when something specific arises — land, dollars, shares, tax — read tha
 | You are drowning in loan-app debt | Chapter 11 |
 
 **One instruction that applies to all three paths.** Before you put money into anything at all — anything, including things recommended by people who love you — read **Chapter 10** and check the operator on the SEC register. That single habit will protect you more than the rest of this book combined.
+
+**Four pages to keep where you can reach them:** the worksheet (Appendix E), the annual review questions and the twenty rules (Appendix G), and the thirty-day sequence (Appendix H). Photograph them. A book on a shelf changes nothing; a page on your phone occasionally does.
 
 ---
 
@@ -116,9 +137,11 @@ Then, when something specific arises — land, dollars, shares, tax — read tha
 **Appendix A** — Aphorisms for the wall
 **Appendix B** — A little mathematics, painlessly
 **Appendix C** — Their word, and what it means
-**Appendix D** — Where to check things
+**Appendix D** — Where to check things, and the numbers that move
 **Appendix E** — The personal barbell worksheet
 **Appendix F** — Finding money you already own
+**Appendix G** — The pages to keep: annual review, the twenty rules, regime shifts
+**Appendix H** — After the book: thirty days, a small circle, and when to pay for help
 # Prologue — The Market Woman and the Economist
 
 I want to introduce you to two people. You have met them both.
@@ -268,6 +291,8 @@ Most Nigerian financial disasters I have examined come from mixing category one 
 4. **Find your single largest concentration of value and insure it or split it.** For a trader that is the stock in one shop; for a salaried person it is usually the house; for a business owner it is the business itself. You do not need to predict the fire. You need to not lose everything in it.
 
 
+**In plain words:** Losing some money and losing everything are not the same kind of event. If you lose everything, there is no next round — you cannot try again. So the question is never only how much you can make. It is: if this fails completely, do I still have food, rent and school fees? Money you cannot afford to lose must be kept where it cannot be lost, no matter how good the offer sounds.
+
 **If you remember one thing:** a positive average is no protection when one loss ends the game — never risk what you cannot lose entirely, however good the odds appear.
 ## 3. "God forbid" is a probability statement
 
@@ -323,6 +348,15 @@ The second — call it the **Trader World** — is where a single event can be l
 
 **Almost everything that matters financially lives in the Trader World.** And almost every statistical tool people use, including in banks and ministries, was designed for the Salary World. This is not a small technical quibble. It is why the models fail exactly when you need them.
 
+**The whole distinction, in one table:**
+
+| Take a room of 1,000 Nigerians | Now add one extreme case | What happens to the average |
+|---|---|---|
+| **Height.** Average about 1.7 metres | The tallest man in the country | It moves by a fraction of a millimetre. Nothing happens. No single person can dominate a room's height |
+| **Net worth.** Say an average of ₦2 million | One Dangote | The average rises into the billions. **It now describes nobody in the room** — not the 1,000, and not him |
+
+**Height is the Salary World. Net worth is the Trader World.** Ask yourself, of any quantity you are planning around, which row it belongs to. Salaries, rainfall, daily customers, calories — top row. Wealth, market moves, devaluations, business outcomes, floods, policy changes — bottom row. **Everything financial in your life is the bottom row, and every intuition you were taught is from the top.**
+
 ---
 
 **Apply it to the naira.**
@@ -363,6 +397,8 @@ You cannot know what will happen. You can absolutely choose which of those two s
 4. **Size your emergency fund from the jump, not the average.** Six months is the usual advice because it covers the usual case. Ask instead what your household needs to survive the *unusual* case — a devaluation plus a job loss in the same quarter, which is not a hypothetical pairing but a description of 2016, 2020 and 2023 for a great many Nigerian families.
 
 
+**In plain words:** Some things change slowly, by small amounts. Other things stay the same for years and then change enormously in one week. The naira, fuel prices, interest rates and government policy are the second kind. So do not plan by saying “it usually moves about 20% a year.” Plan by asking: what if ten years of change arrives next month, and would my family still be alright?
+
 **If you remember one thing:** do not plan on averages; plan on a decade's worth of movement arriving in a single quarter, and know which way a shock cuts for you.
 ## 5. Inflation is a silent thief with a government job
 
@@ -401,6 +437,8 @@ I note this because I have spent a chapter telling you never to borrow, and inte
 1. **Compare every return to two numbers**, always, before you have any feeling about it: **inflation**, and **what Treasury bills pay**. A return below the T-bill rate with more risk than a T-bill is not an investment; it is a donation. A return below inflation is a managed loss.
 2. **Get your idle money out of current accounts** into a money market fund (Chapter 14) — same-week access, and it earns something. This single move is worth more to most households than any stock they will ever pick.
 3. **Do not confuse a big number with a good outcome.** "20% per annum" is excellent, mediocre or insulting depending entirely on where inflation and T-bills are that year. Ask the follow-up question. Always ask the follow-up question.
+
+**In plain words:** Prices rise every year. If your money earns 14% while prices rise 22%, you have less than you started with, even though the number in your account is bigger. Always subtract inflation before you feel pleased about a return. And money left in a current account earning nothing is losing value quietly, every single month.
 
 **If you remember one thing:** compare every return to inflation and to Treasury bills before you allow yourself to feel anything about it.
 # Book II — Fragility: how things break
@@ -487,6 +525,16 @@ You will recognise the pattern in the 2008–09 banking crisis. Bank executives 
 - Do not confuse a licence with an alignment of interests. A licensed adviser paid by commission is legally regulated and financially motivated to sell you the product with the highest commission. Both things are true simultaneously.
 - Prefer **fee-based advice** (you pay, they advise) to **commission-based sales** (a product pays them, they "advise"). Ask directly: *"How are you paid, and does that change depending on what I choose?"* Watch the face, not just the answer.
 
+**One more form of skin, and it runs the other way.**
+
+There is a version of this problem in which *you* are the one without skin properly accounted for — where you take on other people's downside without noticing, because the transaction is social rather than financial.
+
+Every guarantee you sign. Every "just put your name on it." Every business you lend your reputation to but do not control. Every relative you have implicitly promised to support if their venture fails. **In each of these you have written an insurance policy, collected no premium, and set no limit on the claim.**
+
+The Nigerian version is nearly invisible because it is transacted in obligation rather than in naira. You attend the launch. You allow your name in the deck. You "advise" the young man, and eight months later his investors have your number. Nothing was signed; you are nonetheless exposed.
+
+> Before agreeing to anything, ask not only what happens to the other person if it fails, but what happens to *you* — and whether anyone has priced the difference. Usually nobody has, which means you are carrying it for free.
+
 **What to do.**
 
 1. **Ask every adviser, in these words: "What happens to you if this loses money?"** The question is not rude. Discomfort in response is itself the answer.
@@ -536,6 +584,8 @@ Studies in every market where the data exists find the same thing: **the investo
 4. **Distrust anyone who promises to eliminate volatility** rather than manage exposure to ruin. Smoothness is often manufactured, and manufactured smoothness is where the pressure accumulates. "Guaranteed monthly returns" is the retail version of a currency peg — and it ends the same way, only faster.
 
 
+**In plain words:** Trying to prevent every small problem often creates one very large problem later. This is true of governments holding a price down, and it is true of you constantly buying and selling. Every time you act, you pay a cost. Most of the time, the right thing to do with your investments is nothing. Check once a year, not once a day.
+
 **If you remember one thing:** most financial activity is scratching — set one annual review date and do nothing between reviews except contribute.
 ## 9. The turkey in Ikeja
 
@@ -577,6 +627,8 @@ For the person holding a diversified, unleveraged portfolio through a bad decade
 2. **Never let a winning position grow into a dominant one by neglect.** Trim it back to target at your annual review. This will feel like punishing your best decision. That feeling is the fee you pay for not being a turkey.
 3. **Ask what would have to be true for this to end**, and then ask whether you would see it coming. Usually you would not. Size the position accordingly.
 
+
+**In plain words:** Something that has worked for a long time is not automatically safe. Sometimes it has worked for a long time because trouble has been quietly building up. So when an investment has been paying well for years, that is a reason to examine it carefully — not a reason to put in more money.
 
 **If you remember one thing:** a long unbroken record of good outcomes is a reason to inspect the structure, never a reason to increase the position.
 ## 10. A Ponzi is not a scheme, it is a function
@@ -627,13 +679,63 @@ And the person who joined early *did* make money. Your cousin is not lying. He i
 
 **And the tenth, which is really the first:** does the pitch make you feel you are being let into something, that the ordinary rules are suspended for this one, and that people who ask questions are haters? **That feeling is the product.** Everything else is packaging.
 
+---
+
+**The new vectors.** The function in this chapter has not changed since Ponzi. Only the delivery has, and it has changed fast enough that the warnings people memorised five years ago no longer fire. Here is the current field.
+
+**1. The WhatsApp or Telegram "investment group."** You are added by someone you know. There are three hundred members. Screenshots of profits appear daily. A "coach" posts analysis. Members thank him publicly, in identical phrasing.
+
+*What is actually happening:* a large share of the "members" are the operator. Screenshots are trivially fabricated. The genuine members who post gratitude are early participants being paid with later deposits, exactly as in the main chapter — **the group is not evidence of the scheme's performance, it is the scheme's marketing department, staffed partly by victims.**
+
+*The tell:* you cannot see the losses. In any real trading community, someone loses in public. In these groups, nobody ever does.
+
+**2. Signal channels and "mentorship."** A subscription for trade signals, or a course. Ask the single question from Chapter 7: **is this person rich from trading, or rich from teaching?** A verifiable answer would require audited statements, which are never produced, because the revenue is the subscription. A man with a genuine edge does not sell it for ₦20,000 a month; he uses it.
+
+**3. Influencer and celebrity endorsement.** Already flagged; here is the sharper version. Ask four questions: *Was this a paid promotion — and is it disclosed?* *Does this person have money in it, in a size that matters to them?* *Are they an expert in anything relevant, or merely famous?* *If it collapses, do they lose anything at all?* The answers are, almost invariably: yes, no, no, no. **An endorsement is a purchased good, funded by your deposit, and its existence tells you the operator preferred paying for trust to earning it.**
+
+**4. Cloned apps and fake certificates.** The current generation: an application store listing that mimics a real broker or asset manager, differing by one character; a PDF "SEC certificate" with a real registration number copied from a real firm; a website whose domain is the genuine institution's name with a hyphen inserted.
+
+*The defence is procedural, not perceptual — you will not spot a good forgery:* **navigate to the institution yourself.** Type the regulator's address, find the operator on the register, and use the contact details **from the register**, never from the document or message you were sent. Verify the registration number against the register rather than against the certificate. Call the switchboard number published by the institution, not the number on the letter.
+
+**5. Deepfaked voices and video.** A voice note from a familiar voice endorsing an opportunity, or asking you to send money urgently. Synthetic audio of a specific person is now cheap and requires only a short sample, which most Nigerians have posted publicly.
+
+*The defence is old and it works:* **a second channel and a shared fact.** Call the person back on a number you already had. Ask something the internet does not know. **And apply the rule from the main chapter: no financial decision within two weeks, and no transfer on the strength of urgency, ever** — because urgency is the one ingredient every version of this attack requires.
+
+**6. The corrupted thrift or cooperative.** The most painful, because the form is legitimate (Chapter 24). Somebody has inserted a single point of failure into a structure that never had one: one person now holds everyone's contributions; there are no audited accounts; the "cooperative" is not registered with the state; and it has begun promising a **fixed monthly return** rather than distributing a surplus.
+
+*The tell:* a genuine cooperative distributes what it earned, so the number varies. **Anything promising a fixed monthly percentage has stopped being a cooperative, whatever the constitution says on the wall.**
+
+---
+
+**The verification habit, in one line:** *never verify anything using the channel that contacted you.* Certificate, link, phone number, app, voice — all of them come from whoever wants your money. Go to the source yourself, every time (Appendix D).
+
 **If you are already inside:** stop contributing today; withdraw whatever you can immediately, even at a loss; do not "reinvest to reach the next tier"; do not recruit anyone else, both because it harms them and because it may make you legally liable; and report to the SEC and EFCC. The Investments and Securities Act 2025 criminalises Ponzi schemes explicitly, with prison terms, and brought digital assets under SEC oversight. This is progress. It is also, from your position, mostly irrelevant: **prosecution happens after the money is gone.** The law punishes; it does not restore.
+
+### Case: The group that paid for fourteen months
+
+*Composite; names invented.*
+
+**Ifeoma**, 34, a hospital administrator in Enugu, was added to a Telegram group by a colleague she had known for nine years. The platform advertised 8% monthly from "algorithmic arbitrage." It had an app with a dashboard, a Victoria Island address, a CAC certificate displayed on the website, and a professionally produced launch video featuring a comedian she recognised.
+
+She started with ₦100,000 in month one and withdrew ₦8,000 in month two, successfully, within four hours. That withdrawal — small, fast, real — was the most expensive thing that ever happened to her, because it converted her from a sceptic into a witness.
+
+By month six she had ₦1,200,000 in, including a cooperative loan. By month nine she had introduced her sister, two colleagues and her church's welfare group. She was not paid to introduce them; she believed it.
+
+In month fourteen the dashboard still showed her balance rising. Withdrawals began taking "48 hours for verification," then a week. The group's admin explained a "system upgrade," then a "regulatory review." Members who asked were removed. In month fifteen the app stopped loading and the Telegram group was deleted.
+
+**What actually separated Ifeoma from a version of herself who did not lose the money:** not intelligence, and not scepticism — she was a careful person. Three procedural things.
+
+She never checked the operator's name on the SEC register herself, because the CAC certificate looked official and her colleague's word felt like better evidence than a website. She treated the fourteen-month payment record as data about the future, when it was the mechanism (Chapter 9). And she never asked where 8% monthly comes from — which, at roughly 150% a year, would have required a business more profitable than any listed company in Nigeria.
+
+The money is gone. The harder loss is that her sister and four church members lost theirs on her recommendation, and she now avoids the church.
 
 **What to do.**
 
 1. **Bookmark the SEC register today**, before you need it. Check every operator, every time, including ones your relatives recommend. *Especially* ones your relatives recommend, since that is the channel these things travel through.
 2. **Adopt one personal rule: no investment on a deadline.** If it cannot survive two weeks of your consideration, it was not an investment.
 3. **When you decline, decline quietly.** You will be mocked for two years and thanked in the third. Neither reaction should affect the decision.
+
+**In plain words:** If someone promises 30% every month, that money has to come from somewhere. It comes from new people joining. When new people stop joining, it stops paying. This is not a guess, it is arithmetic, and it ends the same way every time. Before you put money anywhere, check the company name yourself on the SEC website. Do not trust a certificate, a screenshot, or the word of someone who has already been paid.
 
 **If you remember one thing:** the collapse is deducible from the promised rate alone, before you know anything about the people — and check the SEC register yourself, especially when the introduction came from someone who loves you.
 ## 11. The debt that eats while you sleep
@@ -703,6 +805,24 @@ So the **NHF mortgage** at a concessionary rate (Chapter 21), or a workplace **c
 
 Pass all four and the debt may be the cheapest capital you will ever touch. Fail any one and return to the top of this chapter.
 
+### Case: Five apps in nineteen weeks
+
+*Composite; names invented.*
+
+**Tunde**, 29, a secondary school teacher in Ibadan on ₦140,000 a month, needed ₦45,000 in March for his mother's transport and medication. He borrowed from an app: ₦45,000, repay ₦52,000 in thirty days. He judged it reasonable — ₦7,000 for a month.
+
+April's salary arrived late. He borrowed from a second app to clear the first. By June he was running four apps simultaneously, each repayment funded by a new disbursement from another, which is the point at which the arithmetic stops being about ₦45,000 and starts being about the rate.
+
+In week fourteen he defaulted on one. The app messaged forty-one contacts from his phone — including his principal and two parents of students — describing him as a fraudster. He learned that he had granted contact permission at installation, in a screen he had not read.
+
+By week nineteen he owed about ₦310,000 against an original ₦45,000, had been asked to explain himself at work, and had stopped answering his phone.
+
+**What ended it** was not a windfall. It was three unglamorous moves, in order. He revoked contact and photo permissions on every app on the phone, which stopped the harassment vector though not the debt. He went to his school's cooperative, which he had never joined in six years of employment, and borrowed at a rate in the low teens repayable by salary deduction — clearing all five apps at once. And he documented the harassment and filed a complaint with the FCCPC.
+
+He spent eleven months repaying the cooperative. He had, during the whole nineteen weeks, ₦0 invested anywhere, and could not have benefited from any chapter of this book.
+
+**The pattern to recognise:** the disaster was not the first loan. **It was the second loan taken to pay the first**, and it took eleven days to make. The cooperative that eventually saved him had been available to him the entire time, at a twentieth of the cost, and he had never walked into the office.
+
 **What to do.**
 
 1. **Write every debt on one page today** — lender, balance, rate, monthly payment. Convert every "per month" rate to an annual one by compounding it, and look at the result.
@@ -712,6 +832,8 @@ Pass all four and the debt may be the cheapest capital you will ever touch. Fail
 
 **If you remember one thing:** a debt costing more than 25% a year is not a financial problem to be managed alongside your investing — it is a fire, and you do not do anything else while your house is burning.
 
+
+**In plain words:** A loan app charging 15% a month is charging over 400% a year, because the interest keeps adding onto itself. No honest investment can beat that. So while you owe money like that, saving and investing make no sense — clear it first, starting with the most expensive. And never take a second loan to pay the first one. That is how a small debt becomes a large one.
 ## 12. Water, wire and road: the risks that are physical
 
 Financial risk is usually discussed as though money existed in an abstraction. In Nigeria it does not. Your assets sit in specific places, and those places flood, lose power, erode, and occasionally become unreachable. This chapter is about the risks you can see with your eyes, which are the ones the models ignore.
@@ -929,6 +1051,8 @@ This is why frequent trading destroys ordinary investors, and it does so quietly
 3. **Read every contract note.** Not for errors, though you will occasionally find them. For education: the toll is abstract until you see it deducted from your own money.
 
 
+**In plain words:** Every time you buy or sell shares you pay fees — roughly two or three kobo out of every naira, each way. If you buy and sell often, those fees eat your money even when your decisions are correct. Decide how many times you will trade in a year and keep to it. Doing less is usually both cheaper and better.
+
 **If you remember one thing:** every round trip costs roughly 2%–3%, so decide your number of trades a year in advance and treat exceeding it as a failure of discipline.
 ## 17. Reading the numbers like a suspicious person
 
@@ -979,6 +1103,8 @@ The investor who extrapolates a one-off revaluation gain into next year's expect
 2. **Read one full annual report** using the thirty-minute method. Once you have done one, the rest are variations.
 3. **If the accounts require you to be optimistic to make sense, do not buy.** There is no shortage of businesses that make sense pessimistically.
 
+
+**In plain words:** A company profit can look large for reasons that will not repeat, especially when the naira falls. Before buying shares, ask how much of the profit came from actually selling goods and how much came from the exchange rate. Then look at the cash statement, not only the profit. Profit is an opinion; cash is a fact.
 
 **If you remember one thing:** ask how much of the profit was a foreign-exchange revaluation gain, then find the cash flow statement — profit is an opinion, cash is a fact.
 ## 18. Renting a brain: funds, ETFs, and the index that is four companies
@@ -1190,6 +1316,22 @@ Therefore:
 
 **Short-lets**, since everyone asks: gross yields can be several times annual rent, and it is a business, not a passive investment — furnishing, power (a Nigerian short-let without reliable power is destroyed in reviews), water, internet, cleaning, security, platform commission, and a manager. **Model 50%–60% occupancy, not 90%.** And check the estate rules and local regulations: many estates prohibit short-lets outright, which is a risk to the entire business model of a single property.
 
+### Case: The plot that could not be sold
+
+*Composite; names invented.*
+
+In 2014 **the Adeyemis** bought two plots on the Lagos–Ibadan corridor for ₦1,800,000 from a family that produced a receipt, a hand-drawn survey and a "deed" signed by three men described as the family heads. The price was roughly a third of what an estate two kilometres away was charging, which they took as evidence of a good relationship rather than a warning.
+
+They used the seller's lawyer, because he was there and it was cheaper. They did not conduct a registry search. They did not chart the survey at the Surveyor-General's office. They fenced one plot; the other stayed bare.
+
+For eight years the paper value rose. At family gatherings the land was mentioned. It was, in the household's own accounting, the family's principal asset.
+
+In 2022 they tried to sell, to fund their daughter's postgraduate course abroad. Three things emerged in six weeks. A branch of the seller's family had not consented and had sold the same parcel to a second buyer in 2017. Part of one plot fell within a state acquisition that a charting in 2014 would have revealed for a small fee. And having no registrable title, they had never obtained Governor's Consent, so they had nothing to assign even if a buyer had been willing.
+
+The daughter deferred a year, then did not go. Litigation was still unresolved four years later. The neighbouring estate's plots, bought at three times the price with a C of O and perfected title, had been sold twice in the same period.
+
+**What actually separated the Adeyemis from the family two kilometres away:** roughly ₦250,000 and one afternoon, in 2014 — an independent lawyer, a registry search and a charting. **They did not buy the wrong land. They bought land they never legally owned**, and the eight years of appreciation were appreciation of somebody else's asset.
+
 **What to do.**
 
 1. **Never buy land without an independent lawyer, a registry search and a charting.** The three together cost a small fraction of the purchase and remove most of the ways this goes wrong.
@@ -1248,12 +1390,34 @@ By year end the rate was around ₦900. In dollars: he started with about **$21,
 3. **Do not chase the rate.** Buying in a panic at the top of a spike and selling in frustration on the retracement is how people lose money while being right about the decade.
 4. **Never earn naira and owe dollars.** That mismatch destroyed real Nigerian companies in 2023–24 and it will do it again.
 
+### Case: Two savings accounts, June 2023
+
+*Composite; names invented.*
+
+Both men were engineers at the same firm in Port Harcourt. Both had saved for four years toward a master's degree in the United Kingdom, and both intended to start in September 2024. Both had, in January 2023, almost exactly ₦18,000,000.
+
+**Chidi** kept everything in a naira money market fund. It was the responsible choice by every measure he had been taught: SEC-registered, liquid, earning about 14% that year. He had considered a domiciliary account and concluded that a 4% dollar return was inferior to 14%, which is arithmetic, and which is the error.
+
+**Segun** had opened a domiciliary account in 2021 for no strategic reason — a client had once paid him in dollars — and had drifted into converting roughly half of each year's savings, holding about $19,000 and ₦9,000,000 by January 2023.
+
+At the January 2023 rate of about ₦460, Chidi's ₦18,000,000 was about $39,000. The programme, with living costs, needed about $45,000.
+
+By September 2024 Chidi's fund had grown to roughly ₦23,000,000. In naira, he had never had more. Converted at the prevailing rate, it was under $16,000. **He had earned a positive return every single month and lost about 60% of the thing he was actually saving for.** He did not go.
+
+Segun's dollars were still $19,000; his naira half had grown to about ₦11,500,000, worth roughly $7,500. He had about $26,500 — also short, but recoverable with a year's additional saving and a partial scholarship. He started in 2025.
+
+**What separated them was not skill, information or timing.** Neither predicted anything; Segun's domiciliary account was an accident he never rationalised. What separated them is that one man's savings were denominated in the currency of his goal and the other's were not.
+
+**The lesson is not "buy dollars."** It is the rule in this chapter: **match the currency to the liability.** Chidi's obligation was in pounds and dollars; every naira of yield he earned was compensation for a risk he had not realised he was taking.
+
 **What to do.**
 
 1. **Open a domiciliary account before you have dollars.** The account takes days.
 2. **Write down your target hard-currency percentage** and the date you will rebalance to it. Unwritten targets drift.
 3. **Convert every naira return into dollars once a year**, just to see it. The exercise is unpleasant and it is the most clarifying thing in this book.
 
+
+**In plain words:** Some of what you will buy in future is priced in dollars — school abroad, medicine, phones, machines, spare parts. If all your savings are in naira and the naira falls, you can earn a good return and still afford less than before. Keep some savings in the currency you will actually spend. A small dollar return is not worse than a large naira return; they are simply different currencies.
 
 **If you remember one thing:** match currency to what you will actually spend it on — a 5% dollar return and a 15% naira return are not comparable numbers, they are different units.
 ## 23. Gold, crypto, and other things that do not feed you
@@ -1406,6 +1570,26 @@ The rule is the same as everywhere in this book: **many small, none fatal, drop 
 
 **And the trap specific to trading:** reinvesting one hundred percent of profit into stock, forever. It feels like growth and it is concentration. **Some money must leave the business every single month** — into the pension, into the fund, into the bond. The trader who has ₦8 million of goods and ₦0 outside them is one fire, one seizure, one illness away from starting again at fifty.
 
+### Case: Eleven years of a ₦3,000 ajo
+
+*Composite; names invented.*
+
+**Mama Bisi** sells provisions in a market in Abeokuta. She has never had an employer. In 2014 she was contributing ₦3,000 weekly to an ajo of twelve women, collecting about ₦36,000 every twelve weeks, which reliably disappeared into stock, school fees and family obligations within a fortnight.
+
+Three changes, over eleven years, none of them dramatic.
+
+**In 2015 she opened a second bank account** and began paying every day's takings into it, drawing a fixed ₦25,000 weekly for the household on Sundays. Within four months she knew, for the first time in nineteen years of trading, whether the shop was profitable. It was, less than she had assumed.
+
+**In 2017 she stopped spending the ajo pot.** She kept the ajo — the women expected her, and that expectation was doing work no app could — but each collection went the same day into a money market fund a neighbour's daughter had helped her open. She was not persuaded by the yield; she was persuaded that the money took four days to come back, which meant relatives could not reach it on a Tuesday.
+
+**In 2019 she opened a Micro Pension account** and began paying in ₦2,000 after good market days, irregularly, some months not at all.
+
+She also, in 2018, spent ₦40,000 stocking a product she had not sold before — children's school socks — on a hunch about a nearby school's uniform policy. It failed. She tried three other lines over the following years; one, phone accessories, became about a third of her revenue by 2023.
+
+By 2025 she had a money market balance of about ₦4.1 million, a pension account, a shop, and a daughter in her second year at university without a loan. She could not tell you what a money market fund invests in.
+
+**What she did that most traders do not:** she separated the money, she moved the pot the day it arrived, she made money leave the business every month, and she ran four small experiments where one worked. **None of it required a forecast, and none of it required more income than she already had.**
+
 **What to do.**
 
 1. **Open a Micro Pension RSA this month.** BVN, NIN, ID, photograph. Contribute ₦5,000 to begin.
@@ -1480,6 +1664,8 @@ Under a capital gains regime, you compute the gain as proceeds minus **cost of a
 4. **Maximise the pension before hunting for cleverer returns.** The tax treatment is a certain advantage; the cleverer return is a hoped-for one.
 
 **If you remember one thing:** in a high-inflation country you are taxed on gains you did not really make, which means the instruments that are tax-advantaged are worth far more than they look — and the records that prove what you paid are worth more than most of your research.
+
+**In plain words:** Tax takes a share when you gain and gives nothing back when you lose. And in Nigeria you are taxed on the naira amount of the gain, even if prices rose faster and you are really poorer. So keep every receipt showing what you paid for something — without it you can be taxed on the whole selling price. And use the pension, because it is taxed less than anything else available to you.
 # Book IV — The barbell: what to actually do
 
 ## 27. The Lagos barbell
@@ -1495,6 +1681,17 @@ Everything so far has been preparation for this chapter. If you read one, read t
 **The alternative: the barbell.** Weight at both ends, nothing in the middle.
 
 > Put the large majority of your money in things that are genuinely, boringly safe — where you know exactly what can go wrong. Put a small minority in things that can multiply many times over. Own almost nothing in between.
+
+**The shape, drawn:**
+
+| THE SAFE END — about 85% | THE MIDDLE — 0% | THE CONVEX END — about 15% |
+|---|---|---|
+| Treasury bills, FGN and savings bonds, money market funds, the hard-currency sleeve | **Nothing lives here** | Equities and funds, a small business, a skill, a stake in something that might be large |
+| **Purpose:** cannot be reached by any single event | **Purpose:** none. This is where risk hides, because "probably fine" cannot be measured | **Purpose:** each position may go to zero; one may multiply many times |
+| **Worst case:** you earn less than inflation | **Worst case:** unknown, which is the objection | **Worst case:** the whole 15%, and your life does not change |
+| **Best case:** the prevailing rate | **Best case:** a middling return for an unmeasured risk | **Best case:** uncapped |
+
+*Read the middle column twice. The argument against it is not that it is too risky — it is that its risk cannot be seen, so you cannot size it.*
 
 **For a Nigerian, concretely:**
 
@@ -1518,11 +1715,50 @@ Everything so far has been preparation for this chapter. If you read one, read t
 2. **The aggressive end must be genuinely small and genuinely disposable.** The commonest failure is a barbell that gradually becomes 60/40 because the exciting end grew and the owner never trimmed. **Rebalance annually**, and understand you will be trimming your best-performing asset. That discomfort is the price of the structure.
 3. **Never borrow at either end.** Debt collapses the barbell into a single fragile position, because the repayment is fixed and your assets are not.
 
+**Permission to change the percentages — and the rules that stop it becoming drift.**
+
+85/15 is not sacred. The correct split moves with your life, and refusing to adjust it is its own error. **What must not move is the shape:** a floor that nothing can breach, and a capped end that can multiply, with as little as possible in between.
+
+**Legitimate reasons to shift toward the safe end:** a new dependant; a mortgage or any fixed obligation you must service; approaching retirement; an income that has become less reliable; a health event in the household; being within three years of a large known expense.
+
+**Legitimate reasons to shift toward the convex end:** a second income established; dependants become independent; a step change in earnings; the floor already exceeds twelve months of expenses; you are young and have just discovered you can hold a 40% fall without acting.
+
+**Illegitimate reasons, all of which are the same reason wearing different clothes:** the convex end did well last year; a friend's position tripled; rates on the safe end fell and you want "better yield"; you read something persuasive; you feel you are behind.
+
+**Four rules that keep an adjustment from becoming a drift:**
+
+1. **Change it once a year, at the review (Appendix G), never in the week you feel it.**
+2. **Move by no more than 10 percentage points in one year.** Anything larger is a reaction, not a plan.
+3. **Write the reason on the worksheet, and date it.** In a year you will see whether the reason was a fact about your life or a fact about the news.
+4. **The safe end never goes below about 60%, and the convex end never above about 25%, for anyone with dependants.** Beyond those bounds you no longer have a barbell; you have a concentrated position with a small hedge.
+
+> Drift is what happens when a barbell is never rebalanced and never re-decided: the winning end quietly grows until the structure is gone and nobody chose it.
+
+### Case: Two colleagues, five years
+
+*Composite; names invented.*
+
+Both were senior managers at the same company in Lagos, earning within ₦200,000 of each other, both starting 2019 with about ₦12,000,000 and no debt.
+
+**Kunle** concentrated. He bought two plots in a corridor he believed in, using ₦9,000,000 and a ₦6,000,000 bank loan, and put the remaining ₦3,000,000 into bank shares bought partly on a margin facility his broker offered. His reasoning was not stupid: land in that corridor had risen for six years, bank shares were visibly cheap, and borrowing at 22% to buy an asset rising at 35% is profitable arithmetic while it holds.
+
+**Yemi** ran a barbell without ever using the word. About ₦9,500,000 across a money market fund, treasury bills and — after 2021 — a dollar fund. About ₦2,500,000 across an equity ETF, a friend's logistics venture, and ₦300,000 on a data analytics course.
+
+**2020** arrived. Kunle's shares fell; the margin was called at the bottom and the position was closed at a loss he had no ability to prevent. **2023–24:** the loan repayment continued through the devaluation while the plots became difficult to sell at any price, because the buyers in that corridor had also become poorer. He sold one plot in 2024 for less, in dollar terms, than he had paid.
+
+Yemi's equity position spent 2020 down 30% and he did not notice much, because his floor covered fourteen months. The logistics venture failed entirely — ₦800,000, gone. The course led to consulting work that added about ₦4,000,000 over three years. The dollar sleeve roughly doubled in naira terms across 2023–24.
+
+By 2024 Yemi held roughly ₦31,000,000 and no debt. Kunle held one plot, a partly repaid loan, and had restarted saving.
+
+**What separated them was not judgement about assets.** Kunle's view of the corridor was reasonable; some of those plots did eventually rise. **It was that Kunle had arranged his affairs so that being early was indistinguishable from being wrong** — the loan and the margin removed his ability to wait — while Yemi had arranged his so that three separate failures cost him nothing that mattered.
+
 **What to do.**
 
 1. **Fill in Appendix E — the personal barbell worksheet — today.** Not "think about your allocation": write the percentages, the naira amounts, the emergency number, the hard-currency target and the review date, in ink, and sign it. An unwritten plan is a preference, and preferences do not survive a persuasive relative.
 2. **Check where you actually are.** Most Nigerians discover they are unintentionally all-safe (everything in a savings account, losing to inflation) or unintentionally all-aggressive (everything in one plot of land or one business).
 3. **Move the middle to the ends.** Whatever you own that is "probably fine" and cannot be examined — that is the part to reduce first.
+
+**In plain words:** Put most of your money — about 85 out of every 100 naira — somewhere very safe and easy to reach. Put a small part, about 15, into things that could grow many times over but could also become nothing. Avoid whatever sits in between, because you cannot tell how risky those things really are. The safe part is not there to make you rich. It is there so that a bad year cannot finish you.
 
 **If you remember one thing:** put the large majority where nothing can reach it and a small minority where the loss is capped and the gain is not — and own as little as possible in between.
 ## 28. "This is too slow. I want to be rich."
@@ -1617,6 +1853,33 @@ Finance is worse than medicine here, because the industry earns money on additio
 
 Do those eight things and buy nothing clever at all, and you will beat most people who do everything clever and none of the eight.
 
+---
+
+**The largest subtraction of all, and the one nobody puts on a list: the money you spend proving you are doing well.**
+
+This deserves its own treatment because in Nigeria it is not a small leak. It is frequently the difference between a household that compounds and one that does not, and it is almost never discussed as a financial matter because it is coded as a social one.
+
+**The mechanism.** A Nigerian who begins to do well encounters an expectation — from family, colleagues, church, town union, the market, the estate — that the improvement will be *visible*. The car changes. The party is thrown. The aso-ebi is bought. The building begins at home. Each item is defensible on its own; nobody has ever been talked out of one by a spreadsheet.
+
+**Here is what is actually being purchased, in the language of this book: negative optionality.**
+
+Consider what a visible upgrade does:
+
+- **It converts a one-time sum into a permanent obligation.** The car requires fuel, servicing, a driver, insurance and replacement. The larger flat requires rent, furnishing and a generator that can carry it. **You have exchanged capital for a monthly liability, which is the exact opposite of what capital is for.**
+- **It raises the floor of everyone's expectations of you, permanently.** Expectations do not adjust downward when your income does. A bad year is therefore experienced not as a reduced budget but as a public failure, which is when people start borrowing to maintain appearances — and Chapter 11 explains where that ends.
+- **It attracts claims.** The visible signal is read, correctly, as information about capacity to pay. Requests arrive in proportion to display, not to income. **Every naira of signal generates a stream of future claims that nobody counts as part of the price.**
+- **It destroys optionality.** The person with fixed obligations at the top of their income cannot take the six months of lower pay that a better opportunity requires, cannot fund the venture, cannot walk away from an employer, cannot wait. **The upgrade purchased status and sold flexibility**, and flexibility is what makes people wealthy (Chapter 30).
+
+**The distinction that matters** is between wealth that compounds and wealth that is performed. They are not merely different; they are usually in direct competition for the same naira, since the money that becomes a display cannot also become an asset.
+
+> Real wealth is what you do not see. The car is not wealth — it is what was spent instead of wealth. The quietest person at the party is frequently the only one there with twelve months of runway.
+
+I am not telling you to live meanly, and I am not going to pretend that status has no value in a country where relationships determine access — it plainly does, and a man with no social standing is poorer in ways money does not measure. **The instruction is narrower and it is this: spend on display from income, never from capital, and decide the amount in advance, in a calm month, as a line item.** A budgeted ₦3,000,000 a year for the parties, the aso-ebi and the family obligations is a cost. The same amount spent unbudgeted, in response to each occasion as it arrives, is a leak that will never appear in any review because it never had a name.
+
+**And on the specifically Nigerian version of this**, the one that ruins people quietly: the building at home that consumes fifteen years of surplus, that generates no rent, that is visited twice a year, and that cannot be sold because the market in that town is three buyers deep. It is not a bad thing to want. **It is a bad thing to fund from the capital that was supposed to become independent.** Build it from income, over a longer period, after the floor exists — and count it as consumption rather than as an asset, because that is what it is.
+
+---
+
 **The Nigerian version of via negativa is already in the language.** *"Better make sure say your leg no enter."* The instinct to stay out of things is treated as timidity by the ambitious and it is, statistically, the superior strategy in an environment with many predators. **The people who do not lose money in Nigeria are not the cleverest people in Nigeria. They are the ones who said no eleven times.**
 
 **What to do.**
@@ -1625,6 +1888,8 @@ Do those eight things and buy nothing clever at all, and you will beat most peop
 2. **Do the eight subtractions above, in order.** Do not proceed to selection until you have done them.
 3. **Practise saying: "I don't understand it, so I'm not putting money in it."** It is a complete answer. It requires no defence, and it is the single most profitable sentence in this book.
 
+
+**In plain words:** You will keep more money by avoiding bad things than by finding clever ones. Clear expensive debt. Refuse schemes. Never borrow to invest. Avoid high fees. Trade rarely. Do not spend your capital to look successful. If you do only these things, and nothing clever at all, you will still do better than most people around you.
 
 **If you remember one thing:** your wealth will be decided more by what you refuse than by what you select, and “I don't understand it, so I'm not putting money in it” is a complete answer requiring no defence.
 ## 30. Optionality, or how to be wrong cheaply and right big
@@ -1666,6 +1931,8 @@ Now the other end of the barbell, and the thing that makes it worth having.
 4. **Count your attempts, not your accuracy.** At the end of each year, ask how many cheap bets you placed — not how many came off. A year with no attempts is a year in which nothing could have surprised you upward, and in a fat-tailed country that is its own kind of loss.
 
 
+**In plain words:** Instead of trying to pick the one correct thing, try many small things where each failure is cheap. Most will fail, and that is fine. One may succeed greatly, and one is enough — provided that none of the failures could ruin you. This is how traders, film-makers and musicians in this country actually succeed.
+
 **If you remember one thing:** arrange matters so that being wrong is cheap and being right is large, then be wrong many times without ever being finished.
 ## 31. Convexity for the salary earner
 
@@ -1703,6 +1970,8 @@ Now the other end of the barbell, and the thing that makes it worth having.
 1. **Automate the safe end on payday.** Standing orders, before spending. "Whatever is left at month end" is never anything, in any country, for anyone.
 2. **Spend your evenings on one bounded, convex thing** for a year.
 3. **Do not quit the salary for the venture until the venture has paid you for six months.** The floor is the asset; do not demolish it to build on the site.
+
+**In plain words:** A salary is not the opposite of taking risk. It is what makes small risks affordable. Keep the salary, keep the safe savings, and use your evenings and a small part of your money on one or two things that could grow. Having only one source of income is the real danger — not trying something new.
 
 **If you remember one thing:** a reliable salary is not the opposite of risk-taking; it is the floor that makes intelligent risk-taking affordable, and most people waste it by taking none at all.
 ## 32. The household is the unit
@@ -1830,6 +2099,27 @@ Plus: life insurance in force, education money split by date — fees due within
 - **₦5,000,000.** The full shape above. Plus insurance, plus a written will, plus one annual review date in the calendar, plus a spreadsheet listing every account.
 - **₦50,000,000.** Same shape. Direct property becomes viable *after* the liquid portfolio exists, never before. Corporate bonds directly. Tax planning becomes real — thresholds, reinvestment relief, timing. Estate planning becomes urgent. And if you take professional advice, ask the Chapter 7 question first: *how are you paid, and does it change depending on what I choose?*
 
+**How to know whether the structure is working — without looking at the portfolio value.**
+
+The value of your portfolio is a bad progress indicator. It is dominated by the market, it moves for reasons unconnected to your behaviour, and in a year when everything falls, a person doing everything correctly sees a smaller number and concludes they have failed.
+
+So judge the structure by what you actually control. These are the leading indicators; the money is the lagging one.
+
+| Ask, once a year | Working | Not working |
+|---|---|---|
+| **How many months could I survive with no income?** | Six or more, and rising | Under three, or unknown |
+| **What proportion of my net worth could go to zero without changing how I live?** | 10%–20%, and I know the number | Either 0% (no convex end) or 50%+ (no floor) |
+| **How many financial decisions did I make this year?** | Few, and each has a written reason | Many, most prompted by news or conversation |
+| **How did I sleep during the last market or currency shock?** | I noticed it and did nothing | I checked prices repeatedly; I considered selling |
+| **How easily did I decline the last scheme offered to me?** | Easily; I had a rule to point to | With difficulty, or I did not decline |
+| **Did I need to borrow this year?** | No | Yes, for consumption or an emergency |
+| **Could my family find and claim everything if I died this month?** | Yes — there is a page, and they know where | No, or I am not sure |
+| **Is my real return positive?** | Yes, after inflation and in dollar terms | I have never calculated it |
+
+**Sleep is on that list deliberately.** It is not sentimentality; it is a genuine diagnostic. **A portfolio that costs you sleep is a portfolio that is too large in the wrong end, whatever the arithmetic says**, because the size you can hold through a bad year is a fact about you, and a position you will abandon at the bottom is worse than a smaller one you can keep.
+
+The ability to say no easily is the second-best indicator, for a related reason: it means your floor is doing its work. **Desperate people cannot decline schemes.** If you found the last refusal difficult, the problem is rarely willpower — it is usually runway.
+
 **Rebalancing.** Once a year, one fixed date, back to target. If the dollar sleeve ballooned after a devaluation, sell some into naira assets; if equities collapsed, buy more. **It will feel wrong every time.** That is the mechanism functioning: it forces you to sell what is dear and buy what is cheap without requiring a single forecast.
 
 **What to do.**
@@ -1890,6 +2180,24 @@ Nigerians build fortunes and then lose them at death, routinely, not to fraud bu
 6. **Talk to your family.** Awkward for an hour; protective for a generation.
 
 **And while you are alive, do the housekeeping**, which pays immediately: complete the **e-dividend mandate (e-DMMS)** with your registrars so dividends land in your account automatically; **search the unclaimed dividend registers** for your name, your spouse's, your parents', and every spelling variant; **harmonise holdings** under one CHN if you subscribed to offers under slightly different names; and look for **old share certificates** in the family house, which can be dematerialised into CSCS and sold. For some families this is a substantial forgotten asset, sitting in a drawer since a bank offer in 2005.
+
+### Case: Nine years, and a drawer
+
+*Composite; names invented.*
+
+**Mr Nnamdi Obi** died in 2016, at 68, in Enugu. He had been a careful man: a retired federal civil servant who had bought shares in three bank public offers in 2005 and 2007, held a pension, owned his house, and had taken out an insurance policy in the 1990s.
+
+He left no will. He had never discussed his affairs, on the reasonable grounds that discussing death invites it.
+
+What his family knew: the house, and the bank account his pension was paid into. What they did not know: that share certificates existed at all; that dividends had been accumulating at three registrars for over a decade, some under "N. C. Obi" and some under "Nnamdi Chukwuemeka Obi"; that a life policy existed, with a beneficiary named who was never informed; that his RSA had a balance.
+
+The account was frozen pending letters of administration. The application took, with two contested interruptions from an uncle who asserted a customary claim, **four years**. During that period his widow — who had no separate account of her own, having run the household from his — borrowed from relatives to keep the youngest child in school.
+
+In 2021, sorting papers to sell the house, a grandson found an envelope in a drawer containing three share certificates. A stockbroker dematerialised them over eleven months, requiring an affidavit for the name mismatch. The shares, plus nine years of unclaimed dividends, came to a sum larger than the house.
+
+The insurance policy was never claimed. Nobody knew its number, and the family did not know which insurer to ask.
+
+**What would have prevented nearly all of it:** one page listing the accounts, the registrars, the CHN, the RSA number and the policy number; a will costing a modest fee; a completed e-dividend mandate; and one uncomfortable conversation. **Total cost: an afternoon and perhaps ₦150,000, in 1996 money or in 2016 money.** Total cost of not doing it: four years, a contested estate, a policy lost permanently, and a widow borrowing money that was sitting in her husband's name the entire time.
 
 **What to do.**
 
@@ -2069,6 +2377,24 @@ It stops for many Nigerians and it stops suddenly: a restructuring, a state gove
 **On severance**, if you receive it: **park it in a money market fund for thirty days and make no decisions.** The two catastrophes are equally common — spending it as though it were a windfall, and putting all of it into a new business in month one, when your judgement is impaired by needing the business to work. See Chapter 42.
 
 **And the hardest instruction:** do not start a business with your last money. A venture funded by desperation must succeed immediately, and businesses do not. Get income first — any income, including work beneath your qualifications — and build the venture on the side, as an option (Chapter 30) rather than a necessity.
+
+### Case: The same restructuring, two households
+
+*Composite; names invented.*
+
+In 2020 a Lagos firm made a third of its staff redundant in one week. Two of them lived in the same estate.
+
+**Emeka**, 41, had no emergency fund but a good salary history: a car loan with sixteen months to run, annual rent due in four months, two children in a private school, no health cover of his own because the company's HMO had covered the family. He received three months' severance.
+
+He spent the first two months applying for equivalent roles, on the reasonable belief that his experience would be quickly absorbed. In month three the HMO lapsed; in month four his daughter's asthma required an admission that cost ₦380,000 out of pocket. Rent fell due in month five. He borrowed — first from family, then from two apps. In month seven he sold his car below value to a dealer who understood the urgency, and in month nine took a role at 60% of his previous salary, having also moved the children to a cheaper school in circumstances that were harder on them than an earlier move would have been.
+
+**Bola**, 38, had nine months of expenses in a money market fund and an individual family HMO plan she had kept because she had once been between jobs and remembered it.
+
+She cut in week one: the two subscriptions, the planned furniture, and — after a conversation with the landlord in week two, months before the due date — converted her rent to quarterly payments. She told the school in the first week of term and arranged instalments. She did not touch her pension; she never reached the four-month threshold. She turned down a role at 70% of her previous salary in month three, and accepted one at 95% in month six, using the intervening time on a certification.
+
+Her portfolio was down about 22% during the period. She did not sell any of it, because she did not have to.
+
+**The difference in outcome was roughly ₦4,000,000 and eighteen months of trajectory.** The difference in *preparation* was one money market account and one insurance premium — decisions made in an ordinary month, years earlier, that felt at the time like slightly excessive caution.
 
 **What to do.**
 
@@ -2255,6 +2581,38 @@ I want to be careful here, because it would be cheap to end by mocking the educa
 
 ---
 
+---
+
+**A word on being rich, which is not the same as being antifragile.**
+
+Rich is a number. Antifragile is a shape.
+
+You can be rich and fragile — and Nigeria manufactures this combination at scale. The man with ₦400,000,000, all of it in one business, in one sector, dependent on one regulatory posture, with dollar obligations and naira revenue, no liquid assets, no insurance, and a lifestyle calibrated to the best year he ever had. He is rich. He is also two decisions by other people away from nothing, and everyone will be astonished when it happens, including him, because the number was so large.
+
+You can be antifragile and not rich. The woman with ₦9,000,000, spread across a money market fund, a pension, a modest dollar holding and a small shop, with insurance, no debt, three sources of income and no obligations she cannot cut. She will not appear on any list. She also cannot be removed from the board by any single event, and over thirty years, not being removed from the board is most of the game.
+
+**Nigeria's economic history is a long argument for preferring the second.** Every decade produces a cohort of the visibly rich who are gone by the next one — the 1970s contractors, the 1980s importers, the 1990s foreign exchange operators, the 2007 bank-share generation, the 2016 scheme participants. And each decade produces a quieter group who were never impressive and are still there, compounding.
+
+> Being rich is a position. Being antifragile is a structure. Positions are taken from you; structures are not.
+
+If you must choose — and at various points you will have to, because the concentrated bet and the durable arrangement compete for the same money — **take the shape over the number.** The number can be rebuilt from the shape. The shape cannot be rebuilt from the number, because by the time you need it, it is gone.
+
+---
+
+**And a word on advice, since I have given a great deal of it.**
+
+I have said that you should never take advice from someone who cannot lose. That obliges me to say what I lose.
+
+I am wrong in public, in print, in a form that does not update. If the structure in this book fails you, it fails in a document with my argument attached to it, and there is no revised edition in which I quietly explain that I had said something else. That is the entire discipline: **a person who writes down what he believes, in specific enough terms to be checked, has taken a position.** A person who speaks in the conditional on television has not.
+
+Which is also why I have refused to give you forecasts, and it is not modesty. **A forecast is the one form of advice that costs its author nothing.** It cannot be falsified in a way that matters, because by the time it is wrong everyone has moved to the next one, and being wrong about the future is universally forgiven in a way that being wrong about a structure is not. If I tell you the naira will be at some level in December, I have given you nothing you can build on and I have risked nothing. If I tell you to hold six months of expenses, a hard-currency sleeve matched to your obligations, and a capped convex end, I have told you something you can check against your own life in five years and hold against me.
+
+The honest limits, stated plainly: I do not know which shares will rise. I do not know where rates or the naira are going. Some of the specific instruments in Book III will be superseded, and some of the thresholds will be amended before this book is old. **What I claim to know is narrower — that ruin is irreversible, that costs are certain while returns are not, that incentives predict behaviour better than character does, and that a structure which does not require you to be right will outlast one that does.** Those claims are old, they are not mine, and they have survived a great deal more testing than I could give them.
+
+**So take from this book what you can check, hold me to what I have written, and give the rest to somebody who has money in the outcome.**
+
+---
+
 **So what have I actually given you?**
 
 Not a method for getting rich. If such a method existed and worked, it would stop working the moment it was written down, which is one of the few things about markets I will state without qualification.
@@ -2385,6 +2743,35 @@ In a **wild** quantity — wealth, market moves, devaluations, company sizes —
 
 # Appendix C — Their word, and what it means
 
+## C1 — This book's own vocabulary
+
+*Terms I have used repeatedly and defined once, gathered here so a reader who joined late does not have to reverse-engineer them.*
+
+| Term | What I mean by it |
+|---|---|
+| **Ruin** | Any outcome after which you cannot continue — not a large loss, but the end of the sequence. The only risk that must be treated as absolute (Chapter 2) |
+| **The floor** | The safe, liquid money that no event can reach: the emergency fund, treasury bills, money market funds. Its purpose is not return, it is the ability to hold everything else (Chapter 27) |
+| **The barbell** | The whole structure: a large safe end, a small capped end that can multiply, and as little as possible in between (Chapter 27) |
+| **The convex end** | The small aggressive portion where each position may go to zero and one may multiply. Bounded loss, unbounded gain (Chapters 27, 30) |
+| **The middle** | Assets that are "probably fine" and whose risk cannot be measured. The part of a conventional portfolio this book removes (Chapter 27) |
+| **Convex / convexity** | A payoff shape where the loss is capped and the gain is not. Every arrangement in Book IV aims at this shape (Chapter 30) |
+| **Negative optionality** | The reverse shape: small steady gains, a rare unbounded loss. Guarantees, unlicensed obligations, status spending (Chapters 30, 29) |
+| **Type one error** | Believing a rare catastrophe is impossible, and being wrong. Costs you the game (Chapter 3) |
+| **Type two error** | Preparing for a catastrophe that does not arrive. Costs you a premium. **The two are not symmetric, and treating them as if they were is the common error** (Chapter 3) |
+| **Fragile / robust / antifragile** | Harmed by disorder / unaffected by it / improved by it. The three states, and the reason redundancy is not waste (Chapter 6) |
+| **Redundancy** | Deliberately held spare capacity — a second income, a second bank, a second currency. Looks inefficient; is insurance (Chapter 6) |
+| **Skin in the game** | Whether the person advising you bears the loss. The single most powerful filter in the book (Chapter 7) |
+| **Iatrogenics** | Harm caused by the intervention meant to help — an over-managed portfolio, a defended currency peg (Chapter 8) |
+| **The turkey problem** | Confidence at its maximum immediately before the reversal, because the record is longest then (Chapter 9) |
+| **Salary World / Trader World** | Quantities where no single observation dominates / quantities where one can exceed all the others combined. Almost everything financial is the second (Chapter 4) |
+| **Fat tail** | The property of the Trader World: rare, enormous moves that averages conceal (Chapters 4, Appendix B) |
+| **Real return** | What is left after inflation. The only return that buys anything (Chapter 5) |
+| **Via negativa** | Improvement by subtraction — removing debt, schemes, leverage, fees, single points of failure (Chapter 29) |
+| **The floor test** | Before any commitment: if this goes to zero, do I still have a life? (Chapters 1, 2) |
+| **Drift** | What happens when a winning position is never trimmed: the structure disappears and nobody decided it should (Chapters 9, 27) |
+
+## C2 — Their word, and what it means
+
 | They say | It means |
 |---|---|
 | Accrued interest | Interest earned so far; you pay it to the seller when buying a bond mid-period, and get it back at the next coupon |
@@ -2431,9 +2818,42 @@ In a **wild** quantity — wealth, market moves, devaluations, company sizes —
 
 ---
 
-# Appendix D — Where to check things
+# Appendix D — Where to check things, and the numbers that move
 
 **Before you believe anyone, including me, go to the source.**
+
+## D1 — The numbers that move
+
+*Every figure in this book that has a shelf life, and where to get the current one. **Where this table disagrees with the body of the book, this table wins** — not because it is more accurate, but because it tells you where to look instead of what to believe. Verify before acting; assume all of them have changed.*
+
+| Number used in this book | As at 2026 | Verify at |
+|---|---|---|
+| Inflation (CPI), headline and food | Low-to-mid twenties, post-rebasing | **NBS**, monthly release |
+| Monetary Policy Rate | 27.5% at end-2024, easing during 2025 | **CBN**, MPC communiqués |
+| Treasury bill stop rates, all tenors | Varies by auction | **CBN** auction results; **FMDQ** |
+| FGN Savings Bond rate, minimum, tenors | ₦5,000 minimum; 2 and 3 years | **DMO**, monthly offer circular |
+| FGN Bond coupons and auction dates | Monthly auctions | **DMO** |
+| Sukuk terms and minimum | Retail minimums have been around ₦10,000 | **DMO** |
+| Money market fund yields | High teens to low twenties | Each fund's monthly **fact sheet** |
+| Exchange rate, official and parallel | Around ₦1,500/$ | **CBN**; and your bank for what you can actually transact |
+| Equity transaction costs (broker, SEC, NGX, CSCS, stamp duty, VAT) | ~2%–3% round trip | Your **contract note**; **NGX** fee schedule |
+| Settlement cycle and daily price limits | T+3; historically 10% daily | **NGX** |
+| Dividend withholding tax | Commonly 10%, final | **FIRS** |
+| Capital gains tax on shares — thresholds, reliefs | Chargeable above thresholds from 2026 | **FIRS**; a tax adviser before any large disposal |
+| Personal income tax bands and reliefs | Revised by the 2025 reforms, effective 2026 | **Your state's** revenue service |
+| Governor's Consent fees, stamp duty, registration | Percentage-based, varies by state | **Your state's** lands bureau |
+| NDIC insured deposit limit | Revised upward over time | **NDIC** |
+| Pension: contribution rates, fund types, transfer window | 8% employee / 10% employer; Funds I–VI | **PenCom** |
+| Pension: 25% withdrawal after job loss; mortgage equity portion | Historically 25% each, with conditions | **PenCom**; your **PFA** |
+| Micro Pension contingent/retirement split | Revised since launch | **PenCom**; any **PFA** |
+| NHF loan rate, maximum loan, equity required | Concessionary, below market | **FMBN**; a Primary Mortgage Bank |
+| Compulsory insurances and minimum motor cover | Six statutory classes | **NAICOM**; **NIID** to verify a certificate |
+| Which platforms are SEC-registered | Changes continuously | **SEC** register — the only answer |
+| Digital asset rules | ISA 2025 brought them under SEC | **SEC**; **CBN** circulars |
+
+**Two standing instructions.** First: **never verify anything through the channel that contacted you** (Chapter 10) — type the regulator's address yourself. Second: when a number here contradicts a person selling you something, the number is not the argument; **the source is.** Ask them to show you where it is published.
+
+## D2 — Who to ask
 
 | Body | For |
 |---|---|
@@ -2666,3 +3086,201 @@ Start it early, use a lawyer, and gather every document you can find first — i
 10. Record everything found in **Appendix E, Part 5**, so that the next generation does not have to repeat this.
 
 *A weekend of this work has, for some families, produced more than a year of saving. It requires no forecast, no risk and no cleverness — only persistence and the correct spelling of your grandmother's name.*
+# Appendix G — The pages to keep
+
+*Three pages. Photograph them. They are the only parts of this book you need after you have read it once.*
+
+---
+
+## G1 — The annual review protocol
+
+**Once a year. One sitting. Ninety minutes. Not monthly, not on a bad news day.**
+
+Answer in writing. Compare against last year's answers before you write this year's — but write yours first, so that last year does not anchor you.
+
+**The floor**
+
+1. How many months of expenses do I hold in liquid, safe money today? *(Target: six salaried, nine or more if irregular.)*
+2. Have my actual monthly expenses changed? *(Recompute. They always have, and inflation guarantees it.)*
+3. Is my health cover in force, and does it still match my household?
+4. Is my life cover still adequate for the dependants I actually have?
+5. Any debt above 25% a year? *(If yes, this review is over. Go to Chapter 11.)*
+
+**The structure**
+
+6. What are my four target percentages, and what are the actual ones today?
+7. What must I buy and sell to return to target? *(Do it. It will feel wrong. See Chapter 33.)*
+8. Has my convex end grown into something that can now hurt me?
+9. Is my hard-currency percentage still matched to my foreign obligations — school abroad, relocation, imported inventory, treatment?
+10. What am I holding that I could not exit in a week if I had to?
+
+**The honest questions**
+
+11. What did I buy this year, and what was my written reason? Does it still hold?
+12. What did I sell, and was it for one of the four good reasons or one of the bad ones?
+13. How many times did I trade? *(Compare to the number I set myself.)*
+14. What did I decline this year, and am I still comfortable with the refusal?
+15. What has changed in my life that the structure has not caught up with — a child, a marriage, a parent to support, a new dependant, an intention to leave the country?
+
+**The arithmetic**
+
+16. My nominal return this year: ______%
+17. Minus inflation: ______% *(This is the real number.)*
+18. Converted to dollars at the start and end rates: ______% *(This is the other real number.)*
+19. Did I actually beat a money market fund? If not, for how many years running?
+
+**The paperwork**
+
+20. Is the master document current, and does the person who needs it still know where it is?
+21. Next-of-kin details correct on every account after this year's events?
+22. Any dividends unmandated, any new registrar, any new account not on the list?
+
+**Then close the file and do nothing until next year.**
+
+---
+
+## G2 — The twenty rules, compact
+
+*The full versions are in Chapter 34. This is the page for your phone.*
+
+1. Never borrow to invest.
+2. Emergency money never goes anywhere that can fall.
+3. Never invest in what you cannot explain in one sentence to a fifteen-year-old.
+4. "Guaranteed" high returns is a warning, not an offer.
+5. Check the SEC register yourself — especially when a relative introduced it.
+6. No land without your own lawyer, a registry search and a charting.
+7. CAC registration is not an investment licence.
+8. Nothing above half your net worth in one asset — including your house and your business.
+9. Never earn naira and owe dollars.
+10. Never guarantee anyone's loan.
+11. Trade rarely.
+12. Check prices rarely.
+13. Never act on urgency; real value does not expire on Friday.
+14. No advice from anyone who cannot lose.
+15. Never let a winner grow into a position that can hurt you.
+16. Never buy insurance bundled with investment without pricing both halves.
+17. Mandate your dividends.
+18. Do not die without a will.
+19. A long good record is not safety.
+20. The absence of a disaster is not the absence of a risk.
+
+---
+
+## G3 — When the regime changes
+
+A new tax act. A currency redesign. A pension rule rewritten. A devaluation. A government that arrives with a different theory of the economy.
+
+**The instinct is to rebuild everything. Resist it.** A regime shift changes *instruments and numbers*; it almost never changes *structure*. The barbell was not designed for a particular administration.
+
+**The protocol, in order:**
+
+1. **Wait.** Chapter 41. Twenty-four hours minimum, and read the primary document rather than the reporting.
+2. **Ask one question: does this change what an instrument IS, or only what it PAYS?** A change in T-bill yields changes what it pays — do nothing structural. A change that removes retail access to an instrument, or taxes a category that was untaxed, or alters what a pension may hold, changes what it is — and only that second category justifies a change to your allocation.
+3. **Re-verify, do not re-plan.** Go down Appendix D and update the numbers that moved. Most of your worksheet will survive untouched.
+4. **Check your currency match again.** Regime shifts are the events that create mismatches between what you earn and what you owe.
+5. **Change one thing at a time, and write down why.** A regime shift that causes you to restructure four things at once is a shift that will cause you to make four errors at once.
+6. **Only then, if the change is genuinely structural, amend the worksheet** — and date the amendment, so that in a year you can see what you changed under pressure and whether it was right.
+
+> Governments change what things pay far more often than they change what things are. Most policy news requires you to update a number and nothing else.
+
+---
+
+# Appendix H — After the book
+
+*The most common outcome of reading a financial book is a good feeling followed by nothing. This appendix exists to make that harder.*
+
+---
+
+## H1 — Thirty days, ranked by leverage
+
+Do them in this order. The ranking is by **how much harm each one prevents per hour spent**, which is not the same as how interesting each one is. Numbers one to four are worth more than everything else in this book combined.
+
+| Day | Action | Time | Why it ranks here |
+|---|---|---|---|
+| 1 | **List every debt with its rate**, converting monthly rates to annual by compounding | 1 hour | You cannot outrun a 400% loan with a 20% portfolio |
+| 2 | **Revoke contact and photo permissions on every lending app on your phone** | 5 minutes | Prevents the harassment vector regardless of whether you owe |
+| 3 | **Check that you have health cover**; if not, get quotes today | 2 hours | One uninsured medical event outweighs a decade of good investing |
+| 4 | **Log into your pension**, confirm six months of remittances, fix next of kin | 30 minutes | Probably your largest asset; possibly unremitted |
+| 5–7 | **Assemble the document folder** — BVN, NIN, ID, utility bill, photograph, TIN | 2 hours | Everything else requires it |
+| 8 | **Open a money market fund** with an operator you verified on the SEC register | 1 hour | The floor begins here |
+| 9 | **Set a standing order for payday**, any amount | 15 minutes | Automation beats intention, permanently |
+| 10 | **Record every naira you spend for the rest of the month** | 5 min/day | You cannot allocate what you have not measured |
+| 11–14 | **Term life quotes** if anyone depends on your income | 2 hours | Cheap, and it removes the other ruin case |
+| 15 | **Fill in Appendix E in pen** | 1 hour | Converts reading into a plan |
+| 16–20 | **Complete e-dividend mandates; search unclaimed dividend registers** (Appendix F) | 3 hours | The only step that may pay you immediately |
+| 21 | **Subscribe to an FGN Savings Bond** in the next window, ₦5,000 | 30 minutes | Cheapest education available |
+| 22–25 | **Open a stockbroking account**; record CHN and CSCS number | 2 hours | The account takes days; the opportunity does not wait |
+| 26 | **Open a domiciliary account** | 1 hour | Have it before you need it |
+| 27 | **Write the master document** (Appendix E, Part 5) | 1 hour | The page your family will need |
+| 28 | **Book the lawyer for the will** | 15 minutes | Bounded cost, unbounded loss avoided |
+| 29 | **Put the annual review date in your calendar** | 2 minutes | The whole system depends on this one entry |
+| 30 | **Tell one person what you have done and what your rules are** | 1 conversation | Makes the rules real, and pre-arms you for Chapter 43 |
+
+**If you can only do four:** the debt list, the health cover, the pension login, and the money market fund. In that order. Everything else can wait a year without much cost. Those four cannot.
+
+---
+
+## H2 — The circle of four
+
+Reading alone works for the first month. It fails around month seven, when nothing has visibly happened and the discipline has no witness.
+
+**So: three to five people. Quarterly. Ninety minutes. And a narrow, boring, explicitly limited agenda.**
+
+**What the circle does — the entire list:**
+
+1. Each person states **how many months of runway** they hold. No amounts, just months.
+2. Each person confirms whether their **health cover is in force**.
+3. Each person states whether they are **on or off their written percentages**, and what they will do about it.
+4. Each person reports **anything they were pitched** since the last meeting, and what they decided.
+5. Each person names **one thing they will do before the next meeting.**
+
+That is all. It takes an hour and it works because runway and cover are checkable, unglamorous and comparable, while returns are none of those things.
+
+**What the circle must never do**, and this matters more than what it does:
+
+- **Never pool money.** The moment money is pooled you have created an unregulated collective investment scheme with no custodian, no trustee, no audit and one person holding the account — which is Chapter 10 with better intentions. Every disaster of this kind began as a group of friends who trusted each other, and they were right to trust each other; the structure was the problem, not the people.
+- **Never recommend specific investments to each other.** The moment it becomes a tip-sharing group you have built the WhatsApp channel described in Chapter 10, only with people whose approval you want.
+- **Never compare returns.** Comparison produces reaching for yield, which produces the middle of the barbell.
+- **Never admit a member who sells financial products.** Chapter 7. However decent they are, the incentive is in the room.
+- **Never grow past five.** At six it becomes a forum; forums produce consensus; consensus in investing is how everyone becomes exposed to the same thing at the same time.
+
+**Who to invite:** people whose judgement you respect and whose lifestyle you are not competing with. A circle where one member is visibly getting richer than the others is a circle that will eventually pool money.
+
+---
+
+## H3 — When to pay for professional help, and when not
+
+Apply the Chapter 7 filter first, always: **how is this person paid, and does their pay change depending on what I choose?**
+
+That single question sorts the industry into three groups.
+
+| Who | How paid | Use them for |
+|---|---|---|
+| **Product seller** (bank relationship manager, insurance agent, most "advisers") | Commission on what you buy | Executing a decision you have already made. Never for making it |
+| **Fee-based adviser / SEC-registered portfolio manager** | You pay them, directly | Genuine advice — but ask whether they also earn commission, and get the answer in writing |
+| **Specialist professional** (lawyer, tax adviser, licensed insurance broker) | Fee, or commission from an insurer | Specific technical work with a defined output |
+
+**Pay for professional help in these five situations. They are worth every naira:**
+
+1. **A property purchase.** Your own lawyer, always, at 5–10% of the price. Chapter 21. Nothing in this book will save you as much money.
+2. **A will and estate planning.** A modest fee against a year of letters of administration. Chapter 35.
+3. **A large disposal with tax consequences** — shares above the threshold, a property sale. One conversation *before* selling, about thresholds, reliefs and timing. Chapter 26.
+4. **Insurance beyond the simple.** A NAICOM-licensed broker costs you nothing extra and fights for you at claim time. Chapter 20.
+5. **A genuinely complicated life** — foreign assets, a business with partners, a blended family, dual residency. Complexity is where errors compound quietly.
+
+**Do not pay for these:**
+
+- **Someone to pick shares or funds for you at 2% a year.** Chapter 18: at your size, the fee is a larger and more certain number than the edge.
+- **A "wealth manager" whose first meeting produces a product recommendation.** That is a sales call with a better name.
+- **Signal groups, trading courses, mentorship packages.** Chapter 10. Ask whether they are rich from trading or rich from teaching.
+- **Anyone at all, before you have done the four things in H1.** Advice is a multiplier, and a multiplier applied to no floor produces no floor.
+
+**And the question to ask any professional in the first five minutes**, before you describe your situation:
+
+> *"How are you paid, what do you earn if I do nothing, and can I see that in writing?"*
+
+The answer, and more importantly the reaction to being asked, will tell you most of what you need to know. **A good professional finds this question ordinary. Note carefully anyone who finds it offensive.**
+
+---
+
+*The book ends here. The worksheet, the review questions and the thirty-day list do not. If in a year you have a floor, cover, a pension you have logged into, a written page of percentages and one refusal you are proud of, the book worked — regardless of what any market did.*
