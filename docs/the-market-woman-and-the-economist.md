@@ -63,7 +63,8 @@ There are three ways in. Choose honestly, not aspirationally.
 | Chapter 35 | The worksheet that turns all of it into numbers |
 | Chapter 52 | Your first ninety days |
 | Chapter 49 | The twenty things not to do |
-| Chapter 82 | What to do in the thirty days after you close the book |
+| Chapter 54 | One family, ten years — the whole book as arithmetic |
+| Chapter 91 | What to do in the thirty days after you close the book |
 
 Then, when something specific arises — land, dollars, shares, tax — read that chapter alone. Each is written to survive being read out of order.
 
@@ -72,27 +73,29 @@ Then, when something specific arises — land, dollars, shares, tax — read tha
 | If | Go to |
 |---|---|
 | You do not know where to begin at all | Book 0, Chapters 1–3 |
-| You have just lost your job | Chapter 55 |
-| Someone is seriously ill and you need money now | Chapter 56 |
-| You have realised you are in a scheme | Chapter 14, then Chapter 54 |
-| The market or the naira just moved violently | Chapter 54 |
-| The government announced something on Sunday night | Chapter 58 |
-| A large sum has just arrived — inheritance, severance, land sale | Chapter 59 |
-| Your family or your church is pressuring you into an investment | Chapter 61 |
+| You have just lost your job | Chapter 56 |
+| Someone is seriously ill and you need money now | Chapter 57 |
+| You have realised you are in a scheme | Chapter 14, then Chapter 55 |
+| The market or the naira just moved violently | Chapter 55 |
+| The government announced something on Sunday night | Chapter 59 |
+| A large sum has just arrived — inheritance, severance, land sale | Chapter 60 |
+| Your family or your church is pressuring you into an investment | Chapter 62 |
 | A relative has died and nobody can find the documents | Chapters 50 and 51 |
 | You are drowning in loan-app debt | Chapter 15 |
-| You are planning to japa, or you are sending money home | Chapter 60 |
+| You are planning to japa, or you are sending money home | Chapter 61 |
 | A burial, wedding or December has emptied the account | Chapter 46 |
-| A marriage is ending | Chapter 57 |
+| A marriage is ending | Chapter 58 |
 | There is nothing left over at the end of the month | Chapter 39 |
 | You are carrying parents and children at the same time | Chapter 45 |
-| You want to start or register a business | Book VI, Chapters 62–73 |
-| You need to know the law on something | Book VII, Chapters 74–81 |
-| You cannot find something in this book | Chapter 85 |
+| You want to start or register a business | Book VI, Chapters 63–74 |
+| You need to know the law on something | Book VIII, Chapters 79–86 |
+| You farm, trade produce, import or export | Book VII, Chapters 75–78 |
+| You need a letter, a form or a checklist to copy | Book IX, Chapters 87–90 |
+| You cannot find something in this book | Chapter 94 |
 
 **One instruction that applies to all three paths.** Before you put money into anything at all — anything, including things recommended by people who love you — read **Chapter 14** and check the operator on the SEC register. That single habit will protect you more than the rest of this book combined.
 
-**Five pages to keep where you can reach them:** the ladder (Chapter 3), the worksheet (Chapter 35), the annual review questions (Chapter 48), the twenty rules (Chapter 49), and the thirty-day sequence (Chapter 82). Photograph them. A book on a shelf changes nothing; a page on your phone occasionally does.
+**Five pages to keep where you can reach them:** the ladder (Chapter 3), the worksheet (Chapter 35), the annual review questions (Chapter 48), the twenty rules (Chapter 49), and the thirty-day sequence (Chapter 91), and the letters you can copy (Chapters 87–90). Photograph them. A book on a shelf changes nothing; a page on your phone occasionally does.
 
 ---
 
@@ -162,47 +165,60 @@ Then, when something specific arises — land, dollars, shares, tax — read tha
 51. Finding money you already own
 52. The first ninety days
 53. Twelve months, without heroism
+54. One family, ten years
 
 **Book V — When life intervenes**
-54. The first forty-eight hours
-55. When the salary stops
-56. When someone is sick
-57. When a marriage ends
-58. When the government announces something on a Sunday
-59. When money arrives suddenly
-60. When you japa, or when they do
-61. The social cost of saying no
+55. The first forty-eight hours
+56. When the salary stops
+57. When someone is sick
+58. When a marriage ends
+59. When the government announces something on a Sunday
+60. When money arrives suddenly
+61. When you japa, or when they do
+62. The social cost of saying no
 
 **Book VI — Building a company**
-62. Before you build anything: is this a business?
-63. Choosing your legal form
-64. Registering with CAC, step by step
-65. Founders, equity and the agreement you must write
-66. Money in, money out: books, banking and tax
-67. Protecting what you made
-68. People: employees, contractors and the law
-69. Licences: the sectors where you cannot just start
-70. The Nigeria Startup Act, and what it actually gives you
-71. Raising money
-72. Growing: hiring, ESOPs, boards and staying alive
-73. When it does not work, and the exit
+63. Before you build anything: is this a business?
+64. Choosing your legal form
+65. Registering with CAC, step by step
+66. Founders, equity and the agreement you must write
+67. Money in, money out: books, banking and tax
+68. Protecting what you made
+69. People: employees, contractors and the law
+70. Licences: the sectors where you cannot just start
+71. The Nigeria Startup Act, and what it actually gives you
+72. Raising money
+73. Growing: hiring, ESOPs, boards and staying alive
+74. When it does not work, and the exit
 
-**Book VII — The law, plainly**
-74. How Nigerian law is arranged, and how to read a rule
-75. Contracts: what makes an agreement binding
-76. Company law, in plain words
-77. Land and tenancy law
-78. Employment law, from the worker’s side
-79. Consumer, banking and financial services law
-80. Tax law, plainly
-81. Family, succession, and how disputes really end
+**Book VII — The trades: farming, importing, exporting**
+75. Farming as a business
+76. Buying, storing and selling produce
+77. Importing
+78. Exporting, and getting paid
 
-**Book VIII — After the book**
-82. After the book: thirty days, a circle, and when to pay for help
-83. How I got these numbers
-84. Sources, and how to check me
-85. Where to find things
-86. Aphorisms for the wall
+**Book VIII — The law, plainly**
+79. How Nigerian law is arranged, and how to read a rule
+80. Contracts: what makes an agreement binding
+81. Company law, in plain words
+82. Land and tenancy law
+83. Employment law, from the worker’s side
+84. Consumer, banking and financial services law
+85. Tax law, plainly
+86. Family, succession, and how disputes really end
+
+**Book IX — The papers**
+87. Letters that get your money back
+88. Letters about work, school and rent
+89. Papers for your family and your property
+90. Papers for your business
+
+**Book X — After the book**
+91. After the book: thirty days, a circle, and when to pay for help
+92. How I got these numbers
+93. Sources, and how to check me
+94. Where to find things
+95. Aphorisms for the wall
 
 **Epilogue** — Mama Nkechi does not read Bloomberg
 # Prologue — The Market Woman and the Economist
@@ -382,7 +398,7 @@ This is the map. Everything else in the book is detail for one of these rows. **
 3. Read the exclusions before the benefits. That is where the arguments come from.
 4. Put the policy, the number and the claims line in one folder, and tell your spouse where it is.
 
-**Read:** Chapter 25 (insurance), Chapter 56 (when someone is sick).
+**Read:** Chapter 25 (insurance), Chapter 57 (when someone is sick).
 
 ### Level 4 — Safe: six months saved
 
@@ -392,7 +408,7 @@ This is the map. Everything else in the book is detail for one of these rows. **
 2. Do not touch it for anything that is not a true emergency. A phone is not an emergency.
 3. When it is full, stop adding to it and move to Level 5.
 
-**Read:** Chapter 19 (funds), Chapter 55 (when the salary stops).
+**Read:** Chapter 19 (funds), Chapter 56 (when the salary stops).
 
 ### Level 5 — Growing: beat rising prices
 
@@ -643,7 +659,7 @@ The man who borrowed dollars because "the naira has been stable for three years"
 - **Bank shares.** Years of gentle appreciation, then 2008.
 - **Land in Ibeju-Lekki.** Nothing, nothing, nothing, then an announcement about a road or a refinery and a five-fold move.
 - **Policy generally.** Nigerian economic policy does not evolve; it is announced. This is a fat-tailed process and your finances must be built for it.
-- **And your own income.** A salaried Nigerian experiences income as a Salary World quantity: it arrives monthly, roughly constant, mildly improving. Then a restructuring, a state government's arrears, or a single sector-wide circular takes it to zero in one letter. **The regularity was never evidence of stability**, and the household that budgeted from the average rather than from the possibility of the jump discovers this in the same month it discovers it has no emergency fund (Chapter 55).
+- **And your own income.** A salaried Nigerian experiences income as a Salary World quantity: it arrives monthly, roughly constant, mildly improving. Then a restructuring, a state government's arrears, or a single sector-wide circular takes it to zero in one letter. **The regularity was never evidence of stability**, and the household that budgeted from the average rather than from the possibility of the jump discovers this in the same month it discovers it has no emergency fund (Chapter 56).
 
 **What this means for how you should think.** Stop asking "what is the likely outcome?" That question belongs to the Salary World. Ask instead:
 
@@ -1176,7 +1192,7 @@ He spent eleven months repaying the cooperative. He had, during the whole ninete
 
 **What to do.**
 
-**The law on this.** Digital lenders must be approved by the **FCCPC** and appear on its register; many apps operating in Nigeria are not. Sending messages about your debt to the people in your phone, using abusive language, or threatening you is **unlawful**, and the FCCPC has removed apps from stores and fined operators for it. You can complain to the FCCPC with screenshots and dates. State law also requires money lenders to be licensed. None of this cancels a debt you genuinely owe — but harassment and the debt are separate matters, and you can fight one while paying the other. See Chapter 79.
+**The law on this.** Digital lenders must be approved by the **FCCPC** and appear on its register; many apps operating in Nigeria are not. Sending messages about your debt to the people in your phone, using abusive language, or threatening you is **unlawful**, and the FCCPC has removed apps from stores and fined operators for it. You can complain to the FCCPC with screenshots and dates. State law also requires money lenders to be licensed. None of this cancels a debt you genuinely owe — but harassment and the debt are separate matters, and you can fight one while paying the other. See Chapter 84.
 
 1. **Write every debt on one page today** — lender, balance, rate, monthly payment. Convert every "per month" rate to an annual one by compounding it, and look at the result.
 2. **Attack the top of the table with everything**, including money you were about to invest. Investing while holding app debt is arithmetic self-harm.
@@ -1851,7 +1867,7 @@ The daughter deferred a year, then did not go. Litigation was still unresolved f
 
 **What to do.**
 
-**The law on this.** Under the **Land Use Act 1978** all land in a state is vested in the Governor, and what you buy is a **right of occupancy**, usually for 99 years. Two consequences decide everything: **any transfer requires the Governor's consent to be valid**, so a deed alone does not complete your ownership; and an **unregistered instrument** may not be admissible as evidence of title, so registration is not optional. Government may revoke for overriding public interest, with compensation for improvements — which is why land under acquisition is worthless whatever the seller says. Chapter 77 sets out the tenancy rules if you are renting.
+**The law on this.** Under the **Land Use Act 1978** all land in a state is vested in the Governor, and what you buy is a **right of occupancy**, usually for 99 years. Two consequences decide everything: **any transfer requires the Governor's consent to be valid**, so a deed alone does not complete your ownership; and an **unregistered instrument** may not be admissible as evidence of title, so registration is not optional. Government may revoke for overriding public interest, with compensation for improvements — which is why land under acquisition is worthless whatever the seller says. Chapter 82 sets out the tenancy rules if you are renting.
 
 1. **Never buy land without an independent lawyer, a registry search and a charting.** The three together cost a small fraction of the purchase and remove most of the ways this goes wrong.
 2. **Budget perfection costs before you commit**, including Governor's Consent, and recompute your expected return with them included.
@@ -2240,7 +2256,7 @@ By 2025 she had a money market balance of about ₦4.1 million, a pension accoun
 
 **What to do.**
 
-**The law on this.** The **Micro Pension Plan** operates under the same **Pension Reform Act 2014** as formal-sector pensions, with the same custodian protection — you are not in a lesser scheme. Registering your business under **CAMA 2020** as a business name or company is what turns your trade into something that can be inherited, sold or financed. And if your trade is in a listed category — estate agency, dealing in cars or jewellery, and similar — you may be required to register with **SCUML** under money-laundering law. Chapters 63 and 76 cover registration.
+**The law on this.** The **Micro Pension Plan** operates under the same **Pension Reform Act 2014** as formal-sector pensions, with the same custodian protection — you are not in a lesser scheme. Registering your business under **CAMA 2020** as a business name or company is what turns your trade into something that can be inherited, sold or financed. And if your trade is in a listed category — estate agency, dealing in cars or jewellery, and similar — you may be required to register with **SCUML** under money-laundering law. Chapters 64 and 81 cover registration.
 
 1. **Open a Micro Pension RSA this month.** BVN, NIN, ID, photograph. Contribute ₦5,000 to begin.
 2. **Open a second bank account today and separate business from household money.** Pay yourself a fixed amount on a fixed day.
@@ -2312,7 +2328,7 @@ Under a capital gains regime, you compute the gain as proceeds minus **cost of a
 
 **What to do.**
 
-**The law on this.** Personal income tax is charged under the **Personal Income Tax Act** and administered by **your state's** revenue service based on residence; company tax under the **Companies Income Tax Act** by **FIRS**; VAT under the **Value Added Tax Act**; gains under the **Capital Gains Tax Act**; and documents under the **Stamp Duties Act**. Nigeria's tax laws were substantially rewritten in 2025 with effect from 2026. **Filing is a legal duty even when no tax is owed**, penalties and interest run automatically, and disputes go to the **Tax Appeal Tribunal** within strict deadlines. Chapter 80 sets it out in full.
+**The law on this.** Personal income tax is charged under the **Personal Income Tax Act** and administered by **your state's** revenue service based on residence; company tax under the **Companies Income Tax Act** by **FIRS**; VAT under the **Value Added Tax Act**; gains under the **Capital Gains Tax Act**; and documents under the **Stamp Duties Act**. Nigeria's tax laws were substantially rewritten in 2025 with effect from 2026. **Filing is a legal duty even when no tax is owed**, penalties and interest run automatically, and disputes go to the **Tax Appeal Tribunal** within strict deadlines. Chapter 85 sets it out in full.
 
 1. **Get a TIN this month** if you do not have one, and find out which authority you file with — your state, in almost all cases.
 2. **Create one folder called "cost basis"** and put every contract note, deed and major receipt in it. It takes ten seconds per document and it is the difference between being taxed on a gain and being taxed on a sale.
@@ -2792,14 +2808,14 @@ I am deliberately not naming platforms — Chapter 27 explains why — but the c
 | **Working for a Nigerian company that earns foreign currency** | Energy, shipping, tech, export trade | Salary usually still naira — check before assuming |
 | **Diaspora-facing services** — property management, care for elderly parents, logistics, verification | People with local presence and reliability | Underserved, and paid in hard currency by clients who are desperate for trustworthy help |
 
-That last row deserves emphasis. **The single most reliable hard-currency market available to an ordinary Nigerian at home is serving Nigerians abroad** — who need somebody honest to supervise a build, check on a parent, receive goods, verify a document, manage a tenant. Chapter 60 explains why they need it. It requires no visa, no marketplace, and no unusual skill beyond reliability and documentation.
+That last row deserves emphasis. **The single most reliable hard-currency market available to an ordinary Nigerian at home is serving Nigerians abroad** — who need somebody honest to supervise a build, check on a parent, receive goods, verify a document, manage a tenant. Chapter 61 explains why they need it. It requires no visa, no marketplace, and no unusual skill beyond reliability and documentation.
 
 ### Getting the money, keeping the money
 
 **On receiving payment**, the practical points that decide how much survives:
 
 - **Open the domiciliary account before the first invoice.** Chapter 27. Getting paid into naira automatically at whatever rate the platform chooses is where a large share of the advantage disappears.
-- **Compare the delivered rate, not the advertised fee.** Same rule as remittances (Chapter 60). Several percent separates a good route from a poor one.
+- **Compare the delivered rate, not the advertised fee.** Same rule as remittances (Chapter 61). Several percent separates a good route from a poor one.
 - **Invoice and keep records.** You will need them for tax, for proof of income, and for the day you apply for anything.
 - **Price in the client's currency and hold the reserve there.** Converting everything to naira on arrival re-creates precisely the exposure you eliminated.
 
@@ -3081,7 +3097,7 @@ The master document of Chapter 50 — every account, every policy number, the CH
 
 Two more practical points people learn late:
 
-- **Fix a family-support line in the budget**, an actual number, agreed by both parties, before the requests arrive. This converts an emotional negotiation ("why did you send that money?") into an arithmetic one ("that comes out of the ₦80,000"), and it makes Chapter 61's refusals far easier to deliver.
+- **Fix a family-support line in the budget**, an actual number, agreed by both parties, before the requests arrive. This converts an emotional negotiation ("why did you send that money?") into an arithmetic one ("that comes out of the ₦80,000"), and it makes Chapter 62's refusals far easier to deliver.
 - **Do not let one person hold all the financial literacy.** The spouse who does not handle money should still know how to log into the accounts, who the broker is, and what an RSA is. The couple where only one person understands the money has a single point of failure (Chapter 10), and it fails at the worst moment.
 
 ---
@@ -3125,7 +3141,7 @@ Do it while everyone is well. After a death, the same information costs a year a
 
 **What to do.**
 
-**The law on this.** Which law governs your marriage depends on how you married — **statutory** (Marriage Act, dissolved under the Matrimonial Causes Act), **customary**, or **Islamic** — and it determines property and inheritance. The Supreme Court has held that customs excluding daughters from inheritance are unconstitutional (**Ukeje v. Ukeje**, 2014) and that disinheriting a widow without a male child is repugnant to natural justice (**Anekwe v. Nweke**, 2014). Those rights are real; proving a contribution to property still depends on documents. Chapter 81 covers this in full.
+**The law on this.** Which law governs your marriage depends on how you married — **statutory** (Marriage Act, dissolved under the Matrimonial Causes Act), **customary**, or **Islamic** — and it determines property and inheritance. The Supreme Court has held that customs excluding daughters from inheritance are unconstitutional (**Ukeje v. Ukeje**, 2014) and that disinheriting a widow without a male child is repugnant to natural justice (**Anekwe v. Nweke**, 2014). Those rights are real; proving a contribution to property still depends on documents. Chapter 86 covers this in full.
 
 1. **Build the household master document this month**, and make sure both adults can reach it.
 2. **If your name is not on an asset you helped pay for, start the process of correcting it now** — deed, CAC registration, account title.
@@ -3171,7 +3187,7 @@ Practical, and in rough order of age:
 - **Show them the arithmetic of Chapter 9.** Compounding is genuinely astonishing to a twelve-year-old, and a person who has seen the table at twelve is a different investor at thirty.
 - **Let them earn.** Work for a relative's shop, a holiday job, a skill sold. The specific lesson is the connection between the work and the money, which allowance alone does not teach.
 - **Tell them the family's real numbers when they are old enough** — not the balance, but the mechanics. Children who have never been told what anything costs become adults who are astonished by rent.
-- **And teach the refusal.** Chapter 61's scripts should be learned at seventeen, not at thirty. The generation now entering the workforce is being pitched schemes on their phones from the age of fifteen.
+- **And teach the refusal.** Chapter 62's scripts should be learned at seventeen, not at thirty. The generation now entering the workforce is being pitched schemes on their phones from the age of fifteen.
 
 ### The end you are actually building toward
 
@@ -3221,11 +3237,11 @@ That last point is the whole chapter. The person carrying everybody is on course
 
 **3. Make the parent's money work, because it usually is not.** Elderly Nigerians routinely hold assets that produce nothing: a house with empty rooms, land, cash in a current account, an unclaimed pension, share certificates from the 1970s (Chapter 20), unclaimed dividends (Chapter 51). **Before increasing what you send, spend a weekend finding what they already have.** Chapter 51 exists for this, and for many families it reduces the monthly obligation permanently.
 
-**4. Insure the parent where you still can.** Health cover for an elderly parent is expensive and restricted — and it is still cheaper than the event. Look at your state's NHIA scheme, at family HMO plans, and at whether your employer's plan can cover parents. The alternative is that a single admission is funded from your investments at the worst possible moment (Chapter 56).
+**4. Insure the parent where you still can.** Health cover for an elderly parent is expensive and restricted — and it is still cheaper than the event. Look at your state's NHIA scheme, at family HMO plans, and at whether your employer's plan can cover parents. The alternative is that a single admission is funded from your investments at the worst possible moment (Chapter 57).
 
 **5. Protect your own retirement explicitly, or it will be the thing that gives.** Set your pension contribution and your own investing as a **fixed, non-negotiable line that is paid before the family support number**, not after. This will feel wrong. It is the same instruction the airline gives about oxygen masks, and for the same reason: **a person who arrives at seventy with nothing has not helped their family, they have merely postponed the same problem onto their children.**
 
-**6. Decide about long-term care before it is urgent.** Who will physically provide it; whether a sibling abroad will fund care in place of presence (Chapter 60); whether a home carer is affordable; what happens when one parent dies and the other cannot live alone. These conversations are unbearable in a crisis and merely uncomfortable in advance.
+**6. Decide about long-term care before it is urgent.** Who will physically provide it; whether a sibling abroad will fund care in place of presence (Chapter 61); whether a home carer is affordable; what happens when one parent dies and the other cannot live alone. These conversations are unbearable in a crisis and merely uncomfortable in advance.
 
 ### The conversation with your parents
 
@@ -3293,7 +3309,7 @@ It is often larger than the wedding, larger than any single school payment, and 
 1. **Have the conversation in a calm year.** With your siblings, before the event: *what will we do, and what number are we willing to reach?* An agreement made in advance among four siblings is a completely different negotiation from one conducted in a week of grief while relatives arrive with expectations.
 2. **Fund it in advance, and separately.** A dedicated account for the family's ceremonial obligations, contributed to monthly by every earning child. What makes this work is not the yield — it is that the money is *already allocated*, so the decision at the time is about arrangements rather than about who can raise what.
 3. **Consider the instruments that exist for exactly this** — funeral and family income-benefit plans from NAICOM-licensed insurers, and the death-benefit component of group life cover through an employer (Chapter 25), which is one of the most commonly unclaimed benefits in Nigeria precisely because families do not know it exists.
-4. **Do not fund a burial from an asset sale conducted in three weeks** (Chapter 56's liquidation order), and never from an app.
+4. **Do not fund a burial from an asset sale conducted in three weeks** (Chapter 57's liquidation order), and never from an app.
 5. **And when it is your own turn to be planned for:** the master document of Chapter 50 should say what you want. A written wish from the deceased is the single most effective instrument for resisting escalation, because it moves the decision from "what will people say" to "what did he ask for."
 
 ---
@@ -3304,7 +3320,7 @@ Aso-ebi is more interesting than its critics allow. Look at what it actually doe
 
 It becomes a problem in exactly one circumstance: **when you cannot decline.** At that point it stops being a purchase and becomes a levy, assessed by other people, at a frequency they control.
 
-The defence is the one from Chapter 61, applied early: **a number, decided in advance, in a calm month.** *"We do four aso-ebi a year at up to ₦X."* You are then refusing an amount rather than a person, and the fifth request meets an arithmetic constraint rather than a judgement about the bride.
+The defence is the one from Chapter 62, applied early: **a number, decided in advance, in a calm month.** *"We do four aso-ebi a year at up to ₦X."* You are then refusing an amount rather than a person, and the fifth request meets an arithmetic constraint rather than a judgement about the bride.
 
 ### Detty December, and the January cliff
 
@@ -3539,7 +3555,7 @@ A new tax act. A currency redesign. A pension rule rewritten. A devaluation. A g
 
 **The protocol, in order:**
 
-1. **Wait.** Chapter 58. Twenty-four hours minimum, and read the primary document rather than the reporting.
+1. **Wait.** Chapter 59. Twenty-four hours minimum, and read the primary document rather than the reporting.
 2. **Ask one question: does this change what an instrument IS, or only what it PAYS?** A change in T-bill yields changes what it pays — do nothing structural. A change that removes retail access to an instrument, or taxes a category that was untaxed, or alters what a pension may hold, changes what it is — and only that second category justifies a change to your allocation.
 3. **Re-verify, do not re-plan.** Go down Chapter 33 and update the numbers that moved. Most of your worksheet will survive untouched.
 4. **Check your currency match again.** Regime shifts are the events that create mismatches between what you earn and what you owe.
@@ -3631,7 +3647,7 @@ The insurance policy was never claimed. Nobody knew its number, and the family d
 
 **What to do.**
 
-**The law on this.** A valid will must be **in writing, signed by you, and witnessed by two witnesses who are not beneficiaries** — a witness who inherits may lose their gift. Deposit it at the **Probate Registry** of the State High Court or with a corporate trustee. With a will, your executor obtains **probate**; without one, the family must obtain **letters of administration**, which commonly takes a year or more and freezes accounts meanwhile. Under Islamic law, testamentary freedom is limited and defined heirs take fixed shares. A will operates only on death — for incapacity you need a **power of attorney** drafted to endure. Chapter 81 has the detail.
+**The law on this.** A valid will must be **in writing, signed by you, and witnessed by two witnesses who are not beneficiaries** — a witness who inherits may lose their gift. Deposit it at the **Probate Registry** of the State High Court or with a corporate trustee. With a will, your executor obtains **probate**; without one, the family must obtain **letters of administration**, which commonly takes a year or more and freezes accounts meanwhile. Under Islamic law, testamentary freedom is limited and defined heirs take fixed shares. A will operates only on death — for incapacity you need a **power of attorney** drafted to endure. Chapter 86 has the detail.
 
 1. **Write the master document this week.** It takes an hour and requires no lawyer.
 2. **Book a lawyer for the will this month.** Modest fee, enormous asymmetry — the classic bounded cost against an unbounded loss.
@@ -3856,13 +3872,111 @@ A plan. Nothing in it requires you to predict anything, and nothing in it requir
 **If you remember one thing:** twelve months of sequence beats ten years of intention, and after the first year the work consists mostly of refusing to do anything clever.
 
 **In Pidgin:** One year of doing am for order pass ten years of planning. After the first year, na to hold body.
+## 54. One family, ten years
+
+Everything in this Book has been given to you in pieces. This chapter puts the pieces into one household and runs them for ten years, so that you can see the arithmetic move.
+
+**A warning before the numbers.** This family is constructed. The figures are chosen to be ordinary rather than impressive, the arithmetic is rounded, and nothing here is a forecast. **What is real is the sequence** — the order in which things were done, and which of them actually moved the outcome. That part transfers.
+
+---
+
+### The household, at the start
+
+**Sunday Ogbu**, 36, a hospital administrator in Kubwa, Abuja. Salary ₦280,000 a month.
+**Rekiya Ogbu**, 33, sells foodstuff in a market. Takings vary; she averages about ₦120,000 a month and has no idea whether the shop is profitable.
+**Two children**, 7 and 4, in a private school.
+
+Their position on the ladder in Chapter 2: **Level 1 — Bleeding.**
+
+| Year 0 | Amount |
+|---|---:|
+| Household income, monthly | ₦400,000 |
+| Household expenses, monthly | ₦360,000 |
+| Loan-app and salary-advance debt | ₦180,000 |
+| Savings | ₦0 |
+| Health cover | None |
+| Pension | Sunday has an RSA. He has never logged in |
+| **Net worth** | **−₦180,000** |
+
+They are not poor. They are two working adults with an income above the Nigerian average, and one hospital admission away from disaster.
+
+---
+
+### The ten years
+
+| Year | What they did | Saved that year | Liquid savings | Other assets | Net worth | Level |
+|---:|---|---:|---:|---:|---:|:-:|
+| 1 | Cleared the app debt in five months, then began saving; HMO family plan started | ₦480,000 | ₦480,000 | — | ₦480,000 | 3 |
+| 2 | Standing order raised; six months' expenses reached; first ₦5,000 savings bond | ₦1,150,000 | ₦1,630,000 | — | ₦1,630,000 | 4 |
+| 3 | Domiciliary account opened; dollar fund started; calendar fund opened | ₦1,300,000 | ₦2,100,000 | $520 + ₦300,000 fund | ₦3,150,000 | 5 |
+| 4 | Rekiya split business and household money; opened Micro Pension; found the shop's real margin | ₦1,700,000 | ₦2,400,000 | $1,400 + ₦900,000 | ₦5,600,000 | 5 |
+| 5 | Sunday asked for a raise with a written case; got 22%. Weekend consulting began | ₦2,600,000 | ₦2,900,000 | $3,100 + ₦2,200,000 | ₦10,300,000 | 5 |
+| 6 | **A devaluation year.** Naira fell about 35% | ₦2,900,000 | ₦3,300,000 | $5,000 + ₦3,400,000 | ₦16,400,000 | 5 |
+| 7 | **Rekiya's mother was admitted for three weeks.** HMO covered most; the buffer covered the rest | ₦2,400,000 | ₦3,100,000 | $6,700 + ₦4,900,000 | ₦21,900,000 | 5 |
+| 8 | School fees doubled. Education pots matched to dates; university pot moved to dollars | ₦3,100,000 | ₦3,600,000 | $9,000 + ₦7,100,000 | ₦29,900,000 | 6 |
+| 9 | Rekiya registered the business at CAC, took a cooperative loan at 14%, opened a second stall | ₦3,400,000 | ₦3,900,000 | $11,000 + ₦10,400,000 | ₦38,800,000 | 6 |
+| 10 | Wills written, master document built, annual review date fixed | ₦3,900,000 | ₦4,400,000 | $13,500 + ₦14,600,000 | ₦49,300,000 | 6 |
+
+*Liquid savings is the money market fund. "Other assets" is the dollar sleeve plus naira funds and bonds. Net worth is converted at the year's rate and excludes household goods. Expenses rose throughout with inflation; the savings figures are after that.*
+
+---
+
+### What actually did the work
+
+Look at the table again and ask which decisions moved the number. It is not the ones people expect.
+
+**1. Clearing the debt (Year 1) was worth more than any investment they made.** The apps were charging over 300% a year. Five months of paying it down produced a return no fund in this book could match. **Until Year 1 ended, every naira they might have "invested" would have been losing money.**
+
+**2. The health cover (Year 1) is invisible in the table until Year 7.** In Year 7 a three-week admission arrived. Their out-of-pocket cost was about ₦400,000; without cover it would have been in the millions, funded by selling everything in the second column. **The premium over six years cost less than that single event would have.** Chapter 6 explains why this trade is not pessimism.
+
+**3. The raise (Year 5) was the single largest financial event of the decade.** Sunday spent about four hours preparing a written case (Chapter 37) and received 22%. That is roughly ₦740,000 in the first year and it repeated and compounded through every later raise. **No investment decision available to them at their asset size came close** — which is precisely the argument in Chapter 36.
+
+**4. Rekiya separating the money (Year 4) was the second largest.** For nineteen years she had traded without knowing her margin. When the accounts separated she discovered two product lines were losing money and dropped them. Her income rose by roughly a third **without a single extra hour of work.**
+
+**5. The dollar sleeve (Year 3 onward) is what survived Year 6.** In the devaluation year their naira savings lost about a third of their value in real terms. The hard-currency portion did not. Their net worth still rose. **They did not predict the devaluation. They were simply not fully exposed to it** (Chapter 27).
+
+**6. The calendar fund (Year 3) removed the thing that had been undoing them for a decade.** Before it, every burial, wedding and December came out of savings or a loan. After it, ceremonies were paid from a pot funded monthly and the emergency fund was never touched again (Chapter 46).
+
+**And what did almost nothing:** their equity fund had two bad years and two good ones and contributed a modest share of the total. **They never picked a share. They never timed anything. Nobody in this family ever beat a market.**
+
+---
+
+### The same family, without the sequence
+
+Now the comparison that matters. Take the same income, the same ten years, and remove only the ordering.
+
+- They keep rolling app debt, because there is always a reason. Interest consumes roughly ₦250,000 a year.
+- No health cover. Year 7's admission costs ₦2,300,000, funded by borrowing and by selling.
+- Sunday never asks for the raise, because it feels presumptuous. Over six years the compounding difference is several million naira.
+- Rekiya never separates the money, so the two loss-making lines run for the whole decade.
+- Everything is in naira, so Year 6 removes about a third of it.
+- Ceremonies are funded from savings, so the balance never passes about two months of expenses.
+
+**Same jobs. Same market. Same country. Same decade.** Net worth at Year 10: somewhere near zero, with a car and a plot bought on instalment and a family that considers itself unlucky.
+
+> The difference between the two households is not income, intelligence or luck. It is the order in which six ordinary decisions were made.
+
+---
+
+**One honest note about the numbers.** I have not modelled a year in which Sunday lost his job, or a market fire, or a second illness. Those happen. **The point of the first column is that when they do happen, this household absorbs them and the other one does not** — which is the definition of stability in Chapter 1, and the only thing this book is really promising.
+
+**In plain words:** This chapter follows one ordinary family for ten years. They started with debt, no savings and no health cover. In ten years they reached about ₦49 million. What made the difference was not clever investing. It was clearing expensive debt first, buying health cover, asking for a raise, separating business money from household money, keeping part of their savings in dollars, and paying for burials and December from a separate pot. The same family without that order would have ended with almost nothing.
+
+**If you remember one thing:** the six decisions that built this family's money were all ordinary and all boring, and the order in which they were taken mattered more than any investment they ever chose.
+
+**In Pidgin:** This chapter follow one ordinary family for ten years. Dem start with app debt, no savings, no health cover. After ten years dem reach around ₦49 million. No be sharp investment do am. Na because dem clear the bad debt first, buy health cover, ask for raise, separate shop money from house money, keep some for dollar, and save for burial and December separately.
+
+
+**In plain words:** When something bad happens — the market falls, the naira jumps, a scheme stops paying — do nothing for two days. Almost every action available in the first forty-eight hours is a bad one. Write down what happened, ask whether it is a price movement or a real loss, and check your floor rather than your portfolio.
+
+**In Pidgin:** When gbege happen, no do anything for two days. Almost everything wey you wan do that first day na mistake.
 # Book V — When life intervenes
 
 > *Ba a san darajar ruwa sai rijiya ta ƙafe.* — **Hausa:** the value of water is not known until the well dries up.
 
 *Everything so far has described a steady state: contribute, rebalance, decline the schemes, wait. Life is not a steady state. This Book is what to do on the days the plan meets an event, and it is written to be read in a hurry, by someone who is not calm.*
 
-## 54. The first forty-eight hours
+## 55. The first forty-eight hours
 
 Something has happened. The market fell violently, or the naira moved overnight, or a position you believed in has collapsed, or you have just realised the scheme is a scheme.
 
@@ -3887,7 +4001,7 @@ So: **forty-eight hours. Then act.**
 
 **After forty-eight hours**, the questions are the ordinary ones from Chapter 47: has my allocation drifted from my written targets, and does rebalancing require me to buy what has fallen? Frequently it does. **That is the mechanism working, and it will feel insane.**
 
-**If it was a scheme:** stop contributing immediately; withdraw whatever can be withdrawn even at a heavy loss; do not "reinvest to reach the next tier"; do not recruit anyone else, both because it harms them and because it may make you liable; gather every record — screenshots, transfers, names, the WhatsApp groups; report to the SEC and EFCC. Then read Chapter 61, because the hardest part is not the money. It is facing the people you told about it.
+**If it was a scheme:** stop contributing immediately; withdraw whatever can be withdrawn even at a heavy loss; do not "reinvest to reach the next tier"; do not recruit anyone else, both because it harms them and because it may make you liable; gather every record — screenshots, transfers, names, the WhatsApp groups; report to the SEC and EFCC. Then read Chapter 62, because the hardest part is not the money. It is facing the people you told about it.
 
 **What to do.**
 
@@ -3898,10 +4012,10 @@ So: **forty-eight hours. Then act.**
 **If you remember one thing:** in the first forty-eight hours, every available action is worse than waiting — including the one that feels most urgent.
 
 
-**In plain words:** When something bad happens — the market falls, the naira jumps, a scheme stops paying — do nothing for two days. Almost every action available in the first forty-eight hours is a bad one. Write down what happened, ask whether it is a price movement or a real loss, and check your floor rather than your portfolio.
+**In plain words:** If your salary stops: cut the big fixed costs in week one, not month three. Talk to the landlord and the school early, before the money is due. Replace your health cover immediately if it came from the job. Work out how many months you can survive and write the number down. And take money from the money market fund first, from your pension last.
 
-**In Pidgin:** When gbege happen, no do anything for two days. Almost everything wey you wan do that first day na mistake.
-## 55. When the salary stops
+**In Pidgin:** Cut the big expenses for week one, no be month three. And no touch pension first — na the last one.
+## 56. When the salary stops
 
 It stops for many Nigerians and it stops suddenly: a restructuring, a state government in arrears, a contract not renewed, a sector reorganised by a single circular. Here is the sequence, in order, and the order matters.
 
@@ -3930,7 +4044,7 @@ It stops for many Nigerians and it stops suddenly: a restructuring, a state gove
 - **School fees.** Talk to the school in the first week of the term, not the last. Most Nigerian schools will accept instalments from a parent who comes early with a plan and refuse the same parent who arrives at examination time. Consider a cheaper school for a year — an unpopular sentence to write, and it has preserved more families than any investment tip.
 - **Transport.** The largest quickly-variable cost for most households. Restructure it deliberately rather than by accident.
 
-**On severance**, if you receive it: **park it in a money market fund for thirty days and make no decisions.** The two catastrophes are equally common — spending it as though it were a windfall, and putting all of it into a new business in month one, when your judgement is impaired by needing the business to work. See Chapter 59.
+**On severance**, if you receive it: **park it in a money market fund for thirty days and make no decisions.** The two catastrophes are equally common — spending it as though it were a windfall, and putting all of it into a new business in month one, when your judgement is impaired by needing the business to work. See Chapter 60.
 
 **And the hardest instruction:** do not start a business with your last money. A venture funded by desperation must succeed immediately, and businesses do not. Get income first — any income, including work beneath your qualifications — and build the venture on the side, as an option (Chapter 41) rather than a necessity.
 
@@ -3954,7 +4068,7 @@ Her portfolio was down about 22% during the period. She did not sell any of it, 
 
 **What to do.**
 
-**The law on this.** On termination you are entitled to what your contract provides — notice or pay in lieu, salary to date, accrued leave, and any terminal benefits — and the **National Industrial Court** has exclusive jurisdiction over employment disputes and now regularly requires a valid reason and a fair process, particularly where misconduct is alleged. Redundancy has its own requirements under the **Labour Act**. **Do not sign a full-and-final settlement before checking what you are owed.** Your pension remains yours: the rule permitting a portion to be withdrawn after a defined period of unemployment is administered by **PenCom** through your PFA. Chapter 78 sets out your rights.
+**The law on this.** On termination you are entitled to what your contract provides — notice or pay in lieu, salary to date, accrued leave, and any terminal benefits — and the **National Industrial Court** has exclusive jurisdiction over employment disputes and now regularly requires a valid reason and a fair process, particularly where misconduct is alleged. Redundancy has its own requirements under the **Labour Act**. **Do not sign a full-and-final settlement before checking what you are owed.** Your pension remains yours: the rule permitting a portion to be withdrawn after a defined period of unemployment is administered by **PenCom** through your PFA. Chapter 83 sets out your rights.
 
 1. **Cut fixed costs in week one, not month three.** Rent, fees, transport.
 2. **Replace health cover before it lapses.**
@@ -3964,10 +4078,10 @@ Her portfolio was down about 22% during the period. She did not sell any of it, 
 **If you remember one thing:** the pension and the health cover are the two things people raid first and should raid last.
 
 
-**In plain words:** If your salary stops: cut the big fixed costs in week one, not month three. Talk to the landlord and the school early, before the money is due. Replace your health cover immediately if it came from the job. Work out how many months you can survive and write the number down. And take money from the money market fund first, from your pension last.
+**In plain words:** If someone falls seriously ill: call the HMO before treatment if you can, because most plans require permission first. Keep every receipt. Negotiate the hospital bill and ask for the itemised list. Sell your most liquid savings first and your land last, and do not cash your pension if any other route exists. Afterwards, buy proper cover within thirty days.
 
-**In Pidgin:** Cut the big expenses for week one, no be month three. And no touch pension first — na the last one.
-## 56. When someone is sick
+**In Pidgin:** Sickness no be the disaster. Sickness without cover na the disaster.
+## 57. When someone is sick
 
 This is the event that most often destroys Nigerian middle-class wealth. Not a market, not a scheme — a hospital.
 
@@ -3978,7 +4092,7 @@ This is the event that most often destroys Nigerian middle-class wealth. Not a m
 3. **Keep every receipt, every report, every prescription.** Reimbursement without documents does not happen.
 4. **If a claim is denied unfairly**, escalate: the HMO's internal process, then **NAICOM** for insurers and the **NHIA** for health insurance complaints. Many Nigerians stop at the first refusal. A documented claim, escalated, is frequently paid.
 
-**If you do not have cover**, or the cost exceeds it — the order of liquidation from Chapter 55 applies, with one addition at the top: **negotiate with the hospital.** Ask for the itemised bill, ask which items are optional, ask about payment plans, and ask whether a public teaching hospital can provide the same treatment. These conversations are uncomfortable and they routinely change the number.
+**If you do not have cover**, or the cost exceeds it — the order of liquidation from Chapter 56 applies, with one addition at the top: **negotiate with the hospital.** Ask for the itemised bill, ask which items are optional, ask about payment plans, and ask whether a public teaching hospital can provide the same treatment. These conversations are uncomfortable and they routinely change the number.
 
 **On the family fundraising**, which is a genuine and admirable Nigerian institution: it works, and it has two costs people do not anticipate. First, it is a **one-time instrument** — the same network cannot be called twice in a year. Second, it creates obligations that will be called in later, at a time not of your choosing. Use it, and count it as a debt even though nobody will call it one.
 
@@ -3998,10 +4112,12 @@ This is the event that most often destroys Nigerian middle-class wealth. Not a m
 **If you remember one thing:** the medical event is not the disaster; the uninsured medical event is, and the difference costs less per month than most families spend on data.
 
 
-**In plain words:** If someone falls seriously ill: call the HMO before treatment if you can, because most plans require permission first. Keep every receipt. Negotiate the hospital bill and ask for the itemised list. Sell your most liquid savings first and your land last, and do not cash your pension if any other route exists. Afterwards, buy proper cover within thirty days.
+**In plain words:** If a marriage ends, one household becomes two while the income does not. Whatever the state of your marriage, keep an account in your own name, put your name on assets you help pay for, register your business, and keep records of what you contributed. Find out which law governs your marriage, because it decides everything. And afterwards, rewrite your will and change your beneficiaries.
 
-**In Pidgin:** Sickness no be the disaster. Sickness without cover na the disaster.
-## 57. When a marriage ends
+**If you remember one thing:** the account in your own name, your name on the deed, your business registered and your records kept are good practice in any marriage and decisive if one ends.
+
+**In Pidgin:** Whether marriage sweet or e no sweet: get account for your own name, put your name for the paper, register your business, keep receipt. E good for everybody, and e go save you if the thing scatter.
+## 58. When a marriage ends
 
 Chapter 43 explains how to organise money inside a marriage. This chapter covers what happens when it ends, because separation and divorce are financially among the most destructive events a Nigerian household can experience, and no financial book here discusses them.
 
@@ -4032,7 +4148,7 @@ These are not preparations for divorce. They are the same asset-hygiene measures
 1. **Get a lawyer before you agree anything**, and establish which legal regime governs your marriage before you negotiate under assumptions.
 2. **Document everything now** — statements, titles, business records, school fee receipts. Access to shared records has a way of disappearing.
 3. **Open an individual account immediately** if you do not have one, and redirect your own income to it.
-4. **Do not liquidate long-term assets to fund the immediate crisis** if there is any alternative. Chapter 55's liquidation order applies: money market fund first, pension and property last. **In particular, do not cash a pension to fund a separation** — it is protected money and it does not come back.
+4. **Do not liquidate long-term assets to fund the immediate crisis** if there is any alternative. Chapter 56's liquidation order applies: money market fund first, pension and property last. **In particular, do not cash a pension to fund a separation** — it is protected money and it does not come back.
 5. **Update everything afterwards.** Will, beneficiaries, next of kin, insurance nominations, pension records. A will naming a former spouse, or an insurance policy paying one, is a common and entirely avoidable outcome.
 6. **Recompute the whole plan.** Your floor, your obligations and your horizon have all changed. Chapter 35's worksheet should be redone from scratch, not amended.
 
@@ -4044,7 +4160,7 @@ These are not preparations for divorce. They are the same asset-hygiene measures
 
 **What to do.**
 
-**The law on this.** A statutory marriage is dissolved by the **High Court** under the **Matrimonial Causes Act**, on the single ground that the marriage has broken down irretrievably, proved by defined facts. Customary and Islamic marriages are dissolved under their own systems. Nigerian courts have generally looked for evidence of **contribution** when dividing property rather than applying an automatic equal split, and the case law has moved toward recognising non-financial contribution — which is precisely why documents matter. Custody is decided on the **welfare of the child** as the paramount consideration. Chapter 81 has more.
+**The law on this.** A statutory marriage is dissolved by the **High Court** under the **Matrimonial Causes Act**, on the single ground that the marriage has broken down irretrievably, proved by defined facts. Customary and Islamic marriages are dissolved under their own systems. Nigerian courts have generally looked for evidence of **contribution** when dividing property rather than applying an automatic equal split, and the case law has moved toward recognising non-financial contribution — which is precisely why documents matter. Custody is decided on the **welfare of the child** as the paramount consideration. Chapter 86 has more.
 
 1. **Whatever the state of your marriage: an account in your own name, your name on assets you pay for, your business registered, records kept.** These are good practice regardless and decisive if the worst happens.
 2. **Find out which legal regime governs your marriage.** Most people do not know, and it determines everything.
@@ -4052,12 +4168,10 @@ These are not preparations for divorce. They are the same asset-hygiene measures
 4. **Afterwards, redo the will, the beneficiaries and the worksheet from scratch.**
 
 
-**In plain words:** If a marriage ends, one household becomes two while the income does not. Whatever the state of your marriage, keep an account in your own name, put your name on assets you help pay for, register your business, and keep records of what you contributed. Find out which law governs your marriage, because it decides everything. And afterwards, rewrite your will and change your beneficiaries.
+**In plain words:** When the government announces something suddenly — a new note, a removed subsidy, a new rate — wait twenty-four hours and then read the actual document, not the reports. Do not join any queue for cash, fuel or dollars, because that is when prices are worst. And prepare on an ordinary day: two banks, a working card, some cash, and a dollar account already open.
 
-**If you remember one thing:** the account in your own name, your name on the deed, your business registered and your records kept are good practice in any marriage and decisive if one ends.
-
-**In Pidgin:** Whether marriage sweet or e no sweet: get account for your own name, put your name for the paper, register your business, keep receipt. E good for everybody, and e go save you if the thing scatter.
-## 58. When the government announces something on a Sunday
+**In Pidgin:** Wait 24 hours, then go read the real paper yourself. And no join queue — na for queue price dey worst.
+## 59. When the government announces something on a Sunday
 
 This is a genuine Nigerian category. The currency redesign of November 2022. The fuel subsidy removed in a sentence in May 2023. The exchange rate unification a few weeks later. Border closures. New taxes. Bank recapitalisation directives. Whatever your view of any of them, they share a structure: **a policy that had been suppressed for years arrives complete, on a weekend, with immediate effect** (Chapter 12).
 
@@ -4066,7 +4180,7 @@ This is a genuine Nigerian category. The currency redesign of November 2022. The
 1. **Do not act in the first twenty-four hours.** The initial reporting is usually wrong in at least one important particular, and the first market reaction is made by people acting on that wrong reporting.
 2. **Find the primary document.** The gazette, the CBN circular, the FIRS notice, the DMO statement. Not the WhatsApp broadcast, not the headline, and not the voice note from a man who "has information." Chapter 33 lists where these live. **In Nigeria the gap between what was announced and what was reported is routinely large.**
 3. **Distinguish what changed from what is merely now visible.** The 2023 devaluation did not destroy value on the day it was announced; it revealed a loss that had accumulated over years of a defended rate. Your naira had already been worth less; you were simply not permitted to see it. This distinction determines whether you should act at all.
-4. **Check your exposures by currency and by obligation**, exactly as in Chapter 54.
+4. **Check your exposures by currency and by obligation**, exactly as in Chapter 55.
 5. **Do not queue for anything, financially.** Whether it is fuel, cash, or dollars, the moment of maximum queue is the moment of maximum price and maximum fraud. If you can wait a week, wait a week.
 
 **The standing preparations that make announcement nights boring** — and this is the real content of the chapter, because the protocol above only works if you prepared beforehand:
@@ -4085,10 +4199,10 @@ This is a genuine Nigerian category. The currency redesign of November 2022. The
 **If you remember one thing:** the announcement rarely creates the loss; it reveals one that policy had been hiding, and the people who prepared on an ordinary Tuesday are not the ones queuing.
 
 
-**In plain words:** When the government announces something suddenly — a new note, a removed subsidy, a new rate — wait twenty-four hours and then read the actual document, not the reports. Do not join any queue for cash, fuel or dollars, because that is when prices are worst. And prepare on an ordinary day: two banks, a working card, some cash, and a dollar account already open.
+**In plain words:** If a large sum arrives — inheritance, severance, a land sale — put it in a money market fund and do nothing for ninety days. Tell very few people. Then clear expensive debt, fill your emergency fund to twelve months, put insurance in place, set aside the tax, and only then invest according to the percentages you already wrote down.
 
-**In Pidgin:** Wait 24 hours, then go read the real paper yourself. And no join queue — na for queue price dey worst.
-## 59. When money arrives suddenly
+**In Pidgin:** Money wey enter suddenly, park am for fund make you no do anything for three months. Ninety days go show you which 'opportunity' na real.
+## 60. When money arrives suddenly
 
 An inheritance. A land sale. Severance. A large contract paid at once. A relative abroad who has done well. Compensation. A bonus larger than expected.
 
@@ -4114,7 +4228,7 @@ Ninety days is not arbitrary: it is roughly how long it takes for the euphoria t
 
 **2. Tell as few people as possible.**
 
-This is not meanness; it is arithmetic. In Nigeria, news of a windfall generates a request cascade that is, in aggregate, larger than the windfall. Every request is individually reasonable and the sum is not. Chapter 61 is the manual for handling it. The simplest protection is that the number is not known.
+This is not meanness; it is arithmetic. In Nigeria, news of a windfall generates a request cascade that is, in aggregate, larger than the windfall. Every request is individually reasonable and the sum is not. Chapter 62 is the manual for handling it. The simplest protection is that the number is not known.
 
 **3. Then, in this order:**
 
@@ -4146,10 +4260,12 @@ This is not meanness; it is arithmetic. In Nigeria, news of a windfall generates
 **If you remember one thing:** a windfall does not need to be invested quickly; it needs to survive ninety days of your own excitement.
 
 
-**In plain words:** If a large sum arrives — inheritance, severance, a land sale — put it in a money market fund and do nothing for ninety days. Tell very few people. Then clear expensive debt, fill your emergency fund to twelve months, put insurance in place, set aside the tax, and only then invest according to the percentages you already wrote down.
+**In plain words:** If you are travelling abroad, save in the money of the country you are going to, not in naira. Keep your Nigerian accounts, shares and pension alive when you leave. If you receive money from abroad, agree that part goes into an account in your own name so you end up with an asset. And if you are building a house from abroad, put the land in your own name and pay a professional to supervise in stages.
 
-**In Pidgin:** Money wey enter suddenly, park am for fund make you no do anything for three months. Ninety days go show you which 'opportunity' na real.
-## 60. When you japa, or when they do
+**If you remember one thing:** whether you are going or staying, the money must be held in the currency it will be spent in — and a house built from abroad through a relative, without title in your name and professional supervision, is the most reliable way a diaspora fortune disappears.
+
+**In Pidgin:** If na abroad you dey plan, save for that country money. And if you dey build house from here, no send bulk money give family — pay professional, follow milestone, take title for your own name.
+## 61. When you japa, or when they do
 
 Emigration is now one of the largest financial projects a Nigerian household undertakes, and it is almost never treated as one. It has a capital requirement, a currency exposure, a multi-year timeline, an agent problem, a tax dimension and an inheritance dimension — which is to say, it is a portfolio decision that most people approach as a visa application.
 
@@ -4169,7 +4285,7 @@ Then apply Chapter 27's arithmetic, which is where most japa plans actually fail
 
 **On agents**, apply Chapter 11 unmodified: *what happens to this person if my application is refused?* If the answer is "he keeps the fee," you have hired someone with no exposure to your outcome. Prefer agents paid partly on success; verify every claim independently with the institution or the embassy; and treat guaranteed-visa promises as Chapter 14 wearing a lanyard.
 
-**What to sell, and what not to.** Do not fire-sale land to fund a departure — a plot sold in three weeks is sold at a forced-sale price (Chapter 56). Plan the funding eighteen months out so that nothing must be liquidated in a hurry.
+**What to sell, and what not to.** Do not fire-sale land to fund a departure — a plot sold in three weeks is sold at a forced-sale price (Chapter 57). Plan the funding eighteen months out so that nothing must be liquidated in a hurry.
 
 **What to keep in Nigeria, and this is the part people get wrong by abandoning it:**
 
@@ -4240,12 +4356,10 @@ The part he found hardest was not the currency. It was that costing the whole pr
 5. **If you are building: title first, professional supervision, staged payments, full funding before the first block.** Or do not build.
 
 
-**In plain words:** If you are travelling abroad, save in the money of the country you are going to, not in naira. Keep your Nigerian accounts, shares and pension alive when you leave. If you receive money from abroad, agree that part goes into an account in your own name so you end up with an asset. And if you are building a house from abroad, put the land in your own name and pay a professional to supervise in stages.
+**In plain words:** Saying no is the hardest part, especially to family or to something announced in church. Write your rules down in a calm month so you can point to them. Say you never commit within two weeks. Set a fixed family-support number so refusals are about an amount. And refuse the investment, never the person: say it may work, but it is outside your rules.
 
-**If you remember one thing:** whether you are going or staying, the money must be held in the currency it will be spent in — and a house built from abroad through a relative, without title in your name and professional supervision, is the most reliable way a diaspora fortune disappears.
-
-**In Pidgin:** If na abroad you dey plan, save for that country money. And if you dey build house from here, no send bulk money give family — pay professional, follow milestone, take title for your own name.
-## 61. The social cost of saying no
+**In Pidgin:** Refuse the investment, no refuse the person. Talk say: 'e fit work, but e no dey inside my rule.'
+## 62. The social cost of saying no
 
 Every instruction in this book assumes you can decline things. In Nigeria, declining is not a financial act. It is a social one, and it is expensive in a currency this book has not yet priced.
 
@@ -4314,7 +4428,7 @@ Three things are worth knowing:
 
 **What to do.**
 
-**The law on this.** Under the **Investments and Securities Act 2025**, soliciting investment money from the public without SEC registration is unlawful, and **operating a Ponzi scheme is a criminal offence carrying imprisonment**. This matters for the refusals in this chapter: when you decline, you are not being unkind, you are declining to participate in something that may itself be illegal — and a person who recruits others into such a scheme may face liability too, however sincere they were. Report schemes to the **SEC** and the **EFCC**. Chapter 79 explains the wider consumer protections.
+**The law on this.** Under the **Investments and Securities Act 2025**, soliciting investment money from the public without SEC registration is unlawful, and **operating a Ponzi scheme is a criminal offence carrying imprisonment**. This matters for the refusals in this chapter: when you decline, you are not being unkind, you are declining to participate in something that may itself be illegal — and a person who recruits others into such a scheme may face liability too, however sincere they were. Report schemes to the **SEC** and the **EFCC**. Chapter 84 explains the wider consumer protections.
 
 1. **Write your one-page investment policy this month.** Percentages, rules, date, signature. Put it where you will see it.
 2. **Adopt the two-week rule and announce it to your family before you need it.**
@@ -4322,17 +4436,13 @@ Three things are worth knowing:
 4. **When you refuse, refuse the investment and never the person** — "it's outside my rules," not "it's a scam."
 
 **If you remember one thing:** refuse the investment, not the person, and have a written rule you can point to — because "no" spoken from a rule survives a conversation that "no" spoken from an opinion does not.
-
-**In plain words:** Saying no is the hardest part, especially to family or to something announced in church. Write your rules down in a calm month so you can point to them. Say you never commit within two weeks. Set a fixed family-support number so refusals are about an amount. And refuse the investment, never the person: say it may work, but it is outside your rules.
-
-**In Pidgin:** Refuse the investment, no refuse the person. Talk say: 'e fit work, but e no dey inside my rule.'
 # Book VI — Building a company
 
 > *Aku ruo ulo.* — **Igbo:** let the wealth reach home. Money made abroad, or made and never brought back into a structure that lasts, is not yet wealth.
 
 *Book IV said that for most people income matters more than returns, and that the fastest honest route to wealth is to build something. This Book is how you do that in Nigeria: the legal form, the registration, the agreement with your co-founder, the books, the licences, the money you raise, and what happens when it fails. It is written in plain steps. Nothing here is legal or tax advice; where it matters, pay a professional, and Book VII explains the law underneath it.*
 
-## 62. Before you build anything: is this a business?
+## 63. Before you build anything: is this a business?
 
 Most things people call a business are not one yet. They are an idea, a skill, or a hope. That is fine — every business starts there — but knowing which one you have stops you from spending money too early.
 
@@ -4372,7 +4482,7 @@ Know that number before you start. Write it on the wall.
 
 ### Do not quit your job yet
 
-Chapter 55 explains why. A business funded by desperation must work immediately, and businesses do not.
+Chapter 56 explains why. A business funded by desperation must work immediately, and businesses do not.
 
 Build it beside your income until it has paid you something for six months. Chapter 41 calls this optionality: small cost, unlimited upside, and you cannot be ruined by it.
 
@@ -4382,7 +4492,7 @@ Build it beside your income until it has paid you something for six months. Chap
 
 **In Pidgin:** Before you spend money, make sure say person wey no be your friend go pay you, and say the money pass wetin the thing cost you. Sell am first before you build am. Collect deposit. And no leave your work until the business don pay you for six months.
 
-## 63. Choosing your legal form
+## 64. Choosing your legal form
 
 You have three realistic choices in Nigeria, and picking the wrong one costs you either money or protection.
 
@@ -4425,7 +4535,7 @@ Verify the current position at the CAC; these things change.
 
 **In Pidgin:** If na small trading you dey do alone, business name fit do. But if money, worker or risk dey inside, register limited company. Company na separate person for law — if e owe, na the company dem go chase, no be your house. But if you sign personal guarantee, the protection don finish.
 
-## 64. Registering with CAC, step by step
+## 65. Registering with CAC, step by step
 
 You can do this yourself, online, in days. People pay agents ₦100,000 for what costs a fraction of that, mostly because nobody told them the steps.
 
@@ -4453,7 +4563,7 @@ You can do this yourself, online, in days. People pay agents ₦100,000 for what
 
 - **Open a corporate bank account** — certificate, status report, TIN, directors' IDs and a board resolution.
 - **Register for tax** with FIRS, and with your state revenue service for PAYE if you will have staff.
-- **Register for VAT** if you will pass the turnover threshold; charge and remit it correctly. See Chapter 80.
+- **Register for VAT** if you will pass the turnover threshold; charge and remit it correctly. See Chapter 85.
 - **Get a company stamp and a simple letterhead.** Corporate clients ask for both.
 - **Diarise your annual return.** Every company must file each year. Not filing leads to penalties and eventually to being struck off, and it will be discovered at the worst moment — when a serious customer or investor does a search.
 
@@ -4465,7 +4575,7 @@ You can do this yourself, online, in days. People pay agents ₦100,000 for what
 
 **In Pidgin:** You fit register company yourself online for few days. Gather NIN, pick two name, fill form, pay, print certificate. Then open company account, register for tax, and set reminder for annual return. If you use agent, check the paper well — make sure na your name dey as owner.
 
-## 65. Founders, equity and the agreement you must write
+## 66. Founders, equity and the agreement you must write
 
 Most Nigerian startups that die do not die from competition. **They die from a fight between the people who started them**, and almost all of those fights were preventable with one document written while everybody was still friends.
 
@@ -4507,7 +4617,7 @@ A written agreement, signed, that covers:
 3. **What each person is putting in** — money, time, equipment, customers.
 4. **What happens if someone leaves**, is ill, stops working, or dies.
 5. **How new shares are issued**, and how existing owners are protected or diluted.
-6. **What happens to intellectual property** — see Chapter 67; it must belong to the company, not to a founder.
+6. **What happens to intellectual property** — see Chapter 68; it must belong to the company, not to a founder.
 7. **How a deadlock is broken.**
 8. **How the company can be sold**, and what happens if one founder wants out.
 9. **How disputes are resolved** — most Nigerian agreements now specify mediation then arbitration, which is faster than court.
@@ -4522,7 +4632,7 @@ A written agreement, signed, that covers:
 
 **In Pidgin:** No share the company 50/50 just because una be padi. Share am by wetin each person really dey bring — the person wey dey work full time every day dey carry pass. And make the share dey come small small for four years, nothing for the first year. Write am for paper, sign am with lawyer, before you start.
 
-## 66. Money in, money out: books, banking and tax
+## 67. Money in, money out: books, banking and tax
 
 A business you cannot measure is a business you cannot manage, cannot sell, cannot get a loan for, and cannot defend when the tax office arrives.
 
@@ -4530,7 +4640,7 @@ A business you cannot measure is a business you cannot manage, cannot sell, cann
 
 **1. Separate the money completely.** A company account for the company. A personal account for you. **Every naira the business earns goes into the business account.** You pay yourself a fixed salary on a fixed day.
 
-Mixing them is the most common failure. It hides whether you are profitable, it makes the company unsellable, it destroys the legal protection of Chapter 63, and it makes tax impossible to compute honestly.
+Mixing them is the most common failure. It hides whether you are profitable, it makes the company unsellable, it destroys the legal protection of Chapter 64, and it makes tax impossible to compute honestly.
 
 **2. Record everything, however roughly.** A notebook works. A spreadsheet works better. Free accounting software works best. What matters is that every sale and every cost is written down on the day it happens.
 
@@ -4555,7 +4665,7 @@ Photograph the notebook every week and email it to yourself. Phones get stolen.
 
 ### Tax for a young company, in plain terms
 
-Full detail is in Chapter 80. What a founder must know:
+Full detail is in Chapter 85. What a founder must know:
 
 - **Companies income tax** is charged on profit, at rates that step up with size. Under Nigeria's 2025 tax reform, **small companies below a defined turnover threshold pay 0%** — a significant relief, and one you only get if you are registered and filing.
 - **VAT** is charged on most goods and services at 7.5%. Once your turnover passes the registration threshold you must register, charge it, and remit it. **VAT you collect is not your money.** Treat it as held for the government from the day it lands.
@@ -4571,7 +4681,7 @@ Full detail is in Chapter 80. What a founder must know:
 
 **In Pidgin:** Company money for company account, personal money for personal account. Pay yourself salary every month. Write down every sale and every cost same day. And know say VAT wey you collect no be your money — na government own wey dey your hand.
 
-## 67. Protecting what you made
+## 68. Protecting what you made
 
 If your business has a name, a logo, a recipe, a design, a piece of software or a customer list, you own something that can be taken. Nigerian law protects it, but mostly only if you take the steps.
 
@@ -4610,7 +4720,7 @@ The pattern to avoid: you build a name for five years, someone registers it as a
 
 **In Pidgin:** CAC registration no dey protect your brand name — trademark na him dey do that one. Register your name and logo early. And make sure say every designer or developer wey work for you sign paper say the work belong to the company, if not na dem go own am.
 
-## 68. People: employees, contractors and the law
+## 69. People: employees, contractors and the law
 
 The moment somebody works for you, a set of legal duties attaches, whether or not you know about them and whether or not you have a contract.
 
@@ -4655,7 +4765,7 @@ Wrongful termination claims are increasingly successful in Nigeria. Do it proper
 - **Hire slowly.** Every employee is a fixed monthly cost that does not fall when revenue does (Chapter 10 on fragility).
 - **Use probation**, in writing, with a defined length.
 - **Contractors for variable work, employees for the core.** Getting this right controls your fixed costs.
-- **Every contract, including contractors, must assign intellectual property to the company** (Chapter 67).
+- **Every contract, including contractors, must assign intellectual property to the company** (Chapter 68).
 - **Never pay salaries late without telling people first.** The staff you keep through a hard month are the ones you told the truth to.
 
 **In plain words:** If someone works only for you, with your tools, at hours you set, they are an employee no matter what you call them. Give them a written contract within three months. Deduct their tax and pay it to the state. Pay pension and group life if you have three or more staff. When you must let someone go, follow the contract, keep written records, give them a hearing, and pay everything owed. Employment cases go to the National Industrial Court and employees win more often than they used to.
@@ -4664,7 +4774,7 @@ Wrongful termination claims are increasingly successful in Nigeria. Do it proper
 
 **In Pidgin:** If person dey work only for you, with your tools, for hours wey you set — na employee, no matter wetin you call am. Give am paper contract, deduct him tax, pay pension. If you wan sack person, follow the contract, keep record, hear am out, and pay everything wey you owe.
 
-## 69. Licences: the sectors where you cannot just start
+## 70. Licences: the sectors where you cannot just start
 
 Most businesses in Nigeria need only CAC registration and tax registration. Some need a licence, and operating without it is a criminal matter, not a paperwork one.
 
@@ -4699,7 +4809,7 @@ Most businesses in Nigeria need only CAC registration and tax registration. Some
 
 **In Pidgin:** Plenty business only need CAC and tax. But money business, health, food, drug, school and insurance need licence first — if you start without am, na crime. If na payment or lending you dey build, check CBN and FCCPC before you build, because the capital dem dey ask fit big pass wetin you get.
 
-## 70. The Nigeria Startup Act, and what it actually gives you
+## 71. The Nigeria Startup Act, and what it actually gives you
 
 In 2022 Nigeria passed a law specifically for technology startups. Most founders have heard of it. Few have read it, and fewer have used it.
 
@@ -4722,7 +4832,7 @@ In 2022 Nigeria passed a law specifically for technology startups. Most founders
 
 **My honest assessment**, since this book does not do promotion: the Act is a genuine improvement and the label is worth applying for if you qualify, because the application is cheap and the tax relief can be material. **But it is not a source of capital you should plan around.** Build a business that works without it, apply anyway, and treat anything you receive as an unexpected benefit rather than a line in your forecast.
 
-**And a note for non-tech founders:** the Act is aimed at digital technology businesses. If you run a bakery, a logistics company or a school, it is largely not for you — but the **small-company tax relief** in Chapter 80 is, and it is worth more to most small Nigerian businesses than the Startup Act.
+**And a note for non-tech founders:** the Act is aimed at digital technology businesses. If you run a bakery, a logistics company or a school, it is largely not for you — but the **small-company tax relief** in Chapter 85 is, and it is worth more to most small Nigerian businesses than the Startup Act.
 
 **In plain words:** Nigeria has a law made for technology startups. If your company is registered, under ten years old, building something digital and innovative, and meets the Nigerian ownership rules, you can apply for a Startup Label. The label can bring tax relief and easier access to regulators and grants. Applying is cheap, so apply if you qualify — but do not plan your business around money the government may give you.
 
@@ -4730,7 +4840,7 @@ In 2022 Nigeria passed a law specifically for technology startups. Most founders
 
 **In Pidgin:** Nigeria get law wey dem make for tech startup. If your company register, e never reach ten years, and na digital innovation you dey do, you fit apply for Startup Label. E fit give you tax relief and easier access to regulator. Apply if you qualify — but no build your plan on top money wey government fit give.
 
-## 71. Raising money
+## 72. Raising money
 
 Most Nigerian businesses should never raise outside money. They should get customers to pay them, which is cheaper and gives away nothing. Read that sentence twice before reading the rest of this chapter.
 
@@ -4768,7 +4878,7 @@ Beyond the amount and the valuation, these terms decide your life:
 - **Board composition.** Who controls decisions.
 - **Veto rights.** What you cannot do without investor consent — often raising more money, selling, hiring senior people, or changing the budget.
 - **Anti-dilution.** What happens to the investor's stake if you later raise at a lower price.
-- **Founder vesting.** Investors will require it (Chapter 65).
+- **Founder vesting.** Investors will require it (Chapter 66).
 - **Information rights and reporting.** What you must send, and how often.
 - **Drag-along and tag-along.** Who can force whom into a sale.
 
@@ -4793,7 +4903,7 @@ If you take it:
 
 **In Pidgin:** The best money na customer money. After that na your own savings. Investor money na last. If you sell part of the company, you don give away part of everything wey e go ever make. SAFE and convertible note look free today but na share tomorrow. And if you collect money from family, write am for paper and tell dem plain say the money fit lost.
 
-## 72. Growing: hiring, ESOPs, boards and staying alive
+## 73. Growing: hiring, ESOPs, boards and staying alive
 
 Growth breaks more Nigerian businesses than failure does, because growth consumes cash before it produces it.
 
@@ -4826,7 +4936,7 @@ Practical points: set aside a pool — commonly 5% to 15% of the company; use ve
 ### The three things that actually kill growing companies
 
 1. **Running out of cash** while profitable.
-2. **A founder dispute** that was never written down (Chapter 65).
+2. **A founder dispute** that was never written down (Chapter 66).
 3. **A regulatory or tax problem discovered late** — unfiled returns, an unremitted PAYE liability, a missing licence — usually surfacing during due diligence when you are raising money or selling, at the worst possible moment.
 
 **All three are administrative. None require competitors.**
@@ -4837,7 +4947,7 @@ Practical points: set aside a pool — commonly 5% to 15% of the company; use ve
 
 **In Pidgin:** Growth dey chop money before e bring money. Watch your account every week, and no collect order wey you no fit fund. If you no fit pay big salary, give staff share wey dem go earn small small — but tell dem true say e fit no worth anything. And file your annual return every year.
 
-## 73. When it does not work, and the exit
+## 74. When it does not work, and the exit
 
 Most businesses end. Ending one badly costs far more than ending it well, and in Nigeria founders often simply walk away from a registered company, which creates problems that follow them for years.
 
@@ -4873,7 +4983,7 @@ Most Nigerian businesses are sold to a competitor, a strategic buyer or a larger
 - **Audited or at least properly kept accounts** for three years.
 - **Contracts with customers and suppliers**, in writing.
 - **Employment contracts** and evidence of pension and PAYE remittance.
-- **Intellectual property owned by the company**, with assignments from every contractor (Chapter 67).
+- **Intellectual property owned by the company**, with assignments from every contractor (Chapter 68).
 - **No unresolved disputes.**
 
 **Almost every item on that list is free at the time and expensive to reconstruct later.** Deals collapse over missing paperwork far more often than over price, and a business with tidy records is worth measurably more than an identical business without them.
@@ -4886,13 +4996,254 @@ Most Nigerian businesses are sold to a competitor, a strategic buyer or a larger
 
 **In Pidgin:** Most business dey end. Decide before time wetin go make you stop, so the decision no go be panic. If e fail, pay your staff, pay the tax wey you deduct from dem, talk to creditor early, and close the company properly — no just abandon am. And if buyer come tomorrow, na your CAC filing, tax, account and paper dem go check.
 
-# Book VII — The law, plainly
+# Book VII — The trades: farming, importing, exporting
 
-> *Ohun tí a kò mọ̀ ni ó ń pa ni.* — **Yoruba:** it is what we do not know that kills us.
+> *Ẹni tí ó bá gbin ìrèké, kì í fi ẹnu bá a jẹ.* — **Yoruba:** he who plants sugarcane does not eat it with his mouth alone. What you grow must still be harvested, stored and sold.
 
-*Every chapter in this book sits on a law. This Book explains those laws in ordinary words: what they say, what rights they give you, what they require of you, and what to do when something goes wrong. It is written so that a person with no legal training can use it. It is not legal advice, it is a map — and where the amount at stake is large, pay a lawyer, which Chapter 82 explains how to do.*
+*Two kinds of business employ and feed more Nigerians than everything else in this book combined: growing things, and moving things across a border. Both are treated here as businesses with real numbers, not as slogans. Both are also the two areas where fraud is most common, so read Chapter 14 first.*
 
-## 74. How Nigerian law is arranged, and how to read a rule
+## 75. Farming as a business
+
+Agriculture employs more Nigerians than any other sector, and it is where the most money is lost per naira invested — not usually to fraud, but to four ordinary failures nobody plans for.
+
+**Before anything else, understand what you are choosing between:**
+
+| Way in | Capital needed | Risk | Suits |
+|---|---|---|---|
+| **Farming it yourself** | Land, inputs, labour, time | Highest — weather, pests, price, insecurity | Someone who will be present |
+| **Funding a farmer you know**, sharing the outcome | Moderate | High, and depends entirely on the person | Someone with a real relationship and the ability to visit |
+| **Processing or storage** — milling, drying, packaging | Moderate to high | Lower than growing; margins are steadier | Someone with a market already |
+| **Trading the produce** — buying at harvest, selling later | Working capital | Price and storage risk | Someone who understands one crop deeply |
+| **Listed agricultural companies** — through the Exchange | ₦20,000 upward | Market risk only | Anyone who wants exposure without the work |
+| **"Sponsor a farm, get 25% in six months"** | Any | **Total** | Nobody. See Chapter 14 |
+
+**That last row is not a joke.** The agro-investment platforms that collapsed in Nigeria did not fail because agriculture is bad. They failed because a **fixed return** was promised on an activity that has bad seasons. Real farming shares the outcome, good and bad, and says so in writing.
+
+### The four failures that actually lose the money
+
+**1. Post-harvest loss.** A very large share of Nigerian produce is lost between the farm and the buyer — spoilage, poor drying, bad storage, transport delay. **You can grow perfectly and lose a third of the value after harvest.** Storage and drying are not an afterthought; they are frequently where the profit is.
+
+**2. Selling at harvest.** Everybody harvests at the same time, so prices are at their lowest exactly when your crop is ready. Farmers who can store for three to six months routinely earn substantially more for the same crop. **Storage capacity is a financial instrument.**
+
+**3. No buyer arranged.** Growing before you know who buys is the agricultural version of building before you sell (Chapter 63). Arrange the **offtake** first — a processor, an aggregator, a school, a hotel, an exporter — preferably in writing, with the price basis stated.
+
+**4. Insecurity and access.** In parts of the country, farmland carries risks no yield model contains. Ask specifically what has happened in that local government area in the last two years, and who is physically present on the land.
+
+### The numbers to work out before you plant
+
+1. **Cost per hectare**, all in: land preparation, seed, fertiliser, chemicals, labour, harvest, drying, bagging, transport.
+2. **Realistic yield** for your area and your inputs — not the best case in a brochure. Ask the extension officer or three farmers nearby.
+3. **The price you can actually get**, at the time you will actually sell.
+4. **Contribution per hectare** = revenue minus cost. If it is thin, storage or processing is where you must go.
+5. **What happens in a bad year** — a flood, a drought, an outbreak. Can you survive one?
+
+### The instruments that exist for farmers
+
+- **Crop and livestock insurance** through NAIC and private insurers. Underused, and it converts a bad season from ruin into a claim.
+- **Warehouse receipts** — you store certified produce with a licensed warehouse, receive a receipt, and can sell or borrow against it. Exchanges such as AFEX operate this. **It is the formal answer to failures 1 and 2 above.**
+- **Bank of Agriculture and NIRSAL-supported lending**, and various government intervention schemes which appear and change. Ask, apply, and do not build the plan around them (Chapter 70).
+- **Cooperatives**, which buy inputs in bulk and aggregate produce for a better price. For a smallholder this is usually the single highest-return membership available.
+- **Anchor and outgrower arrangements** with processors, where inputs are supplied and the crop is bought at an agreed basis. Read the terms carefully; the price basis matters more than the free inputs.
+
+**And the honest financial point:** farming is a business with a long cash cycle. **Money goes out for months before anything comes in**, so your working capital must cover the whole cycle plus a bad month. A farmer without that cushion sells early, cheaply, to survive — which is failure number two, arriving through the front door.
+
+**The law on this.** Land for farming is subject to the **Land Use Act 1978** like all land — a right of occupancy from the Governor, and community or family land requires the same care as any other purchase (Chapter 82). Crop insurance is regulated by **NAICOM**. Warehouse receipt systems and commodity exchanges operate under **SEC** oversight. If you take deposits from the public to fund farms, that is a **regulated investment activity** under the Investments and Securities Act 2025, and doing it without SEC registration is unlawful — which is the legal reason so many agro-platforms were shut down.
+
+**What to do.**
+
+1. **Arrange the buyer before you plant.** In writing, with the price basis stated.
+2. **Budget storage and drying as part of the project**, not as an extra. That is where the profit hides.
+3. **Insure the crop** if insurance is available for it in your area.
+4. **Join a cooperative** for inputs and aggregation.
+5. **Never accept a fixed guaranteed return** from anyone offering you a farm investment, and check the SEC register before sending money.
+
+**In plain words:** Farming can make money, but most of it is lost after harvest, not during it. Arrange your buyer before you plant, budget for drying and storage, and try to sell a few months after harvest rather than at harvest when everyone sells and prices are lowest. Insure the crop. Join a cooperative to buy inputs cheaply. And never put money into any scheme promising a fixed return from farming, because real farming has bad seasons.
+
+**If you remember one thing:** in Nigerian agriculture the profit is usually in storage and timing rather than in growing — and anyone promising a guaranteed return from a farm is promising something farming cannot deliver.
+
+**In Pidgin:** Farming fit make money, but na after harvest most money dey lost — spoilage, bad storage, and selling when everybody dey sell. Find your buyer before you plant, budget for drying and storage, and insure the crop. And any scheme wey promise fixed 25% from farm — run, because farm no dey guarantee anything.
+
+## 76. Buying, storing and selling produce
+
+The people who make the most reliable money in Nigerian agriculture frequently never plant anything. They buy, store, move and sell — and the skills are different from farming.
+
+### The trade, in plain terms
+
+You buy a crop when it is cheap and plentiful, hold it while its price rises, and sell it before it deteriorates. **Your profit is the price change minus storage cost, minus losses, minus finance cost.**
+
+Three things decide whether you make money:
+
+1. **Buying well** — knowing the crop, the grade, the moisture content and the honest price in that market on that day.
+2. **Storing without loss** — moisture, pests, rodents, heat, and time. A poorly stored bag becomes a cheaper bag.
+3. **Selling at the right moment** — which requires the ability to *wait*, which requires capital that is not urgent.
+
+**That third point is the whole business.** The trader who must sell next week has no advantage over the farmer. Capital that can wait is what is actually being paid.
+
+### Quality and grade, which beginners ignore
+
+Every serious buyer pays by **grade**: moisture percentage, foreign matter, broken grains, aflatoxin levels for maize and groundnut, bean size, colour. **A trader who cannot assess grade will be paid the lowest grade every time** and will not know why.
+
+Learn the standard for your one crop. Buy a moisture meter. Reject wet produce however cheap it looks, because you are buying weight of water and future spoilage.
+
+### The formal route: warehouse receipts
+
+Take certified produce to a licensed warehouse. It is graded, weighed and stored. You receive a **warehouse receipt** — a document representing that specific quantity and grade. You can then sell the receipt, or in some arrangements borrow against it.
+
+**Why this matters:** it converts a heap of grain in a rented room into a financial instrument with a known grade, insured storage and a market. It removes the pest risk, the theft risk and much of the price uncertainty. Exchanges such as AFEX and the commodity exchanges operate these systems, under SEC oversight.
+
+The cost is storage and fees. **Compare that cost with what you currently lose to spoilage and shrinkage**, honestly, and the formal route frequently wins.
+
+### Financing the trade
+
+- **Your own capital first.** This trade rewards patience, and patience is impossible with borrowed money that must be repaid on a date.
+- **Cooperative or bank facilities**, if the rate is well below your expected margin. Do the arithmetic: if you expect a 25% price move over six months and you borrow at 25% a year, you have given away half your profit.
+- **Never borrow at app rates for a trade with a seasonal outcome.** Chapter 15.
+- **Warehouse receipt finance**, where available, is usually the cheapest because the lender holds real, graded, insured collateral.
+
+**And the risk nobody prices:** a price that does not move, or moves against you. Grain prices fall as well as rise, imports arrive, government releases strategic reserves, a border reopens. **Do not put all your capital into one crop in one season.** Chapter 10.
+
+**What to do.**
+
+1. **Learn one crop properly** — grades, moisture, seasons, who the real buyers are.
+2. **Buy a moisture meter and reject wet produce.**
+3. **Price storage loss honestly** and compare it with the cost of a licensed warehouse.
+4. **Only trade with capital that can wait**, because the waiting is the business.
+5. **Never put everything into one crop in one season.**
+
+**In plain words:** Many people make steady money in agriculture without farming, by buying crops when they are cheap, storing them properly, and selling later. Learn one crop well, including how buyers grade it. Buy a moisture meter, because wet produce spoils and you are paying for water. Consider a licensed warehouse, which grades and insures your goods and gives you a receipt you can sell. And only do this with money you can afford to leave alone, because the waiting is what earns the profit.
+
+**If you remember one thing:** in produce trading you are paid for the ability to wait, so borrowed money that must be repaid on a date removes the very advantage you are trying to sell.
+
+**In Pidgin:** Plenty people dey make steady money for agric without planting anything — dem buy when e cheap, store am well, sell later. Learn one crop well, buy moisture meter, and no buy wet produce. And use money wey fit wait, because na the waiting be the business.
+
+## 77. Importing
+
+A large share of Nigerian commerce is importing, and a large share of importers do not know what their goods actually cost until the container is at the port and the bills arrive.
+
+### What an import really costs
+
+The invoice from the supplier is often less than half of it. Budget every line **before** you order:
+
+| Cost | Note |
+|---|---|
+| Goods | The supplier's invoice |
+| Freight | Sea or air; sea is far cheaper and far slower |
+| Marine insurance | **Required for Form M**; also sensible |
+| Import duty | A percentage of value, by HS code |
+| Levies and surcharges | Varies by product category |
+| VAT on import | Charged at the border |
+| Clearing agent's fee | Negotiable, and a common place to be overcharged |
+| Terminal and shipping line charges | Substantial |
+| **Demurrage and storage** | **The killer.** Charged per day once free days expire |
+| Haulage from port | Lagos traffic is a cost |
+| Financing cost | If you borrowed |
+
+**The two lines that destroy small importers are demurrage and duty.** Demurrage because delays are normal and the meter runs daily. Duty because people budget from the goods price and are then presented with a bill computed on a value the customs system assigns, which may be higher than what they paid.
+
+**So: get your HS code and duty rate before you order**, not after. An agent or a customs consultant can tell you in an afternoon.
+
+### The paperwork, in order
+
+1. **Register the business and get a TIN** (Chapter 65).
+2. **Open a corporate account** with a bank that will act as your **authorised dealer**.
+3. **Form M** — an electronic declaration filed through your bank before shipment, for goods being imported. It is valid for a period and must match the shipment.
+4. **PAAR** — the Pre-Arrival Assessment Report issued by Customs after documents are processed; it states the duty payable.
+5. **Shipping documents** — bill of lading, commercial invoice, packing list, certificate of origin, and product certificates where required (**SONCAP** for regulated products, **NAFDAC** for food, drugs, cosmetics).
+6. **Pay duty and charges**, clear, and take delivery.
+
+**Do not import a product that requires NAFDAC or SON approval without obtaining it first.** The goods will sit at the port accumulating demurrage, or be destroyed.
+
+### Paying the supplier
+
+Options, from safest to riskiest for you:
+
+- **Letter of credit** — your bank pays the supplier only when the shipping documents match exactly. Expensive, slow, and the safest for a first-time relationship.
+- **Documentary collection** — cheaper, less protection.
+- **Part payment on order, balance on shipping documents** — the common compromise.
+- **Full payment in advance** — how most first-time Nigerian importers are defrauded by a "supplier" who does not exist.
+
+**Verify the supplier independently** before sending money: company registration in their country, a video call at their premises, references from other buyers, and a small trial order first. **A trial order that costs you ₦500,000 to learn is cheaper than a container that never ships.**
+
+### The currency point
+
+Your costs are in dollars and your revenue is in naira. **This is the mismatch that Chapter 27 warns about, and it is the single largest risk in importing.** If the naira falls between your order and your sale, your margin can disappear entirely.
+
+Defences: price with a buffer, hold some dollars before you need them, turn stock quickly rather than holding it, and **never fund an import with a naira loan you must repay on a fixed date when your goods may be delayed.**
+
+**The law on this.** Imports are governed by the **Customs and Excise Management Act** and the Nigeria Customs Service; foreign exchange for imports is regulated by the **CBN**, which requires a **Form M** through an authorised dealer bank and mandates marine insurance from a Nigerian insurer. Regulated products require **SONCAP** (Standards Organisation of Nigeria) or **NAFDAC** registration. Under-declaring value or misdeclaring an HS code is a **customs offence**, not a negotiation, and carries seizure and penalties. Money-laundering rules under the **2022 Act** apply to large payments.
+
+**What to do.**
+
+1. **Get the HS code and duty rate before you order.** Compute the full landed cost, including demurrage you should expect.
+2. **File Form M through your bank before shipment**, and obtain any SONCAP or NAFDAC approval first.
+3. **Never pay a new supplier in full in advance.** Trial order first; letter of credit for size.
+4. **Price with a currency buffer** and hold dollars before you need them.
+5. **Negotiate the clearing agent's fee**, and ask for the receipts for every charge paid on your behalf.
+
+**In plain words:** The supplier's price is often less than half of what an import really costs. Add freight, insurance, duty, VAT, terminal charges, the clearing agent and, above all, demurrage — which is charged daily if your goods sit at the port. Find out the duty rate before you order. File Form M through your bank before shipment and get NAFDAC or SON approval first if your product needs it. Never pay a new supplier in full before shipping. And remember your costs are in dollars while your sales are in naira, so a falling naira can wipe out your profit.
+
+**If you remember one thing:** compute the full landed cost including duty and expected demurrage before you place the order, because the supplier's invoice is usually less than half of what the goods will really cost you.
+
+**In Pidgin:** The price wey supplier give you no be the real cost. Add freight, insurance, duty, VAT, terminal charge, agent fee, and demurrage — wey dey count every day if your goods sit for port. Find out duty before you order. File Form M through your bank. And no pay new supplier full money before e ship.
+
+## 78. Exporting, and getting paid
+
+Exporting is the cleanest way for a Nigerian business to earn hard currency (Chapter 38), and the part that defeats most first-time exporters is not production. **It is getting paid.**
+
+### What Nigeria actually exports, apart from oil
+
+Sesame, cocoa, cashew, ginger, hibiscus, shea, gum arabic, charcoal, solid minerals, leather, garments, processed foods for diaspora markets, and — growing fast — **services**: software, design, animation, professional work, and creative content, which need no container at all.
+
+**Services are the easiest export to start.** No customs, no freight, no spoilage, and payment through ordinary channels. Chapter 38 covers this in full.
+
+### The paperwork for goods
+
+1. **Register the business**, get a TIN.
+2. **Register as an exporter with the NEPC** — the Nigerian Export Promotion Council. This is the basic licence to export commercially.
+3. **NXP form** — the export declaration filed through your bank, which is how your export proceeds are tracked and repatriated.
+4. **Certificate of origin** from NEPC or the chamber of commerce.
+5. **Product certificates** — phytosanitary certificate for plant products, SON or NAFDAC where applicable, fumigation certificate, quality and grading certificates the buyer requires.
+6. **Shipping documents** — bill of lading, commercial invoice, packing list.
+
+**Quality is where Nigerian exports get rejected.** Aflatoxin in groundnut and maize, moisture in sesame, pesticide residue, poor grading. **Test before you ship**, at an accredited laboratory, and give the buyer the certificate. A rejected container at a foreign port is a catastrophe: you pay to store it, to destroy it, or to bring it back.
+
+### Getting paid, which is the real subject
+
+**Never ship goods to a new foreign buyer on trust.** The routes, from safest:
+
+- **Advance payment** — best for you, hardest to get.
+- **Letter of credit** — the buyer's bank guarantees payment against matching documents. Standard for commodity exports and worth the cost. **Read the terms and meet every one exactly**; banks reject on small discrepancies.
+- **Documentary collection** — your bank releases documents against payment or acceptance. Cheaper, less certain.
+- **Part advance, balance against documents** — the usual compromise.
+- **Open account** — you ship and hope. Only for a buyer with years of history.
+
+**And the rule that follows from Chapter 11:** verify the buyer independently. Company registration, references, a video call, and a small first shipment. Export fraud runs in both directions.
+
+### Repatriating the proceeds
+
+Export proceeds must be received through your bank and reported against the NXP form. **This is not merely a rule to comply with — it is what makes your foreign earnings documented**, which matters for tax, for credit, for grants and for any incentive you later claim.
+
+**Incentives to ask about:** the **Export Expansion Grant** and NEPC support programmes exist in various forms and change with policy. Apply if you qualify; do not build the business on them (Chapter 70).
+
+**What to do.**
+
+1. **If you sell services, start there** — it is exporting without customs.
+2. **Register with NEPC** and file the NXP through your bank.
+3. **Test quality at an accredited laboratory before shipping**, and send the certificate with the goods.
+4. **Use a letter of credit or partial advance with a new buyer.** Never open account.
+5. **Receive proceeds through your bank** so the earnings are documented.
+
+**In plain words:** Nigeria exports far more than oil, and services — software, design, professional work — are the easiest export because there is no container. For goods, register with NEPC, file the NXP form through your bank, and get the certificates your product needs. Test quality in a laboratory before you ship, because rejected goods at a foreign port are a disaster. And never ship to a new buyer on trust: use a letter of credit or take part payment first.
+
+**If you remember one thing:** the hard part of exporting is not producing or shipping, it is getting paid — so use a letter of credit or partial advance with any new buyer, every time.
+
+**In Pidgin:** Nigeria dey export plenty thing pass oil, and service — software, design, professional work — na the easiest, because no container dey. For goods: register with NEPC, file NXP for your bank, test quality for lab before you ship. And never ship give new buyer on trust — collect part payment or use letter of credit.
+
+# Book VIII — The law, plainly
+
+*Every chapter in this book sits on a law. This Book explains those laws in ordinary words: what they say, what rights they give you, what they require of you, and what to do when something goes wrong. It is written so that a person with no legal training can use it. It is not legal advice, it is a map — and where the amount at stake is large, pay a lawyer, which Chapter 91 explains how to do.*
+
+## 79. How Nigerian law is arranged, and how to read a rule
 
 You do not need to be a lawyer. You need to know **where a rule comes from**, because that tells you who enforces it and where you complain.
 
@@ -4932,7 +5283,7 @@ You do not need to be a lawyer. You need to know **where a rule comes from**, be
 
 **In Pidgin:** Law dey come from constitution, federal, state, regulator, and court judgement. Company na federal, land na state, your personal tax na the state wey you dey live. Employment case dey go National Industrial Court, small money case dey go Small Claims Court where you fit go without lawyer. Before you go court, try the regulator complaint desk first.
 
-## 75. Contracts: what makes an agreement binding
+## 80. Contracts: what makes an agreement binding
 
 Most money you lose in Nigeria will be lost inside an agreement — a purchase, a job, a loan, a tenancy, a partnership. Knowing what makes one enforceable is the cheapest legal knowledge you can hold.
 
@@ -4984,13 +5335,13 @@ Even a one-page one:
 
 **In Pidgin:** Agreement dey binding when offer, acceptance, and something of value dey both sides. Mouth agreement fit count, but you no fit prove am — so write everything down, even for WhatsApp. Good agreement talk who, wetin, how much, when, and wetin go happen if e spoil. If person break agreement, write demand letter first.
 
-## 76. Company law, in plain words
+## 81. Company law, in plain words
 
-The **Companies and Allied Matters Act 2020 (CAMA)** governs every registered business in Nigeria. Chapter 63 covered choosing a form; this covers living with the rules.
+The **Companies and Allied Matters Act 2020 (CAMA)** governs every registered business in Nigeria. Chapter 64 covered choosing a form; this covers living with the rules.
 
 ### What a company is
 
-A **separate legal person**. It owns property, signs contracts, sues and is sued in its own name. Its debts are its own — that is the protection you registered for, and Chapter 63 explains the two ways to lose it.
+A **separate legal person**. It owns property, signs contracts, sues and is sued in its own name. Its debts are its own — that is the protection you registered for, and Chapter 64 explains the two ways to lose it.
 
 ### The people, and what each owes
 
@@ -5032,7 +5383,7 @@ CAMA and Nigeria's insolvency framework provide routes short of liquidation — 
 
 **In Pidgin:** Company na separate person for law. Shareholder dey own am, director dey run am and get real duty. File your annual return every year, even if company no do anything. Since 2020, one person fit form company and small company get lighter rules. If the company no fit pay debt, find advice quick — if you continue to trade, e fit follow you personally.
 
-## 77. Land and tenancy law
+## 82. Land and tenancy law
 
 Chapter 26 covered buying land practically. This covers the law under it, and the side most Nigerians actually experience: renting.
 
@@ -5076,9 +5427,15 @@ Tenancy is governed by **state** law — Lagos has the **Tenancy Law 2011**; oth
 
 **In Pidgin:** All land na Governor dey hold am for the state; wetin you buy na long lease. Any transfer need Governor consent before e complete. If you rent, you get right to written agreement and receipt. Landlord no fit lock you out or remove roof — na court fit remove person. Before you pay rent, confirm say the person really own the house.
 
-## 78. Employment law, from the worker's side
 
-Chapter 68 covered your duties as an employer. This is your protection as an employee.
+**In plain words:** Do the four highest-value things first: list your debts, get health cover, log into your pension, and open a money market fund. Then find three to five people who will check on each other once a quarter — runway and cover only, never pooled money and never tips. And pay a professional for a land purchase, a will, a big tax decision and insurance, but not to pick your investments.
+
+**If you remember one thing:** do the four highest-leverage things — the debt list, the health cover, the pension login, the money market fund — and put the annual review date in your calendar; everything else can wait a year.
+
+**In Pidgin:** Four things first: list your debt, get health cover, open your pension, open the fund. Then put the review date for your calendar. Everything else fit wait one year.
+## 83. Employment law, from the worker's side
+
+Chapter 69 covered your duties as an employer. This is your protection as an employee.
 
 ### What you are entitled to
 
@@ -5110,7 +5467,7 @@ Nigerian law has traditionally allowed an employer to terminate by giving the co
 
 **Unpaid salary arrears.** Where an employer — including a state government — owes months of salary, the debt does not disappear. Keep records, join collective action where it exists, and understand that this is a legal claim, not a favour you are waiting for.
 
-**Contracts that call you a consultant.** If you work only for one company, with their tools, at their hours, the law may treat you as an employee whatever the paper says (Chapter 68). That matters when you are dismissed, because it changes what you are owed.
+**Contracts that call you a consultant.** If you work only for one company, with their tools, at their hours, the law may treat you as an employee whatever the paper says (Chapter 69). That matters when you are dismissed, because it changes what you are owed.
 
 **In plain words:** You are entitled to written terms, your wages on time, leave, pension remitted to your RSA, group life cover and a safe workplace. If you are dismissed, collect every document, work out what you are owed, and write and ask for it. If they refuse, the National Industrial Court handles employment cases and workers often win. If your employer is not remitting your pension, report it to PenCom. Do not sign a final settlement before checking what you are owed.
 
@@ -5118,7 +5475,13 @@ Nigerian law has traditionally allowed an employer to terminate by giving the co
 
 **In Pidgin:** You get right to written terms, salary on time, leave, pension for your RSA, and group life. If dem sack you, gather every paper, calculate wetin dem owe you, write dem. If dem refuse, na National Industrial Court dey handle employment case and worker dey win. And if dem dey deduct your pension and no remit am, report to PenCom.
 
-## 79. Consumer, banking and financial services law
+
+**In plain words:** Here is where every number in this book came from, and which ones are calculations and which are judgement. Six months of expenses comes from how long job searches take. The 85/15 split comes from asking how much can be lost without hurting. The 20 to 40 per cent in dollars is the weakest number here, and the right method is to match it to your own foreign spending.
+
+**If you remember one thing:** I will defend the structures; treat every number as a considered starting point to be adjusted for your own obligations and horizon, and note that I have told you which is which.
+
+**In Pidgin:** I go defend the structure. The numbers na starting point — measure am against your own life.
+## 84. Consumer, banking and financial services law
 
 This chapter is about your rights as a customer of the financial system — and what to do when it goes wrong.
 
@@ -5167,7 +5530,13 @@ Under the **Investments and Securities Act 2025**:
 
 **In Pidgin:** If bank charge you wrongly or transfer fail, write dem, then carry am go CBN. Insurance refuse claim? Na NAICOM. Pension wahala? Na PenCom. Loan app wey dey message your contacts dey break law — report to FCCPC. And anybody wey dey collect investment money from public must dey SEC register.
 
-## 80. Tax law, plainly
+
+**In plain words:** This book tells you to check everybody, so here is how to check the book. The historical and legal claims and where they come from, and an honest list of the numbers I would defend least — unclaimed dividend totals, remittance figures, typical costs. If you find an error in a number, go to the source; it does not change the structure.
+
+**If you remember one thing:** check me the way I have told you to check everyone else — and if you find an error in a figure, that is a reason to verify at the source, not to discard the structure.
+
+**In Pidgin:** Check me the same way I tell you make you check everybody else. If you catch mistake for number, go source — no throw the whole book away.
+## 85. Tax law, plainly
 
 Chapter 32 covered tax as a cost. This covers it as a set of obligations, because the penalties fall on people who did not know they had them.
 
@@ -5216,7 +5585,7 @@ Nigeria's tax laws were substantially rewritten in 2025, effective from 2026. **
 
 **In Pidgin:** Your personal tax na the state wey you dey live. Company tax and VAT na FIRS. Collect TIN. If you dey work for person, check say dem really dey remit your tax. If you get business, register, charge VAT when you pass the threshold, and file every year even when you no owe — small company fit pay zero tax, but na only if dem dey file.
 
-## 81. Family, succession, and how disputes really end
+## 86. Family, succession, and how disputes really end
 
 The law that will most affect your family's money is not company law or tax law. It is the law of marriage, inheritance and dispute — and it is the least understood.
 
@@ -5269,11 +5638,362 @@ Which produces three practical instructions:
 
 **In Pidgin:** Three kind family law dey Nigeria — statutory, customary, and Islamic — and na how you marry dey decide which one apply to you. Find out, because e go decide wetin happen to your property. Supreme Court don talk say custom wey dey stop widow and daughter from inherit no be valid law. Write will, sign am, make two person wey no go inherit witness am, and tell your executor where e dey.
 
-# Book VIII — After the book
+# Book IX — The papers
+
+> *Wetin you no write, na wetin you no get.* — **Pidgin.**
+
+*Most people cannot act on advice until somebody shows them the words. This Book contains the letters and documents referred to throughout the book, written out so that you can copy them, change the names, and send them. They are deliberately plain. A short, clear, dated letter works better in Nigeria than a long angry one, and far better than a phone call.*
+
+## 87. Letters that get your money back
+
+**Four rules for all of them.** Put the date on it. State the amount and the reference number. Say exactly what you want. Give a deadline. Then keep a copy of what you sent and how you sent it.
+
+### Template — demand letter for money owed
+
+> [Your name and address]
+> [Date]
+>
+> [Their name and address]
+>
+> **Re: Outstanding payment of ₦[amount] — invoice [number] dated [date]**
+>
+> I refer to the agreement between us dated [date], under which I [supplied / delivered / completed] [describe briefly]. My invoice [number] for ₦[amount] was delivered to you on [date] and was due for payment on [date].
+>
+> As at today the sum of ₦[amount] remains unpaid. I have contacted your office on [dates] without resolution.
+>
+> I request payment of the full sum into [bank name, account name, account number] **within 14 days of the date of this letter**.
+>
+> If payment is not received by [date], I will take further steps to recover the debt, including legal action, without further notice to you. This letter may be produced in court as evidence of my demand.
+>
+> Yours faithfully,
+> [Name] [Signature] [Phone] [Email]
+
+**Notes.** Send it by email and by hand, and get a stamp or signature on your copy. Fourteen days is standard. Do not insult anybody in it; a rude letter helps them and not you.
+
+### Template — complaint to your bank (then to the CBN)
+
+> [Date]
+> The Branch Manager / Head, Customer Service
+> [Bank name and branch]
+>
+> **Re: Complaint — [failed transfer / wrong charge] of ₦[amount] on [date]. Account [number]**
+>
+> On [date] at approximately [time], a transfer of ₦[amount] was debited from my account [number] in favour of [beneficiary, bank, account number]. The transaction reference is [reference]. The beneficiary has confirmed that the funds were not received. / The sum of ₦[amount] was deducted from my account as [name of charge], which I did not authorise and which I believe is not permitted under the CBN Guide to Charges.
+>
+> I have reported this on [dates] through [channel] and the ticket number is [number]. The matter remains unresolved after [number] days.
+>
+> I request a full reversal of ₦[amount] to my account **within 14 days**, and a written explanation.
+>
+> If the matter is not resolved, I will escalate to the **Consumer Protection Department of the Central Bank of Nigeria**, and this letter and your response will form part of that complaint.
+>
+> Yours faithfully,
+> [Name] [Account number] [Phone] [Email]
+
+**Notes.** Nigerian banks resolve far more complaints once the CBN is named, because they must report unresolved consumer complaints. Attach the debit alert and any ticket numbers. If nothing happens in 14 days, send the whole file to the CBN's consumer protection department.
+
+### Template — insurance claim letter
+
+> [Date]
+> The Claims Manager, [Insurer]
+>
+> **Re: Claim under policy [number] — [motor / fire / health / life]**
+>
+> I hold policy number [number], which was in force on [date of incident]. On [date] at [place], the following occurred: [three or four plain sentences of what happened].
+>
+> I notified your office on [date] by [means], reference [number].
+>
+> I attach: [police report / photographs / medical report and receipts / repair estimate / death certificate / proof of ownership].
+>
+> The amount claimed is ₦[amount]. I request settlement **within 30 days** in accordance with the policy and applicable regulations.
+>
+> Please confirm receipt of this claim in writing.
+>
+> Yours faithfully, [Name] [Policy number] [Phone]
+
+**Notes.** Notify within the deadline in your policy — sometimes 48 hours. If the claim is refused and you believe the refusal is wrong, send the full file to **NAICOM's complaints bureau**, quoting the policy number and the insurer's response.
+
+### Template — escalation to a regulator
+
+> [Date]
+> [SEC / NAICOM / PenCom / FCCPC / CBN Consumer Protection Department]
+>
+> **Re: Complaint against [company name] — [subject], amount involved ₦[amount]**
+>
+> **1. Who I am:** [name, address, phone, email].
+> **2. Who the complaint is against:** [company name, address, registration number if known].
+> **3. What happened:** [dated sequence of events, briefly, in numbered points].
+> **4. What I have already done:** [dates of complaints to the company, references, their response].
+> **5. What I am asking for:** [refund of ₦X / remittance of my pension contributions / settlement of my claim / investigation].
+> **6. Attached:** [numbered list of documents].
+>
+> Yours faithfully, [Name] [Signature]
+
+**Notes.** Numbered points and a document list are what make a complaint easy to act on. Send by email and keep the delivery confirmation.
+
+**In plain words:** These are letters you can copy. Put the date, the amount and the reference number in every one. Say exactly what you want and give a deadline of fourteen days. Send it by email and by hand and keep your copy. If the company does not respond, send the same file to the regulator — banks to the CBN, insurers to NAICOM, pensions to PenCom, loan apps to the FCCPC.
+
+**If you remember one thing:** a short dated letter that states the amount, the reference and a deadline gets more money back in Nigeria than any number of phone calls.
+
+**In Pidgin:** Na letter dey work pass call. Put date, amount and reference for the paper, talk wetin you want, give dem 14 days. Send am by email and by hand, keep your copy. If dem no respond, carry the same file go the regulator.
+
+## 88. Letters about work, school and rent
+
+### Template — asking for a raise
+
+> [Date] — Email to your manager
+>
+> **Subject: Review of my compensation**
+>
+> Dear [Name],
+>
+> I would like to discuss my compensation, and I have set out below what I have delivered this year so that we can talk about it with the facts in front of us.
+>
+> **What I have delivered since [date]:**
+> 1. [Specific outcome, with a number if possible.]
+> 2. [Specific outcome, with a number.]
+> 3. [Additional responsibility taken on, and when.]
+>
+> **What the role now covers** that it did not when my current salary was set: [one or two lines].
+>
+> Based on this, and on what the role pays elsewhere, I am asking for a review to ₦[amount] per month, effective [date].
+>
+> I am happy to discuss at your convenience.
+>
+> [Name]
+
+**Notes.** Ask after a delivery, not in a bad month. State a number rather than asking what they think. And know what the role pays elsewhere before you send it (Chapter 37).
+
+### Template — asking a school for instalments
+
+> [Date]
+> The Head Teacher / Bursar, [School]
+>
+> **Re: Fees for [child's name], [class], [term] — request for a payment arrangement**
+>
+> I am writing before the start of term rather than after, because I want to be clear with you.
+>
+> Because of [briefly: a change in my employment / a medical situation / a delay in payment to my business], I am not able to pay the full fees of ₦[amount] by [date].
+>
+> I propose to pay as follows: ₦[amount] on [date], ₦[amount] on [date], and the balance of ₦[amount] on [date].
+>
+> I have paid this school on time for [number] terms and I intend to continue. I would be grateful if you would confirm whether this arrangement is acceptable.
+>
+> Yours faithfully, [Name] [Phone]
+
+**Notes.** Early and specific works; late and vague does not. Most Nigerian schools will accept a plan from a parent who comes before the term, and refuse the same parent at examination time.
+
+### Template — asking a landlord to restructure rent
+
+> [Date]
+> [Landlord / agent name]
+>
+> **Re: [Property address] — rent due [date]**
+>
+> I have been a tenant at [address] since [date] and have paid my rent on time throughout.
+>
+> Because of [brief reason], I am not able to pay the full annual rent of ₦[amount] in one sum on [date]. I propose instead to pay [quarterly / half-yearly] as follows: ₦[amount] on [dates].
+>
+> I would prefer to continue as your tenant on this basis than to give notice, and I am raising it now, well before the due date, so that we both have time.
+>
+> Yours faithfully, [Name] [Phone]
+
+**Notes.** A paying tenant is worth more to a landlord than an empty flat and a court process. Ask early.
+
+### Template — setting a family support boundary
+
+*Not a formal letter. A message you can adapt, because the hardest refusals are the ones you have no words for (Chapter 61).*
+
+> "I want to help properly and for a long time, and for me to do that it has to be a fixed amount I can plan around. From [month] I will be sending ₦[amount] on the [date] of every month, without you having to ask. That is what I can sustain. If something urgent comes up beyond that, tell me and I will see what is possible, but I cannot promise it."
+
+**And for an investment you are declining:**
+
+> "It may well work — I am not saying anything against it. I have a rule that I do not put money into anything within two weeks of hearing about it, and only through my broker. It is not about this one."
+
+**In plain words:** These are the four conversations people avoid until it is too late. Ask for a raise with a list of what you delivered and a specific number. Ask the school before the term starts, not at exam time. Ask the landlord months before the rent is due. And tell your family a fixed monthly amount instead of saying yes to everything and then disappearing.
+
+**If you remember one thing:** every one of these letters works far better sent early than sent late, and the person who comes before the deadline is treated completely differently from the one who comes after it.
+
+**In Pidgin:** Na these four conversation people dey avoid until e too late. Ask for raise with list of wetin you don deliver. Talk to school before term start, no be exam time. Talk to landlord before rent due. And tell your family one fixed amount every month instead of saying yes to everything.
+
+## 89. Papers for your family and your property
+
+### The master document
+
+*One page. Chapter 50 explains why this may be the most valuable thing you ever write.*
+
+> **MY FINANCIAL RECORD — [Name] — updated [date]**
+>
+> **Bank accounts:** [bank, account number] × each
+> **Domiciliary account:** [bank, number]
+> **Money market fund / other funds:** [manager, account number]
+> **Stockbroker:** [firm, account number]. **CHN / CSCS number:** [number]
+> **Registrars for shares I hold:** [names]
+> **Pension:** [PFA name, RSA PIN]
+> **Health insurance:** [insurer/HMO, policy number, claims line]
+> **Life insurance:** [insurer, policy number, beneficiary named]
+> **Other insurance:** [motor, property — insurer and policy numbers]
+> **Property:** [description, where the original documents are kept]
+> **Business:** [name, RC number, TIN, where records are]
+> **Cooperative:** [name, membership number]
+> **Foreign accounts or platforms:** [name, reference]
+> **People who owe me money:** [name, amount, evidence]
+> **People I owe:** [name, amount]
+> **My will is deposited at:** [place]. **My executor is:** [name, phone]
+> **My lawyer is:** [name, phone]
+> **A copy of this page is held by:** [name, phone]
+
+### Will checklist
+
+*Take this to a lawyer. It is not a substitute for one.*
+
+1. Full name, address, and a statement revoking any earlier will.
+2. **Executor** — name, address, and a substitute if they cannot act. Choose someone competent and preferably younger than you.
+3. **Guardian** for children under 18.
+4. **Specific gifts** — item, and who gets it.
+5. **The residue** — everything else, and to whom, in what shares.
+6. **Funeral wishes**, if you want to spare your family the argument in Chapter 46.
+7. **Signature**, dated, in the presence of **two witnesses who are not beneficiaries and are not married to beneficiaries.**
+8. Deposit at the **Probate Registry** of your State High Court, or with a corporate trustee. **Tell your executor where it is.**
+
+### Next of kin — the instruction people forget
+
+Fill in the next-of-kin field on **every** account: bank, brokerage, RSA, insurance, fund, cooperative. Then do the part that is usually missed:
+
+> **Tell the person you have named**, and give them a copy of the master document above.
+
+A next-of-kin field is how an institution knows who to contact. **It is not an instruction about inheritance** — the will governs that.
+
+### Land purchase — the checklist to hand your lawyer
+
+*Chapter 26 explains each item. Pay a kobo only after item 5.*
+
+1. ☐ Seller's identity verified, and their authority to sell established (family land: which branch, who signs).
+2. ☐ All title documents collected — C of O or deed chain, survey plan, previous deeds, excision and gazette.
+3. ☐ **My own** lawyer instructed — not the seller's, not the agent's recommendation.
+4. ☐ Official search at the state land registry, **result received in writing**.
+5. ☐ Charting at the Surveyor-General's office — not in an acquisition, setback or right of way.
+6. ☐ Physical inspection twice, including in the rainy season; neighbours asked where the water goes and who else claims it.
+7. ☐ Community or omo onile position established in writing with recognised representatives.
+8. ☐ Full cost computed including **Governor's Consent**, stamp duty, registration, agency and legal fees.
+9. ☐ Payment staged against document delivery, into a traceable account, receipts referencing the property.
+10. ☐ Deed executed, stamped, registered; **Consent application started immediately**.
+11. ☐ Entire file scanned and stored where my family can find it.
+
+### Tenancy checklist
+
+1. ☐ Confirmed the person letting it owns it or is authorised — title document seen.
+2. ☐ Written tenancy agreement received and read **before** paying.
+3. ☐ What is included stated in writing: service charge, power, water, repairs, who fixes what.
+4. ☐ Paid into a traceable account; **receipt collected**, describing the property and the period.
+5. ☐ Condition photographed on the day of entry.
+6. ☐ Notice period and renewal terms understood (Chapter 82).
+
+**In plain words:** These are the papers your family will need and the checklists that stop you being cheated. Write the one-page record of every account you have and give a copy to one person. Write a will with two witnesses who inherit nothing and tell your executor where it is. Fill in next of kin on every account and tell the person. And before buying land or renting, work through the checklists in order and pay nothing until the searches are done.
+
+**If you remember one thing:** the one-page record of your accounts takes an hour to write and is worth more to your family than any investment you will ever choose.
+
+**In Pidgin:** These na the paper wey your family go need. Write one page wey list every account you get, give copy to one person you trust. Write will, make two person wey no go inherit witness am, tell your executor where e dey. And before you buy land, follow the checklist — no pay anything until the search finish.
+
+## 90. Papers for your business
+
+### Founders' agreement — the checklist
+
+*Take this to a lawyer. Chapter 66 explains why it is the best legal money you will spend.*
+
+1. ☐ Who owns what percentage, and **why** — recorded so it can be explained later.
+2. ☐ **Vesting**: four years, one-year cliff, monthly thereafter. What happens to unvested shares on departure.
+3. ☐ Roles, and who has the final say on which decisions.
+4. ☐ What each founder contributes — money, full-time work, equipment, customers — and what happens if they stop.
+5. ☐ **Intellectual property assigned to the company**, by every founder.
+6. ☐ What happens on death, illness, or a founder leaving.
+7. ☐ How new shares are issued and how existing holders are affected.
+8. ☐ How deadlock is broken.
+9. ☐ Restrictions on selling shares; drag-along and tag-along.
+10. ☐ Confidentiality, and non-compete where lawful.
+11. ☐ Dispute resolution — mediation, then arbitration.
+
+### Template — contractor agreement, the clauses that matter
+
+*A short agreement is far better than none. These are the parts people leave out.*
+
+> **1. The work.** The Contractor will [describe the deliverable precisely], to be delivered by [date].
+>
+> **2. Payment.** ₦[amount], payable [X]% on signature and the balance on delivery and acceptance. Late payment attracts [rate]% per month.
+>
+> **3. Ownership of work.** **All intellectual property in the work — including code, designs, drawings, text and any materials created under this agreement — belongs to the Company on creation, and the Contractor hereby assigns all such rights to the Company.** The Contractor will sign any further document needed to give effect to this.
+>
+> **4. Confidentiality.** The Contractor will not disclose the Company's information to anyone, during or after this engagement.
+>
+> **5. Status.** The Contractor is an independent contractor and not an employee, and is responsible for their own taxes.
+>
+> **6. Termination.** Either party may end this agreement on [number] days' written notice. Work completed to that date will be paid for.
+>
+> **7. Law and disputes.** This agreement is governed by Nigerian law. Disputes will be referred to mediation and, failing that, arbitration in [city].
+>
+> Signed: [Company, by an authorised person] [Contractor] [Dates]
+
+**Clause 3 is the one people omit, and it is the one that loses companies their product.** Without it, the freelancer you paid may own what you built (Chapter 68).
+
+### Template — invoice that actually gets paid
+
+> **INVOICE [number]** — [Date]
+>
+> **From:** [Company name, RC number, TIN, address, phone, email]
+> **To:** [Customer name and address]
+>
+> **Description:** [what you did]   **Quantity:** [ ]   **Rate:** ₦[ ]   **Amount:** ₦[ ]
+>
+> **Subtotal:** ₦[amount]  **VAT (7.5%, if registered):** ₦[amount]  **Total due:** ₦[amount]
+>
+> **Payment due:** [date — state a date, not "on receipt"]
+> **Pay to:** [bank name, account name, account number]
+> **Terms:** Late payment attracts [rate]% per month from the due date.
+> **Withholding tax:** Where WHT is deducted, please forward the credit note.
+
+**Notes.** A due date, an account number and stated late-payment terms measurably shorten how long Nigerian customers take to pay. And always collect the WHT credit note — it is money against your own tax (Chapter 67).
+
+### Template — payment plan letter to a creditor
+
+*Chapter 15. Send it before you default, not after.*
+
+> [Date] — To [Lender]
+>
+> **Re: Facility [number] — proposal for restructuring**
+>
+> I currently owe ₦[amount] under the above facility. My monthly obligation is ₦[amount].
+>
+> Because of [brief, factual reason], I am not able to maintain that schedule. **I am writing before missing a payment rather than after.**
+>
+> I propose: [extend the tenor to X months, reducing the monthly payment to ₦Y] / [interest only for X months, resuming full payments on date Z] / [a lump sum of ₦X now and the balance over Y months].
+>
+> I can sustain this and I intend to repay the facility in full. Please confirm in writing whether this is acceptable.
+>
+> Yours faithfully, [Name] [Account/facility number] [Phone]
+
+### Business housekeeping — the annual checklist
+
+1. ☐ **Annual return filed at CAC** (Chapter 81).
+2. ☐ Registers updated — members, directors, persons with significant control.
+3. ☐ Company income tax return filed, even if nil (Chapter 85).
+4. ☐ VAT returns filed monthly if registered.
+5. ☐ PAYE remitted monthly for every employee; pension remitted; group life in force.
+6. ☐ Tax clearance certificate obtained.
+7. ☐ Every contractor has signed an agreement with the IP clause.
+8. ☐ Insurance renewed and sums insured updated to current values.
+9. ☐ Licences renewed for your sector.
+10. ☐ Accounts prepared, and audited if required.
+
+**In plain words:** These are the business documents worth having. A founders' agreement, written before you start, that says who owns what and that shares are earned over four years. A contractor agreement with the clause that gives your company ownership of the work — without it, the person you paid may own it. An invoice with a due date, an account number and late-payment terms. A letter proposing a payment plan, sent before you miss a payment. And a yearly checklist so your filings never fall behind.
+
+**If you remember one thing:** put the intellectual-property clause in every contractor agreement and file your annual return every year — those two habits protect more value than anything else on this list.
+
+**In Pidgin:** These na the business paper wey worth am. Founders agreement before you start. Contractor agreement wey talk say the work belong to the company — if not, na the person wey you pay go own am. Invoice wey get due date, account number and late-payment terms. And file your annual return every year.
+
+# Book X — After the book
 
 *The book has told you what to do. This last Book is about doing it: the sequence for the next thirty days, the people who will keep you honest, when to pay a professional, where my numbers came from, how to check my facts, and how to find anything in here again.*
 
-## 82. After the book: thirty days, a circle, and when to pay for help
+## 91. After the book: thirty days, a circle, and when to pay for help
 
 
 *The most common outcome of reading a financial book is a good feeling followed by nothing. This appendix exists to make that harder.*
@@ -5303,7 +6023,7 @@ Do them in this order. The ranking is by **how much harm each one prevents per h
 | 27 | **Write the master document** (Chapter 35, Part 5) | 1 hour | The page your family will need |
 | 28 | **Book the lawyer for the will** | 15 minutes | Bounded cost, unbounded loss avoided |
 | 29 | **Put the annual review date in your calendar** | 2 minutes | The whole system depends on this one entry |
-| 30 | **Tell one person what you have done and what your rules are** | 1 conversation | Makes the rules real, and pre-arms you for Chapter 61 |
+| 30 | **Tell one person what you have done and what your rules are** | 1 conversation | Makes the rules real, and pre-arms you for Chapter 62 |
 
 **If you can only do four:** the debt list, the health cover, the pension login, and the money market fund. In that order. Everything else can wait a year without much cost. Those four cannot.
 
@@ -5374,13 +6094,7 @@ The answer, and more importantly the reaction to being asked, will tell you most
 
 *The book ends here. The worksheet, the review questions and the thirty-day list do not. If in a year you have a floor, cover, a pension you have logged into, a written page of percentages and one refusal you are proud of, the book worked — regardless of what any market did.*
 
-
-**In plain words:** Do the four highest-value things first: list your debts, get health cover, log into your pension, and open a money market fund. Then find three to five people who will check on each other once a quarter — runway and cover only, never pooled money and never tips. And pay a professional for a land purchase, a will, a big tax decision and insurance, but not to pick your investments.
-
-**If you remember one thing:** do the four highest-leverage things — the debt list, the health cover, the pension login, the money market fund — and put the annual review date in your calendar; everything else can wait a year.
-
-**In Pidgin:** Four things first: list your debt, get health cover, open your pension, open the fund. Then put the review date for your calendar. Everything else fit wait one year.
-## 83. How I got these numbers
+## 92. How I got these numbers
 
 I have given you a great many specific figures — six months of expenses, 85/15, 20% to 40% in hard currency, no more than 10% in one company, two weeks before any commitment, three to five people in a circle. They are stated with more confidence than their derivation deserves, and a book that tells you to interrogate everyone's incentives should show its own working.
 
@@ -5388,7 +6102,7 @@ So here it is, honestly, including where the number is a judgement rather than a
 
 **Six months of expenses.**
 
-Not from a formula. From three observations. Nigerian job searches at professional level commonly run three to nine months; state-sector salary arrears have run to many months; and a household that must liquidate investments inside three months of a shock is forced to sell into whatever the market is doing, which is Chapter 54's argument. Six sits above the median search and below the point where the opportunity cost of holding idle money becomes painful.
+Not from a formula. From three observations. Nigerian job searches at professional level commonly run three to nine months; state-sector salary arrears have run to many months; and a household that must liquidate investments inside three months of a shock is forced to sell into whatever the market is doing, which is Chapter 55's argument. Six sits above the median search and below the point where the opportunity cost of holding idle money becomes painful.
 
 **It is a compromise, and here is the direction of the error:** if your income is irregular, or your sector is small, or you are the only earner, six is too few and nine to twelve is better. If you have a second earner in a different sector and no dependants, four is defensible. **The number is a function of how correlated your income is with everything else you own** — and most Nigerians' incomes are far more correlated with their other assets than they realise.
 
@@ -5418,21 +6132,15 @@ A judgement, informed by one calculation: at a 10% position, a total loss requir
 
 Purely empirical, and the evidence is one-sided. Nearly every scheme in Chapter 14 required a decision inside a shorter window; almost no legitimate investment is damaged by a fortnight's delay. **The rule works because it is asymmetric, not because two weeks is magic.** Three days would filter less; a month would cost you occasional genuine opportunities.
 
-**Three to five people in a circle** (Chapter 82). Group behaviour, not finance: below three there is no accountability, and above five a meeting becomes a forum, forums produce consensus, and consensus is how everyone ends up holding the same thing.
+**Three to five people in a circle** (Chapter 91). Group behaviour, not finance: below three there is no accountability, and above five a meeting becomes a forum, forums produce consensus, and consensus is how everyone ends up holding the same thing.
 
 **Round-trip trading costs of 2%–3%.** Derived from the published components — brokerage, SEC, NGX, CSCS, stamp duty, VAT — plus a spread estimate. **The spread is the soft part**; in liquid bank shares the true figure is lower, and in small companies it can be considerably higher.
 
-**And the numbers I have simply asserted:** that the calendar fund should carry last year's ceremonial spending plus 20% (Chapter 46); that ninety days is the right parking period for a windfall (Chapter 59); that forty-eight hours is the right freeze after a shock (Chapter 54). **These are heuristics chosen because they are long enough to break the reflex and short enough to be followed.** I have no evidence that ninety-one days would be worse.
+**And the numbers I have simply asserted:** that the calendar fund should carry last year's ceremonial spending plus 20% (Chapter 46); that ninety days is the right parking period for a windfall (Chapter 60); that forty-eight hours is the right freeze after a shock (Chapter 55). **These are heuristics chosen because they are long enough to break the reflex and short enough to be followed.** I have no evidence that ninety-one days would be worse.
 
 > Where I have given you a structure, I will defend it. Where I have given you a number, treat it as a considered starting point that you should adjust for your own correlations, obligations and horizon — and note that I have told you which is which, because a writer who presents both with equal confidence is not being careful, he is being persuasive.
 
-
-**In plain words:** Here is where every number in this book came from, and which ones are calculations and which are judgement. Six months of expenses comes from how long job searches take. The 85/15 split comes from asking how much can be lost without hurting. The 20 to 40 per cent in dollars is the weakest number here, and the right method is to match it to your own foreign spending.
-
-**If you remember one thing:** I will defend the structures; treat every number as a considered starting point to be adjusted for your own obligations and horizon, and note that I have told you which is which.
-
-**In Pidgin:** I go defend the structure. The numbers na starting point — measure am against your own life.
-## 84. Sources, and how to check me
+## 93. Sources, and how to check me
 
 This book tells you to verify everything and then makes a great many factual claims of its own. That is an uncomfortable position to leave you in, so here is where the claims come from and how to check them.
 
@@ -5442,7 +6150,7 @@ This book tells you to verify everything and then makes a great many factual cla
 
 **The £20 payment (Chapter 5).** That Biafran currency holdings were demonetised at the end of the civil war in January 1970 and account holders received a flat payment of twenty pounds is a matter of extensive public record and has been examined in Nigerian economic history, in memoir, and in a substantial body of subsequent commentary on its consequences for capital formation in the South East. The precise administrative details are disputed in places; **the flat-payment fact is not.**
 
-**The Udoji awards (Chapter 59).** The 1974 Udoji Commission and the 1975 implementation with arrears, and the subsequent inflationary episode, are documented in Nigerian public-finance history and in contemporaneous CBN and NBS material.
+**The Udoji awards (Chapter 60).** The 1974 Udoji Commission and the 1975 implementation with arrears, and the subsequent inflationary episode, are documented in Nigerian public-finance history and in contemporaneous CBN and NBS material.
 
 **The indigenisation decrees (Chapter 20).** The Nigerian Enterprises Promotion Decrees of 1972 and 1977 are statutes; their text and the schedules of affected enterprises are in the public record.
 
@@ -5458,14 +6166,14 @@ This book tells you to verify everything and then makes a great many factual cla
 
 **The Land Use Act 1978, the Pension Reform Act 2014, the Investments and Securities Act 2025, the National Health Insurance Authority Act 2022, and the 2025 tax legislation** are statutes. Where I describe their effect I am summarising, sometimes heavily, and the summaries are the parts of this book most likely to be wrong at the edges.
 
-**Matrimonial and customary law (Chapter 57)** is the area where I have compressed most aggressively and where you should rely on me least.
+**Matrimonial and customary law (Chapter 58)** is the area where I have compressed most aggressively and where you should rely on me least.
 
 ### The estimates I cannot fully stand behind
 
 In fairness, these are the claims I would defend least strongly:
 
 - **Unclaimed dividends** in Nigeria running to "hundreds of billions of naira." Figures cited by the SEC and in the press have varied considerably over the years.
-- **Remittance totals** (Chapter 60). World Bank and CBN figures differ, sometimes materially, because they measure different flows.
+- **Remittance totals** (Chapter 61). World Bank and CBN figures differ, sometimes materially, because they measure different flows.
 - **The share of employment that is informal** (Chapter 31). Estimates depend heavily on definition.
 - **Typical costs** — burials, perfection costs, agent charges. These are ranges from observation, not survey data, and they vary enormously by state, town and family.
 
@@ -5477,123 +6185,138 @@ You will. **A book of this size about a country changing this fast contains mist
 
 > I would rather be wrong in a way you can check than right in a way you cannot.
 
-
-**In plain words:** This book tells you to check everybody, so here is how to check the book. The historical and legal claims and where they come from, and an honest list of the numbers I would defend least — unclaimed dividend totals, remittance figures, typical costs. If you find an error in a number, go to the source; it does not change the structure.
-
-**If you remember one thing:** check me the way I have told you to check everyone else — and if you find an error in a figure, that is a reason to verify at the source, not to discard the structure.
-
-**In Pidgin:** Check me the same way I tell you make you check everybody else. If you catch mistake for number, go source — no throw the whole book away.
-## 85. Where to find things
+## 94. Where to find things
 
 *A topical index. The book is long enough that the contents page is no longer the fastest route to an answer, and page numbers move between editions while chapter numbers do not.*
 
 | Topic | Chapter |
 |---|---|
 | Agent banking, POS charges, USSD costs | 19 |
+| Agriculture, farming as a business | 75 |
 | Ajo, esusu, adashe | 29 |
 | Amana, trade credit, northern networks | 30 |
 | Annual review protocol | 48 |
-| Aphorisms | 86 |
+| Aphorisms | 95 |
 | Aso-ebi | 46 |
 | Asset allocation by life stage | 47 |
 | August meeting, town union levies | 46 |
-| Bank charges, failed transfers, your rights | 79 |
-| Barbell, the structure | 34 |
+| Bank charges, failed transfers, your rights | 84 |
 | Barbell worksheet | 35 |
+| Barbell, the structure | 34 |
 | Bonds — FGN, coupons, price and yield | 18 |
-| Books and records for a business | 66 |
+| Books and records for a business | 67 |
 | Burial costs and planning | 46 |
-| CAC registration, step by step | 64 |
-| Cap table, dilution | 71 |
-| Capital gains tax | 32, 80 |
-| Cash scarcity, redundancy in payments | 19, 58 |
+| Business housekeeping, annual checklist | 90 |
+| CAC registration, step by step | 65 |
+| Cap table, dilution | 72 |
+| Capital gains tax | 32, 85 |
+| Cash scarcity, redundancy in payments | 19, 59 |
 | Children — allowance, accounts, teaching | 44 |
-| Circle of four, accountability | 82 |
-| Company law (CAMA 2020) | 76 |
+| Circle of four, accountability | 91 |
+| Company law (CAMA 2020) | 81 |
 | Compounding, Rule of 72 | 9 |
-| Contracts — what makes one binding | 75 |
+| Contractor agreement, IP clause | 90 |
+| Contracts — what makes one binding | 80 |
 | Cooperatives | 29, 39 |
-| Courts — which one, for what | 74 |
+| Courts — which one, for what | 79 |
 | CSCS, CHN, opening a broker account | 20 |
 | Currency matching to liability | 27, 38 |
-| Data protection (NDPA 2023) | 69, 79 |
+| Data protection (NDPA 2023) | 70, 84 |
 | Debt — hierarchy, loan apps, restructuring | 15 |
-| Devaluation, first 48 hours after | 54 |
-| Diaspora, remittances, building from abroad | 60 |
-| Divorce and separation | 57, 81 |
+| Demand letter for money owed | 87 |
+| Devaluation, first 48 hours after | 55 |
+| Diaspora, remittances, building from abroad | 61 |
 | Dividends, e-dividend mandate, unclaimed | 51 |
+| Divorce and separation | 58, 86 |
 | Dollar assets, Eurobonds, dom accounts | 27 |
 | Education funds, school fees | 44 |
-| Emergency fund — size and derivation | 19, 83 |
-| Employees — hiring, contracts, dismissal | 68 |
-| Employment rights as a worker | 78 |
-| Estate, wills, incapacity, master document | 50, 81 |
+| Emergency fund — size and derivation | 19, 92 |
+| Employees — hiring, contracts, dismissal | 69 |
+| Employment rights as a worker | 83 |
+| Estate, wills, incapacity, master document | 50, 86 |
 | ETFs and index investing | 23 |
-| Exit, selling a business | 73 |
+| Exit, selling a business | 74 |
+| Exporting, NEPC, getting paid | 78 |
+| Family model, ten years of one household | 54 |
 | Fat tails, Salary World and Trader World | 7, 9 |
 | Fees and expense ratios in funds | 23 |
 | Financial stability — definition and ladder | 1, 2, 3 |
-| First forty-eight hours after a shock | 54 |
+| First forty-eight hours after a shock | 55 |
 | First ninety days | 52 |
 | Foreign-currency income, remote work | 38 |
-| Founders, equity, vesting, agreements | 65 |
+| Founders' agreement checklist | 90 |
+| Founders, equity, vesting, agreements | 66 |
 | Fraud — Ponzi test, new vectors, verification | 14 |
 | Gold, commodities | 28 |
 | Health insurance, HMO, NHIA | 25 |
 | Igba boi, apprenticeship | 41 |
+| Importing, Form M, duty, demurrage | 77 |
 | Income, raising it, negotiation, pricing | 37 |
 | Indigenisation decrees, old share certificates | 20, 51 |
 | Inflation and real return | 8, 9 |
 | Insurance — types, claims, compulsory covers | 25 |
-| Intellectual property, trademarks | 67 |
-| Job loss | 55 |
-| Land — titles, Governor's Consent, due diligence | 26, 77 |
+| Intellectual property, trademarks | 68 |
+| Invoice that gets paid | 90 |
+| Job loss | 56 |
+| Land purchase checklist | 89 |
+| Land — titles, Governor's Consent, due diligence | 26, 82 |
+| Landlord, asking to restructure rent | 88 |
 | Language and jargon | 17 |
-| Legal form of a business | 63 |
-| Licences by sector | 69 |
+| Legal form of a business | 64 |
+| Letters and templates — the whole Book | 87–90 |
+| Licences by sector | 70 |
 | Life insurance, term versus endowment | 25 |
-| Liquidation order in a crisis | 55, 56 |
+| Liquidation order in a crisis | 56, 57 |
+| Master document template | 89 |
 | Mathematics — real return, ruin, yields | 9 |
-| Medical emergency | 56 |
+| Medical emergency | 57 |
 | Money market funds | 19 |
 | Mortgages, NHF, pension equity | 26 |
-| Nigeria Startup Act | 70 |
+| Nigeria Startup Act | 71 |
 | No surplus, negative cash flow | 39 |
 | Non-interest finance, sukuk, takaful | 30 |
 | Optionality and convexity | 41, 42 |
 | Parents, aging, sandwich generation | 45 |
-| Paying for professional help | 82 |
+| Paying for professional help | 91 |
+| Payment plan letter to a creditor | 90 |
 | Pension, RSA, multi-fund, Micro Pension | 24, 31 |
 | Ponzi arithmetic and history | 14 |
-| Pricing, unit economics, break-even | 62, 66 |
+| Post-harvest loss, storage, warehouse receipts | 75, 76 |
+| Pricing, unit economics, break-even | 63, 67 |
+| Produce trading, grading, moisture | 76 |
 | Property — REITs, fractional, short-lets | 23, 26 |
-| Raising money, SAFEs, term sheets | 71 |
-| Regime change, new laws, currency redesign | 48, 58 |
-| Registering a business | 64 |
-| Regulators and where to verify | 33, 74 |
-| Religion — tithe, seed, zakat, refusing a scheme | 30, 46, 61 |
-| Rent and tenancy rights | 77 |
+| Raise, letter asking for one | 88 |
+| Raising money, SAFEs, term sheets | 72 |
+| Regime change, new laws, currency redesign | 48, 59 |
+| Registering a business | 65 |
+| Regulator complaint letter | 87 |
+| Regulators and where to verify | 33, 79 |
+| Religion — tithe, seed, zakat, refusing a scheme | 30, 46, 62 |
+| Rent and tenancy rights | 82 |
 | Rules, the twenty | 49 |
-| Saying no, social pressure, FOMO | 61 |
+| Saying no, social pressure, FOMO | 62 |
+| School fees, asking for instalments | 88 |
 | Shares — buying, reading accounts, costs | 20, 21, 22 |
 | Skin in the game | 11 |
-| Sources and how to check the book | 84 |
-| Startups — the whole Book | 62–73 |
+| Sources and how to check the book | 93 |
+| Startups — the whole Book | 63–74 |
 | Status spending, performed wealth | 40 |
-| Sudden money, windfalls, inheritance | 59 |
-| Tax — income, CGT, VAT, records | 32, 66, 80 |
-| Thirty-day sequence | 82 |
+| Sudden money, windfalls, inheritance | 60 |
+| Tax — income, CGT, VAT, records | 32, 67, 85 |
+| Tenancy checklist | 89 |
+| Thirty-day sequence | 91 |
 | Trading costs, spreads, the toll gate | 21 |
 | Treasury bills, discount rate versus yield | 18 |
 | Trust — the market without an employer | 31 |
 | Twelve-month plan | 53 |
 | Verification habit, checking operators | 14, 33 |
 | Water, flooding, power, physical risk | 16 |
-| Where the numbers came from | 83 |
-| Winding up a failed company | 73 |
+| Where the numbers came from | 92 |
+| Will checklist | 89 |
+| Winding up a failed company | 74 |
 | Zakat as a planning number | 30 |
 
-## 86. Aphorisms for the wall
+## 95. Aphorisms for the wall
 
 
 *Tear this page out, if you are the kind of person who tears pages out.*
