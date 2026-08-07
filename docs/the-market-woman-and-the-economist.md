@@ -20,6 +20,12 @@
 
 **A note on the law.** Where a chapter has a legal side, it carries a short panel headed **The law on this** — which law applies, what right it gives you, and who to complain to. **Book VII** then sets out Nigerian law in ordinary words: contracts, companies, land and tenancy, employment, consumer and banking rights, tax, and family and succession. None of it is legal advice, and where the money at stake is large you should pay a lawyer.
 
+**A note on the references.** Sources are given in **Vancouver style**. Numbers in parentheses in the text — (1), (2,3) — refer to the numbered list printed at the end of that Book, and **the numbering restarts in each Book**, so a reference number only ever means something within the Part you are reading.
+
+Three honest qualifications. **Statutes and regulations** are cited by short title, issuing authority and year; Nigerian legislation is frequently amended, and Chapter 33 tells you where to obtain the current text. **Regulator publications** — circulars, guidelines, registers and statistical releases — are cited to the issuing body and its website rather than to a deep link, because those links change constantly while the issuing body does not; search the title on the site named. **Law report citations** are given in the standard Nigerian form, and should be verified in a law report before being relied upon in any proceeding.
+
+Where a claim in this book carries no reference, it is either my own reasoning, an illustrative calculation, or an observation from experience — and Chapter 93 sets out plainly which of my claims I would defend least.
+
 **A note on language.** This book speaks in three registers, and you may use whichever you like. The body is in standard English. The denser chapters carry an *In plain words* summary in simpler English. And every chapter closes in **Pidgin**, because Pidgin is what most Nigerians actually think in, and a line that cannot survive being said in Pidgin was probably not clear in English either. The epigraphs are proverbs in Hausa, Igbo, Yoruba and Pidgin — placed there because almost everything in this book was said in those languages before it was said in finance.
 
 **A note on forecasts.** There are none in this book. Anyone who tells you where the naira will be in December is telling you about their confidence, not about the naira.
@@ -370,7 +376,7 @@ This is the map. Everything else in the book is detail for one of these rows. **
 
 **The test you must pass:** no debt costing more than 25% a year.
 
-1. Write every debt on one page: who, how much, what rate. Turn monthly rates into yearly ones. A loan app charging 15% a month is charging over 400% a year.
+1. Write every debt on one page: who, how much, what rate. Turn monthly rates into yearly ones. A loan app charging 15% a month is charging over 400% a year (1).
 2. Remove contact permission from every lending app on your phone today. Settings, then apps, then permissions. Do it whether or not you owe.
 3. Pay the most expensive debt first. Put everything you can at it.
 4. Never take a second loan to pay the first. This is how a small debt becomes a big one.
@@ -383,7 +389,7 @@ This is the map. Everything else in the book is detail for one of these rows. **
 **The test:** one month of your real expenses, in a money market fund.
 
 1. Add up what one month truly costs: rent divided by twelve, food, transport, fees divided by twelve, data, medicine, family support.
-2. Open a money market fund with a manager whose name you checked yourself on the SEC website. It takes a day. The minimum is usually ₦5,000 or ₦10,000.
+2. Open a money market fund with a manager whose name you checked yourself on the SEC website (2). It takes a day. The minimum is usually ₦5,000 or ₦10,000.
 3. Set a standing order for payday. Any amount. Even ₦1,000 a week.
 4. Do not keep this money in a current account. It earns nothing there while prices rise.
 
@@ -393,7 +399,7 @@ This is the map. Everything else in the book is detail for one of these rows. **
 
 **The test:** everyone in your household has health cover.
 
-1. Get an HMO plan, or join your state's health insurance scheme. Several states run cheap ones.
+1. Get an HMO plan, or join your state's health insurance scheme (3). Several states run cheap ones.
 2. If anyone depends on your income, get term life insurance. It is cheap when you are young and healthy.
 3. Read the exclusions before the benefits. That is where the arguments come from.
 4. Put the policy, the number and the claims line in one folder, and tell your spouse where it is.
@@ -414,7 +420,7 @@ This is the map. Everything else in the book is detail for one of these rows. **
 
 **The test:** your money grows faster than prices, and part of it is in dollars.
 
-1. Buy one FGN Savings Bond. The minimum is ₦5,000 and it pays you every three months. Do this to learn.
+1. Buy one FGN Savings Bond. The minimum is ₦5,000 (4) and it pays you every three months. Do this to learn.
 2. Open a domiciliary account and start a dollar fund, so a falling naira cannot halve what you have.
 3. Start a monthly standing order into an equity fund or an ETF. Do not pick individual shares yet.
 4. Log into your pension. Check the money is arriving. If you are self-employed, open a Micro Pension account.
@@ -446,6 +452,16 @@ The rest exists for two reasons: because people who understand *why* the instruc
 
 **In Pidgin:** This chapter na the whole plan. Find your level, do the steps for that level only, pass the test, move up. The rest of the book na to explain why e dey work, and wetin to do when strange thing happen.
 
+
+## References for Book 0
+
+*Vancouver style. Numbering restarts in each Book.*
+
+1. Federal Competition and Consumer Protection Commission. Limited interim regulatory/registration framework and guidelines for digital lending. Abuja: FCCPC; 2022. Available from: https://fccpc.gov.ng
+2. Securities and Exchange Commission Nigeria. Register of capital market operators. Abuja: SEC. Available from: https://sec.gov.ng
+3. Nigeria. National Health Insurance Authority Act, 2022. Abuja: Federal Government of Nigeria; 2022.
+4. Debt Management Office Nigeria. FGN Savings Bond: offer circulars and authorised distribution agents. Abuja: DMO. Available from: https://www.dmo.gov.ng
+
 # Book I — Ruin: the only risk that matters
 
 > *Ẹni tí kò mọ ibi tí òjò ti bẹ̀rẹ̀ sí pa á, kò lè mọ ibi tí ó gbẹ sí.* — **Yoruba:** he who does not know where the rain began beating him cannot know where it stopped.
@@ -458,7 +474,7 @@ The first time was in the late seventies. Oil money was everywhere; the Head of 
 
 Then the oil price fell, and the contracts stopped, and the Peugeots were sold, and there followed a decade of what the family called, with great delicacy, "his quiet period."
 
-The second time was 2006. He had gotten into bank shares. Everybody had. His broker had explained margin — that you could borrow to buy more shares, and since shares only went up, the borrowed money was free money that simply required paperwork. He remortgaged the house in Surulere. He told me, and I remember the exact phrasing because he said it twice: *"This one is different. This one is the stock exchange. It is regulated."*
+The second time was 2006. He had gotten into bank shares. Everybody had. His broker had explained margin (10) — that you could borrow to buy more shares, and since shares only went up, the borrowed money was free money that simply required paperwork. He remortgaged the house in Surulere. He told me, and I remember the exact phrasing because he said it twice: *"This one is different. This one is the stock exchange. It is regulated."*
 
 In 2008 the market fell about seventy percent. The margin loan did not fall. The loan had to be repaid whether the shares were worth anything or not, and the bank sold his position at the bottom, because that is when margin calls arrive — they are engineered to arrive at exactly the worst moment. He lost the shares, then the house.
 
@@ -515,7 +531,7 @@ Either order, you have less than you started with. Play twenty rounds and you wi
 
 Because the average is computed across *many parallel players* — a hundred people each playing once, where the winners' gains offset the losers' losses and the group average is positive. But **you are not a hundred people.** You are one person playing repeatedly, in sequence, where each round's outcome multiplies against the last, and where a loss is not offset by someone else's gain. It is offset by nothing.
 
-The technical name for this distinction is **ergodicity**. The practical name is: *the average of a group is not the fate of an individual*.
+The technical name for this distinction is **ergodicity** (5). The practical name is: *the average of a group is not the fate of an individual* (9).
 
 > The average Nigerian household size is about five. This does not mean any household contains five people. The average outcome of a risky venture is likewise a fact about a crowd, not a promise to you.
 
@@ -532,7 +548,7 @@ This is why the man who says "the odds are in my favour" while betting a sum tha
 
 **And now the event that should be taught in every Nigerian school and is taught in none.**
 
-In January 1970, at the end of the civil war, the currency that had circulated in the secessionist territory ceased to be money. Account holders in the former Biafra were paid a flat **twenty pounds** — the same twenty pounds to the man who had held £5 and the man who had held £50,000. A lifetime of accumulation and a month of it were assigned the same value by a single administrative decision.
+In January 1970, at the end of the civil war, the currency that had circulated in the secessionist territory ceased to be money. Account holders in the former Biafra were paid a flat **twenty pounds** (4) — the same twenty pounds to the man who had held £5 and the man who had held £50,000. A lifetime of accumulation and a month of it were assigned the same value by a single administrative decision.
 
 Consider what that is, in the language of this chapter. It is not a market fall, which recovers. It is not a devaluation, which halves. **It is a total, simultaneous, non-negotiable write-off of the financial savings of an entire population, delivered without warning, from which no diversification within the currency could have protected anybody.** Everyone who had been prudent in the approved manner — who had held money rather than goods, in an institution rather than at home — was destroyed precisely in proportion to their prudence.
 
@@ -642,7 +658,7 @@ The second — call it the **Trader World** — is where a single event can be l
 
 **Apply it to the naira.**
 
-If exchange rates lived in the Salary World, the naira would drift — a few percent a year, up and down, and you could plan around it. Instead, look at the actual history: a rate that sits at ₦197 for a while, then ₦305 for *years* (with a very different street rate, which is itself a piece of information), then in June 2023 a unification that takes it past ₦750, then in early 2024 a move past ₦1,400.
+If exchange rates lived in the Salary World, the naira would drift — a few percent a year, up and down, and you could plan around it. Instead, look at the actual history: a rate that sits at ₦197 for a while, then ₦305 for *years* (with a very different street rate, which is itself a piece of information), then in June 2023 a unification that takes it past ₦750 (6), then in early 2024 a move past ₦1,400.
 
 That is not a walk. That is a series of jumps with long, deceptive periods of stillness in between. **The stillness is not stability; it is pressure accumulating.** A pegged currency is not a stable currency, it is a currency whose movements have been postponed and concentrated.
 
@@ -687,7 +703,7 @@ You cannot know what will happen. You can absolutely choose which of those two s
 
 A robbery you notice produces a police report. A robbery of 22% a year, applied continuously to every naira you hold, produces nothing — no report, no suspect, no moment at which you can point and say *there, that is when it happened*.
 
-The mechanics, in one paragraph, because you need them and then we can move on. **Inflation** is the rate at which prices rise. When the National Bureau of Statistics reports 22%, it means a basket of goods costing ₦100 last year costs about ₦122 now. Nigeria's headline rate went above 30% in 2024; in early 2025 the NBS rebased the basket, which lowered the reported figure without lowering any actual price — a fact worth remembering the next time a statistic improves. Food inflation has generally run above the headline, which matters because food is a far larger share of a real Nigerian household's spending than of the official basket.
+The mechanics, in one paragraph, because you need them and then we can move on. **Inflation** is the rate at which prices rise. When the National Bureau of Statistics reports 22%, it means a basket of goods costing ₦100 last year costs about ₦122 now. Nigeria's headline rate went above 30% in 2024; in early 2025 the NBS rebased the basket (7), which lowered the reported figure without lowering any actual price — a fact worth remembering the next time a statistic improves. Food inflation has generally run above the headline, which matters because food is a far larger share of a real Nigerian household's spending than of the official basket.
 
 **Therefore: your personal inflation rate is almost certainly higher than the number on the news.** The official figure is an average across a country in which you do not live; you live in your own consumption basket.
 
@@ -709,7 +725,7 @@ You earned 14% and became poorer by about 6.6%. Both are true. Only one of them 
 
 **One: cash is not neutral.** ₦1,000,000 in a current account for a year at 22% inflation loses roughly ₦180,000 of purchasing power. Doing nothing is not the safe option; it is a decision with a price, and the price is charged quietly. The safest-feeling behaviour is among the most expensive.
 
-**Two: high interest rates are not automatically good news for savers.** When the CBN raised the MPR to 27.5% in 2024, money market funds followed into the high teens and twenties, and every Nigerian saver felt clever. But inflation was higher. The saver was still losing, only more comfortably. **A high nominal rate in a high-inflation country is not generosity. It is compensation, and often insufficient compensation.**
+**Two: high interest rates are not automatically good news for savers.** When the CBN raised the MPR to 27.5% in 2024 (8), money market funds followed into the high teens and twenties, and every Nigerian saver felt clever. But inflation was higher. The saver was still losing, only more comfortably. **A high nominal rate in a high-inflation country is not generosity. It is compensation, and often insufficient compensation.**
 
 **Three — and this one is a genuine asymmetry in your favour — inflation is very bad for lenders and quite good for borrowers of long-term fixed-rate money.** If you have a fixed-rate mortgage at 12% for twenty years and inflation runs at 20%, you are repaying with money that shrinks faster than the debt. This is precisely why long-term fixed-rate naira lending is scarce in Nigeria: nobody wants to be on that side. It is also why an NHF mortgage at a concessionary rate (Chapter 26) is one of the few genuinely valuable financial instruments available to an ordinary salaried Nigerian.
 
@@ -773,6 +789,22 @@ In a **wild** quantity — wealth, market moves, devaluations, company sizes —
 **Nearly everything financial is the second kind, and nearly every statistical tool people use was built for the first.** The practical consequence, and the only one you need: **do not plan using averages.** Plan using "what if a decade's worth arrives in one quarter," because in this country it periodically does.
 
 ---
+
+
+## References for Book I
+
+*Vancouver style. Numbering restarts in each Book.*
+
+1. Nigerian Exchange Group. NGX All-Share Index: historical market data. Lagos: NGX. Available from: https://ngxgroup.com
+2. Central Bank of Nigeria. Banking sector reform: special examination and intervention, 2009. Abuja: CBN. Available from: https://www.cbn.gov.ng
+3. Nigeria. Asset Management Corporation of Nigeria Act, 2010. Abuja: Federal Government of Nigeria; 2010.
+4. Nigeria. Banking Obligations (Eastern States) Decree, 1970; and contemporaneous Central Bank of Nigeria currency conversion arrangements following the civil war. Lagos: Federal Military Government; 1970.
+5. Peters O. The ergodicity problem in economics. Nat Phys. 2019;15:1216–21.
+6. Central Bank of Nigeria. Foreign exchange market reform: unification of exchange rate windows. Circular. Abuja: CBN; 2023.
+7. National Bureau of Statistics. Consumer price index and inflation report; and CPI rebasing methodology note. Abuja: NBS; 2024–2025. Available from: https://www.nigerianstat.gov.ng
+8. Central Bank of Nigeria. Communiqués of the Monetary Policy Committee. Abuja: CBN; 2024–2025. Available from: https://www.cbn.gov.ng
+9. Taleb NN. Antifragile: things that gain from disorder. New York: Random House; 2012.
+10. Central Bank of Nigeria. Margin lending and the 2008–2009 capital market decline: post-crisis review. Abuja: CBN; 2009.
 
 
 **In plain words:** You only need a little arithmetic. Subtract inflation from any return to see the real one. Understand that big losses do not cancel out big gains, because they multiply. And know that the rate quoted to you on a treasury bill is smaller than the true return, so always ask for the true yield.
@@ -866,7 +898,7 @@ Consider the cast of characters an ordinary Nigerian encounters:
 
 A public official designs a policy. If it works, he is celebrated. If it fails, the cost is spread across two hundred million people, none of whom can identify their individual share of the damage, and he is transferred, or promoted, or writes a memoir. The upside is his; the downside is socialised. This asymmetry is not a Nigerian invention — it is the standard shape of modern institutions everywhere — but we have an unusually pure specimen of it.
 
-You will recognise the pattern in the 2008–09 banking crisis. Bank executives took enormous risks with depositors' and shareholders' money, collected bonuses on the way up, and when it collapsed the public paid: a ₦620 billion injection, and then AMCON, a vehicle created to absorb bad loans — which is to say, a mechanism for transferring private losses to the public after private gains had been distributed. Some executives were prosecuted, which is more than happened in several richer countries. But the structure remains: **the person making the decision was not the person eating the loss.**
+You will recognise the pattern in the 2008–09 banking crisis. Bank executives took enormous risks with depositors' and shareholders' money, collected bonuses on the way up, and when it collapsed the public paid: a ₦620 billion injection, and then AMCON (2,3), a vehicle created to absorb bad loans — which is to say, a mechanism for transferring private losses to the public after private gains had been distributed. Some executives were prosecuted, which is more than happened in several richer countries. But the structure remains: **the person making the decision was not the person eating the loss.**
 
 **This is not a complaint. It is an instruction.** You cannot reform the structure from where you sit. You can decline to be the person who eats the loss. Which means:
 
@@ -909,7 +941,7 @@ Finance and economic policy have the same disease and no word for it, so I borro
 
 **A forest where every small fire is extinguished accumulates deadwood and eventually burns entirely.** A currency whose small movements are prevented accumulates pressure and eventually moves 60% in a quarter. A company whose small failures are subsidised eventually fails completely. A child never allowed to fall never learns to walk on rough ground.
 
-> Preventing all small harms guarantees a large one. The variability you are removing is the mechanism by which the system was informing you.
+> Preventing all small harms guarantees a large one (9). The variability you are removing is the mechanism by which the system was informing you.
 
 **Nigerian examples, and I offer these as illustrations of a mechanism rather than as political positions:**
 
@@ -917,9 +949,9 @@ Finance and economic policy have the same disease and no word for it, so I borro
 
 **The fuel subsidy.** Decades of holding the pump price below the import cost. Genuinely helpful to poor Nigerians in the short run, and I will not pretend otherwise — this is why it was politically immovable. Also: fiscally enormous, a magnet for fraud around import volumes, a subsidy on smuggling to neighbouring countries, and a suppression that grew every year it was maintained. When it went in May 2023, the adjustment was not gentle, and the burden fell on people who had had no opportunity to prepare. **The harm of removal was real; it was also the accumulated cost of not removing it earlier.**
 
-**Structural adjustment, 1986.** The other direction, and worth including so nobody thinks I am arguing that intervention is always the villain and liberalisation always the cure. SAP was itself a large, confident, expert-designed intervention, delivered by institutions with no skin in the Nigerian game, and it broke the back of a generation's middle class. Whether one judges it necessary or catastrophic — and honest people disagree — note the invariant: **the designers did not eat the outcome.**
+**Structural adjustment, 1986.** (7) The other direction, and worth including so nobody thinks I am arguing that intervention is always the villain and liberalisation always the cure. SAP was itself a large, confident, expert-designed intervention, delivered by institutions with no skin in the Nigerian game, and it broke the back of a generation's middle class. Whether one judges it necessary or catastrophic — and honest people disagree — note the invariant: **the designers did not eat the outcome.**
 
-**The bank consolidation of 2004–05.** Minimum capital raised from ₦2 billion to ₦25 billion; eighty-nine banks became twenty-five. There was a real problem being solved. There was also a stampede into the capital market to meet the deadline, banks lending money to buy bank shares, and a bubble that ended in 2008 (Chapter 13). **The intervention did not cause the greed. It set the timetable for it.**
+**The bank consolidation of 2004–05.** (1) Minimum capital raised from ₦2 billion to ₦25 billion; eighty-nine banks became twenty-five (2). There was a real problem being solved. There was also a stampede into the capital market to meet the deadline, banks lending money to buy bank shares, and a bubble that ended in 2008 (Chapter 13). **The intervention did not cause the greed. It set the timetable for it.**
 
 ---
 
@@ -960,7 +992,7 @@ Notice precisely when the turkey's confidence peaked: **at the moment of maximum
 
 By early 2008 his position was at maximum size, maximum concentration, and partly borrowed, because three years of being right teaches a man that being right is his natural condition.
 
-The All-Share Index peaked around 66,000 in March 2008 and fell roughly 70%. It took about thirteen years to regain that level in naira terms — and, if you adjust for inflation, it has not regained it at all. Several of the banks whose branches were on every street — Intercontinental, Oceanic, Bank PHB — no longer exist.
+The All-Share Index peaked around 66,000 in March 2008 and fell roughly 70% (1). It took about thirteen years to regain that level in naira terms — and, if you adjust for inflation, it has not regained it at all. Several of the banks whose branches were on every street — Intercontinental, Oceanic, Bank PHB — no longer exist.
 
 **The engineer had not been wrong about the past.** The past was exactly as he described it. He was wrong about what the past entitled him to conclude.
 
@@ -1020,7 +1052,7 @@ The scheme is **most convincing immediately before it dies.** At that moment it 
 
 And the person who joined early *did* make money. Your cousin is not lying. He is a survivor of an early round, and his testimony is the mechanism by which the later rounds are recruited. **He is not a witness. He is the marketing.**
 
-**The Nigerian sequence, for the historical record**: MMM in 2015–16, which promised 30% monthly, described itself openly as a "mutual aid community" and made no pretence of a business, drew something like three million participants, and froze in December 2016. Then Ultimate Cycler, Loom, MBA Forex, Racksterli with its celebrity endorsements, Chinmark wrapped in a lifestyle brand and a religious network, 86FB and the football-task variants, and in 2025 CBEX, which fitted the old function with a crypto-exchange front end and a dashboard displaying profits that did not exist.
+**The Nigerian sequence, for the historical record**: MMM in 2015–16, which promised 30% monthly (3), described itself openly as a "mutual aid community" and made no pretence of a business, drew something like three million participants, and froze in December 2016. Then Ultimate Cycler, Loom, MBA Forex, Racksterli with its celebrity endorsements, Chinmark wrapped in a lifestyle brand and a religious network, 86FB and the football-task variants, and in 2025 CBEX, which fitted the old function with a crypto-exchange front end and a dashboard displaying profits that did not exist.
 
 **Observe the evolution, because it tells you where the next one will come from.** The pitch has moved from "join our community" to "we are a licensed AI-powered digital-asset trading platform," complete with an app, a growing balance on a screen, a referral tier structure, and sometimes a genuine registration — as a business name with the **Corporate Affairs Commission**, which has precisely nothing to do with permission to take investment money. Every scheme in that list waved a CAC certificate. It proves someone paid a fee to reserve a name.
 
@@ -1068,7 +1100,7 @@ And the person who joined early *did* make money. Your cousin is not lying. He i
 
 **The verification habit, in one line:** *never verify anything using the channel that contacted you.* Certificate, link, phone number, app, voice — all of them come from whoever wants your money. Go to the source yourself, every time (Chapter 33).
 
-**If you are already inside:** stop contributing today; withdraw whatever you can immediately, even at a loss; do not "reinvest to reach the next tier"; do not recruit anyone else, both because it harms them and because it may make you legally liable; and report to the SEC and EFCC. The Investments and Securities Act 2025 criminalises Ponzi schemes explicitly, with prison terms, and brought digital assets under SEC oversight. This is progress. It is also, from your position, mostly irrelevant: **prosecution happens after the money is gone.** The law punishes; it does not restore.
+**If you are already inside:** stop contributing today; withdraw whatever you can immediately, even at a loss; do not "reinvest to reach the next tier"; do not recruit anyone else, both because it harms them and because it may make you legally liable; and report to the SEC and EFCC. The Investments and Securities Act 2025 criminalises Ponzi schemes explicitly (4), with prison terms, and brought digital assets under SEC oversight (12). This is progress. It is also, from your position, mostly irrelevant: **prosecution happens after the money is gone.** The law punishes; it does not restore.
 
 ### Case: The group that paid for fourteen months
 
@@ -1137,7 +1169,7 @@ A loan app offers ₦50,000 and asks for ₦57,500 in thirty days. That is 15% �
 
 **Three Nigerian debts that deserve their own warnings.**
 
-**The loan app.** Its business model is not lending; it is the extraction of your address book. You granted contact permission during installation, and on default it broadcasts messages to your relatives, employer and pastor, sometimes describing you as a criminal. This is unlawful. The **FCCPC** maintains a register of approved digital lenders and has taken action against violators; unapproved apps have been removed from stores.
+**The loan app.** Its business model is not lending; it is the extraction of your address book. You granted contact permission during installation, and on default it broadcasts messages to your relatives, employer and pastor, sometimes describing you as a criminal. This is unlawful. The **FCCPC** maintains a register of approved digital lenders (5) and has taken action against violators; unapproved apps have been removed from stores.
 
 What to actually do: revoke contact and photo permissions in your phone settings immediately, whether or not you are in arrears; document the harassment with screenshots; complain to the FCCPC; and clear the debt as the absolute first call on any money you have, including money you were saving. **Do not take a second app loan to pay the first.** That is the mechanism — the industry calls it stacking — by which a ₦30,000 shortfall becomes a ₦400,000 catastrophe in five months. I have seen it happen to a schoolteacher. Twice.
 
@@ -1211,7 +1243,7 @@ Financial risk is usually discussed as though money existed in an abstraction. I
 
 **Water.**
 
-In 2012, floods across Nigeria displaced over two million people. In 2022 it happened again on a similar scale, across more than thirty states, with hundreds of thousands of hectares of farmland destroyed — which then arrived in your kitchen some months later as food inflation, a connection the price tag never shows. In Lagos, tidal flooding and drainage failure now reliably submerge parts of Lekki, Ajah, Victoria Island and the mainland several times a season. On the Atlantic coast, erosion is not a forecast: it has taken parts of Ayetoro in Ondo State and reshaped the Lagos shoreline within living memory.
+In 2012, floods across Nigeria displaced over two million people (6). In 2022 it happened again on a similar scale, across more than thirty states, with hundreds of thousands of hectares of farmland destroyed — which then arrived in your kitchen some months later as food inflation, a connection the price tag never shows. In Lagos, tidal flooding and drainage failure now reliably submerge parts of Lekki, Ajah, Victoria Island and the mainland several times a season. On the Atlantic coast, erosion is not a forecast: it has taken parts of Ayetoro in Ondo State and reshaped the Lagos shoreline within living memory.
 
 **Now connect that to a land purchase.** A plot is offered at an attractive price. It is attractive for a reason, and the reason is frequently visible in July and invisible in January. Practical rules, learned expensively by other people:
 
@@ -1247,6 +1279,22 @@ Standard fire and special perils cover is not automatic flood cover. **Flood, st
 4. **Do not concentrate assets in one flood plain, one estate, or one local government area** — including your home, your shop and your land, which are frequently all within three kilometres of each other.
 
 **If you remember one thing:** the cheapest plot in the neighbourhood is cheap for a reason that is usually visible in July, and no title document protects you from water.
+
+## References for Book II
+
+*Vancouver style. Numbering restarts in each Book.*
+
+1. Central Bank of Nigeria. Banking sector consolidation: minimum capital requirement of ₦25 billion. Circular. Abuja: CBN; 2004.
+2. Central Bank of Nigeria. Review of minimum capital requirements for commercial, merchant and non-interest banks. Circular. Abuja: CBN; 2024.
+3. Securities and Exchange Commission Nigeria. Public notices and investor alerts on unregistered investment schemes, including MMM. Abuja: SEC; 2016.
+4. Nigeria. Investments and Securities Act, 2025. Abuja: Federal Government of Nigeria; 2025.
+5. Federal Competition and Consumer Protection Commission. Approved digital money lenders register. Abuja: FCCPC. Available from: https://fccpc.gov.ng
+6. National Emergency Management Agency. Flood impact assessment reports, 2012 and 2022. Abuja: NEMA. Available from: https://nema.gov.ng
+7. International Monetary Fund and Federal Government of Nigeria. Structural Adjustment Programme, 1986: policy documents and subsequent assessments. Lagos: Federal Government of Nigeria; 1986.
+8. Central Bank of Nigeria. Restriction of open market operation bills to banks and foreign portfolio investors. Circular. Abuja: CBN; 2019.
+9. Nigeria. Pension Reform Act, 2014. Abuja: Federal Government of Nigeria; 2014.
+10. Nigeria. Money Laundering (Prevention and Prohibition) Act, 2022. Abuja: Federal Government of Nigeria; 2022.
+
 
 **In plain words:** Your money sits in real places that flood, lose power and become unreachable. The cheap plot is cheap for a reason you can usually see in July. Visit land in the rainy season and ask neighbours where the water goes. Check whether your insurance actually covers flood, because it is often sold separately. And treat a generator or solar as a financial decision, not a comfort.
 
@@ -1345,7 +1393,7 @@ Standard fire and special perils cover is not automatic flood cover. **Flood, st
 
 Start with the safest thing available to a Nigerian, both because you should own some and because everything else is measured against it.
 
-**A Treasury bill is a short-term loan to the Federal Government of Nigeria, in naira.** You lend; they repay in 91, 182 or 364 days. Now — is it safe?
+**A Treasury bill is a short-term loan to the Federal Government of Nigeria, in naira.** You lend; they repay in 91, 182 or 364 days (1). Now — is it safe?
 
 **In one dimension, yes, completely.** The government cannot fail to repay naira, for the excellent reason that it manufactures naira. Default risk is as close to zero as this world offers.
 
@@ -1375,9 +1423,9 @@ Now notice what nobody points out. You made ₦179,507 on ₦820,493, which is *
 
 **Minimums:** the auction itself is institutional, but banks and brokers break it down for retail — commonly somewhere between ₦100,000 and ₦1,000,000, and falling over time. Ask; it varies widely.
 
-**Auctions** are held roughly every two weeks by the CBN, with results published. **OMO bills**, which you will see quoted at attractive yields, are the CBN's own instrument and have been closed to non-bank local investors since 2019. Your bank is not being difficult; you simply cannot buy them.
+**Auctions** are held roughly every two weeks by the CBN, with results published. **OMO bills**, which you will see quoted at attractive yields (3), are the CBN's own instrument and have been closed to non-bank local investors since 2019. Your bank is not being difficult; you simply cannot buy them.
 
-**FGN Bonds** are the long version of the same idea: 5 to 30 years, a fixed **coupon** paid twice a year, auctioned monthly by the **Debt Management Office**, listed on the NGX and FMDQ. And here is the one thing about bonds you must understand or you will be surprised at the worst time:
+**FGN Bonds** are the long version of the same idea: 5 to 30 years, a fixed **coupon** paid twice a year, auctioned monthly by the **Debt Management Office** (2), listed on the NGX and FMDQ. And here is the one thing about bonds you must understand or you will be surprised at the worst time:
 
 **Bond prices move opposite to interest rates.** You hold a bond paying 16%. New bonds are issued at 20%. Nobody will pay you full price for 16% when 20% is available, so if you sell early you take a loss. **Hold to maturity and none of this touches you** — you get every coupon and your principal exactly as promised. Longer bonds swing more. If there is any chance you will need the money, stay short.
 
@@ -1385,7 +1433,7 @@ Which produces a genuinely useful asymmetry: **the time to buy long bonds is whe
 
 **What to do.**
 
-**The law on this.** Treasury bills and FGN bonds are issued under the **Debt Management Office (Establishment) Act** and are direct obligations of the Federal Government. Banks that sell them to you are licensed under **BOFIA 2020** and supervised by the **CBN**, which publishes a Guide to Charges limiting what they may deduct. If a bank quotes you a rate and delivers less, or takes an undisclosed charge, write to the bank and then to the **CBN Consumer Protection Department**. Deposits in a bank — though not treasury bills, which are already sovereign — are insured by the **NDIC** up to a limit per depositor per bank.
+**The law on this.** Treasury bills and FGN bonds are issued under the **Debt Management Office (Establishment) Act** and are direct obligations of the Federal Government. Banks that sell them to you are licensed under **BOFIA 2020** and supervised by the **CBN**, which publishes a Guide to Charges limiting what they may deduct. If a bank quotes you a rate and delivers less, or takes an undisclosed charge, write to the bank and then to the **CBN Consumer Protection Department**. Deposits in a bank — though not treasury bills, which are already sovereign — are insured by the **NDIC** up to a limit per depositor per bank (8).
 
 1. **Put your emergency money and any known near-term expense into T-bills or a money market fund** (Chapter 19). Not a current account, which pays nothing while inflation runs.
 2. **Ask three institutions for a quote and take the best true yield.** Twenty minutes of phone calls, repeated annually, compounds into a meaningful sum.
@@ -1401,7 +1449,7 @@ Which produces a genuinely useful asymmetry: **the time to buy long bonds is whe
 
 There is a quiet, under-used instrument that I consider the finest teaching device in the Nigerian market, and I want to give it its own short chapter so that it is not lost among larger things.
 
-**The FGN Savings Bond.** Issued monthly by the Debt Management Office. Minimum subscription: **₦5,000.** Increments of ₦1,000. Tenors of two and three years. Interest paid **quarterly, into your bank account.** Listed on the NGX, so it can be sold before maturity. The borrower is the Federal Republic of Nigeria.
+**The FGN Savings Bond.** Issued monthly by the Debt Management Office. Minimum subscription: **₦5,000.** (2) Increments of ₦1,000. Tenors of two and three years. Interest paid **quarterly, into your bank account.** Listed on the NGX, so it can be sold before maturity. The borrower is the Federal Republic of Nigeria.
 
 For the price of a modest evening out, you become a creditor of the sovereign and receive money four times a year.
 
@@ -1415,7 +1463,7 @@ For the price of a modest evening out, you become a creditor of the sovereign an
 
 **Its relatives, briefly:**
 
-**FGN Sukuk** — the non-interest instrument. Rather than paying interest, it pays investors a share of the *rental income* from specific assets, typically named road projects. Tenors around seven to ten years, retail-friendly minimums (often ₦10,000), and consistently oversubscribed. For Muslim investors this is the principal fixed-income option; for everyone else it is simply another government-backed instrument, and its returns have been competitive. That a religious constraint produced an instrument tied to identifiable physical assets rather than to an abstract promise is, I think, not a coincidence, and the constraint has been quietly doing risk management for a thousand years.
+**FGN Sukuk** — the non-interest instrument (2). Rather than paying interest, it pays investors a share of the *rental income* from specific assets, typically named road projects. Tenors around seven to ten years, retail-friendly minimums (often ₦10,000), and consistently oversubscribed. For Muslim investors this is the principal fixed-income option; for everyone else it is simply another government-backed instrument, and its returns have been competitive. That a religious constraint produced an instrument tied to identifiable physical assets rather than to an abstract promise is, I think, not a coincidence, and the constraint has been quietly doing risk management for a thousand years.
 
 **Green bonds** — proceeds earmarked for environmental projects. Economically an FGN bond; the difference is in the use of the money.
 
@@ -1500,14 +1548,14 @@ Two consequences you should know about. **First, this is where much of Nigeria's
 
 **The machinery, step by step.**
 
-**The Nigerian Exchange (NGX)** sits on Customs Street on the Lagos Marina. About 150 companies: banks, cement, telecoms, consumer goods, energy, agriculture. Settlement is **T+3** — sell today, cash in three business days. Most shares have a **daily price limit** (historically 10%), which means bad news does not finish in one session; a stock can go several days limit-down with nobody able to sell. Know this before you experience it.
+**The Nigerian Exchange (NGX)** sits on Customs Street on the Lagos Marina. About 150 companies: banks, cement, telecoms, consumer goods, energy, agriculture. Settlement is **T+3** (3) — sell today, cash in three business days. Most shares have a **daily price limit** (historically 10%), which means bad news does not finish in one session; a stock can go several days limit-down with nobody able to sell. Know this before you experience it.
 
 **To buy anything you need two things:**
 
 1. **A stockbroker** — a dealing member of the NGX, registered with the SEC. Check both lists before sending money. Compare on: commission (negotiable, so negotiate), whether the app actually works, minimum funding, and research quality. Then telephone them before opening the account. **If nobody answers now, nobody will answer on the day you need to sell.**
 2. **A CSCS account and a CHN** — your Clearing House Number, your permanent identity in the Nigerian capital market. The broker arranges both.
 
-**And here is a genuinely excellent feature of the Nigerian market that almost no investor appreciates:** your shares are registered **in your own name** at CSCS, not in your broker's name. If the broker collapses, your shares remain yours. This is structural protection of a kind many richer countries do not give retail investors. **Write down your CHN and CSCS number and put them where your family can find them.** Chapter 50 explains why that sentence is not administrative trivia.
+**And here is a genuinely excellent feature of the Nigerian market that almost no investor appreciates:** your shares are registered **in your own name** at CSCS (4), not in your broker's name. If the broker collapses, your shares remain yours. This is structural protection of a kind many richer countries do not give retail investors. **Write down your CHN and CSCS number and put them where your family can find them.** Chapter 50 explains why that sentence is not administrative trivia.
 
 **Placing the order.** Two types: a **market order** (buy at whatever is available — fast, and in a thinly traded Nigerian share it can fill far from the price you saw) and a **limit order** (buy up to ₦18.50 and no higher). **Use limit orders.** In a market where many shares trade rarely, the last-traded price you are looking at may be from yesterday.
 
@@ -1521,7 +1569,7 @@ What that ₦25,000 bought was not a return. It bought the discovery that he che
 
 **What to do.**
 
-**The law on this.** Stockbrokers are **capital market operators** registered under the **Investments and Securities Act 2025** and must be dealing members of the Exchange. Your shares are held in your own name at **CSCS**, so they remain yours if the broker fails. The NGX also maintains an **Investor Protection Fund** for defined losses caused by a dealing member's default. Listed companies owe continuing disclosure duties, which is why material news must appear on the NGX and not only in a WhatsApp group. Complaints go to the firm, then to **NGX RegCo**, then to the **SEC**.
+**The law on this.** Stockbrokers are **capital market operators** registered under the **Investments and Securities Act 2025** and must be dealing members of the Exchange. Your shares are held in your own name at **CSCS**, so they remain yours if the broker fails. The NGX also maintains an **Investor Protection Fund** (3) for defined losses caused by a dealing member's default. Listed companies owe continuing disclosure duties, which is why material news must appear on the NGX and not only in a WhatsApp group. Complaints go to the firm, then to **NGX RegCo**, then to the **SEC**.
 
 1. **Open the broker account even if you do not buy immediately.** The account takes days; the opportunity does not wait.
 2. **Buy one liquid thing, small, with a limit order,** and hold it for six months without acting.
@@ -1549,7 +1597,7 @@ This is why frequent trading destroys ordinary investors, and it does so quietly
 
 **The invisible cost is larger than the visible one: the spread.** The gap between the highest bid and the lowest offer. You pay half going in and half coming out. In a liquid bank share, a fraction of a percent. In a small company, several percent, twice. Nobody itemises this because nobody has to.
 
-**Then tax.** Dividends suffer withholding tax, commonly 10%, deducted before payment and generally final — so your "10% dividend yield" is 9% in hand. Capital gains on shares were effectively exempt in Nigeria for many years; the 2025 tax reforms, effective from 2026, brought share disposals into charge above defined thresholds, with exemptions for smaller investors and relief where proceeds are reinvested. **Thresholds and rates are exactly what gets amended, so confirm before selling anything large.** For a person investing ₦50,000 a month this is unlikely to bite; for someone disposing of an eight-figure holding it is now real planning, and the reinvestment relief is worth understanding *before* you press sell rather than after.
+**Then tax.** Dividends suffer withholding tax, commonly 10%, deducted before payment and generally final — so your "10% dividend yield" is 9% in hand. Capital gains on shares were effectively exempt in Nigeria for many years; the 2025 tax reforms, effective from 2026, brought share disposals into charge (6) above defined thresholds, with exemptions for smaller investors and relief where proceeds are reinvested. **Thresholds and rates are exactly what gets amended, so confirm before selling anything large.** For a person investing ₦50,000 a month this is unlikely to bite; for someone disposing of an eight-figure holding it is now real planning, and the reinvestment relief is worth understanding *before* you press sell rather than after.
 
 **And the cost nobody counts: idle cash.** Money sitting in a brokerage account uninvested earns nothing while inflation runs. Sweep it into the money market fund between decisions.
 
@@ -1697,7 +1745,7 @@ There is a lesson in that, and it is not flattering to the financial industry. T
 
 **Check first, before anything else in this chapter:** employers sometimes deduct the 8% and fail to remit it. This is illegal and PenCom takes complaints. Log in and verify that money arrived every month for the last six months, and that the amount is right. **An unremitted pension is a hole that no later cleverness fills.**
 
-**The multi-fund structure**, which is not advertised and which compounds silently over a career:
+**The multi-fund structure**, which is not advertised (7) and which compounds silently over a career:
 
 | Fund | For whom | Character |
 |---|---|---|
@@ -1794,7 +1842,7 @@ Two exceptions I will grant: an endowment can enforce discipline on someone who 
 
 **What to do.**
 
-**The law on this.** Insurers are licensed by **NAICOM** under the Insurance Act, and health insurance sits under the **National Health Insurance Authority Act 2022**, which made health insurance **mandatory** for all Nigerians and legal residents and created state schemes. Several insurances are compulsory by law: third-party motor, group life for employers, employers' liability, buildings under construction, occupiers' liability for public buildings, and professional indemnity for some professions. Motor cover can be verified on the **NIID** database — fake certificates are widespread. If a claim is unfairly refused, use the insurer's internal process and then **NAICOM's complaints bureau**.
+**The law on this.** Insurers are licensed by **NAICOM** (9) under the Insurance Act, and health insurance sits under the **National Health Insurance Authority Act 2022**, which made health insurance **mandatory** for all Nigerians and legal residents and created state schemes. Several insurances are compulsory by law: third-party motor, group life for employers, employers' liability, buildings under construction, occupiers' liability for public buildings, and professional indemnity for some professions. Motor cover can be verified on the **NIID** (10) database — fake certificates are widespread. If a claim is unfairly refused, use the insurer's internal process and then **NAICOM's complaints bureau**.
 
 1. **Buy health cover this month**, before any investment product.
 2. **If anyone depends on you, get three term life quotes** and buy one.
@@ -1867,7 +1915,7 @@ The daughter deferred a year, then did not go. Litigation was still unresolved f
 
 **What to do.**
 
-**The law on this.** Under the **Land Use Act 1978** all land in a state is vested in the Governor, and what you buy is a **right of occupancy**, usually for 99 years. Two consequences decide everything: **any transfer requires the Governor's consent to be valid**, so a deed alone does not complete your ownership; and an **unregistered instrument** may not be admissible as evidence of title, so registration is not optional. Government may revoke for overriding public interest, with compensation for improvements — which is why land under acquisition is worthless whatever the seller says. Chapter 82 sets out the tenancy rules if you are renting.
+**The law on this.** Under the **Land Use Act 1978** all land in a state is vested in the Governor (11), and what you buy is a **right of occupancy**, usually for 99 years. Two consequences decide everything: **any transfer requires the Governor's consent to be valid**, so a deed alone does not complete your ownership; and an **unregistered instrument** may not be admissible as evidence of title, so registration is not optional. Government may revoke for overriding public interest, with compensation for improvements — which is why land under acquisition is worthless whatever the seller says. Chapter 82 sets out the tenancy rules if you are renting.
 
 1. **Never buy land without an independent lawyer, a registry search and a charting.** The three together cost a small fraction of the purchase and remove most of the ways this goes wrong.
 2. **Budget perfection costs before you commit**, including Governor's Consent, and recompute your expected return with them included.
@@ -1977,7 +2025,7 @@ So, precisely:
 
 - **Stablecoins are a payment and preservation tool, not an investment.** They pay nothing. If someone offers you yield on a stablecoin you have taken on credit risk with an entity you cannot assess — return to Chapter 14. Your risks here are the issuer and the platform, not price.
 - **Bitcoin and the rest are speculative.** Falls of 70% have happened repeatedly and will again. A small allocation you could watch go to zero is defensible. Your emergency fund, your rent, and borrowed money are not.
-- **The regulation has moved substantially:** the CBN's 2021 restriction on banks servicing exchanges was lifted at the end of 2023 with a licensing framework, and the Investments and Securities Act 2025 brought digital assets under SEC oversight. This area changes faster than anything else in this book — check the current position and prefer platforms inside the framework.
+- **The regulation has moved substantially:** the CBN's 2021 restriction on banks servicing exchanges was lifted (13) at the end of 2023 with a licensing framework, and the Investments and Securities Act 2025 brought digital assets under SEC oversight. This area changes faster than anything else in this book — check the current position and prefer platforms inside the framework.
 - **"Crypto" is the current costume of the Ponzi.** CBEX was not a crypto investment; it was Chapter 14 with a dashboard. Every question there applies with extra force to anything advertising an "AI trading bot."
 - **Self-custody means self-responsibility.** Lose the seed phrase and it is gone permanently — no bank, no regulator, no appeal. Never store one in a photograph, an email or a chat.
 - **P2P trading carries a specific Nigerian risk:** receiving proceeds of fraud into your bank account, and a frozen account. Use platforms with escrow and keep records.
@@ -1988,7 +2036,7 @@ So, precisely:
 
 **What to do.**
 
-**The law on this.** The position changed decisively. The CBN's 2021 restriction on banks servicing crypto businesses was lifted at the end of 2023 with a licensing framework, and the **Investments and Securities Act 2025** brought **digital assets within the definition of securities**, so platforms dealing in them require SEC registration. Gains on digital assets are within the tax net. Separately, the **Money Laundering (Prevention and Prohibition) Act 2022** means large or unusual flows are reported, and receiving fraud proceeds through peer-to-peer trading is how innocent people get accounts frozen. Use registered platforms and keep records of every trade.
+**The law on this.** The position changed decisively. The CBN's 2021 restriction on banks servicing crypto businesses was lifted at the end of 2023 with a licensing framework, and the **Investments and Securities Act 2025** brought **digital assets within the definition of securities**, so platforms dealing in them require SEC registration. Gains on digital assets are within the tax net. Separately, the **Money Laundering (Prevention and Prohibition) Act 2022** (10) means large or unusual flows are reported, and receiving fraud proceeds through peer-to-peer trading is how innocent people get accounts frozen. Use registered platforms and keep records of every trade.
 
 1. **Cap this entire category** — gold, crypto, commodities — at something you would not mourn. For most people 5% to 10% of investable assets.
 2. **If you use stablecoins for payments, treat them as a wallet, not a portfolio**, and never accept yield offers on them.
@@ -2079,7 +2127,7 @@ Chapter 34's barbell requires a large safe end. Nearly everything I have used to
 | Treasury bills / FGN Bonds | **FGN Sukuk** — asset-backed, paying a share of rental income from named road projects rather than interest. Retail minimums have been modest, commonly around ₦10,000 |
 | Corporate bonds | **Corporate sukuk**, issued by a small number of Nigerian companies and states |
 | Equity fund / ETF | A **Shariah-screened equity fund**, or the **halal equity ETF** listed on the NGX; the **NGX Lotus Islamic Index** is the screened benchmark |
-| Pension Fund II or III | **Fund VI** — PenCom's non-interest fund, in both active and retiree variants. It exists; you must ask for it |
+| Pension Fund II or III | **Fund VI** — PenCom's non-interest fund (7), in both active and retiree variants. It exists; you must ask for it |
 | Conventional insurance | **Takaful** — mutual risk-sharing rather than risk-transfer, offered by NAICOM-licensed operators, including family (life) and general takaful |
 | Dollar savings | A domiciliary account, plus gold (the NewGold ETF is asset-backed), plus dollar sukuk where available |
 
@@ -2256,7 +2304,7 @@ By 2025 she had a money market balance of about ₦4.1 million, a pension accoun
 
 **What to do.**
 
-**The law on this.** The **Micro Pension Plan** operates under the same **Pension Reform Act 2014** as formal-sector pensions, with the same custodian protection — you are not in a lesser scheme. Registering your business under **CAMA 2020** as a business name or company is what turns your trade into something that can be inherited, sold or financed. And if your trade is in a listed category — estate agency, dealing in cars or jewellery, and similar — you may be required to register with **SCUML** under money-laundering law. Chapters 64 and 81 cover registration.
+**The law on this.** The **Micro Pension Plan** operates under the same **Pension Reform Act 2014** as formal-sector pensions, with the same custodian protection — you are not in a lesser scheme. Registering your business under **CAMA 2020** as a business name (15) or company is what turns your trade into something that can be inherited, sold or financed. And if your trade is in a listed category — estate agency, dealing in cars or jewellery, and similar — you may be required to register with **SCUML** under money-laundering law. Chapters 64 and 81 cover registration.
 
 1. **Open a Micro Pension RSA this month.** BVN, NIN, ID, photograph. Contribute ₦5,000 to begin.
 2. **Open a second bank account today and separate business from household money.** Pay yourself a fixed amount on a fixed day.
@@ -2278,7 +2326,7 @@ You have a partner in every venture. He contributes no capital, does no work, ta
 
 Nigeria's tax system was substantially rewritten in 2025, with the new legislation taking effect from 2026. **This chapter is therefore a map of what to ask about, not a schedule of current rates.** Verify with FIRS, your state revenue service, or an adviser before acting on any number here.
 
-**Personal income tax.** Charged on individuals at graduated rates and administered by **your state's** revenue service, based on residence — not by FIRS, which handles a few defined categories. The 2025 reforms raised the threshold at which people begin to pay, exempting the lowest earners entirely, revised the bands, and replaced parts of the old relief structure — notably introducing a **rent relief** in place of some of the previous consolidated allowance. If you are salaried, PAYE is deducted for you; if you are self-employed, **you are supposed to file, and increasingly you will need to have done so** — a tax clearance certificate is required for property transactions, government contracts, some visas and various licences.
+**Personal income tax.** Charged on individuals at graduated rates (14) and administered by **your state's** revenue service, based on residence — not by FIRS, which handles a few defined categories. The 2025 reforms raised the threshold at which people begin to pay, exempting the lowest earners entirely, revised the bands, and replaced parts of the old relief structure — notably introducing a **rent relief** in place of some of the previous consolidated allowance. If you are salaried, PAYE is deducted for you; if you are self-employed, **you are supposed to file, and increasingly you will need to have done so** — a tax clearance certificate is required for property transactions, government contracts, some visas and various licences.
 
 **Capital gains.** The big change, and the one that affects readers of this book.
 
@@ -2328,7 +2376,7 @@ Under a capital gains regime, you compute the gain as proceeds minus **cost of a
 
 **What to do.**
 
-**The law on this.** Personal income tax is charged under the **Personal Income Tax Act** and administered by **your state's** revenue service based on residence; company tax under the **Companies Income Tax Act** by **FIRS**; VAT under the **Value Added Tax Act**; gains under the **Capital Gains Tax Act**; and documents under the **Stamp Duties Act**. Nigeria's tax laws were substantially rewritten in 2025 with effect from 2026. **Filing is a legal duty even when no tax is owed**, penalties and interest run automatically, and disputes go to the **Tax Appeal Tribunal** within strict deadlines. Chapter 85 sets it out in full.
+**The law on this.** Personal income tax is charged under the **Personal Income Tax Act** and administered by **your state's** revenue service based on residence; company tax under the **Companies Income Tax Act** by **FIRS**; VAT under the **Value Added Tax Act**; gains under the **Capital Gains Tax Act**; and documents under the **Stamp Duties Act**. Nigeria's tax laws were substantially rewritten in 2025 (13) with effect from 2026. **Filing is a legal duty even when no tax is owed**, penalties and interest run automatically, and disputes go to the **Tax Appeal Tribunal** (14) within strict deadlines. Chapter 85 sets it out in full.
 
 1. **Get a TIN this month** if you do not have one, and find out which authority you file with — your state, in almost all cases.
 2. **Create one folder called "cost basis"** and put every contract note, deed and major receipt in it. It takes ten seconds per document and it is the difference between being taxed on a gain and being taxed on a sale.
@@ -2410,13 +2458,34 @@ Under a capital gains regime, you compute the gain as proceeds minus **cost of a
 
 **Books, if you want more:**
 
-Malkiel's *A Random Walk Down Wall Street*, for costs and discipline — read it while remembering that his currency does not halve. Housel's *The Psychology of Money*, on the behaviour where the losses actually occur. Graham's *The Intelligent Investor*, dated in examples, permanent in principle. And any current Nigerian tax guide from a large accounting firm, which is free, updated annually, and clearer than the legislation it summarises.
+Malkiel's *A Random Walk Down Wall Street* (1), for costs and discipline — read it while remembering that his currency does not halve. Housel's *The Psychology of Money* (2), on the behaviour where the losses actually occur. Graham's *The Intelligent Investor* (3), dated in examples, permanent in principle. And any current Nigerian tax guide from a large accounting firm, which is free, updated annually, and clearer than the legislation it summarises.
 
 **And one instruction that outlasts every source above:** when a number in this book disagrees with a number on a regulator's website, **the website is right and I am out of date.** That is not modesty. Books are photographs; markets are animals.
 
 ---
 
 *Written for Nigerian readers. Every figure is illustrative and dated — verify at the source before acting. There are no forecasts in this book, and nothing in it is personal financial advice.*
+
+
+## References for Book III
+
+*Vancouver style. Numbering restarts in each Book.*
+
+1. Central Bank of Nigeria. Nigerian treasury bills: auction calendar and results. Abuja: CBN. Available from: https://www.cbn.gov.ng
+2. Debt Management Office Nigeria. FGN bonds, FGN savings bond and sovereign sukuk: offer circulars and auction results. Abuja: DMO. Available from: https://www.dmo.gov.ng
+3. Nigerian Exchange Group. Rulebook of the Nigerian Exchange Limited; settlement cycle, price limits and Investor Protection Fund. Lagos: NGX. Available from: https://ngxgroup.com
+4. Central Securities Clearing System Plc. Clearing house number and depository services. Lagos: CSCS. Available from: https://www.cscs.ng
+5. Nigeria. Companies Income Tax Act, Cap C21, Laws of the Federation of Nigeria 2004 (as amended); withholding tax on dividends. Abuja: Federal Government of Nigeria; 2004.
+6. Nigeria. Nigeria Tax Act, 2025; and Nigeria Tax Administration Act, 2025. Abuja: Federal Government of Nigeria; 2025.
+7. National Pension Commission. Regulation on investment of pension fund assets: multi-fund structure. Abuja: PenCom. Available from: https://www.pencom.gov.ng
+8. Nigeria Deposit Insurance Corporation. Deposit insurance coverage limits. Abuja: NDIC. Available from: https://ndic.gov.ng
+9. Nigeria. Insurance Act, 2003; and National Insurance Commission guidelines. Abuja: Federal Government of Nigeria; 2003.
+10. Nigerian Insurers Association. Nigerian insurance industry database (NIID): motor insurance verification. Lagos: NIA. Available from: https://www.niid.org
+11. Nigeria. Land Use Act, Cap L5, Laws of the Federation of Nigeria 2004 (originally Decree No. 6 of 1978). Abuja: Federal Government of Nigeria; 1978.
+12. Nigeria. Investments and Securities Act, 2025: classification of digital assets as securities. Abuja: Federal Government of Nigeria; 2025.
+13. Central Bank of Nigeria. Guidelines on operations of bank accounts for virtual asset service providers. Circular. Abuja: CBN; 2023.
+14. Nigeria. Personal Income Tax Act, Cap P8, Laws of the Federation of Nigeria 2004 (as amended). Abuja: Federal Government of Nigeria; 2004.
+15. Nigeria. Companies and Allied Matters Act, 2020. Abuja: Federal Government of Nigeria; 2020.
 
 
 **In plain words:** Every rate, minimum and rule in this book will change. This chapter lists them all and tells you exactly where to check the current one — the CBN, the SEC, the DMO, PenCom, NAICOM, FIRS and the rest. Where this chapter and any other part of the book disagree, this chapter is right, because it sends you to the source instead of telling you what to believe.
@@ -2442,7 +2511,7 @@ Everything so far has been preparation for this chapter. If you read one, read t
 
 **The alternative: the barbell.** Weight at both ends, nothing in the middle.
 
-> Put the large majority of your money in things that are genuinely, boringly safe — where you know exactly what can go wrong. Put a small minority in things that can multiply many times over. Own almost nothing in between.
+> Put the large majority of your money in things that are genuinely, boringly safe (1) — where you know exactly what can go wrong. Put a small minority in things that can multiply many times over. Own almost nothing in between.
 
 **The shape, drawn:**
 
@@ -2477,7 +2546,7 @@ Everything so far has been preparation for this chapter. If you read one, read t
 2. **The aggressive end must be genuinely small and genuinely disposable.** The commonest failure is a barbell that gradually becomes 60/40 because the exciting end grew and the owner never trimmed. **Rebalance annually**, and understand you will be trimming your best-performing asset. That discomfort is the price of the structure.
 3. **Never borrow at either end.** Debt collapses the barbell into a single fragile position, because the repayment is fixed and your assets are not.
 
-**Permission to change the percentages — and the rules that stop it becoming drift.**
+**Permission to change the percentages (4) — and the rules that stop it becoming drift.**
 
 85/15 is not sacred. The correct split moves with your life, and refusing to adjust it is its own error. **What must not move is the shape:** a floor that nothing can breach, and a capped end that can multiply, with as little as possible in between.
 
@@ -3112,7 +3181,7 @@ Then a death or a separation occurs, and she discovers that thirty years of work
 
 **Two facts to know, and they matter.**
 
-**First, the courts have moved, decisively.** The Supreme Court in *Ukeje v. Ukeje* (2014) struck down as unconstitutional an Igbo customary rule barring a daughter from inheriting her father's estate. In *Anekwe v. Nweke* (2014) it condemned the custom of disinheriting a widow who had no male child, describing such practices as repugnant to natural justice. **Customs that dispossess widows and daughters are not enforceable law in Nigeria, whatever the family gathering says.**
+**First, the courts have moved, decisively.** The Supreme Court in *Ukeje v. Ukeje* (2014) struck down (2) as unconstitutional an Igbo customary rule barring a daughter from inheriting her father's estate. In *Anekwe v. Nweke* (2014) it condemned (3) the custom of disinheriting a widow who had no male child, describing such practices as repugnant to natural justice. **Customs that dispossess widows and daughters are not enforceable law in Nigeria, whatever the family gathering says.**
 
 **Second, and less comfortable: rights you cannot document are rights you must litigate**, and litigation in this country takes years that a bereaved family usually cannot fund. **The paperwork is the protection.** The judgment is what you fall back on when the paperwork failed.
 
@@ -3621,7 +3690,7 @@ Nigerians build fortunes and then lose them at death, routinely, not to fraud bu
 4. **Write the master document.** One page. Every bank account; the money market fund and manager; the broker, **CHN and CSCS number**; the PFA and RSA number; every insurance policy with its number; property documents and where the originals are; business interests; foreign platform accounts; registrars. Keep it current. Keep a copy where your spouse or executor can reach it. **This single page is worth more to your family than any share you will ever pick.**
 5. **Plan for incapacity, not only for death.** Many Nigerians become unable to manage their affairs long before they die — a stroke, dementia, a long illness, an accident. A will does nothing in that situation, because a will only operates on death. Meanwhile the bank will not take instructions from your spouse, the PFA will not act, and the family must apply to court for authority, which takes months.
 
-   Two instruments help. A **power of attorney** — a donee you name, authorising specified acts on your behalf — is straightforward to execute with a lawyer and should be specific about what it permits. Note that an ordinary power of attorney lapses on the donor's mental incapacity unless it is drafted to endure, so **tell your lawyer explicitly that you want it to survive incapacity**, and expect banks to require their own forms and verification regardless. Second, **a joint account with a survivorship arrangement** for household operating money means the bills continue to be paid while everything else is resolved. Neither replaces the will; both cover the gap the will cannot reach.
+   Two instruments help. A **power of attorney** (8) — a donee you name (8), authorising specified acts on your behalf — is straightforward to execute with a lawyer and should be specific about what it permits. Note that an ordinary power of attorney lapses on the donor's mental incapacity unless it is drafted to endure, so **tell your lawyer explicitly that you want it to survive incapacity**, and expect banks to require their own forms and verification regardless. Second, **a joint account with a survivorship arrangement** for household operating money means the bills continue to be paid while everything else is resolved. Neither replaces the will; both cover the gap the will cannot reach.
 
 6. **Talk to your family.** Awkward for an hour; protective for a generation.
 
@@ -3647,7 +3716,7 @@ The insurance policy was never claimed. Nobody knew its number, and the family d
 
 **What to do.**
 
-**The law on this.** A valid will must be **in writing, signed by you, and witnessed by two witnesses who are not beneficiaries** — a witness who inherits may lose their gift. Deposit it at the **Probate Registry** of the State High Court or with a corporate trustee. With a will, your executor obtains **probate**; without one, the family must obtain **letters of administration**, which commonly takes a year or more and freezes accounts meanwhile. Under Islamic law, testamentary freedom is limited and defined heirs take fixed shares. A will operates only on death — for incapacity you need a **power of attorney** drafted to endure. Chapter 86 has the detail.
+**The law on this.** A valid will must be **in writing, signed by you (7), and witnessed by two witnesses who are not beneficiaries** — a witness who inherits may lose their gift. Deposit it at the **Probate Registry** of the State High Court or with a corporate trustee. With a will, your executor obtains **probate**; without one, the family must obtain **letters of administration**, which commonly takes a year or more and freezes accounts meanwhile. Under Islamic law, testamentary freedom is limited and defined heirs take fixed shares. A will operates only on death — for incapacity you need a **power of attorney** drafted to endure. Chapter 86 has the detail.
 
 1. **Write the master document this week.** It takes an hour and requires no lawyer.
 2. **Book a lawyer for the will this month.** Modest fee, enormous asymmetry — the classic bounded cost against an unbounded loss.
@@ -3661,7 +3730,7 @@ The insurance policy was never claimed. Nobody knew its number, and the family d
 ## 51. Finding money you already own
 
 
-Nigeria holds an enormous quantity of financial assets that nobody is claiming — unclaimed dividends running to hundreds of billions of naira, dormant bank accounts, unclaimed pension balances, matured insurance policies, and share certificates in drawers. Some of it may be yours. Almost none of it will find you.
+Nigeria holds an enormous quantity of financial assets that nobody is claiming — unclaimed dividends running to hundreds of billions of naira (5), dormant bank accounts, unclaimed pension balances, matured insurance policies, and share certificates in drawers. Some of it may be yours. Almost none of it will find you.
 
 This appendix is the search procedure. It requires no market judgement and it is, per hour spent, the highest-return activity in this book.
 
@@ -3693,7 +3762,7 @@ This appendix is the search procedure. It requires no market judgement and it is
 
 **2. Mandate your account so it never happens again**
 
-Complete the **e-Dividend Mandate (e-DMMS)** form with each registrar and your bank. This makes every future dividend land directly in your account, permanently. Forms are available from registrars, banks and the NGX. One visit; problem solved for life.
+Complete the **e-Dividend Mandate (e-DMMS)** form (6) with each registrar and your bank. This makes every future dividend land directly in your account, permanently. Forms are available from registrars, banks and the NGX. One visit; problem solved for life.
 
 **3. Harmonise multiple accounts**
 
@@ -3967,6 +4036,20 @@ Now the comparison that matters. Take the same income, the same ten years, and r
 **In Pidgin:** This chapter follow one ordinary family for ten years. Dem start with app debt, no savings, no health cover. After ten years dem reach around ₦49 million. No be sharp investment do am. Na because dem clear the bad debt first, buy health cover, ask for raise, separate shop money from house money, keep some for dollar, and save for burial and December separately.
 
 
+## References for Book IV
+
+*Vancouver style. Numbering restarts in each Book.*
+
+1. Taleb NN. Antifragile: things that gain from disorder. New York: Random House; 2012. Chapter on the barbell strategy.
+2. Ukeje v Ukeje (2014) 11 NWLR (Pt 1418) 384 (SC).
+3. Anekwe v Nweke (2014) 9 NWLR (Pt 1412) 393 (SC).
+4. National Pension Commission. Guidelines on accessing retirement savings account balance for equity contribution for residential mortgage; and micro pension guidelines. Abuja: PenCom. Available from: https://www.pencom.gov.ng
+5. Securities and Exchange Commission Nigeria. Reports and public notices on unclaimed dividends and the e-dividend mandate management system. Abuja: SEC. Available from: https://sec.gov.ng
+6. Islamic Financial Services Board and Nigerian non-interest finance guidance on zakat computation. Kuala Lumpur: IFSB. See also Central Bank of Nigeria guidelines on non-interest financial institutions.
+7. Wills Act 1837 (as applicable in Nigeria) and the Wills Laws of the states; Administration of Estates Laws of the states.
+8. Nigeria. Conveyancing Act 1881 and applicable state property and conveyancing laws governing powers of attorney. See also Land Instruments Registration Laws of the states.
+
+
 **In plain words:** When something bad happens — the market falls, the naira jumps, a scheme stops paying — do nothing for two days. Almost every action available in the first forty-eight hours is a bad one. Write down what happened, ask whether it is a price movement or a real loss, and check your floor rather than your portfolio.
 
 **In Pidgin:** When gbege happen, no do anything for two days. Almost everything wey you wan do that first day na mistake.
@@ -4022,7 +4105,7 @@ It stops for many Nigerians and it stops suddenly: a restructuring, a state gove
 **Week one.**
 
 1. **Stop every non-essential outflow the same week.** Subscriptions, standing orders to investments (not to debt), planned purchases. You can restart them; you cannot un-spend.
-2. **Do not touch the pension first.** The rule has historically been that you may withdraw a portion — 25% — of your RSA after **four months** of unemployment. Confirm the current rule with your PFA. But treat it as the *last* liquid resource, not the first: it is the only money that is structurally protected from you.
+2. **Do not touch the pension first.** The rule has historically been that you may withdraw a portion — 25% — of your RSA after **four months** (3) of unemployment. Confirm the current rule with your PFA. But treat it as the *last* liquid resource, not the first: it is the only money that is structurally protected from you.
 3. **Secure health cover immediately.** If your HMO was through your employer, it stops. There is no continuation scheme in Nigeria — get an individual family plan or your state NHIA scheme **in the first month**, while you still have severance in hand. A medical event during unemployment is the compounding event that turns a difficult year into a permanent setback.
 4. **Compute your runway in months**, precisely: liquid assets divided by minimum monthly expenses. Write the number down. It converts a fog into a deadline.
 
@@ -4068,7 +4151,7 @@ Her portfolio was down about 22% during the period. She did not sell any of it, 
 
 **What to do.**
 
-**The law on this.** On termination you are entitled to what your contract provides — notice or pay in lieu, salary to date, accrued leave, and any terminal benefits — and the **National Industrial Court** has exclusive jurisdiction over employment disputes and now regularly requires a valid reason and a fair process, particularly where misconduct is alleged. Redundancy has its own requirements under the **Labour Act**. **Do not sign a full-and-final settlement before checking what you are owed.** Your pension remains yours: the rule permitting a portion to be withdrawn after a defined period of unemployment is administered by **PenCom** through your PFA. Chapter 83 sets out your rights.
+**The law on this.** On termination you are entitled to what your contract provides — notice or pay in lieu, salary to date, accrued leave, and any terminal benefits — and the **National Industrial Court** has exclusive jurisdiction over employment disputes (6) and now regularly requires a valid reason and a fair process, particularly where misconduct is alleged. Redundancy has its own requirements under the **Labour Act**. **Do not sign a full-and-final settlement before checking what you are owed.** Your pension remains yours: the rule permitting a portion to be withdrawn after a defined period of unemployment is administered by **PenCom** through your PFA. Chapter 83 sets out your rights.
 
 1. **Cut fixed costs in week one, not month three.** Rent, fees, transport.
 2. **Replace health cover before it lapses.**
@@ -4160,7 +4243,7 @@ These are not preparations for divorce. They are the same asset-hygiene measures
 
 **What to do.**
 
-**The law on this.** A statutory marriage is dissolved by the **High Court** under the **Matrimonial Causes Act**, on the single ground that the marriage has broken down irretrievably, proved by defined facts. Customary and Islamic marriages are dissolved under their own systems. Nigerian courts have generally looked for evidence of **contribution** when dividing property rather than applying an automatic equal split, and the case law has moved toward recognising non-financial contribution — which is precisely why documents matter. Custody is decided on the **welfare of the child** as the paramount consideration. Chapter 86 has more.
+**The law on this.** A statutory marriage is dissolved by the **High Court** under the **Matrimonial Causes Act** (5), on the single ground that the marriage has broken down irretrievably, proved by defined facts. Customary and Islamic marriages are dissolved under their own systems. Nigerian courts have generally looked for evidence of **contribution** when dividing property rather than applying an automatic equal split, and the case law has moved toward recognising non-financial contribution — which is precisely why documents matter. Custody is decided on the **welfare of the child** as the paramount consideration. Chapter 86 has more.
 
 1. **Whatever the state of your marriage: an account in your own name, your name on assets you pay for, your business registered, records kept.** These are good practice regardless and decisive if the worst happens.
 2. **Find out which legal regime governs your marriage.** Most people do not know, and it determines everything.
@@ -4173,7 +4256,7 @@ These are not preparations for divorce. They are the same asset-hygiene measures
 **In Pidgin:** Wait 24 hours, then go read the real paper yourself. And no join queue — na for queue price dey worst.
 ## 59. When the government announces something on a Sunday
 
-This is a genuine Nigerian category. The currency redesign of November 2022. The fuel subsidy removed in a sentence in May 2023. The exchange rate unification a few weeks later. Border closures. New taxes. Bank recapitalisation directives. Whatever your view of any of them, they share a structure: **a policy that had been suppressed for years arrives complete, on a weekend, with immediate effect** (Chapter 12).
+This is a genuine Nigerian category. The currency redesign of November 2022 (1). The fuel subsidy removed in a sentence in May 2023 (2). The exchange rate unification a few weeks later. Border closures. New taxes. Bank recapitalisation directives. Whatever your view of any of them, they share a structure: **a policy that had been suppressed for years arrives complete (8), on a weekend, with immediate effect** (Chapter 12).
 
 **The protocol.**
 
@@ -4306,7 +4389,7 @@ And update the **master document** (Chapter 50) before you go, leaving a copy wi
 
 ### If you are the family that stays
 
-**Remittances are one of Nigeria's largest sources of foreign exchange** — in the tens of billions of dollars annually, exceeding foreign direct investment by a wide margin in many years. At household level they are frequently the difference between comfort and difficulty. And they are, almost universally, structured badly.
+**Remittances are one of Nigeria's largest sources of foreign exchange** (4) — in the tens of billions of dollars annually, exceeding foreign direct investment by a wide margin in many years. At household level they are frequently the difference between comfort and difficulty. And they are, almost universally, structured badly.
 
 **The problem is that remittances fund consumption exclusively.** Money arrives, need arises, money is spent, and after eight years of substantial support there is no asset anywhere — which is a source of enormous, and usually silent, resentment on both sides.
 
@@ -4436,6 +4519,18 @@ Three things are worth knowing:
 4. **When you refuse, refuse the investment and never the person** — "it's outside my rules," not "it's a scam."
 
 **If you remember one thing:** refuse the investment, not the person, and have a written rule you can point to — because "no" spoken from a rule survives a conversation that "no" spoken from an opinion does not.
+
+## References for Book V
+
+*Vancouver style. Numbering restarts in each Book.*
+
+1. Central Bank of Nigeria. Naira redesign and cash withdrawal limits. Circulars. Abuja: CBN; 2022–2023.
+2. Federal Government of Nigeria. Presidential inauguration address announcing removal of the petrol subsidy, 29 May 2023. Abuja: State House; 2023.
+3. National Pension Commission. Guidelines on access to retirement savings account by contributors disengaged from employment. Abuja: PenCom.
+4. World Bank. Migration and development brief: remittance flows to sub-Saharan Africa. Washington (DC): World Bank; annual series. See also Central Bank of Nigeria diaspora remittance statistics.
+5. Nigeria. Matrimonial Causes Act, Cap M7, Laws of the Federation of Nigeria 2004. Abuja: Federal Government of Nigeria; 2004.
+6. Nigeria. Constitution of the Federal Republic of Nigeria 1999 (as amended), section 254C: jurisdiction of the National Industrial Court.
+
 # Book VI — Building a company
 
 > *Aku ruo ulo.* — **Igbo:** let the wealth reach home. Money made abroad, or made and never brought back into a structure that lasts, is not yet wealth.
@@ -4519,13 +4614,13 @@ This is why it matters:
 
 ### Practical points under CAMA 2020
 
-Nigeria's company law was rewritten in 2020 and it made small business much easier:
+Nigeria's company law was rewritten in 2020 (1) and it made small business much easier:
 
 - **One person can now form a private company.** You no longer need a second name on the paper.
 - **Small companies** get lighter obligations — for example, exemption from appointing an auditor in some cases, subject to conditions. Confirm your company qualifies.
 - **A company secretary is not compulsory for small companies.**
-- **Minimum issued share capital for a private company is ₦100,000.** This is not money you must deposit anywhere; it is the value of shares issued.
-- **You must disclose people with significant control** — the humans who really own or control the company. This is a legal duty, not optional.
+- **Minimum issued share capital for a private company is ₦100,000.** (1) This is not money you must deposit anywhere; it is the value of shares issued.
+- **You must disclose people with significant control** (1) — the humans who really own or control the company. This is a legal duty, not optional.
 
 Verify the current position at the CAC; these things change.
 
@@ -4689,9 +4784,9 @@ If your business has a name, a logo, a recipe, a design, a piece of software or 
 
 | What it protects | How | Where | How long |
 |---|---|---|---|
-| **Trademark** — your name and logo | Register it | Trademarks Registry, Ministry of Industry, Trade and Investment | Renewable, typically in seven-year periods after the first |
-| **Copyright** — writing, music, film, software, designs | Automatic on creation; you may notify the Nigerian Copyright Commission for evidence | NCC | Long — decades beyond the author's life |
-| **Patent** — a genuinely new invention | Register | Patents and Designs Registry | Around twenty years, with annual fees |
+| **Trademark** — your name and logo | Register it (3) | Trademarks Registry, Ministry of Industry, Trade and Investment | Renewable, typically in seven-year periods after the first |
+| **Copyright** — writing, music, film, software, designs (2) | Automatic on creation; you may notify the Nigerian Copyright Commission for evidence | NCC | Long — decades beyond the author's life |
+| **Patent** — a genuinely new invention (4) | Register | Patents and Designs Registry | Around twenty years, with annual fees |
 | **Industrial design** — the look of a product | Register | Same registry | Renewable periods |
 
 ### What most founders actually need
@@ -4739,12 +4834,12 @@ Calling someone a consultant to avoid PAYE and pension does not work if the real
 
 ### What you must do for an employee
 
-1. **Give a written contract** within three months of starting. The Labour Act requires written particulars of employment.
+1. **Give a written contract** within three months of starting. The Labour Act requires written particulars of employment (5).
 2. **Deduct and remit PAYE** monthly to the state revenue service of the state where the employee lives.
 3. **Pension** — under the Pension Reform Act, employers with a minimum number of employees (three or more) must contribute a minimum of 10% while the employee contributes 8%, into the employee's RSA. **Deducting the employee's 8% and not remitting it is an offence**, and PenCom takes complaints.
 4. **Group life insurance** — required, typically at three times annual total emoluments.
-5. **Employee compensation** — contributions to the NSITF scheme under the Employee Compensation Act, which covers workplace injury.
-6. **Industrial Training Fund** — employers above defined size or turnover contribute 1% of payroll.
+5. **Employee compensation** — contributions to the NSITF scheme under the Employee Compensation Act (6), which covers workplace injury.
+6. **Industrial Training Fund** — employers above defined size (7) or turnover contribute 1% of payroll.
 7. **Minimum wage** — the national minimum wage applies; verify the current figure.
 8. **Leave, hours, and notice** — the Labour Act sets minimum annual leave, sick leave and notice periods, and maternity protection applies.
 
@@ -4789,12 +4884,12 @@ Most businesses in Nigeria need only CAC registration and tax registration. Some
 | **Digital assets** | SEC | Under the Investments and Securities Act 2025, digital assets are securities and platforms need registration |
 | **Insurance, brokerage** | NAICOM | Licence with substantial capital |
 | **Health, clinics, pharmacy** | Federal and State Ministries, PCN, MDCN | Facility and professional licences |
-| **Food, drink, cosmetics, drugs** | NAFDAC | Product registration for each item, plus facility approval |
-| **Manufactured goods and standards** | SON | Product certification, MANCAP |
+| **Food, drink, cosmetics, drugs** | NAFDAC (10) | Product registration for each item, plus facility approval |
+| **Manufactured goods and standards** | SON (11) | Product certification, MANCAP |
 | **Telecoms and value-added services** | NCC | Licences by type |
 | **Education** | Ministries of Education | Approval to operate a school |
 | **Hotels, food service** | State agencies | Registration and health inspection |
-| **Any business handling personal data at scale** | **NDPC** under the Nigeria Data Protection Act 2023 | Compliance duties; registration if you are a data controller of major importance |
+| **Any business handling personal data at scale** (8) | **NDPC** under the Nigeria Data Protection Act 2023 | Compliance duties; registration if you are a data controller of major importance |
 | **Estate agency, jewellery, car dealing and similar** | **SCUML** under money-laundering law | Registration as a designated non-financial business |
 
 **Three practical points:**
@@ -4811,7 +4906,7 @@ Most businesses in Nigeria need only CAC registration and tax registration. Some
 
 ## 71. The Nigeria Startup Act, and what it actually gives you
 
-In 2022 Nigeria passed a law specifically for technology startups. Most founders have heard of it. Few have read it, and fewer have used it.
+In 2022 Nigeria passed a law specifically for technology startups (9). Most founders have heard of it. Few have read it, and fewer have used it.
 
 **What it sets up:**
 
@@ -4860,7 +4955,7 @@ Most Nigerian businesses should never raise outside money. They should get custo
 
 **Equity.** You sell part of the company. Nothing to repay, but you have given away a share of everything the business ever earns, and a part-owner with rights.
 
-**And the one in between: the convertible instrument.** A **SAFE** or a **convertible note** — the investor gives money now, and instead of setting a price today, the money converts into shares later, at the next priced round, usually at a discount and often with a valuation cap. It is popular in early-stage deals because it avoids arguing about the value of a company that has barely started.
+**And the one in between: the convertible instrument.** A **SAFE** or a **convertible note** (12) — the investor gives money now, and instead of setting a price today, the money converts into shares later, at the next priced round, usually at a discount and often with a valuation cap. It is popular in early-stage deals because it avoids arguing about the value of a company that has barely started.
 
 **Understand the trap:** these instruments feel like they cost nothing today because no shares change hands yet. **They are shares, deferred.** Sign several and you may discover at the next round that you have given away far more than you intended. Model the conversion before you sign, not after.
 
@@ -4895,7 +4990,7 @@ If you take it:
 3. **Never take somebody's emergency fund, pension or last savings.** Refuse it even when offered.
 4. **Report regularly**, especially when it is going badly. Silence is what destroys the relationship, not failure.
 
-**And a legal caution that catches people:** raising money from the general public — advertising an investment opportunity broadly — is a **regulated activity**. Private arrangements with identified investors are one thing; a public solicitation without SEC authorisation is another, and crowdfunding in Nigeria has its own SEC rules and limits. Get advice before publishing anything that invites strangers to invest.
+**And a legal caution that catches people:** raising money from the general public — advertising an investment opportunity broadly — is a **regulated activity**. Private arrangements with identified investors are one thing; a public solicitation without SEC authorisation is another, and crowdfunding in Nigeria has its own SEC rules and limits (13). Get advice before publishing anything that invites strangers to invest.
 
 **In plain words:** The best money is money from customers. Next is your own savings. Only then outside investors. If you sell part of the company, remember you are giving away a share of everything it will ever earn. Convertible notes and SAFEs feel free today but are shares later — work out the effect before signing. Read the term sheet for who gets paid first and who controls decisions. If you take money from family, put it in writing, tell them plainly it can be lost, and never take money they cannot afford to lose.
 
@@ -4996,6 +5091,26 @@ Most Nigerian businesses are sold to a competitor, a strategic buyer or a larger
 
 **In Pidgin:** Most business dey end. Decide before time wetin go make you stop, so the decision no go be panic. If e fail, pay your staff, pay the tax wey you deduct from dem, talk to creditor early, and close the company properly — no just abandon am. And if buyer come tomorrow, na your CAC filing, tax, account and paper dem go check.
 
+
+## References for Book VI
+
+*Vancouver style. Numbering restarts in each Book.*
+
+1. Nigeria. Companies and Allied Matters Act, 2020. Abuja: Federal Government of Nigeria; 2020.
+2. Nigeria. Copyright Act, 2022. Abuja: Federal Government of Nigeria; 2022.
+3. Nigeria. Trade Marks Act, Cap T13, Laws of the Federation of Nigeria 2004. Abuja: Federal Government of Nigeria; 2004.
+4. Nigeria. Patents and Designs Act, Cap P2, Laws of the Federation of Nigeria 2004. Abuja: Federal Government of Nigeria; 2004.
+5. Nigeria. Labour Act, Cap L1, Laws of the Federation of Nigeria 2004. Abuja: Federal Government of Nigeria; 2004.
+6. Nigeria. Employee Compensation Act, 2010; Nigeria Social Insurance Trust Fund. Abuja: Federal Government of Nigeria; 2010.
+7. Nigeria. Industrial Training Fund (Amendment) Act, 2011. Abuja: Federal Government of Nigeria; 2011.
+8. Nigeria. Nigeria Data Protection Act, 2023; Nigeria Data Protection Commission guidance. Abuja: NDPC; 2023. Available from: https://ndpc.gov.ng
+9. Nigeria. Nigeria Startup Act, 2022. Abuja: Federal Government of Nigeria; 2022.
+10. National Agency for Food and Drug Administration and Control. Product registration guidelines. Abuja: NAFDAC. Available from: https://www.nafdac.gov.ng
+11. Standards Organisation of Nigeria. SONCAP and mandatory conformity assessment programme. Abuja: SON. Available from: https://son.gov.ng
+12. Y Combinator. Simple agreement for future equity (SAFE): user guide and standard documents. Mountain View (CA): Y Combinator. Available from: https://www.ycombinator.com/documents
+13. Securities and Exchange Commission Nigeria. Rules on crowdfunding. Abuja: SEC; 2021.
+14. Nigeria. Nigeria Tax Act, 2025: companies income tax rates and small company exemption. Abuja: Federal Government of Nigeria; 2025.
+
 # Book VII — The trades: farming, importing, exporting
 
 > *Ẹni tí ó bá gbin ìrèké, kì í fi ẹnu bá a jẹ.* — **Yoruba:** he who plants sugarcane does not eat it with his mouth alone. What you grow must still be harvested, stored and sold.
@@ -5021,7 +5136,7 @@ Agriculture employs more Nigerians than any other sector, and it is where the mo
 
 ### The four failures that actually lose the money
 
-**1. Post-harvest loss.** A very large share of Nigerian produce is lost between the farm and the buyer — spoilage, poor drying, bad storage, transport delay. **You can grow perfectly and lose a third of the value after harvest.** Storage and drying are not an afterthought; they are frequently where the profit is.
+**1. Post-harvest loss.** A very large share of Nigerian produce is lost between the farm and the buyer (1) — spoilage, poor drying, bad storage, transport delay. **You can grow perfectly and lose a third of the value after harvest.** Storage and drying are not an afterthought; they are frequently where the profit is.
 
 **2. Selling at harvest.** Everybody harvests at the same time, so prices are at their lowest exactly when your crop is ready. Farmers who can store for three to six months routinely earn substantially more for the same crop. **Storage capacity is a financial instrument.**
 
@@ -5039,9 +5154,9 @@ Agriculture employs more Nigerians than any other sector, and it is where the mo
 
 ### The instruments that exist for farmers
 
-- **Crop and livestock insurance** through NAIC and private insurers. Underused, and it converts a bad season from ruin into a claim.
-- **Warehouse receipts** — you store certified produce with a licensed warehouse, receive a receipt, and can sell or borrow against it. Exchanges such as AFEX operate this. **It is the formal answer to failures 1 and 2 above.**
-- **Bank of Agriculture and NIRSAL-supported lending**, and various government intervention schemes which appear and change. Ask, apply, and do not build the plan around them (Chapter 70).
+- **Crop and livestock insurance** through NAIC (2) and private insurers. Underused, and it converts a bad season from ruin into a claim.
+- **Warehouse receipts** — you store certified produce (3) with a licensed warehouse, receive a receipt, and can sell or borrow against it. Exchanges such as AFEX operate this. **It is the formal answer to failures 1 and 2 above.**
+- **Bank of Agriculture and NIRSAL-supported lending** (4), and various government intervention schemes which appear and change. Ask, apply, and do not build the plan around them (Chapter 70).
 - **Cooperatives**, which buy inputs in bulk and aggregate produce for a better price. For a smallholder this is usually the single highest-return membership available.
 - **Anchor and outgrower arrangements** with processors, where inputs are supplied and the crop is bought at an agreed basis. Read the terms carefully; the price basis matters more than the free inputs.
 
@@ -5146,9 +5261,9 @@ The invoice from the supplier is often less than half of it. Budget every line *
 
 1. **Register the business and get a TIN** (Chapter 65).
 2. **Open a corporate account** with a bank that will act as your **authorised dealer**.
-3. **Form M** — an electronic declaration filed through your bank before shipment, for goods being imported. It is valid for a period and must match the shipment.
-4. **PAAR** — the Pre-Arrival Assessment Report issued by Customs after documents are processed; it states the duty payable.
-5. **Shipping documents** — bill of lading, commercial invoice, packing list, certificate of origin, and product certificates where required (**SONCAP** for regulated products, **NAFDAC** for food, drugs, cosmetics).
+3. **Form M** — an electronic declaration filed through your bank (5) before shipment, for goods being imported. It is valid for a period and must match the shipment.
+4. **PAAR** — the Pre-Arrival Assessment Report (6) issued by Customs after documents are processed; it states the duty payable.
+5. **Shipping documents** — bill of lading, commercial invoice, packing list, certificate of origin, and product certificates where required (**SONCAP** for regulated products (7), **NAFDAC** for food, drugs, cosmetics).
 6. **Pay duty and charges**, clear, and take delivery.
 
 **Do not import a product that requires NAFDAC or SON approval without obtaining it first.** The goods will sit at the port accumulating demurrage, or be destroyed.
@@ -5170,7 +5285,7 @@ Your costs are in dollars and your revenue is in naira. **This is the mismatch t
 
 Defences: price with a buffer, hold some dollars before you need them, turn stock quickly rather than holding it, and **never fund an import with a naira loan you must repay on a fixed date when your goods may be delayed.**
 
-**The law on this.** Imports are governed by the **Customs and Excise Management Act** and the Nigeria Customs Service; foreign exchange for imports is regulated by the **CBN**, which requires a **Form M** through an authorised dealer bank and mandates marine insurance from a Nigerian insurer. Regulated products require **SONCAP** (Standards Organisation of Nigeria) or **NAFDAC** registration. Under-declaring value or misdeclaring an HS code is a **customs offence**, not a negotiation, and carries seizure and penalties. Money-laundering rules under the **2022 Act** apply to large payments.
+**The law on this.** Imports are governed by the **Customs and Excise Management Act** and the Nigeria Customs Service; foreign exchange for imports is regulated by the **CBN**, which requires a **Form M** through an authorised dealer bank and mandates marine insurance from a Nigerian insurer. Regulated products require **SONCAP** (Standards Organisation of Nigeria) or **NAFDAC** registration. Under-declaring value or misdeclaring an HS code is a **customs offence** (6), not a negotiation, and carries seizure and penalties. Money-laundering rules under the **2022 Act** apply to large payments.
 
 **What to do.**
 
@@ -5199,8 +5314,8 @@ Sesame, cocoa, cashew, ginger, hibiscus, shea, gum arabic, charcoal, solid miner
 ### The paperwork for goods
 
 1. **Register the business**, get a TIN.
-2. **Register as an exporter with the NEPC** — the Nigerian Export Promotion Council. This is the basic licence to export commercially.
-3. **NXP form** — the export declaration filed through your bank, which is how your export proceeds are tracked and repatriated.
+2. **Register as an exporter with the NEPC** (8) — the Nigerian Export Promotion Council. This is the basic licence to export commercially.
+3. **NXP form** — the export declaration (8) filed through your bank, which is how your export proceeds are tracked and repatriated.
 4. **Certificate of origin** from NEPC or the chamber of commerce.
 5. **Product certificates** — phytosanitary certificate for plant products, SON or NAFDAC where applicable, fumigation certificate, quality and grading certificates the buyer requires.
 6. **Shipping documents** — bill of lading, commercial invoice, packing list.
@@ -5223,7 +5338,7 @@ Sesame, cocoa, cashew, ginger, hibiscus, shea, gum arabic, charcoal, solid miner
 
 Export proceeds must be received through your bank and reported against the NXP form. **This is not merely a rule to comply with — it is what makes your foreign earnings documented**, which matters for tax, for credit, for grants and for any incentive you later claim.
 
-**Incentives to ask about:** the **Export Expansion Grant** and NEPC support programmes exist in various forms and change with policy. Apply if you qualify; do not build the business on them (Chapter 70).
+**Incentives to ask about:** the **Export Expansion Grant** (8) and NEPC support programmes exist in various forms and change with policy. Apply if you qualify; do not build the business on them (Chapter 70).
 
 **What to do.**
 
@@ -5239,6 +5354,20 @@ Export proceeds must be received through your bank and reported against the NXP 
 
 **In Pidgin:** Nigeria dey export plenty thing pass oil, and service — software, design, professional work — na the easiest, because no container dey. For goods: register with NEPC, file NXP for your bank, test quality for lab before you ship. And never ship give new buyer on trust — collect part payment or use letter of credit.
 
+
+## References for Book VII
+
+*Vancouver style. Numbering restarts in each Book.*
+
+1. Food and Agriculture Organization of the United Nations. Global food losses and food waste: extent, causes and prevention; and country assessments for Nigeria. Rome: FAO. Available from: https://www.fao.org
+2. Nigerian Agricultural Insurance Corporation. Crop and livestock insurance products. Abuja: NAIC. Available from: https://naic.gov.ng
+3. Securities and Exchange Commission Nigeria. Rules on commodities trading ecosystem and warehouse receipts. Abuja: SEC. See also AFEX Commodities Exchange Limited, Lagos.
+4. Bank of Agriculture Limited, Kaduna; and Nigeria Incentive-Based Risk Sharing System for Agricultural Lending (NIRSAL) Plc, Abuja. Available from: https://nirsal.com
+5. Central Bank of Nigeria. Revised procedures for imports: Form M and electronic declaration. Circulars. Abuja: CBN.
+6. Nigeria. Nigeria Customs Service Act, 2023; and Nigeria Customs Service pre-arrival assessment report procedures. Abuja: Federal Government of Nigeria; 2023.
+7. Standards Organisation of Nigeria. SONCAP certification requirements for regulated imported products. Abuja: SON.
+8. Nigerian Export Promotion Council. Exporter registration, NXP procedures and export incentive schemes. Abuja: NEPC. Available from: https://nepc.gov.ng
+
 # Book VIII — The law, plainly
 
 *Every chapter in this book sits on a law. This Book explains those laws in ordinary words: what they say, what rights they give you, what they require of you, and what to do when something goes wrong. It is written so that a person with no legal training can use it. It is not legal advice, it is a map — and where the amount at stake is large, pay a lawyer, which Chapter 91 explains how to do.*
@@ -5249,7 +5378,7 @@ You do not need to be a lawyer. You need to know **where a rule comes from**, be
 
 **Nigerian rules come from five places, in order of authority:**
 
-1. **The Constitution.** The highest law. Everything else must agree with it. This is why customs that dispossess widows and daughters have been struck down (Chapter 43) — they conflicted with the Constitution's guarantee against discrimination.
+1. **The Constitution.** The highest law (1). Everything else must agree with it. This is why customs that dispossess widows and daughters have been struck down (Chapter 43) — they conflicted with the Constitution's guarantee against discrimination.
 2. **Acts of the National Assembly** — federal laws. Company law, tax on companies, banking, capital markets, labour, data protection.
 3. **Laws of a State House of Assembly** — state laws. Land administration, tenancy, personal income tax administration, most business premises levies.
 4. **Regulations and guidelines from regulators** — CBN circulars, SEC rules, NAICOM guidelines, PenCom rules, FCCPC orders. These bind you even though no parliament passed them.
@@ -5263,12 +5392,12 @@ You do not need to be a lawyer. You need to know **where a rule comes from**, be
 |---|---|
 | Employment — dismissal, unpaid salary, pension not remitted | **National Industrial Court** |
 | Land, contracts, most civil disputes above the small limits | **State High Court** |
-| Small money claims | **Magistrate Court**, and in Lagos the **Small Claims Court**, which is fast and cheap and does not require a lawyer |
+| Small money claims | **Magistrate Court**, and in Lagos the **Small Claims Court** (3), which is fast and cheap and does not require a lawyer |
 | Tax disputes | **Tax Appeal Tribunal**, then the courts |
 | Federal agencies, banking, company matters, immigration | **Federal High Court** |
 | Customary marriage, some inheritance | **Customary Court** or **Sharia Court**, depending on the system that applies |
 
-**Before any of these, consider the cheaper routes:** the regulator's complaints desk (CBN, NAICOM, PenCom, FCCPC, SEC), mediation, or arbitration if your contract provides for it. **Under the Arbitration and Mediation Act 2023, an arbitration award can be enforced like a court judgment** — which is why business contracts increasingly choose arbitration over litigation.
+**Before any of these, consider the cheaper routes:** the regulator's complaints desk (CBN, NAICOM, PenCom, FCCPC, SEC), mediation, or arbitration if your contract provides for it. **Under the Arbitration and Mediation Act 2023, an arbitration award can be enforced (2) like a court judgment** — which is why business contracts increasingly choose arbitration over litigation.
 
 ### How to read any rule, in four questions
 
@@ -5311,7 +5440,7 @@ Even a one-page one:
 6. **Which law and which forum** — Nigerian law, and which court or arbitration.
 7. **Signatures and dates**, by people authorised to sign.
 
-**Stamping matters.** Under the Stamp Duties Act, certain instruments must be stamped, and **an unstamped document may not be admissible in evidence** until stamped and penalties paid. Stamp important agreements.
+**Stamping matters.** Under the Stamp Duties Act, certain instruments must be stamped (4), and **an unstamped document may not be admissible in evidence** until stamped and penalties paid. Stamp important agreements.
 
 ### Practical rules that prevent most disputes
 
@@ -5337,7 +5466,7 @@ Even a one-page one:
 
 ## 81. Company law, in plain words
 
-The **Companies and Allied Matters Act 2020 (CAMA)** governs every registered business in Nigeria. Chapter 64 covered choosing a form; this covers living with the rules.
+The **Companies and Allied Matters Act 2020 (CAMA)** governs every registered business (5) in Nigeria. Chapter 64 covered choosing a form; this covers living with the rules.
 
 ### What a company is
 
@@ -5397,11 +5526,11 @@ Three consequences:
 2. **Any transfer requires the Governor's consent** to be valid. Buying land with a C of O in the seller's name does not make it yours until consent to the assignment is obtained. This is the most common defect in Nigerian property ownership.
 3. **Government can revoke** a right of occupancy for overriding public interest, with compensation for improvements — which is why land under acquisition is worthless to you no matter how good the seller's story.
 
-**Registration matters.** An unregistered instrument affecting land may not be admissible as evidence of title. Register your deed.
+**Registration matters.** An unregistered instrument affecting land (11) may not be admissible as evidence of title. Register your deed.
 
 ### Renting: know your rights
 
-Tenancy is governed by **state** law — Lagos has the **Tenancy Law 2011**; other states have their own. The principles are broadly similar.
+Tenancy is governed by **state** law — Lagos has the **Tenancy Law 2011** (6); other states have their own. The principles are broadly similar.
 
 **As a tenant:**
 
@@ -5409,7 +5538,7 @@ Tenancy is governed by **state** law — Lagos has the **Tenancy Law 2011**; oth
 - **Notice periods are set by law**, and depend on the type of tenancy — commonly a week for a weekly tenant, a month for a monthly tenant, three months for a quarterly tenant and six months for a yearly tenant, unless the agreement provides otherwise. **A landlord who wants you out must give proper written notice, then a notice of owner's intention to recover possession, then go to court.**
 - **Self-help is unlawful.** A landlord may not lock you out, remove your roof, cut your power or throw out your belongings. That is an offence, and courts have awarded damages for it.
 - **Only a court can evict you.**
-- **Lagos law restricts demanding more than a year's rent in advance** from a monthly or yearly tenant in certain cases. Enforcement is inconsistent, and market practice often ignores it, but know that the rule exists.
+- **Lagos law restricts demanding more than a year's rent in advance** (6) from a monthly or yearly tenant in certain cases. Enforcement is inconsistent, and market practice often ignores it, but know that the rule exists.
 
 **As a landlord:** follow the notice steps exactly. Skipping them restarts the process and costs you months.
 
@@ -5441,12 +5570,12 @@ Chapter 69 covered your duties as an employer. This is your protection as an emp
 
 - **A written statement of your terms**, within three months of starting.
 - **Your wages, in legal tender, on time.** Deductions are limited to those the law permits or you agreed in writing.
-- **The national minimum wage**, if you are covered by it.
+- **The national minimum wage**, if you are covered by it (7).
 - **Annual leave, sick leave and public holidays**, at least at the statutory minimums.
 - **Maternity protection**, including leave and protection from dismissal on that ground.
 - **Pension** — your employer must remit 10% and deduct your 8%, into your RSA. **Check the statements. Non-remittance is common and unlawful.**
 - **Group life insurance** cover.
-- **Compensation for workplace injury**, under the Employee Compensation Act, through the NSITF scheme.
+- **Compensation for workplace injury**, under the Employee Compensation Act (8), through the NSITF scheme.
 - **A safe place of work.**
 
 ### If you are dismissed
@@ -5510,9 +5639,9 @@ This chapter is about your rights as a customer of the financial system — and 
 
 **Loan apps may not harass you.** Broadcasting messages to your contacts, using abusive language, or threatening you is unlawful. The **FCCPC operates an approval regime for digital lenders** and has removed unapproved apps from stores. Document the harassment, revoke contact permissions, and complain.
 
-**Your data has protections.** Under the **NDPA 2023**, an organisation must have a lawful basis to process your personal data, must tell you what it does with it, must keep it secure, and must report serious breaches. You have rights to access your data and to have it corrected or deleted in defined circumstances.
+**Your data has protections.** Under the **NDPA 2023**, an organisation must have a lawful basis (9) to process your personal data, must tell you what it does with it, must keep it secure, and must report serious breaches. You have rights to access your data and to have it corrected or deleted in defined circumstances.
 
-**Unfair contract terms and misleading claims** are the FCCPC's territory under the Federal Competition and Consumer Protection Act 2018, which also gives consumers rights to refunds and remedies for defective goods and services.
+**Unfair contract terms and misleading claims** are the FCCPC's territory under the Federal Competition and Consumer Protection Act 2018 (10), which also gives consumers rights to refunds and remedies for defective goods and services.
 
 ### Investments: the line between regulated and criminal
 
@@ -5560,13 +5689,13 @@ Nigeria's tax laws were substantially rewritten in 2025, effective from 2026. **
 - **If you are employed**, PAYE is deducted for you — but confirm it is actually being remitted to your state.
 - **If you are self-employed or earn foreign income**, you are required to file annually with your state revenue service.
 - **The 2025 reforms raised the threshold** below which individuals pay no personal income tax, and revised the bands and reliefs, including a rent-related relief.
-- **Dividends** suffer withholding tax, commonly 10%, generally as a final tax.
+- **Dividends** suffer withholding tax, commonly 10% (5), generally as a final tax.
 - **Capital gains on shares** became chargeable above defined thresholds, with relief where proceeds are reinvested.
 - **Keep records of what you paid for assets.** Without proof of cost, you may be taxed on the whole sale price.
 
 ### As a business
 
-- **Companies income tax** is charged on profits, with rates stepping up by company size. **Small companies below the defined turnover threshold pay 0%** under the 2025 framework — a genuine and substantial relief, available only to companies that are registered and filing.
+- **Companies income tax** is charged on profits, with rates stepping up by company size. **Small companies below the defined turnover threshold pay 0%** (14) under the 2025 framework — a genuine and substantial relief, available only to companies that are registered and filing.
 - **VAT**: once you cross the registration threshold you must register, charge 7.5%, issue proper invoices, and remit monthly. **VAT collected is not income; it is money held for the government.**
 - **PAYE**: deduct from staff monthly and remit to their state.
 - **Withholding tax**: deduct from certain payments you make; and collect credit notes for WHT deducted from you, because it offsets your own liability.
@@ -5605,8 +5734,8 @@ Nigeria runs three at once, and **which applies depends on how you married and, 
 
 Two Supreme Court decisions from 2014 matter to millions of families:
 
-- **Ukeje v. Ukeje** — a customary rule barring a daughter from inheriting her father's estate was held unconstitutional.
-- **Anekwe v. Nweke** — the custom of disinheriting a widow who had no male child was condemned as repugnant to natural justice.
+- **Ukeje v. Ukeje** — a customary rule barring a daughter (11) from inheriting her father's estate was held unconstitutional.
+- **Anekwe v. Nweke** — the custom of disinheriting a widow (12) who had no male child was condemned as repugnant to natural justice.
 
 **Customs that dispossess widows and daughters are not enforceable law**, whatever a family meeting decides. But — and Chapter 43 makes this point — **a right you cannot document is a right you must litigate**, and litigation takes years a bereaved family usually cannot fund.
 
@@ -5637,6 +5766,26 @@ Which produces three practical instructions:
 **If you remember one thing:** find out which system of law governs your marriage, then write a will that works under it — because the alternative is a year of court process and a dispute among people who were previously family.
 
 **In Pidgin:** Three kind family law dey Nigeria — statutory, customary, and Islamic — and na how you marry dey decide which one apply to you. Find out, because e go decide wetin happen to your property. Supreme Court don talk say custom wey dey stop widow and daughter from inherit no be valid law. Write will, sign am, make two person wey no go inherit witness am, and tell your executor where e dey.
+
+
+## References for Book VIII
+
+*Vancouver style. Numbering restarts in each Book.*
+
+1. Nigeria. Constitution of the Federal Republic of Nigeria, 1999 (as amended). Abuja: Federal Government of Nigeria; 1999.
+2. Nigeria. Arbitration and Mediation Act, 2023. Abuja: Federal Government of Nigeria; 2023.
+3. Lagos State Judiciary. Practice directions on the small claims court. Lagos: Lagos State Judiciary; 2018.
+4. Nigeria. Stamp Duties Act, Cap S8, Laws of the Federation of Nigeria 2004 (as amended). Abuja: Federal Government of Nigeria; 2004.
+5. Nigeria. Companies and Allied Matters Act, 2020. Abuja: Federal Government of Nigeria; 2020.
+6. Lagos State. Tenancy Law of Lagos State, 2011. Ikeja: Lagos State Government; 2011.
+7. Nigeria. National Minimum Wage Act, 2024. Abuja: Federal Government of Nigeria; 2024.
+8. Nigeria. Employee Compensation Act, 2010. Abuja: Federal Government of Nigeria; 2010.
+9. Nigeria. Nigeria Data Protection Act, 2023. Abuja: Federal Government of Nigeria; 2023.
+10. Nigeria. Federal Competition and Consumer Protection Act, 2018. Abuja: Federal Government of Nigeria; 2018.
+11. Ukeje v Ukeje (2014) 11 NWLR (Pt 1418) 384 (SC).
+12. Anekwe v Nweke (2014) 9 NWLR (Pt 1412) 393 (SC).
+13. Nigeria. Nigeria Tax Act, 2025; Nigeria Tax Administration Act, 2025; Joint Revenue Board (Establishment) Act, 2025. Abuja: Federal Government of Nigeria; 2025.
+14. Nigeria. Federal Inland Revenue Service (Establishment) Act, 2007, Fifth Schedule: Tax Appeal Tribunal. Abuja: Federal Government of Nigeria; 2007.
 
 # Book IX — The papers
 
@@ -5678,7 +5827,7 @@ Which produces three practical instructions:
 >
 > **Re: Complaint — [failed transfer / wrong charge] of ₦[amount] on [date]. Account [number]**
 >
-> On [date] at approximately [time], a transfer of ₦[amount] was debited from my account [number] in favour of [beneficiary, bank, account number]. The transaction reference is [reference]. The beneficiary has confirmed that the funds were not received. / The sum of ₦[amount] was deducted from my account as [name of charge], which I did not authorise and which I believe is not permitted under the CBN Guide to Charges.
+> On [date] at approximately [time], a transfer of ₦[amount] was debited from my account [number] in favour of [beneficiary, bank, account number]. The transaction reference is [reference]. The beneficiary has confirmed that the funds were not received. / The sum of ₦[amount] was deducted from my account as [name of charge], which I did not authorise and which I believe is not permitted under the CBN Guide to Charges (1).
 >
 > I have reported this on [dates] through [channel] and the ticket number is [number]. The matter remains unresolved after [number] days.
 >
@@ -5710,7 +5859,7 @@ Which produces three practical instructions:
 >
 > Yours faithfully, [Name] [Policy number] [Phone]
 
-**Notes.** Notify within the deadline in your policy — sometimes 48 hours. If the claim is refused and you believe the refusal is wrong, send the full file to **NAICOM's complaints bureau**, quoting the policy number and the insurer's response.
+**Notes.** Notify within the deadline in your policy — sometimes 48 hours. If the claim is refused and you believe the refusal is wrong, send the full file to **NAICOM's complaints bureau** (2), quoting the policy number and the insurer's response.
 
 ### Template — escalation to a regulator
 
@@ -5852,7 +6001,7 @@ Which produces three practical instructions:
 4. **Specific gifts** — item, and who gets it.
 5. **The residue** — everything else, and to whom, in what shares.
 6. **Funeral wishes**, if you want to spare your family the argument in Chapter 46.
-7. **Signature**, dated, in the presence of **two witnesses who are not beneficiaries and are not married to beneficiaries.**
+7. **Signature**, dated, in the presence of **two witnesses (4) who are not beneficiaries and are not married to beneficiaries.**
 8. Deposit at the **Probate Registry** of your State High Court, or with a corporate trustee. **Tell your executor where it is.**
 
 ### Next of kin — the instruction people forget
@@ -5948,7 +6097,7 @@ A next-of-kin field is how an institution knows who to contact. **It is not an i
 > **Payment due:** [date — state a date, not "on receipt"]
 > **Pay to:** [bank name, account name, account number]
 > **Terms:** Late payment attracts [rate]% per month from the due date.
-> **Withholding tax:** Where WHT is deducted, please forward the credit note.
+> **Withholding tax:** Where WHT is deducted (3), please forward the credit note.
 
 **Notes.** A due date, an account number and stated late-payment terms measurably shorten how long Nigerian customers take to pay. And always collect the WHT credit note — it is money against your own tax (Chapter 67).
 
@@ -5988,6 +6137,16 @@ A next-of-kin field is how an institution knows who to contact. **It is not an i
 **If you remember one thing:** put the intellectual-property clause in every contractor agreement and file your annual return every year — those two habits protect more value than anything else on this list.
 
 **In Pidgin:** These na the business paper wey worth am. Founders agreement before you start. Contractor agreement wey talk say the work belong to the company — if not, na the person wey you pay go own am. Invoice wey get due date, account number and late-payment terms. And file your annual return every year.
+
+
+## References for Book IX
+
+*Vancouver style. Numbering restarts in each Book.*
+
+1. Central Bank of Nigeria. Guide to charges by banks, other financial and non-bank financial institutions. Abuja: CBN. Available from: https://www.cbn.gov.ng
+2. National Insurance Commission. Complaints bureau and market conduct guidelines. Abuja: NAICOM. Available from: https://naicom.gov.ng
+3. Federal Inland Revenue Service. Withholding tax regulations and credit note procedures. Abuja: FIRS. Available from: https://www.firs.gov.ng
+4. Wills Act 1837 (as applicable) and the Wills Laws of the states of Nigeria; see also Administration of Estates Laws of the states.
 
 # Book X — After the book
 
@@ -6378,6 +6537,18 @@ Comfort is what a fixed-income retirement portfolio is selling you. Safety is a 
 You do not need to predict the storm. You need a roof that does not care.
 
 ---
+
+
+## References for Book X
+
+*Vancouver style. Numbering restarts in each Book.*
+
+1. Malkiel BG. A random walk down Wall Street: the time-tested strategy for successful investing. New York: W. W. Norton; 2023.
+2. Housel M. The psychology of money: timeless lessons on wealth, greed, and happiness. Petersfield: Harriman House; 2020.
+3. Graham B. The intelligent investor: the definitive book on value investing. Rev. ed. New York: HarperBusiness; 2006.
+4. Taleb NN. Skin in the game: hidden asymmetries in daily life. New York: Random House; 2018.
+5. Taleb NN. The black swan: the impact of the highly improbable. New York: Random House; 2007.
+6. National Bureau of Statistics. Consumer price index and inflation report. Abuja: NBS; monthly series. Available from: https://www.nigerianstat.gov.ng
 
 # Epilogue — Mama Nkechi does not read Bloomberg
 
