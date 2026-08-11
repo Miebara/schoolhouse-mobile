@@ -14,6 +14,10 @@ service is, structurally, a bias amplifier. Part Four is the honest part: what
 the pew genuinely delivers, which biases unbelievers fall for, and what to
 actually do on Sunday morning.
 
+There is also a **single-file reading edition** of the whole book —
+[`the-art-of-doubting-clearly.html`](the-art-of-doubting-clearly.html) — with a
+linked table of contents, generated from the chapter files below.
+
 ---
 
 ## Contents
