@@ -14,9 +14,17 @@ service is, structurally, a bias amplifier. Part Four is the honest part: what
 the pew genuinely delivers, which biases unbelievers fall for, and what to
 actually do on Sunday morning.
 
-There is also a **single-file reading edition** of the whole book —
-[`the-art-of-doubting-clearly.html`](the-art-of-doubting-clearly.html) — with a
-linked table of contents, generated from the chapter files below.
+Two generated editions of the whole book sit alongside the chapter sources:
+
+- **Word document** — [`The-Art-of-Doubting-Clearly.docx`](The-Art-of-Doubting-Clearly.docx),
+  US Letter, title page, contents, each chapter starting on a new page, page
+  numbers in the footer. Rebuild with `node build_docx.js` (needs the `docx` npm
+  package available on `NODE_PATH`).
+- **Single-file web edition** — [`the-art-of-doubting-clearly.html`](the-art-of-doubting-clearly.html),
+  with a linked table of contents. Rebuild with `python3 build_book.py`.
+
+Both are generated from the markdown chapter files below, which are the source of
+truth: edit a chapter, then re-run the builders.
 
 ---
 
